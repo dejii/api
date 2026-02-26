@@ -95,6 +95,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/jasper-ai.json"
   },
   {
+    "id": 1826,
+    "name": "Weekend (fmr. Volley)",
+    "slug": "weekend-fmr-volley",
+    "former_names": [
+      "Volley"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68c8a6e771fdf5740d62e8d102b798b6c95ac403.png",
+    "website": "https://weekend.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Weekend builds the best AI games and entertainment experiences for TVs.\r\n\r\nPopular Weekend games include Song Quiz, Jeopardy!, and Wheel of Fortune, and Wit's End.\r\n\r\nWeekend was founded by Max Child and James Wilsterman and is headquartered in San Francisco.",
+    "one_liner": "AI games and entertainment on TV",
+    "team_size": 80,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1510193033,
+    "tags": [
+      "Artificial Intelligence",
+      "Entertainment",
+      "Gaming",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2018",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weekend-fmr-volley",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/weekend-fmr-volley.json"
+  },
+  {
     "id": 1957,
     "name": "Quickchat AI",
     "slug": "quickchat-ai",
@@ -297,15 +342,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22096b578ff14b789d9b1882b55f7dc73e26f3.png",
     "website": "https://www.hellocozmo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cozmo AI is building the foundational infrastructure for real-time, low-latency voice automation for regulated enterprises. \r\n\r\nWe enable Fortune 500 and leading insurers to deploy AI Employees that can speak, think, and act across revenue-critical workflows. In one global deployment, our voice-native AI employees managed all inbound and outbound policy calls with zero wait time and full compliance. \r\n\r\nThe verified AI performance not only improved service speed but also surfaced new, qualified leads creating what we call the “efficiency loop,” where AI handles repeatable tasks while humans capture higher-value opportunities. \r\n\r\nEach interaction is governed and auditable through our Agent Protocol Engine (APE™), which provides a transparent trail showing what the AI did, why it did it, and what business outcome it achieved. In industries like insurance, where trust and traceability matter more than speed, verified outcomes have become the new competitive edge. Cozmo AI also supports with foundational voice and agentic infrastructure built for regulated, multilingual markets:\r\n•⁠ ⁠Arabic + English first agents with Gulf dialect understanding. 97+ other languages supported\r\n•⁠ ⁠Sub-1.5 second latency across telephony.\r\n•⁠ ⁠Compliance-ready for local sovereignty laws.\r\n•⁠ ⁠APE Memory Engine for contextual, traceable reasoning.\r\n•⁠ ⁠Forward-Deployed Implementation Pods that integrate AI employees directly into live operations.\r\n\r\nBacked by YCombinator, Dubai Future District Fund and other global VCs we have headquarters in San Francisco and EMEA HQ in Dubai.",
-    "one_liner": "Voice AI workforce for regulated businesses",
-    "team_size": 8,
+    "long_description": "Cozmo AI is building the platform for regulated enterprises to deploy their own AI employees.\r\n\r\nCozmo is a system of work for complex enterprise operations. Companies use Cozmo to build and deploy AI employees, which are a collection of agents that own workflows end to end. They talk to customers, read documents, interpret videos, apply company policies and update systems like Guidewire, Temenos and Salesforce, pulling humans into the loop only when real judgment or escalation is needed.\r\n\r\nEvery decision the AI employee makes is logged, including its reasoning and policy reference, providing a complete audit trail for compliance and operations without additional manual effort. This is managed by our proprietary Agent Protocol Engine (APE), the control layer that keeps shared context, enforces policy and ensures every step is tracked for regulated industries.\r\n\r\nCozmo is live with 10+ enterprises, including Fortune Global 500s, like Nestlé, and has already handled over 1M production calls and 10M interactions; cutting costs by up to 70% and turning roughly 1 in 13 conversations into revenue.",
+    "one_liner": "Multimodal AI Employees That See, Speak, Think and Do for Enterprises",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1644299294,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure",
+      "Enterprise",
       "AI",
       "Conversational AI"
     ],
@@ -618,9 +662,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d914e5099612c52b407ca205a19346b7915e770f.png",
     "website": "https://hyperbound.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperbound pioneered AI Sales Roleplay technology and is the trailblazer behind the AI Sales Roleplay category for mid-market/enterprise revenue teams.\r\n\r\nWe provide human-like roleplays with AI buyers customized for your ICP, giving reps more at-bats and leveling up their business acumen in half the amount of time.\r\n\r\nWe then inspect live calls to certify that reps are mirroring your top performers and generate personalized AI feedback and targeted roleplays to tackle performance gaps.\r\nThe goal is faster ramp times, more pipeline, higher win rates, increased ACVs, more consistent performance across your team, and more time for your managers.\r\n\r\nInterested in trying it out today? Start a free demo simulation at hyperbound.ai and contact us at founders@hyperbound.ai for next steps.",
-    "one_liner": "AI Sales Performance OS",
-    "team_size": 17,
+    "long_description": "Hyperbound is the leading enterprise-first Revenue Activation Platform, pioneering a new category focused on turning insights into revenue-driving actions. Hyperbound AI analyzes thousands of sales calls to identify the behaviors that lead to closed-won deals, then transforms those insights into realistic, highly customizable human-like roleplays with AI buyers that drive behavior change at scale.\r\n\r\nTrusted by enterprises like IBM, LinkedIn, Monday.com, Bloomberg, Vanta, Autodesk, and G2, Hyperbound helps revenue teams ramp 50% faster, define what good looks like, and scale top performance across thousands of reps.\r\n\r\nInterested in trying it out today? Start a free demo simulation at https://app.hyperbound.ai/buyers and book time with our team to learn more.",
+    "one_liner": "Revenue Activation Platform",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1690226897,
@@ -743,52 +787,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ego",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ego.json"
-  },
-  {
-    "id": 29207,
-    "name": "PurplePages",
-    "slug": "purplepages",
-    "former_names": [
-      "PurplePill",
-      "HeyPurple"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf22855fa2bcccfa5a6527f46a30a4d6e91069b2.png",
-    "website": "https://www.thepurplepages.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Purple is an AI agent for online local marketplace transactions.",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
-    "launched_at": 1707161827,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Real Estate",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Home and Personal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/purplepages",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/purplepages.json"
   },
   {
     "id": 29312,
@@ -1118,15 +1116,15 @@
     "website": "https://overstandlabs.com",
     "all_locations": "",
     "long_description": "Overstand is an on-demand data and insights team for customer communications. We unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
-    "one_liner": "The on-demand data team for medium-to-large enterprises",
+    "one_liner": "We help companies find and leverage the needles in their data haystack",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1724369845,
     "tags": [
-      "Artificial Intelligence",
       "Data Science",
       "Data Engineering",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -1300,13 +1298,13 @@
     "subindustry": "B2B",
     "launched_at": 1736780951,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -1479,7 +1477,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -1630,6 +1628,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/qualify-bot.json"
   },
   {
+    "id": 30692,
+    "name": "Costream",
+    "slug": "costream",
+    "former_names": [
+      "Wisp AI",
+      "Candytrail"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38c13032eb7bce2281be3f920e3afeabfd0835c8.png",
+    "website": "https://www.costream.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Indexing human dialogue through digital products",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1751244737,
+    "tags": [
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/costream",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/costream.json"
+  },
+  {
     "id": 30707,
     "name": "Phases",
     "slug": "phases",
@@ -1711,6 +1751,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/humoniq",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/humoniq.json"
+  },
+  {
+    "id": 30765,
+    "name": "Pollen",
+    "slug": "pollen",
+    "former_names": [
+      "Daymi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
+    "website": "https://www.pollen.cx/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents for Customer Success",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1754592638,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Customer Success",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pollen",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
   },
   {
     "id": 30768,
@@ -1932,12 +2016,15 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761343459,
     "tags": [
+      "Hard Tech",
+      "Hardware",
       "Robotics",
+      "Design",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -1965,8 +2052,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png",
     "website": "https://www.lance.live",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI Agents for Hotel Operations that owns guest communication end-to-end and orchestrates complex actions across the hospitality tech stack. Trusted by hotel groups with 50+ hotels across Marriott, Hyatt, and Hilton.",
-    "one_liner": "AI Agent Built for Hotel Operations",
+    "long_description": "Autonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
+    "one_liner": "Your Hotel's Best Employees",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1999,14 +2086,57 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lance.json"
   },
   {
+    "id": 31131,
+    "name": "Zatanna",
+    "slug": "zatanna",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
+    "website": "https://www.zatanna.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building continuously learning infrastructure for healthcare. Where insurance friction explodes admin overhead, our platform institutionalizes tribal knowledge into everyday AI agents that allows providers to focus on patients. Starting with dental.",
+    "one_liner": "Adaptive Healthcare Admin Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Office Management",
+    "launched_at": 1770919305,
+    "tags": [
+      "Healthcare",
+      "Dental",
+      "Billing",
+      "Infrastructure",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Office Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zatanna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
+  },
+  {
     "id": 31183,
     "name": "Patientdesk.ai",
     "slug": "patientdeskai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1817be5549646fb9b2b3d779a9bab1f85f130917.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61038c47ba4c75630383f542220a03d2ed7b93d4.png",
     "website": "https://patientdesk.ai/",
     "all_locations": "",
-    "long_description": "The universal AI front desk for healthcare: plugs into any practice management system (cloud-based or on-premise) and automates all patient workflows: scheduling, cancellations, payment plans, insurance checks, reminders, intake, and follow-ups.",
+    "long_description": "Patientdesk is an AI bookings system that helps healthcare practices make more money. We do this by handling bookings, payments, and insurance to fill up a provider's calendar with high value appointments. ",
     "one_liner": "AI voice agent for patient calls & admin workflows",
     "team_size": 3,
     "industry": "Healthcare",
@@ -2091,10 +2221,10 @@
       "Lattice"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
-    "website": "https://www.trymaven.com",
+    "website": "https://trymaven.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Infrastructure for voice-native commerce. Add secure, conversational checkout to AI agents with a single API.",
-    "one_liner": "Payment infrastructure built for voice",
+    "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
+    "one_liner": "Payments for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2103,6 +2233,7 @@
       "Developer Tools",
       "Fintech",
       "SaaS",
+      "Infrastructure",
       "Conversational AI"
     ],
     "tags_highlighted": [],

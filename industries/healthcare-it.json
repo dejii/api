@@ -1039,11 +1039,11 @@
     "former_names": [
       "theMednet"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c67b14cf44e883256e2311a78b2945e3463e5eae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f87063bea379185eb403bf77343185532b0b26a.png",
     "website": "https://www.themednet.org",
     "all_locations": "New York, NY, USA",
-    "long_description": "The Mednet is a physician-only Q&A platform for expert answers to real world clinical questions. With medical knowledge evolving faster than ever before, theMednet addresses the gap between textbooks and real-patient experience. At theMednet, more than 1,500 expert physicians across numerous medical specialties help answer questions that go beyond textbooks and guidelines. Our platform documents undocumented medical knowledge, while making it accessible and easily searchable to all physicians. We know patients with access to experts have better outcomes. By providing physicians with relevant, up-to-date expert knowledge, their patients benefit from the best care possible.",
-    "one_liner": "Stack Overflow for Medicine",
+    "long_description": "Mednet helps doctors answer their toughest clinical questions — blending AI, medical literature, and real-world physician expertise. Co-founded by siblings Samir Housri and Dr. Nadine Housri while navigating their father's cancer treatment, Mednet was created to capture the undocumented clinical knowledge that makes the difference in patient care. Today, over 40,000 US physicians use Mednet to navigate complex cases, make better-informed decisions, and shape industry innovation — ensuring that every patient benefits from the collective expertise of the medical community",
+    "one_liner": "Mednet helps doctors answer their toughest clinical questions —…",
     "team_size": 35,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -3094,7 +3094,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d619db7cdc27fab257a06d1db98ca9cc74cb707.png",
     "website": "https://www.akutehealth.com",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Akute Health makes an electronic medical record (EMR) system & digital infrastructure tools used by digital health companies to track patients. Our EMR is a web app used daily by clinical teams at digital health companies similar to WeightWatchers, Ro, Hims, and One Medical.\r\n\r\nIn 2015, I was diagnosed with cancer and spent 9 months in the hospital. While in the hospital, I built an app to track my own records. I needed something that was simple to use and allowed me to easily track & trend different types of data.\r\n\r\nI later turned that app into a full medical record system. We now have hundreds of customers and over 50k active patient records.\r\n\r\nWe are building the de facto EMR for digital health companies.",
+    "long_description": "Akute is an automation-first electronic medical health record system (EMR). It’s a co-pilot for digital health and direct primary care companies that are growing modern practices. Akute’s platform is fully programmable and customizable that enables clinical businesses to cut admin overhead and give time back to providers so they can spend more time with patients.\r\n\r\nIn a space of legacy tech, our team and platform’s agility and exceptional customer support makes us stand out. Join a VC-backed company in its seed stage and help make real improvements to healthcare.",
     "one_liner": "The medical record & infrastructure stack for digital health companies",
     "team_size": 4,
     "industry": "Healthcare",
@@ -3900,9 +3900,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4bfc350809e1c4f0b4e0ccc1e6449d3a68998b6.png",
     "website": "http://glass.health",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We empower clinicians with our AI platform for developing differential diagnoses and drafting clinical plans.",
-    "one_liner": "AI-Powered Clinical Decision Support",
+    "one_liner": "AI-Powered Clinical Decision Support & Ambient Scribing",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -3924,8 +3924,7 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4297,6 +4296,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/fortuna-health.json"
   },
   {
+    "id": 29085,
+    "name": "Quill Bills",
+    "slug": "quill-bills",
+    "former_names": [
+      "Quill AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png",
+    "website": "https://quillbills.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and recover denied claims.\r\nOur platform performs much of a biller's job autonomously, and we sell this platform to private practice doctors and medical MSOs.",
+    "one_liner": "AI-Powered Medical Billing",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1685991991,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare",
+      "Health Insurance",
+      "Healthcare IT",
+      "Billing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quill-bills",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/quill-bills.json"
+  },
+  {
     "id": 29088,
     "name": "Cair Health",
     "slug": "cair-health",
@@ -4404,7 +4448,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -4497,7 +4541,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Healthcare IT"
@@ -4702,16 +4746,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Andy is AI software that completes documentation for nurses doing home visits. Our software saves $8B a year; Tiantian was previously a PM at Google’s healthcare business and Max was a staff engineer on the health team at Apple. \r\n\r\nAndy benefits nurses and the agencies that employ them. Agencies that use Andy see up to 45% more detailed charts, 2x greater nurse productivity, and timely submission (no more billing delays!) With Andy, clinicians get their evenings back. \r\n\r\nHome health is the fastest growing segment of healthcare, doubling to $251B by 2031. Combined with recent nursing shortages and burnout, we’re seeing not just urgency, but excitement and joy, around adopting AI for home health. ",
     "one_liner": "Faster clinical documentation for home health nurses",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1707354939,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4725,7 +4769,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4909,7 +4955,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
     "one_liner": "AI workforce management for healthcare ",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723528837,
@@ -5079,7 +5125,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
+    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes more than $1B in medical claim charges annually.\r\n",
     "one_liner": "AI chart review for speciality medical clinics.",
     "team_size": 9,
     "industry": "Healthcare",
@@ -5314,7 +5360,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -5897,10 +5943,10 @@
     "name": "Patientdesk.ai",
     "slug": "patientdeskai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1817be5549646fb9b2b3d779a9bab1f85f130917.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61038c47ba4c75630383f542220a03d2ed7b93d4.png",
     "website": "https://patientdesk.ai/",
     "all_locations": "",
-    "long_description": "The universal AI front desk for healthcare: plugs into any practice management system (cloud-based or on-premise) and automates all patient workflows: scheduling, cancellations, payment plans, insurance checks, reminders, intake, and follow-ups.",
+    "long_description": "Patientdesk is an AI bookings system that helps healthcare practices make more money. We do this by handling bookings, payments, and insurance to fill up a provider's calendar with high value appointments. ",
     "one_liner": "AI voice agent for patient calls & admin workflows",
     "team_size": 3,
     "industry": "Healthcare",

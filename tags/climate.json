@@ -2970,7 +2970,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9eb31df6605279d78436b260aecddc2b77c97ff.png",
     "website": "https://www.homebreeze.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our technology remotely scopes projects based on photos, video, answers to questions, and other data. We send those scopes to our network of contractors and get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.",
+    "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our AI system remotely scopes projects based on photos, video, answers to questions, and other data. We send those scopes to our network of contractors and get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.\r\n\r\nAs a pioneer in bringing AI to home services, we served thousands of customers across California and delivered an experience that both homeowners and contractors love (our reviews average 4.97 stars!).",
     "one_liner": "The fastest and easiest way to make home upgrades",
     "team_size": 40,
     "industry": "Consumer",
@@ -3813,7 +3813,7 @@
     "former_names": [
       "Ferveret"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3181cc71c0ab721a1030e4c2c811247cccf5d4ee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "website": "http://www.ferveret.com",
     "all_locations": "San Jose, CA, USA",
     "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
@@ -4290,12 +4290,12 @@
       "SeaCycle",
       "Seabound Carbon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef05b260fca4eb9826dc504b44512b6c883854f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1528dd1b7f462a6ecd64d04d3bd29abcce12563.png",
     "website": "http://seabound.co",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
     "one_liner": "Carbon capture equipment for ships",
-    "team_size": 9,
+    "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1643912064,
@@ -4306,7 +4306,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -4316,7 +4316,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4824,7 +4826,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Energy"
@@ -5647,10 +5649,10 @@
     "slug": "guac",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffff2e450f7c22939b75b50d62a49acbce05716.png",
-    "website": "https://www.guac-ai.com/",
+    "website": "https://www.guac.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Guac accurately forecasts demand for grocery retailers, to reduce food waste and increase availability.",
-    "one_liner": "AI-powered demand forecasting for grocery",
+    "long_description": "Guac accurately forecasts grocery demand to help supermarkets order and produce the right amount of inventory — reducing food waste and increasing availability.",
+    "one_liner": "AI-powered forecasting & replenishment for grocery",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -5922,7 +5924,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -5986,51 +5988,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/silurian",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/silurian.json"
-  },
-  {
-    "id": 29701,
-    "name": "Plume",
-    "slug": "plume",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/848a0a716b3d688b2054184d78580f9988c075be.png",
-    "website": "http://www.plumefinder.com",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Plume is an AI-powered geospatial platform for site selection in energy infrastructure projects. \r\n\r\nSelecting the right sites requires analysis of +50 geospatial, grid, and regulatory constraints across fragmented data sources. \r\n\r\nPlume changes the process by enabling users to interact with geospatial data using natural language.",
-    "one_liner": "Renewable infrastructure deployment at scale.",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1724527338,
-    "tags": [
-      "SaaS",
-      "Real Estate",
-      "Climate",
-      "Renewable Energy",
-      "ClimateTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "France",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/plume",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/plume.json"
   },
   {
     "id": 29724,

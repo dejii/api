@@ -640,7 +640,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -854,13 +854,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda6209e5ce1deac3dd962c779d7c375cd750a5a.png",
     "website": "http://www.taktile.com",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Taktile is building the world's leading software platform for running critical and highly automated decisions. Our customers use our product to catch fraudsters, prevent money laundering, and expand access to credit for small businesses, among many other use cases. Taktile is already making millions of such decisions across the globe every day.",
-    "one_liner": "Empowering decision makers to make smarter and safer decisions at…",
+    "long_description": "Taktile empowers financial institutions to quickly unlock AI-driven efficiencies across the customer lifecycle, reducing manual work while optimizing decisions and enabling seamless end-user experiences.\r\n\r\nBuilt for highly regulated environments, our agentic decision platform combines the speed of AI automation with the oversight of human judgement—so you can safely approve customers, catch more fraud, and stay compliant.\r\n\r\nWe power AI transformation from offices in NYC, London, Berlin, and Iasi, and have raised $80M in capital from top investors including Index Ventures, Tiger Global, Balderton Capital and Y Combinator.\r\n\r\nJoin over 200 leading financial institutions who rely on Taktile to enable faster, more intelligent decisions from onboarding to credit, AML, compliance, and fraud.",
+    "one_liner": "Transform your decision-making with reliable AI agents in weeks, not…",
     "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1638102391,
     "tags": [
+      "Artificial Intelligence",
+      "Fintech",
       "Machine Learning",
       "Enterprise Software"
     ],
@@ -1225,7 +1227,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -1316,7 +1318,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -2072,7 +2074,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
     "one_liner": "Software that streams data from databases to warehouses in real-time",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1684375922,
@@ -2470,7 +2472,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -2500,16 +2502,16 @@
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
     "one_liner": "The copilot for chip designers",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3155,7 +3157,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "The Forecasting Company builds planning systems based on our in-house foundation models for time series. ",
     "one_liner": "Foundation models for time series",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721958475,
@@ -3576,16 +3578,17 @@
   },
   {
     "id": 30108,
-    "name": "Edgedive",
-    "slug": "edgedive",
+    "name": "Struct",
+    "slug": "struct-ai",
     "former_names": [
-      "Bramble"
+      "Bramble",
+      "Edgedive"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f92fa322d1cca62c4066915fee6ecf728cde156.png",
-    "website": "https://edgedive.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
+    "website": "https://struct.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Edgedive is the agent that triages & debugs your eng team's oncall issues to reduce mean-time-to-resolution (MTTR). It:\r\n\r\n- Automates your oncall runbook for incoming issues to provide an impact assessment, root cause, and plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n- Can be triggered from Slack, Linear, Asana, or automatically from support tickets or alerts (ex. Intercom, Sentry, etc)\r\n\r\nIt’s like having a teammate that responds to issues 24/7, gathering the context your team needs to address them ASAP.",
-    "one_liner": "The AI Support Engineer",
+    "long_description": "Struct cross-references logs, metrics, traces, and your codebase to accurately root-cause eng alerts and bugs. \r\n\r\nIntegrate your entire stack in minutes, auto-investigate every issue, dive deeper at will, and hand-off context to fix in one click.\r\n",
+    "one_liner": "Automate your on-call runbook",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3616,8 +3619,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edgedive",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/edgedive.json"
+    "url": "https://www.ycombinator.com/companies/struct-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/struct-ai.json"
   },
   {
     "id": 30212,
@@ -4276,6 +4279,96 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pangolin.json"
   },
   {
+    "id": 30680,
+    "name": "Riverbank",
+    "slug": "riverbank",
+    "former_names": [
+      "Riverbank Labs",
+      "Riverbank",
+      "Riverbank Security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/907a43235986d6f57ceffcf97d5210b7d662533b.png",
+    "website": "https://www.riverbank.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Riverbank is an ex-NSA and DoD team creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
+    "one_liner": "AI-native Red Teaming and Offensive Security ",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1754465108,
+    "tags": [
+      "Artificial Intelligence",
+      "IoT Security",
+      "Cybersecurity",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riverbank",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/riverbank.json"
+  },
+  {
+    "id": 30687,
+    "name": "Trace",
+    "slug": "trace-so",
+    "former_names": [
+      "Trace AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c08d892e148caaaf2ce4e85ef39beddd97353a8.png",
+    "website": "https://www.trace.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Trace is a workflow orchestration platform that gives agents shared context across systems and lets teams build visual processes combining AI and humans. It automatically identifies which tasks can be AI-automated and which need human input, so non-technical teams build and run workflows without engineering involvement.",
+    "one_liner": "Context-aware orchestration between humans and AI.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1754919932,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trace-so",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
+  },
+  {
     "id": 30852,
     "name": "Nexus",
     "slug": "gpt",
@@ -4316,48 +4409,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gpt",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/gpt.json"
-  },
-  {
-    "id": 30858,
-    "name": "Deeptrace",
-    "slug": "deeptrace",
-    "former_names": [
-      "Pyda"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a60fee67044114e15cab84acef7b9b968923c93e.png",
-    "website": "https://deeptrace.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Deeptrace, we’re building AI agents that investigate and resolve production alerts end-to-end. Deeptrace cuts through the noise, pinpoints root causes instantly, and gives engineering teams back what they need most: the freedom to build instead of firefighting.\r\n\r\nIn production, we're already seeing a reduction in time spent triaging, investigating, and resolving alerts with some of the fastest growing companies in the world.",
-    "one_liner": "AI agents for on-call",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759160221,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/deeptrace",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/deeptrace.json"
   },
   {
     "id": 31011,
@@ -4404,46 +4455,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/openroll.json"
   },
   {
-    "id": 31030,
-    "name": "Haladir",
-    "slug": "haladir",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
-    "website": "https://www.haladir.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haladir is an AI-powered mainframe modernization suite that helps enterprises understand and transform their legacy systems. Our docs product generates comprehensive documentation from COBOL codebases, enabling teams to understand millions of lines of legacy code without months of manual analysis. Our translation tool migrates COBOL and other legacy languages to modern languages like Java and C# .NET while preserving business logic through property-based testing, formal verification, and custom models.",
-    "one_liner": "AI-Enabled Mainframe Modernization and Code Translation.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1766374394,
-    "tags": [
-      "Data Engineering",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haladir",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
-  },
-  {
     "id": 31078,
     "name": "Tensol",
     "slug": "tensol",
@@ -4453,8 +4464,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
     "website": "https://www.tensol.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Your AI employee has full context of your company, is running 24/7 and can monitor Slack, track Sentry errors, update your CRM. We handle the setup and deployment of isolated VMs, no need for a Mac mini, a dedicated phone number or a devOps engineer.\r\n\r\nTensol also lets you create specialized AI employees for different jobs, like engineering, sales, and support, from a simple UI. You can connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations and a quick OAuth flow that takes about two minutes. Each AI employee also gets its own dedicated identity, so it can operate like a real teammate.",
-    "one_liner": "AI Employees for Startups, Built on OpenClaw",
+    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Each AI employee runs 24/7 in its own isolated VM, has full context of your company, and can monitor Slack, track Sentry errors, update your CRM, and more. We handle the infrastructure, security, and deployment.\r\n\r\nTensol also lets you create specialized AI employees for different jobs - engineering, sales, support, in a couple of minutes. You connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations. Every action is logged with a full audit trail, credentials are injected at network-level, and each AI employee gets its own dedicated identity and sandboxed environment, with enterprise-grade security built-in.",
+    "one_liner": "AI Employees for your Business, Powered by OpenClaw",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4678,16 +4689,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
     "website": "https://www.unisson.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours every month. ",
+    "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours. ",
     "one_liner": "The AI product specialist for customer-facing teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1770359134,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4710,50 +4721,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unisson",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
-  },
-  {
-    "id": 31179,
-    "name": "Jinba",
-    "slug": "jinba",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e1ea09f9ebfce235fbcbc7d7e58d95f1f735597.png",
-    "website": "https://jinba.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Jinba lets enterprise teams vibe-code AI workflows instead of drag and drop. Describe what you need in plain language, and your whole company can start using it immediately. No engineers required. Enterprise-grade permissions, audit logging, and on-prem deployment built in. We serve 40,000 enterprise users at major financial institutions.\r\n\r\nBuild something your colleagues want.",
-    "one_liner": "Automate any enterprise workflow through chat",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768673344,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Workflow Automation",
-      "Enterprise",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jinba",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/jinba.json"
   },
   {
     "id": 31182,
@@ -4924,6 +4891,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oximy",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/oximy.json"
+  },
+  {
+    "id": 31212,
+    "name": "Constellation Space",
+    "slug": "constellation-space",
+    "former_names": [
+      "Constellation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
+    "website": "https://constellationspace.ai/",
+    "all_locations": "",
+    "long_description": "Constellation Space is building the autonomous infrastructure layer for the next generation of space networking. As satellite constellations rapidly scale from hundreds of nodes to tens of thousands, traditional ground-based orchestration fundamentally breaks down. ConstellationOS bridges this gap by providing zero-intervention network handoffs, predictive thermal load-balancing, and sub-second optical routing.\r\n\r\nOur founding team spent years building and operating satellite systems at SpaceX, Blue Origin, and NASA. We started Constellation to solve the problem we kept running into: reactive monitoring doesn't scale.\r\n\r\nWe are building the sub-second routing protocols and hyperscale load-balancing infrastructure that will manage the future of off-world telecommunications and compute. \r\n\r\nhello@constellation-io.com",
+    "one_liner": "AI for space mission assurance.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1766273553,
+    "tags": [
+      "Space Exploration",
+      "Satellites",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/constellation-space",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
   },
   {
     "id": 31241,

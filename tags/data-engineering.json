@@ -2420,7 +2420,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LanceDB is a new open-source vector database that can support low-latency billion-scale vector search on a single node. Built around a new columnar data format, LanceDB makes it incredibly easy to build applications for generative AI, recsys, search engines, content moderation, and more.",
     "one_liner": "Open-source, serverless vectordb for production-scale generative AI",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1648263864,
@@ -3030,10 +3030,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -3237,7 +3237,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
     "one_liner": "Software that streams data from databases to warehouses in real-time",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1684375922,
@@ -3546,7 +3546,7 @@
     "all_locations": "Salt Lake City, UT, USA",
     "long_description": "Buster is an AI agent platform built for analytics engineering. It provides data teams with AI agents that keep their dbt projects reliable, documented, and consistent — automatically.",
     "one_liner": "AI platform for analytics engineering",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1698776495,
@@ -3712,50 +3712,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/kater-ai.json"
   },
   {
-    "id": 29686,
-    "name": "Snowpilot",
-    "slug": "snowpilot",
-    "former_names": [
-      "Snowpilot.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c15cc576c889b7c67699bfb7c6291c7f7430c95a.png",
-    "website": "https://www.snowpilot.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Snowpilot combines a spreadsheet UI with a federated data engine. We get live data from tools like Salesforce, Gong, and Mixpanel, enabling PMs, marketers, and salespeople to run high-impact workflows with data at any scale.\r\n\r\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\r\nWe started coding Snowpilot in mid-August '24, and we already have a live app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\r\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use big data on a daily basis.",
-    "one_liner": "The connected spreadsheet that destroys data silos",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725142580,
-    "tags": [
-      "B2B",
-      "Big Data",
-      "Data Engineering",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/snowpilot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/snowpilot.json"
-  },
-  {
     "id": 29727,
     "name": "Overstand Labs",
     "slug": "overstand-labs",
@@ -3767,15 +3723,15 @@
     "website": "https://overstandlabs.com",
     "all_locations": "",
     "long_description": "Overstand is an on-demand data and insights team for customer communications. We unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
-    "one_liner": "The on-demand data team for medium-to-large enterprises",
+    "one_liner": "We help companies find and leverage the needles in their data haystack",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1724369845,
     "tags": [
-      "Artificial Intelligence",
       "Data Science",
       "Data Engineering",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -3801,18 +3757,19 @@
   },
   {
     "id": 29745,
-    "name": "Lumenary",
-    "slug": "lumenary",
+    "name": "Sharpe",
+    "slug": "sharpe",
     "former_names": [
       "January",
       "Lumenary",
-      "Lumenary, Inc."
+      "Lumenary, Inc.",
+      "Lumenary"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
-    "website": "https://try.solar",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a16f4a789dc478c2f72f7a8e219fdb5d33ec82.png",
+    "website": "https://sharpe.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
-    "one_liner": "Build working software exceedingly fast in Solar",
+    "long_description": "Sharpe is an AI data science agent purpose-built for quantitative finance, deployed on-premises at some of the world's most demanding trading firms and hedge funds. It absorbs your internal documentation, enforces your firm's methodology, and delivers completed, cited Jupyter notebooks at petabyte scale. Sharpe gives every analyst on your desk the institutional knowledge and output of your best.",
+    "one_liner": "Agents for quantitative research and financial data science.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -3843,8 +3800,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumenary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+    "url": "https://www.ycombinator.com/companies/sharpe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
   },
   {
     "id": 29784,
@@ -4019,6 +3976,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sieveai.json"
   },
   {
+    "id": 30876,
+    "name": "Velum Labs",
+    "slug": "velum-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png",
+    "website": "https://www.velum-labs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Velum is the operating system for data quality. We observe real data traffic to automatically derive contracts, trace lineage across any stack, and enforce integrity from ingestion to executive dashboards - no manual rules, no migration required.\r\n\r\nData trust you can prove. From the pipeline to the boardroom.",
+    "one_liner": "The OS for data quality across any stack",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762847882,
+    "tags": [
+      "Machine Learning",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/velum-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/velum-labs.json"
+  },
+  {
     "id": 30913,
     "name": "Captain",
     "slug": "captain",
@@ -4041,46 +4037,6 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/captain",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/captain.json"
-  },
-  {
-    "id": 31030,
-    "name": "Haladir",
-    "slug": "haladir",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
-    "website": "https://www.haladir.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haladir is an AI-powered mainframe modernization suite that helps enterprises understand and transform their legacy systems. Our docs product generates comprehensive documentation from COBOL codebases, enabling teams to understand millions of lines of legacy code without months of manual analysis. Our translation tool migrates COBOL and other legacy languages to modern languages like Java and C# .NET while preserving business logic through property-based testing, formal verification, and custom models.",
-    "one_liner": "AI-Enabled Mainframe Modernization and Code Translation.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1766374394,
-    "tags": [
-      "Data Engineering",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
@@ -4096,7 +4052,50 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haladir",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
+    "url": "https://www.ycombinator.com/companies/captain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/captain.json"
+  },
+  {
+    "id": 31139,
+    "name": "Ashr",
+    "slug": "ashr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "website": "https://ashr.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ashr is a fully contained test and evals platform that improves AI agents by ensuring accuracy and quality across a wide range of user journeys through your product.\r\n\r\nAshr generates user journeys through your agents’ tool calls, results, and questions. We don’t generate one off tests, we generate large amounts of authentic user stories through your product, and pick up on errors, inconsistencies, and failures that would otherwise take hours of manual testing or get caught by a customer. We also work to ensure agent response quality in line with your business goals by offering custom evaluation metrics.\r\n\r\nAshr works with voice, text, automated website generation, image, file generation, and multimodal. We’re also willing to generate custom input types or make modifications for anyone interested. Currently, we integrate as an SDK, and are proactively working to make our documentation and resources as accessible and easy to use as possible.",
+    "one_liner": "Mimic Users in Your Production Environment to Catch Agent Fails",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1771535371,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Data Engineering",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ashr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   }
 ]

@@ -869,7 +869,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Real Estate and Construction",
       "Housing and Real Estate"
@@ -1565,7 +1565,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -2617,53 +2617,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/riskangle.json"
   },
   {
-    "id": 29850,
-    "name": "SureBright",
-    "slug": "surebright",
-    "former_names": [
-      "SureBright Technologies, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786573119daa04ca85d28b00e8358a03f4e0a184.png",
-    "website": "https://surebright.com/",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
-    "one_liner": "Apple Care-like warranty program for every retailer ",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1720298517,
-    "tags": [
-      "Fintech",
-      "E-commerce",
-      "Insurance",
-      "Retail",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/surebright",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/surebright.json"
-  },
-  {
     "id": 30055,
     "name": "RiskCube",
     "slug": "riskcube",
@@ -2671,7 +2624,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage for venture-backed startups. We simplify the complex U.S. insurance landscape with digital transparency, multi-carrier comparison, and plain-English policy breakdowns—powered by AI analysis and backed by licensed human expertise. \r\n\r\nFounders get side-by-side quotes, fair pricing benchmarks, and the right coverage (D&O, Cyber, E&O, and more) without overpaying or guesswork.",
+    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage built for YC founders and venture-backed startups. We simplify the complex U.S. insurance landscape—D&O, Cyber, E&O, General Liability, and more—with digital transparency and plain-English policy breakdowns.\r\n\r\nNeed insurance for enterprise contracts? We provide multiple quotes from top-rated (AM Best A-rated) carriers, so you can meet vendor requirements and get certificates of insurance fast. Whether you're a Delaware C Corp getting your first policy, scaling a global team, or closing enterprise deals, we give you side-by-side comparisons, fair pricing benchmarks, and the right coverage—without overpaying or guesswork.",
     "one_liner": "AI-native insurance firm for startups.",
     "team_size": 2,
     "industry": "Fintech",
@@ -2965,49 +2918,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fernstone.json"
   },
   {
-    "id": 30924,
-    "name": "Casey",
-    "slug": "casey",
-    "former_names": [
-      "Clausee"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
-    "website": "https://www.meetcasey.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
-    "one_liner": "Casey automates workflows for the insurance industry",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1759942019,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/casey",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
-  },
-  {
     "id": 31077,
     "name": "Panta",
     "slug": "panta",
@@ -3017,7 +2927,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dff0894649ff29064b020845633a9ebb22c2e9de.png",
     "website": "https://pantainsure.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe formed the company in December and have already bound multiple commercial policies for clients in San Francisco.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
+    "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
     "one_liner": "Commercial insurance brokerage run by AI agents. Scales like software.",
     "team_size": 4,
     "industry": "Fintech",
@@ -3048,5 +2958,86 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panta",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/panta.json"
+  },
+  {
+    "id": 31090,
+    "name": "Docura Health",
+    "slug": "docura-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcf719c51dea2161bc0d4cdea73a80b7a6c917f9.png",
+    "website": "https://docurahealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Docura Health reduces settlement time in workers’ compensation cases by automating medical record review, chronologies, and report drafting with AI. We transform thousands of pages of records into structured, compliant summaries, helping evaluators, claim adjusters, insurers, and legal teams resolve cases faster.",
+    "one_liner": "AI-Native Medico-Legal Firm",
+    "team_size": 1,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1771815794,
+    "tags": [
+      "Health Tech",
+      "Legal",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/docura-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/docura-health.json"
+  },
+  {
+    "id": 31129,
+    "name": "Verdex",
+    "slug": "verdex",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
+    "website": "https://www.verdexai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Verdex is building the infrastructure to modernize agricultural risk. We fuse high-resolution satellite imagery and weather models to monitor fields 24/7, allowing insurers to settle claims without ever leaving their desks. We are currently helping to insure over 11% of all American farmland.\r\n",
+    "one_liner": "Helping insurers settle claims without leaving their desks.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1768239774,
+    "tags": [
+      "Insurance",
+      "Agriculture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verdex",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/verdex.json"
   }
 ]

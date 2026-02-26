@@ -150,9 +150,9 @@
       "LazyWeb"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c2b55aa5e7689ba35628ff2ed6299db9328d83c.png",
-    "website": "https://andisearch.com",
+    "website": "https://AndiAI.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\n",
+    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\nYou can try the search app at https://andisearch.com",
     "one_liner": "AI Search for the Next Generation",
     "team_size": 2,
     "industry": "Consumer",
@@ -177,9 +177,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -258,7 +256,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -754,7 +752,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\r\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\r\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
     "one_liner": "Open source feature flagging and A/B testing",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1645834859,
@@ -1097,27 +1095,28 @@
   },
   {
     "id": 25279,
-    "name": "Moots AI",
-    "slug": "moots-ai",
+    "name": "Moots",
+    "slug": "moots",
     "former_names": [
       "Take1 Financial",
       "Muse Card",
       "OnScale",
-      "Muse - OnScale"
+      "Muse - OnScale",
+      "Moots AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9141863b7e5cc7a3c7f31d2ae6a9eb60264f0a42.png",
     "website": "https://www.moots.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Moots is a technology platform for curated, relationship-driven events.\r\nWe help hosts structure how guests connect before, during, and after gatherings while respecting privacy, protocol, and discretion.\r\n\r\nMoots is used when:\r\n\r\n- a company hosts private client, partner, or executive gatherings\r\n- an association or institution convenes members or stakeholders\r\n- an advisory or policy-adjacent organization organizes closed-door discussions\r\n- a brand runs curated side events around major global moments\r\n\r\nIn each case, Moots provides a secure, private digital layer that supports the room, without disrupting it.",
-    "one_liner": "Moots help hosts run curated gatherings where the right people meet.",
+    "long_description": "Moots is the guest intelligence platform for corporate events. We help event teams vet guest lists, prepare their hosts, and convert conversations into measurable pipeline — all from one collaborative workspace.\r\n\r\nBefore the event, AI agents evaluate and score every guest candidate against your objectives, enriching profiles across dozens of intelligence sources in seconds. PR partners, sponsors, and internal stakeholders collaborate on curated guest lists directly in the platform — each seeing only what they need to.\r\n\r\nAt the event, every team member walks in with personalized briefing packets: who to meet, what to discuss, and shared connections to reference.\r\nAfter the event, automated follow-ups go out within hou\r\nrs — not weeks — while every interaction syncs to your CRM. Leadership gets a clear ROI dashboard tying each guest to pipeline outcomes.\r\nFrom branded houses at Cannes Lions and Art Basel to satellite dinners, client retreats, and donor cultivation events, Moots turns every room you curate into a compounding intelligence network.\r\n\r\nTrusted by corporate event teams, PR agencies, financial institutions, and advisory firms.\r\n",
+    "one_liner": "Helping Event Teams Vet the Room Before and Convert It After",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1644842544,
     "tags": [
+      "Artificial Intelligence",
       "Collaboration",
-      "Social Network",
-      "AI"
+      "Social Network"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1139,8 +1138,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moots-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots-ai.json"
+    "url": "https://www.ycombinator.com/companies/moots",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots.json"
   },
   {
     "id": 25285,
@@ -2590,15 +2589,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22096b578ff14b789d9b1882b55f7dc73e26f3.png",
     "website": "https://www.hellocozmo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cozmo AI is building the foundational infrastructure for real-time, low-latency voice automation for regulated enterprises. \r\n\r\nWe enable Fortune 500 and leading insurers to deploy AI Employees that can speak, think, and act across revenue-critical workflows. In one global deployment, our voice-native AI employees managed all inbound and outbound policy calls with zero wait time and full compliance. \r\n\r\nThe verified AI performance not only improved service speed but also surfaced new, qualified leads creating what we call the “efficiency loop,” where AI handles repeatable tasks while humans capture higher-value opportunities. \r\n\r\nEach interaction is governed and auditable through our Agent Protocol Engine (APE™), which provides a transparent trail showing what the AI did, why it did it, and what business outcome it achieved. In industries like insurance, where trust and traceability matter more than speed, verified outcomes have become the new competitive edge. Cozmo AI also supports with foundational voice and agentic infrastructure built for regulated, multilingual markets:\r\n•⁠ ⁠Arabic + English first agents with Gulf dialect understanding. 97+ other languages supported\r\n•⁠ ⁠Sub-1.5 second latency across telephony.\r\n•⁠ ⁠Compliance-ready for local sovereignty laws.\r\n•⁠ ⁠APE Memory Engine for contextual, traceable reasoning.\r\n•⁠ ⁠Forward-Deployed Implementation Pods that integrate AI employees directly into live operations.\r\n\r\nBacked by YCombinator, Dubai Future District Fund and other global VCs we have headquarters in San Francisco and EMEA HQ in Dubai.",
-    "one_liner": "Voice AI workforce for regulated businesses",
-    "team_size": 8,
+    "long_description": "Cozmo AI is building the platform for regulated enterprises to deploy their own AI employees.\r\n\r\nCozmo is a system of work for complex enterprise operations. Companies use Cozmo to build and deploy AI employees, which are a collection of agents that own workflows end to end. They talk to customers, read documents, interpret videos, apply company policies and update systems like Guidewire, Temenos and Salesforce, pulling humans into the loop only when real judgment or escalation is needed.\r\n\r\nEvery decision the AI employee makes is logged, including its reasoning and policy reference, providing a complete audit trail for compliance and operations without additional manual effort. This is managed by our proprietary Agent Protocol Engine (APE), the control layer that keeps shared context, enforces policy and ensures every step is tracked for regulated industries.\r\n\r\nCozmo is live with 10+ enterprises, including Fortune Global 500s, like Nestlé, and has already handled over 1M production calls and 10M interactions; cutting costs by up to 70% and turning roughly 1 in 13 conversations into revenue.",
+    "one_liner": "Multimodal AI Employees That See, Speak, Think and Do for Enterprises",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1644299294,
     "tags": [
-      "Artificial Intelligence",
-      "Infrastructure",
+      "Enterprise",
       "AI",
       "Conversational AI"
     ],
@@ -2625,19 +2623,20 @@
   },
   {
     "id": 25339,
-    "name": "VacationHomeRents",
-    "slug": "vacationhomerents",
+    "name": "Wizwand",
+    "slug": "wizwand",
     "former_names": [
-      "PageOne Lab, Inc."
+      "PageOne Lab, Inc.",
+      "VacationHomeRents"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0071b16b382bb816988dd49705c681b85468891c.png",
-    "website": "https://www.vacationhomerents.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55502c46bfc1db96f7b6a7797fc1865fa18b8c69.png",
+    "website": "https://www.wizwand.com",
     "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "VacationHomeRents helps users explore and compare vacation rental options across many listing platforms such as Airbnb, VRBO, Booking.com, etc.",
-    "one_liner": "Kayak.com for vacation rentals",
+    "long_description": "We help improve reproducibility and transparency in AI/ML research, by allowing research engineers to easily find, implement, and compare the performance of SOTA papers and methods.",
+    "one_liner": "Discover SOTA research papers on AI and Machine Learning",
     "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1647541720,
     "tags": [
       "Marketplace",
@@ -2651,8 +2650,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Travel, Leisure and Tourism"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -2663,10 +2662,10 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": false,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vacationhomerents",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/vacationhomerents.json"
+    "url": "https://www.ycombinator.com/companies/wizwand",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/wizwand.json"
   },
   {
     "id": 25340,
@@ -3836,12 +3835,12 @@
       "SeaCycle",
       "Seabound Carbon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef05b260fca4eb9826dc504b44512b6c883854f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1528dd1b7f462a6ecd64d04d3bd29abcce12563.png",
     "website": "http://seabound.co",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
     "one_liner": "Carbon capture equipment for ships",
-    "team_size": 9,
+    "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1643912064,
@@ -3852,7 +3851,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -3862,7 +3861,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4050,24 +4051,25 @@
   },
   {
     "id": 25402,
-    "name": "LlamaFarm",
-    "slug": "llamafarm",
+    "name": "Rownd",
+    "slug": "rownd",
     "former_names": [
-      "Rownd"
+      "Rownd",
+      "LlamaFarm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8d3ff52cb90605a538dc8d645bc45e1c2fba559.png",
-    "website": "https://llamafarm.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
+    "website": "https://rownd.ai",
     "all_locations": "Raleigh, NC, USA",
-    "long_description": "LlamaFarm helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
-    "one_liner": "Build powerful AI projects locally, deploy anywhere",
+    "long_description": "Rownd helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
+    "one_liner": "Build powerful AI solutions. Deploy anywhere.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1643295526,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -4091,8 +4093,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/llamafarm",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/llamafarm.json"
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
   },
   {
     "id": 25403,
@@ -5446,7 +5448,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -6234,7 +6236,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -6396,7 +6398,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LanceDB is a new open-source vector database that can support low-latency billion-scale vector search on a single node. Built around a new columnar data format, LanceDB makes it incredibly easy to build applications for generative AI, recsys, search engines, content moderation, and more.",
     "one_liner": "Open-source, serverless vectordb for production-scale generative AI",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1648263864,
@@ -7472,11 +7474,11 @@
     "subindustry": "B2B",
     "launched_at": 1642412738,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7870,10 +7872,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -7956,10 +7958,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -9457,7 +9459,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people. \r\n\r\nWe’re changing that by building the AI companion that frees nurses from admin, giving them back up to 30% of time. We don’t replace humans - we support and amplify their impact. Today, 1,500+ care facilities trust voize, and over 100,000 nurses rely on our AI companion** to ease their daily workload.\r\n\r\nOur mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs.",
     "one_liner": "We build the AI companion for nurses, to create time for care.",
-    "team_size": 85,
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1648233375,
@@ -9866,7 +9868,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -10295,11 +10297,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1642140655,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Productivity",
-      "SMB"
+      "SMB",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13325,14 +13327,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
     "one_liner": "Enriched transaction data you can build on",
-    "team_size": 13,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "team_size": 20,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
     "launched_at": 1641512856,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "Fintech",
-      "Machine Learning"
+      "Machine Learning",
+      "Payments",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13341,8 +13345,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -14912,7 +14915,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -14945,9 +14948,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e61aca9e3ec1f41c1b6e3f94c2d34767562c42d.png",
     "website": "http://www.AYCFund.com/",
     "all_locations": "Seoul, South Korea",
-    "long_description": "AYC Fund is web3 VC and web3 liquid fund. ",
-    "one_liner": "Web3 VC and Web3 Liquid Fund",
-    "team_size": 2,
+    "long_description": "AI-native crypto hedge fund",
+    "one_liner": "AI-native crypto hedge fund",
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1641267384,
@@ -16868,7 +16871,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Energy"

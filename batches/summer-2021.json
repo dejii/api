@@ -507,7 +507,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -4396,10 +4396,10 @@
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "launched_at": 1630032705,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Chatbot",
       "Retail",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4574,7 +4574,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -6107,11 +6107,11 @@
     "name": "Aqua",
     "slug": "aqua",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0238fbfedcf80336a77344bfd8964d1ce527eef.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55790b66a55aee54f67a7eb5bdc7202fe373d753.png",
     "website": "https://www.investwithaqua.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "One stop shop to find, invest, and service an alternative investment for RIAs, IBDs, and institutions. ",
-    "one_liner": "The Operating System for Alternative Investments",
+    "long_description": "One platform to put your alternative assets on autopilot. ",
+    "one_liner": "The AI-Native Turnkey Alternative Investment Platform (TAIP)",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -6785,7 +6785,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -7812,12 +7812,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72d016d4861dc2a571618d99f2156688bbc376f2.png",
     "website": "https://flu.ke/",
-    "all_locations": "São Carlos, SP, Brazil; Remote",
+    "all_locations": "São Carlos, SP, Brazil",
     "long_description": "Brazilians hate the experience of using the traditional mobile carriers. They force you to pay for data packages you don’t need and make it impossible to switch your plans. Fluke offers a better customer experience and that’s why we have a CAC that is 50% lower and an LTV that’s 30% higher than traditional carriers.\r\n\r\nWhat’s smart about our approach is we rent infrastructure from these incumbents and build a better customer experience on top of it. This keeps our costs lows and lets us focus on what really matters: the customer experience! \r\n\r\nWe have the best network and customers are switching to us because of the service and flexibility to build their own customized mobile plans.\r\n\r\nWe are doing in telco what Nubank did in banking in Brazil.\r\n\r\nWe are Fluke, thank you!",
     "one_liner": "fluke is a full-digital mobile operator in Brazil",
-    "team_size": 18,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "team_size": 26,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1628008828,
     "tags": [
       "B2B",
@@ -7830,13 +7830,13 @@
     "batch": "Summer 2021",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "Brazil",
       "Latin America",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9151,17 +9151,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f9e51a7bd166fd06ac233b1bc31a81d599db773.png",
     "website": "https://mallocprivacy.com/",
     "all_locations": "Nicosia, Nicosia, Cyprus",
-    "long_description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc Privacy & Security VPN app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts. ",
-    "one_liner": "We protect your phone from spyware and hacking attempts. ",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
+    "long_description": "Malloc monitors and prevents anyone from recoding or transmitting data from your mobile device without your knowledge. Malloc uses on-device AI to detect zero-click spyware and abnormal activity and blocks any suspicious communication in real time. We sell this to individuals, enterprises and governments that care about their privacy. ",
+    "one_liner": "AI-driven mobile cybersecurity ",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
     "launched_at": 1626963356,
     "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Security",
-      "Privacy"
+      "Privacy",
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9170,8 +9169,8 @@
     "batch": "Summer 2021",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Defense"
+      "B2B",
+      "Security"
     ],
     "regions": [
       "Cyprus",
@@ -9349,7 +9348,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -9382,16 +9381,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70bf325ba6f13643292ce722346a076bac8e2292.png",
     "website": "https://coloop.ai/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "CoLoop is the AI copilot for insights and strategy. We help insights and strategy consultants complete their qualitative analysis in 30% of the time it would take with traditional tools and methods.",
+    "long_description": "At CoLoop we’re on a mission to make every company in the world as customer obsessed as Amazon. We’re doing this by giving the next generation of workers immediate, intuitive access to the customer knowledge they need to make better decisions, faster.",
     "one_liner": "AI Copilot for insights & strategy",
-    "team_size": 20,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1626771804,
     "tags": [
       "Generative AI",
-      "NLP",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9615,7 +9613,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -9708,7 +9706,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer"
     ],
@@ -10372,11 +10370,12 @@
   },
   {
     "id": 24461,
-    "name": "Mine (formerly Fizz)",
+    "name": "Mine",
     "slug": "mine",
     "former_names": [
       "ShoulderTap",
-      "Fizz"
+      "Fizz",
+      "Mine (formerly Fizz)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7a0d14910b74597e1e70723a08a579e8dafe145.png",
     "website": "https://usemine.com/",
@@ -10388,10 +10387,10 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1628179251,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Consumer",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11026,7 +11025,7 @@
     "all_locations": "Lausanne, VD, Switzerland",
     "long_description": "Proteins are the most advanced nanotechnology we know of. At Adaptyv, we’re building a fully automated protein foundry to allow you to synthesize and test any protein you design.\r\n",
     "one_liner": "We're building fully automated labs for protein engineering",
-    "team_size": 12,
+    "team_size": 25,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1628157260,
@@ -11326,7 +11325,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d619db7cdc27fab257a06d1db98ca9cc74cb707.png",
     "website": "https://www.akutehealth.com",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Akute Health makes an electronic medical record (EMR) system & digital infrastructure tools used by digital health companies to track patients. Our EMR is a web app used daily by clinical teams at digital health companies similar to WeightWatchers, Ro, Hims, and One Medical.\r\n\r\nIn 2015, I was diagnosed with cancer and spent 9 months in the hospital. While in the hospital, I built an app to track my own records. I needed something that was simple to use and allowed me to easily track & trend different types of data.\r\n\r\nI later turned that app into a full medical record system. We now have hundreds of customers and over 50k active patient records.\r\n\r\nWe are building the de facto EMR for digital health companies.",
+    "long_description": "Akute is an automation-first electronic medical health record system (EMR). It’s a co-pilot for digital health and direct primary care companies that are growing modern practices. Akute’s platform is fully programmable and customizable that enables clinical businesses to cut admin overhead and give time back to providers so they can spend more time with patients.\r\n\r\nIn a space of legacy tech, our team and platform’s agility and exceptional customer support makes us stand out. Join a VC-backed company in its seed stage and help make real improvements to healthcare.",
     "one_liner": "The medical record & infrastructure stack for digital health companies",
     "team_size": 4,
     "industry": "Healthcare",
@@ -12704,7 +12703,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -12868,7 +12867,7 @@
     "former_names": [
       "Ferveret"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3181cc71c0ab721a1030e4c2c811247cccf5d4ee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "website": "http://www.ferveret.com",
     "all_locations": "San Jose, CA, USA",
     "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
@@ -15200,7 +15199,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -15764,7 +15763,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -16866,18 +16865,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9050d789232441d310c7b2bc53166a978e1f735d.png",
     "website": "https://www.sully.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the autonomy layer where AI agents, people, and robots work as one team.",
-    "one_liner": "AutonomousOS for healthcare organizations",
+    "long_description": "Sully.ai is printing labor for health systems by building a team of autonomous AI agents to run the entire hospital operations. The autonomous agents run like ClawdBot in the background (Receptionists, Medical Consultant, Triage Nurse, Scribes, Coders) collaborate to execute entire workflows—replacing the $800B labor doing all the manual work at hospitals.",
+    "one_liner": "Autonomous team of AI agents that runs the entire hospital operations",
     "team_size": 49,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1624955795,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

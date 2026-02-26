@@ -466,6 +466,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/ekho.json"
   },
   {
+    "id": 27172,
+    "name": "Clearline",
+    "slug": "clearline",
+    "former_names": [
+      "Lancey"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53a34147e63b67c7a9270226ba55f80c0701d86e.png",
+    "website": "https://useclearline.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Clearline is the AI operating system that captures, routes, and converts every revenue opportunity across your dealership without adding headcount.",
+    "one_liner": "AI operating system for car dealerships to capture missed revenue",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1655587130,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clearline",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/clearline.json"
+  },
+  {
     "id": 27892,
     "name": "ShortLoop",
     "slug": "shortloop",
@@ -534,7 +578,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -949,5 +993,83 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/movedot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
+  },
+  {
+    "id": 31189,
+    "name": "Revion",
+    "slug": "revion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/083700d7d477f8653353926e2c024cda96cf803d.png",
+    "website": "https://revion.inc",
+    "all_locations": "",
+    "long_description": "Revion is building the operating system for Automotive Retail. Our first product helps Technicians automate administrative work, which drains 30-40% of their day. With Revion, Auto Retailers can service more vehicles and drive more high-margin Revenue. ",
+    "one_liner": "Intelligence for Automotive Operations",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771887263,
+    "tags": [
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revion",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/revion.json"
+  },
+  {
+    "id": 31196,
+    "name": "Congruent",
+    "slug": "congruent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7c888706d93f04e768a791ada75bb06e4605041.png",
+    "website": "https://congruent.io",
+    "all_locations": "",
+    "long_description": "At Congruent, we build radars for end-to-end autonomous systems. The most advanced autonomous systems are trained as a single neural network from raw sensor data to navigation actions. For a sensor to be included in these pipelines sensor stacks requires two key properties: access to raw sensor data and a high-fidelity sensor simulator. Current automotive radars have neither, they output heavily processed point clouds and no raw radar simulator exists for driving scenes. Congruent solves both problems: a radar architecture that exposes raw data, paired with a world model based radar simulator. Radar is the only depth sensor at a price point that scales to every car on the road and works in all weather conditions. Congruent is building the radar compatible with the training architectures that will make mass-market vehicles autonomous.",
+    "one_liner": "We build radars for end-to-end autonomy",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1771538111,
+    "tags": [
+      "Robotics",
+      "Radar",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/congruent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/congruent.json"
   }
 ]

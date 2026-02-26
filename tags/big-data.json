@@ -746,63 +746,20 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tile.json"
   },
   {
-    "id": 29686,
-    "name": "Snowpilot",
-    "slug": "snowpilot",
-    "former_names": [
-      "Snowpilot.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c15cc576c889b7c67699bfb7c6291c7f7430c95a.png",
-    "website": "https://www.snowpilot.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Snowpilot combines a spreadsheet UI with a federated data engine. We get live data from tools like Salesforce, Gong, and Mixpanel, enabling PMs, marketers, and salespeople to run high-impact workflows with data at any scale.\r\n\r\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\r\nWe started coding Snowpilot in mid-August '24, and we already have a live app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\r\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use big data on a daily basis.",
-    "one_liner": "The connected spreadsheet that destroys data silos",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725142580,
-    "tags": [
-      "B2B",
-      "Big Data",
-      "Data Engineering",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/snowpilot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/snowpilot.json"
-  },
-  {
     "id": 29745,
-    "name": "Lumenary",
-    "slug": "lumenary",
+    "name": "Sharpe",
+    "slug": "sharpe",
     "former_names": [
       "January",
       "Lumenary",
-      "Lumenary, Inc."
+      "Lumenary, Inc.",
+      "Lumenary"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
-    "website": "https://try.solar",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a16f4a789dc478c2f72f7a8e219fdb5d33ec82.png",
+    "website": "https://sharpe.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
-    "one_liner": "Build working software exceedingly fast in Solar",
+    "long_description": "Sharpe is an AI data science agent purpose-built for quantitative finance, deployed on-premises at some of the world's most demanding trading firms and hedge funds. It absorbs your internal documentation, enforces your firm's methodology, and delivers completed, cited Jupyter notebooks at petabyte scale. Sharpe gives every analyst on your desk the institutional knowledge and output of your best.",
+    "one_liner": "Agents for quantitative research and financial data science.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -833,8 +790,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumenary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+    "url": "https://www.ycombinator.com/companies/sharpe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
   },
   {
     "id": 29835,
@@ -844,7 +801,7 @@
       "Invoke AI",
       "Invoke Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88e92cf25d0e0f2a176b614b7fca633db69671e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e097d283f408c0a5e7db6a2bef1bf267b298465c.png",
     "website": "https://voker.ai",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Voker is the analytics platform for monitoring and improving your AI agents. Companies like Lull.com and Dutch.com use our SDK to build better AI.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.",
@@ -854,10 +811,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1126,7 +1083,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -1142,7 +1099,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/captain",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/captain.json"
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/captain.json"
   },
   {
     "id": 31137,
@@ -1188,6 +1145,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/luel.json"
   },
   {
+    "id": 31170,
+    "name": "Cajal",
+    "slug": "cajal-technologies",
+    "former_names": [
+      "Cajal Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff369359daa357b54e6a4db92f80988a4ca84392.png",
+    "website": "https://caj.al/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cajal (YC W26) is massively scaling formal verification to accelerate scientific discovery. We deploy superhuman AI mathematicians to high-impact applied domains, starting with quantum computing and finance.\r\n\r\nWe do this with Lean - a framework that allows us to formally verify any mathematical statement, grounding AI in truth and validating the tools discovered by our systems.",
+    "one_liner": "Scaling formal verification to accelerate scientific discovery",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771892744,
+    "tags": [
+      "B2B",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cajal-technologies",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cajal-technologies.json"
+  },
+  {
     "id": 31217,
     "name": "Polymath",
     "slug": "polymath",
@@ -1197,8 +1196,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting agents to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe're building environment factories to produce high-fidelity training and evaluation environments at scale, providing frontier labs with the building blocks they need to make the next breakthrough.",
-    "one_liner": "Long-horizon RL",
+    "long_description": "Polymath is building world generation models and systems to automate the creation of reinforcement learning environments.\r\n\r\nAs the demand for AI shifts from question-answering to autonomous agents that can operate over long horizons, models must be trained in environments that reflect the real world. Today, RL environment generation is bottlenecked by human labor. Companies hire contractors to hand-build artifacts one-by-one. This approach is expensive and doesn’t scale. Moreover, human data alone will never lead to superintelligence.\r\n\r\nWe’re building the core technology to enable automated environment generation using far less human effort than traditionally required, and eventually none. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nOur end goal is to create realistic, long-horizon environments from a text description alone. This will enable the creation of worlds of arbitrary complexity and scale, which is foundational for training & evaluating autonomous, superintelligent AI agents.\r\n\r\nWe’re a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large-scale data systems.",
+    "one_liner": "Automating RL environment generation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1238,18 +1237,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every video across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
-    "one_liner": "Common Crawl for Videos",
+    "long_description": "We maintain the world’s largest index of short-form videos and run a human-in-the-loop pipeline to clean, segment, and label this data for AI labs. For example, if a lab needs 50k cooking videos featuring hand-object interactions, we query our index, run the results through our labeling pipeline, and deliver a clean, annotated dataset.",
+    "one_liner": "Common Crawl for Video",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
     "tags": [
-      "Social Media",
-      "API",
+      "Artificial Intelligence",
+      "Video",
       "Data Labeling",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,

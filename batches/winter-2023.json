@@ -51,16 +51,17 @@
   },
   {
     "id": 26884,
-    "name": "RaptorGrid",
-    "slug": "raptorgrid",
+    "name": "Alphawatch AI",
+    "slug": "alphawatch-ai",
     "former_names": [
       "StableBank",
-      "AlphaWatch AI"
+      "AlphaWatch AI",
+      "RaptorGrid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023671fb6254cfaca19b56741b1b6b230aeb6a64.png",
-    "website": "https://raptorgrid.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
+    "website": "https://alphawatch.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "RaptorGrid generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
+    "long_description": "Alphawatch AI generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
     "one_liner": "AI Employees for Finance",
     "team_size": 10,
     "industry": "Fintech",
@@ -93,8 +94,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raptorgrid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/raptorgrid.json"
+    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
   },
   {
     "id": 27201,
@@ -363,14 +364,14 @@
     "all_locations": "",
     "long_description": "We specialize in voice and can close customers across every channel 24/7. ",
     "one_liner": "AI-powered Sales Agent for Service-Based Industries",
-    "team_size": 7,
+    "team_size": 85,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1678089361,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -489,7 +490,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
     "one_liner": "The Enterprise AI Transformation Platform",
-    "team_size": 46,
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673634480,
@@ -668,7 +669,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -1645,10 +1646,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -1946,8 +1947,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba7b37dc3c29d740d89959501d5950b59307a9f.png",
     "website": "https://www.flexdesk.com/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "FlexDesk is the modern platform for corporate real estate departments. Combining lease administration with utilization intelligence, financial management, and a coworking booking platform, FlexDesk’s all-in-one solution is designed to help occupiers maximize the ROI of their real estate portfolio. Leading public and private corporations like Confluent, Hopper, ezCater, Blink Health, Paystand, and Bluecrest use FlexDesk to streamline their portfolio management processes while delighting their business users.",
-    "one_liner": "One platform for corporate occupiers to manage their office portfolios",
+    "long_description": "Real estate rent is often the largest non-payroll expense for companies. FlexDesk replaces fragmented, manual back-office work with intelligent agents that execute the workflows required to manage and optimize portfolios.\r\n\r\nInternal real estate teams at enterprises like Reddit and Confluent use FlexDesk in the same way that Travel teams use Navan and Procurement teams use Zip.",
+    "one_liner": "AI Agents for corporate real estate teams",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Office Management",
@@ -2052,7 +2053,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -2134,7 +2135,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -2362,7 +2363,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -2656,9 +2657,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4bfc350809e1c4f0b4e0ccc1e6449d3a68998b6.png",
     "website": "http://glass.health",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We empower clinicians with our AI platform for developing differential diagnoses and drafting clinical plans.",
-    "one_liner": "AI-Powered Clinical Decision Support",
+    "one_liner": "AI-Powered Clinical Decision Support & Ambient Scribing",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -2680,8 +2681,7 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3144,10 +3144,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1678820348,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Logistics"
+      "Logistics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3511,7 +3511,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "GovEagle is building an AI RFP automation platform for medium to large government contractors. Using GovEagle, contractors have been able to submit more proposals without compromising quality. ",
     "one_liner": "AI for Government Contractors",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1678919888,
@@ -3716,7 +3716,7 @@
       "Scanbase",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9177f461ffabba1796fab772ec9f376ad91bf4e.png",
     "website": "https://www.scanbase.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Scanbase makes it easy for medical companies to convert photos of rapid diagnostic tests into results. We do this by providing a simple API that any medical company can access.\r\n",
@@ -3726,11 +3726,11 @@
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1670991822,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Health Tech",
-      "Telemedicine"
+      "Telemedicine",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4240,10 +4240,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96f17fae40f55e74f9d214af11045d8eed8f096f.png",
     "website": "https://cloudchipr.com/",
-    "all_locations": "Berlin, Berlin, Germany; Hamburg, HH, Germany; Yerevan, Yerevan, Armenia; Remote",
-    "long_description": "Cloudchipr helps engineering and finance teams save time and money by automating cloud operations. With Cloudchipr, teams can schedule different automated workflows that send Slack alerts, build Tableau charts, create Jira tickets, and deactivate unused resources across all major cloud platforms. It’s like Zapier for cloud ops.\r\n",
-    "one_liner": "Workflow Automation for Cloud Operations",
-    "team_size": 8,
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Cloudchipr is an actionable FinOps platform that keeps multi-cloud spend under control 24/7 with AI agents.",
+    "one_liner": "The #1 Actionable FinOps Platform",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1667473991,
@@ -4264,11 +4264,9 @@
     ],
     "regions": [
       "Germany",
-      "Armenia",
       "Europe",
-      "Middle East and North Africa",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4635,6 +4633,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/kivo-health.json"
   },
   {
+    "id": 27859,
+    "name": "No Cap",
+    "slug": "no-cap",
+    "former_names": [
+      "Carbon Science",
+      "Carbon Search",
+      "Intently",
+      "Socap.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cf30e5fb4585b9d43dd92dd9ebe9b279cd7f68a.png",
+    "website": "https://www.nocap.so",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "The world's first AI agent that coaches founders & invests in them. Currently led by a repeat AI founder Alexander Nevedovsky (exit to Farfetch), who joined post-YC batch: https://www.linkedin.com/in/ednevsky 👋",
+    "one_liner": "AI startup investor, No Cap",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1680292727,
+    "tags": [
+      "Artificial Intelligence",
+      "Investing",
+      "Fundraising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/no-cap",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/no-cap.json"
+  },
+  {
     "id": 27860,
     "name": "Dream3D",
     "slug": "dream3d",
@@ -4890,10 +4935,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -4920,17 +4965,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/184d30d91903380caada7f52cd7cd7992759e07b.png",
     "website": "https://www.extend.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "We’re helping companies transform their documents into high quality data, achieve unmatched accuracy, and ship custom document automation in days, not months.",
-    "one_liner": "The Modern Document Processing Cloud",
-    "team_size": 13,
+    "long_description": "Parse, extract, and split your hardest documents with unmatched accuracy. Read any layout with specialized vision models, and ship reliable pipelines in minutes, not months.",
+    "one_liner": "Production-ready document processing",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1679062598,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5044,17 +5089,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/704cabf9ad75f0fbbf74aa11aa3372df14b27ea1.png",
     "website": "https://iliad.ai",
     "all_locations": "Pittsburgh, PA, USA",
-    "long_description": "Iliad is an AI tool for creating stylized artwork, textures, illustrations, and 3D assets. Users sketch, upload images, or write prompts, then guide results with visual controls like brushstrokes, masks, and transform sliders. Iliad is built for artists, game developers, and designers.",
-    "one_liner": "Create stylized art, textures, and 3D assets with AI.",
+    "long_description": "Iliad builds procedural material tools for production studios. Its node-based material engine, Aqueduct, includes an AI assistant that helps artists build and edit procedural graphs. Iliad also offers diffusion tools for texture generation, PBR maps, and reference-to-texture conversion.",
+    "one_liner": "AI-accelerated procedural material and texture tools.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1674524413,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Gaming",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6021,7 +6066,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -6750,16 +6795,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 43,
+    "team_size": 51,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6773,11 +6818,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6917,17 +6960,18 @@
   },
   {
     "id": 27949,
-    "name": "SPRX",
-    "slug": "sprx",
+    "name": "Onshore",
+    "slug": "onshore",
     "former_names": [
-      "SPRX Technologies"
+      "SPRX Technologies",
+      "SPRX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/056d6666e994a3429e78aefc6ec8d705e2d405c1.png",
-    "website": "https://sprx.tax",
-    "all_locations": "",
-    "long_description": "SPRX uses AI to prepare corporate R&D tax credits.\r\n\r\nWith our technology, anyone can prepare an R&D Tax Credit accurately and fast. To provide some background, the R&D Credit is often cited as the most complex and audited tax credit in the United States. With that in mind, we set out to create software to achieve two primary objectives:\r\n\r\n1. Ensure that any credit computed with our software is exactly what the IRS is asking for in terms of quality.\r\n\r\n2. Democratize the ability to perform high quality R&D Credit studies extremely fast.",
-    "one_liner": "AI for corporate R&D tax credits",
-    "team_size": 32,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c5d6fcfdd95bdf07f580b5df18a19dab5e5843.png",
+    "website": "https://onshore.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Onshore uses AI to prepare corporate R&D tax credits.\r\n\r\nWith our technology, anyone can prepare an R&D Tax Credit accurately and fast. To provide some background, the R&D Credit is often cited as the most complex and audited tax credit in the United States. With that in mind, we set out to create software to achieve two primary objectives:\r\n\r\n1. Ensure that any credit computed with our software is exactly what the IRS is asking for in terms of quality.\r\n\r\n2. Democratize the ability to perform high quality R&D Credit studies extremely fast.",
+    "one_liner": "AI for corporate tax",
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1669758881,
@@ -6943,6 +6987,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -6951,8 +6997,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sprx",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/sprx.json"
+    "url": "https://www.ycombinator.com/companies/onshore",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/onshore.json"
   },
   {
     "id": 27950,
@@ -7271,12 +7317,12 @@
     "former_names": [
       "Vitalize Care"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6c6f2e22c7b4fbef82d9262b480814cba5923e9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39b420a8e248116ad9ee8ad0c1e42d137c914f80.png",
     "website": "https://vitalize.care",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vitalize Care is solving the most pressing operations problems for health systems, starting with optimizing staffing and scheduling. We help hospitals dramatically reduce labor spend, improve operational efficiency, and unburden clinical leaders from hours of work per day.\r\n\r\nWe're partnered with some of the country's most innovative health systems, and are excited to share more details soon!",
-    "one_liner": "The OS for Hospital Operations",
-    "team_size": 17,
+    "long_description": "Vitalize is solving the most pressing operations problems for health systems, starting with optimizing staffing and scheduling. We help hospitals dramatically reduce labor spend, improve operational efficiency, and unburden clinical leaders from hours of work per day.\r\n\r\nWe're partnered with some of the country's most innovative health systems, and are excited to share more details soon!",
+    "one_liner": "Autonomous hospital operations",
+    "team_size": 23,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1675068442,
@@ -7785,7 +7831,7 @@
       "Shaktimaan",
       "Kalam"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b77af33029a4b47cc037f68e90edf366b8b47b3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e158289890d2edaade7efd0948c8b53b8775a93.png",
     "website": "https://superkalam.com",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Every student deserve personal attention. With AI, we can infinitely scale personalised learning experience at scale to every student. That's what we are building at SuperKalam.\r\n\r\n",
@@ -8363,14 +8409,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The missing layer of the internet that aligns how you actually spend your time with your best intentions",
     "one_liner": "Eliminate compulsive phone usage",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1676229928,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -11581,16 +11627,16 @@
     "all_locations": "",
     "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
     "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675814900,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11607,7 +11653,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/litellm",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/litellm.json"

@@ -1870,7 +1870,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -3018,6 +3018,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/magic-hour.json"
   },
   {
+    "id": 29501,
+    "name": "Latted",
+    "slug": "latted",
+    "former_names": [
+      "Fume Test",
+      "Fume"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b29e2d502cf6d25b0468bc3a78f72aad18346f8.png",
+    "website": "https://latted.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Latted is an all-in one tool to generate and edit professional AI video projects.\r\n\r\nAll professional AI video projects take more than a single generation. You need to juggle between hundreds of images and videos and use multiple tools to edit your project.\r\n\r\nWith Latted, you can generate a 10-minute long video from a single prompt or generate and edit your project from scratch.\r\n\r\nThousands of creators use Latted for marketing videos, content creation and educational content. Create your first project today at latted.com!",
+    "one_liner": "A Unified Editor For AI Video",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1705822020,
+    "tags": [
+      "B2B",
+      "Video",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/latted",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/latted.json"
+  },
+  {
     "id": 29510,
     "name": "Yarn",
     "slug": "yarn-2",
@@ -3336,10 +3381,10 @@
     "former_names": [
       "Prism AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
     "website": "https://prismvideos.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Prism is a platform for making short-form videos with AI.",
     "one_liner": "AI for the next generation of media",
     "team_size": 3,
     "industry": "B2B",
@@ -3468,14 +3513,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fa7e6874bb04b698aead6e523b8be6359e8af3d.png",
     "website": "https://cocreate.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Before editing begins, professional video teams spend days copying, organizing, and prepping footage — a process that can eat up 40% of a project’s time and budget. CoCreate runs in the background during backup, delivering fully organized, searchable, and edit-ready projects for Premiere, Avid, Final Cut, or Resolve the moment media is offloaded. The result: faster turnarounds, fewer errors, and more time spent actually editing.",
-    "one_liner": "AI-native video production software that automates post-production",
+    "long_description": "Cocreate was built alongside our friends and colleagues — editors and their assistants, DITs, post supervisors, and UPMs — to design something that will keep individual professionals competitive in a landscape rapidly overrun by needless automation.\r\n\r\nWe've spent the past few years collecting as many grumbling stories of production and post production inefficiency; lost footage, wasted time. Shots un-slated, timecodes un-jammed, script supervisor notes incoherent; days wasted on menial tasks.\r\n\r\nWhat if there was a tool to take care of all that?",
+    "one_liner": "video production software",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1755287719,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Video"
     ],
@@ -3686,8 +3730,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
     "website": "https://www.getbluma.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy with content templates, generating on brand videos on autopilot.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma automates end-to-end and at scale. We can make entire UGC videos from a reference at 10x the scale and 1/10th of the cost. We remove the operations of hiring, managing, creatives and spend with AI.",
-    "one_liner": "AI short form content engine",
+    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy by cloning your competitor's viral videos.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma can clone end-to-end and at scale.",
+    "one_liner": "Canva for short-form video ads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -3809,6 +3853,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
   },
   {
+    "id": 31096,
+    "name": "shortkit",
+    "slug": "shortkit",
+    "former_names": [
+      "Embassi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a0714fa881cb99f3080456e1c76e5b495a45be7.png",
+    "website": "https://www.shortkit.dev",
+    "all_locations": "",
+    "long_description": "ShortKit empowers consumer teams and publishers with the same best-in-class short-form video technology that powers the most engaging platforms in the world. Our managed SDK & video infrastructure are purpose built for product teams, deeply customizable, and optimized for the encoding and delivery of retentive short-form video experiences.",
+    "one_liner": "We make enterprise-scale short-form video really simple.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1771985375,
+    "tags": [
+      "Developer Tools",
+      "Video",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shortkit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/shortkit.json"
+  },
+  {
     "id": 31178,
     "name": "Cardboard",
     "slug": "cardboard",
@@ -3823,10 +3909,11 @@
     "subindustry": "B2B",
     "launched_at": 1768162565,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
+      "Consumer",
       "Video",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3848,6 +3935,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cardboard",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
+  },
+  {
+    "id": 31300,
+    "name": "Shofo",
+    "slug": "shofo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
+    "website": "https://shofo.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We maintain the world’s largest index of short-form videos and run a human-in-the-loop pipeline to clean, segment, and label this data for AI labs. For example, if a lab needs 50k cooking videos featuring hand-object interactions, we query our index, run the results through our labeling pipeline, and deliver a clean, annotated dataset.",
+    "one_liner": "Common Crawl for Video",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768432806,
+    "tags": [
+      "Artificial Intelligence",
+      "Video",
+      "Data Labeling",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shofo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
   },
   {
     "id": 31306,

@@ -2249,7 +2249,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The trucking and logistics industry provides the backbone of the economy, but the payments infrastructure on which it runs is broken; the existing suite of payment tools is outdated, difficult to use, prone to fraud, and saddled with hidden fee structures. \r\n\r\nAtoB is building Stripe for Transportation — modernizing the payments infrastructure for trucking and logistics, where capital movement occurs quickly and transparently. Our flagship product is the AtoB Fuel Card, a zero-fee fuel card accepted anywhere built for fleets of all shapes and sizes.",
     "one_liner": "Modernizing global transportation payments.",
-    "team_size": 71,
+    "team_size": 75,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1602605067,
@@ -2882,7 +2882,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -3985,6 +3985,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cypher",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cypher.json"
+  },
+  {
+    "id": 25948,
+    "name": "Spade",
+    "slug": "spade",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c34a890239baf0d72f56f357f5a24dee709b667.png",
+    "website": "https://www.spade.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
+    "one_liner": "Enriched transaction data you can build on",
+    "team_size": 20,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1641512856,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Machine Learning",
+      "Payments",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spade",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/spade.json"
   },
   {
     "id": 25981,
@@ -5531,16 +5575,16 @@
   },
   {
     "id": 28929,
-    "name": "Greenlite",
-    "slug": "greenlite",
+    "name": "Bretton AI",
+    "slug": "bretton-ai",
     "former_names": [
       "Greenlite AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1cb1ba3c32ce40d88e6b4b79ac86d9a520edfb7.png",
-    "website": "https://www.greenlite.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a2e212679d6416b22e5a93c56292d0faf00edc5.png",
+    "website": "https://www.bretton.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
-    "one_liner": "AI agents for financial compliance",
+    "long_description": "Bretton AI (formerly Greenlite) is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Bretton AI to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+    "one_liner": "AI agents for financial compliance (AML, KYC and Sanctions)",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -5570,8 +5614,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/greenlite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/greenlite.json"
+    "url": "https://www.ycombinator.com/companies/bretton-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/bretton-ai.json"
   },
   {
     "id": 28977,
@@ -6074,7 +6118,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Moreta, we simplify payments for international travelers, letting you pay for anything using just your phone. Say goodbye to the hassle of searching for the best cash exchange rates or ATMs on your next trip. With Moreta, paying local merchants is easy, and the best part? Transparent fees.\r\n\r\nWe came up with Moreta while on our own backpacking adventures. Watching locals pay with a simple scan while we fumbled with cards and cash. So, we created a solution. By syncing with local payment networks, Moreta lets you pay like a local securely and digitally, without needing a bank account in every country.\r\n\r\nWe’re starting in Asia, where QR code digital wallets are taking over and are now the top choice at checkout. As these wallets start to join forces for cross-border payments, Moreta will be the first to bridge the gap for international travelers from card-centric markets to seamlessly tap into these local networks. Moreta will target 67 million travelers arriving in the region each year, who together have $127 billion in everyday expenditure.",
     "one_liner": "Payments made easy for international travelers.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1724360319,
@@ -6133,7 +6177,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -6334,49 +6378,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/blindpay.json"
   },
   {
-    "id": 30630,
-    "name": "Lark",
-    "slug": "lark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d081c0c274bbf68a2b6814e7891694bfd2e2c515.png",
-    "website": "https://uselark.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark is a modern billing platform with the flexibility to support any pricing model (flat-fee, credit-based, usage-based, hybrid, dimensional, outcome-based, etc.) at any scale. \r\nWhether you're building an AI powered API service or a B2B SaaS product, Lark provides the tools you need to implement complex billing logic without the hassle. Jack and Vijit previously built a usage-based billing system for a large billing provider.",
-    "one_liner": "Billing for modern pricing models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1755281037,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Subscriptions"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lark",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
-  },
-  {
     "id": 30798,
     "name": "Ruvo",
     "slug": "ruvo",
@@ -6472,18 +6473,20 @@
     "name": "ZeroSettle",
     "slug": "zerosettle",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df1cb7001d68c800f9bb4a4a4b48f8d7a27e4699.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
     "website": "https://zerosettle.io",
     "all_locations": "",
-    "long_description": "",
-    "one_liner": "Bypass the App Store tax and enable web-based purchases",
+    "long_description": "Ever since Epic v Apple, developers are now allowed to support direct billing in their app and avoid the App Store fee. We help developers keep more of their revenue with \"Switch & Save\" Campaigns, Smart Cancellation Flows, and Web Checkout Paywalls.",
+    "one_liner": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
     "launched_at": 1770252325,
     "tags": [
+      "Developer Tools",
       "Fintech",
       "Payments",
+      "B2B",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],
@@ -6493,8 +6496,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "Fintech",
+      "Payments"
     ],
     "regions": [
       "Unspecified"
@@ -6550,5 +6553,135 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orthogonal",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/orthogonal.json"
+  },
+  {
+    "id": 31159,
+    "name": "Sponge",
+    "slug": "sponge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1db2b5d11f2e4062fbe5039b3382027c6c156ad.png",
+    "website": "https://paysponge.com/",
+    "all_locations": "",
+    "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
+    "one_liner": "Financial infrastructure for the agent economy",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771280774,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Crypto / Web3",
+      "Payments"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sponge",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sponge.json"
+  },
+  {
+    "id": 31186,
+    "name": "End Close",
+    "slug": "end-close",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf9a301d6c80de3972ebd650a41ad29595cbd28.png",
+    "website": "https://endclose.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "End Close builds automatic reconciliation for payments companies like fintechs, marketplaces, banks and payroll companies. Reconciliation helps companies track every dollar and resolve every exception, ensuring they have no money loss, can report audit ready financials, and stay compliant.\r\n\r\nSean (CEO) spent the last 6 years building the reconciliation org at Modern Treasury (S18), processing a trillion dollars in payments across 40 banks with 99.995% automation. Fast growing companies like Modern Treasury are forced to build a solution in-house or buy a legacy solution. End Close provides a modern reconciliation system that works with a company's existing stack and is managed by AI agents.\r\n\r\nException handling is where 99% of the manual work happens today, payment ops teams spend hours gathering context across various data sources to investigate each ticket. End Close provides an AI ops agent that connects to a company's data warehouse, invoicing platform and payment processors to triage and resolve issues without human intervention.\r\n\r\nLegacy providers only provide reconciliation for month end close applications. End Close continuously reconciles with developer friendly APIs, allowing teams to integrate real time payments data within their products to create product experiences for customers like faster balance top-ups, instant trading etc. \r\n\r\nNew payment rails and agent-to-agent payments are increasing online transaction volumes, making reconciliation a growing challenge for companies. David (CTO and 2nd time YC founder) most recently built these kinds of high-scale ingestion pipelines when starting and leading error tracking at PostHog (W20), the fastest growing product in the company's history.",
+    "one_liner": "AI powered reconciliation for high-volume payments companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1771459857,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Payments",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/end-close",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/end-close.json"
+  },
+  {
+    "id": 31296,
+    "name": "Unifold",
+    "slug": "unifold",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
+    "website": "https://unifold.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Launch crypto deposits in minutes. \r\n\r\nUnifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works.\r\n\r\nIf you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.\r\n",
+    "one_liner": "Multi-chain deposit and payment infrastructure",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1771008732,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Payments",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unifold",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
   }
 ]

@@ -1256,12 +1256,12 @@
     "name": "Auro Robotics",
     "slug": "auro-robotics",
     "former_names": [],
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d70118ac9a3de23d75d76226146a49a284296918.png",
     "website": "http://www.auro.ai/",
     "all_locations": "Santa Clara, CA, USA",
     "long_description": "We are building self-driving shuttles for transportation within campuses like universities, resorts, airports, and retirement communities. \r\n\r\nWebsite: www.auro.ai",
     "one_liner": "Autonomous shuttles for campus-like environments.",
-    "team_size": 10,
+    "team_size": 0,
     "industry": "Industrials",
     "subindustry": "Industrials -> Automotive",
     "launched_at": 1430244319,
@@ -5372,7 +5372,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -7631,53 +7631,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nira-energy.json"
   },
   {
-    "id": 24382,
-    "name": "Malloc Inc",
-    "slug": "malloc-inc",
-    "former_names": [
-      "Malloc, LTD.",
-      "Malloc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f9e51a7bd166fd06ac233b1bc31a81d599db773.png",
-    "website": "https://mallocprivacy.com/",
-    "all_locations": "Nicosia, Nicosia, Cyprus",
-    "long_description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc Privacy & Security VPN app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts. ",
-    "one_liner": "We protect your phone from spyware and hacking attempts. ",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1626963356,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Security",
-      "Privacy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "Cyprus",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/malloc-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/malloc-inc.json"
-  },
-  {
     "id": 24488,
     "name": "Heimdal",
     "slug": "heimdal",
@@ -7873,7 +7826,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -7902,7 +7855,7 @@
     "former_names": [
       "Ferveret"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3181cc71c0ab721a1030e4c2c811247cccf5d4ee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "website": "http://www.ferveret.com",
     "all_locations": "San Jose, CA, USA",
     "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
@@ -8463,12 +8416,12 @@
       "SeaCycle",
       "Seabound Carbon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef05b260fca4eb9826dc504b44512b6c883854f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1528dd1b7f462a6ecd64d04d3bd29abcce12563.png",
     "website": "http://seabound.co",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
     "one_liner": "Carbon capture equipment for ships",
-    "team_size": 9,
+    "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1643912064,
@@ -8479,7 +8432,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -8489,7 +8442,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9074,7 +9029,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Energy"
@@ -10048,6 +10003,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/hylight.json"
   },
   {
+    "id": 28745,
+    "name": "Nectar",
+    "slug": "nectar",
+    "former_names": [
+      "Pairly Climate",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7411f4ecb5153ac85174724f663e8e21142f624a.png",
+    "website": "https://nectarclimate.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nectar is the modern AI energy management platform. We automate utility data analysis to optimize energy costs, manage buildings, and report energy efficiency metrics for energy and sustainability teams. Our utility data API uses in-house AI agents to deliver the most accurate granular usage and cost data on the market.",
+    "one_liner": "Manage energy cost & usage with AI for facility & sustainability teams",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1688762834,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nectar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/nectar.json"
+  },
+  {
     "id": 28794,
     "name": "Ohmic Biosciences",
     "slug": "ohmic-biosciences",
@@ -10662,7 +10657,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -11034,15 +11029,15 @@
     "subindustry": "Industrials -> Climate",
     "launched_at": 1724527338,
     "tags": [
-      "SaaS",
-      "Real Estate",
-      "Climate",
-      "Renewable Energy",
-      "ClimateTech"
+      "Artificial Intelligence",
+      "Solar Power",
+      "B2B",
+      "Energy",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -11201,8 +11196,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
     "website": "https://www.conductorquantum.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
-    "one_liner": "Quantum computers on silicon chips using AI.",
+    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon quantum chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of quantum technology.",
+    "one_liner": "AI software for scaling quantum computers",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -11577,7 +11572,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vendra makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and we automate the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra.io and submit an RFQ today!",
     "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1724084407,
@@ -11904,7 +11899,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -12257,7 +12252,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -12611,7 +12606,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -12766,15 +12761,15 @@
     "website": "https://www.mbodi.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
-    "one_liner": "Make Industrial Robots Learn Like Humans",
-    "team_size": 4,
+    "one_liner": "Industrial Robots that Act Like Humans",
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1747670628,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13027,7 +13022,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -13058,7 +13053,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
     "website": "https://www.foundation-industries.com/",
     "all_locations": "",
-    "long_description": "America once turned scientific breakthroughs into abundant products with unmatched speed, from the moving assembly line to the integrated circuits that launched the space age. In the last 50 years, we offshored that muscle and drifted into a services-only mindset. GDP rose, but everyday prosperity stalled.\r\n\r\nWe don't accept this as final. We're building a future where advanced manufacturing is a national advantage again, creating good jobs, lowering costs, and turning frontier tech into things people can hold. The path forward is hard but clear: accelerate high-tech domestic manufacturing and make “built here” synonymous with speed, quality, and affordability.\r\n\r\nHistory points the way. When Ford industrialized assembly, cars became accessible to millions. When American fabs mastered process control, computing leapt from labs into every pocket. Progress happens when invention meets production at scale.\r\n\r\nWe're forging deep partnerships with hard-tech teams who need reliable, quick-turn precision, so they can prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to help restore American productive power and enjoy the satisfaction of shipping real hardware, reach out: \r\n\r\nfounders@foundation-industries.com",
+    "long_description": "America once turned breakthroughs into abundant products with unmatched speed. Our edge wasn’t just invention; it was the ability to prototype, iterate, and scale production faster than anyone else.\r\n\r\nOver time, we kept inventing but lost production velocity. High-volume manufacturing moved offshore, and low-volume, high-mix production became slow, fragmented, and burdened by overhead, quoting, programming, scheduling, and coordination. For decades, fixing this wasn’t economical. The indirect workaround costs more than the production itself.\r\n\r\nThat constraint is no longer. \r\n\r\nNew tools now automate the cognitive layers that once slowed everything down, collapsing weeks into days and turning overhead into code. \r\n\r\nFor the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge by accelerating high-tech, low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\nfounders@foundation-industries.com",
     "one_liner": "We supply hard tech companies with critical components.",
     "team_size": 3,
     "industry": "Industrials",
@@ -13625,18 +13620,16 @@
     "former_names": [
       "Remnant Robotics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54d1482241918ee48c1c994945fd8c443280d29b.png",
     "website": "https://efference.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Efference builds the eyes and visual cortex for robots. Instead of treating depth as a hardware problem, we use software — inspired by how humans see — to generate rich and reliable 3D information. This lets us deliver higher performance and greater ease of use at a lower price than existing stereo cameras.",
-    "one_liner": "We build the eyes and visual cortex for robots.",
+    "long_description": "",
+    "one_liner": "",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762259214,
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
       "Robotics",
       "Computer Vision"
     ],
@@ -13874,6 +13867,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/icarus.json"
   },
   {
+    "id": 30973,
+    "name": "General Astronautics",
+    "slug": "generalastro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7cf823c4893a350166b41685cc7e72de36fe4d.png",
+    "website": "https://generalastro.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robots for microgravity research and manufacturing.",
+    "one_liner": "The Space Robotics Company",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1772084363,
+    "tags": [
+      "Robotics",
+      "Space Exploration",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/generalastro",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/generalastro.json"
+  },
+  {
     "id": 30987,
     "name": "Lightberry",
     "slug": "lightberry",
@@ -13888,12 +13922,15 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761343459,
     "tags": [
+      "Hard Tech",
+      "Hardware",
       "Robotics",
+      "Design",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -14004,7 +14041,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair builds drones that charge on transmission lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith fewer than 1000 pads, we can service the entire U.S. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -14086,7 +14123,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cfa6fd37255bf3036179eb9d4770661d2f35d12.png",
     "website": "https://arcprize.org/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "ARC Prize builds AI benchmarks that measure general intelligence. Our benchmark, ARC-AGI, has been used by OpenAI, Anthropic, Google DeepMind, and xAI.\r\n\r\nFounded by Mike Knoop and Francois Chollet, we inspire open source artificial general intelligence (AGI) research through benchmarks (the ARC-AGI series), global competitions, research grants, community, and content, we exist to guide researchers, industry, and regulators on the path to AGI.\r\n\r\nWe believe that AGI requires more than just scaling up existing AI models. It demands a fundamental shift towards systems capable of genuine fluid intelligence, the ability to adapt to novel challenges and solve problems efficiently, much like humans do.",
     "one_liner": "AI benchmarks that measure general intelligence and inspire new ideas",
     "team_size": 4,
@@ -14094,8 +14131,7 @@
     "subindustry": "Industrials",
     "launched_at": 1769103962,
     "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
+      "Nonprofit",
       "AI"
     ],
     "tags_highlighted": [],
@@ -14108,8 +14144,6 @@
       "Industrials"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -14163,6 +14197,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
   },
   {
+    "id": 31081,
+    "name": "One Robot",
+    "slug": "one-robot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e234115139eb6fced2e2703ae2ba2ee2d691412c.png",
+    "website": "https://www.onerobot.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time.\r\n\r\nToday, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world.\r\n\r\nWe use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.\r\n",
+    "one_liner": "World models for VLA evals and training.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1771897545,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/one-robot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/one-robot.json"
+  },
+  {
     "id": 31120,
     "name": "Kyten Technologies",
     "slug": "kyten-technologies",
@@ -14210,13 +14286,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
     "website": "https://www.verdexai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Verdex uses satellite imagery and weather data to create a persistent, time-anchored record of what happens on every acre. This turns land into a measurable asset whose outcomes can be audited objectively at scale.\r\n\r\nVerdex is built to replace manual field inspections in insurance verification and risk management.",
-    "one_liner": "Asset Intelligence for Farmland",
+    "long_description": "Verdex is building the infrastructure to modernize agricultural risk. We fuse high-resolution satellite imagery and weather models to monitor fields 24/7, allowing insurers to settle claims without ever leaving their desks. We are currently helping to insure over 11% of all American farmland.\r\n",
+    "one_liner": "Helping insurers settle claims without leaving their desks.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1768239774,
     "tags": [
+      "Insurance",
       "Agriculture",
       "AI"
     ],
@@ -14250,8 +14327,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d6ce96c0e4a1cbd7e0458649e2af7fa551e2bfb.png",
     "website": "https://www.robodock.tech/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RoboDock automates charging for electric and autonomous vehicle fleets by orchestrating when and how vehicles charge, then physically executing charging with robotics. We turn fleet depots from manually operated sites into autonomous, self-optimizing systems that lower operational costs and increase vehicle uptime.",
-    "one_liner": "Enabling autonomous EV and AV depot operations",
+    "long_description": "RoboDock builds robots that automate depot operations, like charging and vehicle checks, for electric and autonomous vehicle fleets. We turn fleet depots from manual sites into self-running systems that lower operational costs and increase vehicle uptime.",
+    "one_liner": "Robots that run autonomous depots for autonomous fleets.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -14290,9 +14367,9 @@
     "name": "OctaPulse",
     "slug": "octapulse",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23da3a492d96b19d0437b960a02a4a3614f0c79c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e0172397f4c3479d08f16556c96343e2d1c9b1.png",
     "website": "https://www.tryoctapulse.com/",
-    "all_locations": "Remote",
+    "all_locations": "",
     "long_description": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry.\r\n\r\nAquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle.\r\n\r\n We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.\r\n",
     "one_liner": "Robotics and computer vision to automate fish farming from hatchery…",
     "team_size": 2,
@@ -14317,7 +14394,7 @@
     ],
     "regions": [
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -14376,7 +14453,7 @@
     "former_names": [
       "DroneTector Ltd"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7e290287e83867619ff9db96fe93dcb0dcc7e36.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a1552aeba914f75657392e47de071913dbe0bc.png",
     "website": "https://www.dronetector.com/",
     "all_locations": "",
     "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
@@ -14387,7 +14464,8 @@
     "launched_at": 1768863894,
     "tags": [
       "Hard Tech",
-      "Drones"
+      "Drones",
+      "Radar"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14409,6 +14487,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dronetector",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/dronetector.json"
+  },
+  {
+    "id": 31158,
+    "name": "Terranox AI",
+    "slug": "terranox-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f32ec888cb2d0eee4fa5e89a1e14a8af2c2f61f.png",
+    "website": "https://terranox.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Terranox is the first vertically integrated AI-powered uranium exploration company. We find high-grade uranium deposits in North America using AI trained on 70+ years of exploration outcomes. Our mission is to find the fuel we need to power the next century with nuclear energy.",
+    "one_liner": "AI-powered uranium exploration",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1771881994,
+    "tags": [
+      "Artificial Intelligence",
+      "Energy",
+      "Mining"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terranox-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/terranox-ai.json"
   },
   {
     "id": 31180,
@@ -14454,6 +14573,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/seeing-systems",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/seeing-systems.json"
+  },
+  {
+    "id": 31196,
+    "name": "Congruent",
+    "slug": "congruent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7c888706d93f04e768a791ada75bb06e4605041.png",
+    "website": "https://congruent.io",
+    "all_locations": "",
+    "long_description": "At Congruent, we build radars for end-to-end autonomous systems. The most advanced autonomous systems are trained as a single neural network from raw sensor data to navigation actions. For a sensor to be included in these pipelines sensor stacks requires two key properties: access to raw sensor data and a high-fidelity sensor simulator. Current automotive radars have neither, they output heavily processed point clouds and no raw radar simulator exists for driving scenes. Congruent solves both problems: a radar architecture that exposes raw data, paired with a world model based radar simulator. Radar is the only depth sensor at a price point that scales to every car on the road and works in all weather conditions. Congruent is building the radar compatible with the training architectures that will make mass-market vehicles autonomous.",
+    "one_liner": "We build radars for end-to-end autonomy",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1771538111,
+    "tags": [
+      "Robotics",
+      "Radar",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/congruent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/congruent.json"
   },
   {
     "id": 31205,
@@ -14552,9 +14711,11 @@
     "subindustry": "Industrials -> Energy",
     "launched_at": 1768576763,
     "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Energy",
       "Renewable Energy",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14570,7 +14731,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -14586,17 +14747,17 @@
     "website": "https://servo7.com",
     "all_locations": "Amsterdam, NH, Netherlands",
     "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
-    "one_liner": "Industry Robots - Ready to Work",
+    "one_liner": "Simple and rapidly deployed robots for industry work",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1769385653,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Logistics",
       "Manufacturing",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14621,23 +14782,26 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
   },
   {
-    "id": 31245,
-    "name": "Squid",
-    "slug": "squid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0dabfec2f533f2142f1c315fccba6afcb525ef1.png",
-    "website": "https://squid.energy",
+    "id": 31232,
+    "name": "Remy AI",
+    "slug": "remy-ai",
+    "former_names": [
+      "Bright Eyed Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94f9d60cdf58d3c7fc724152a315ad834ec78eec.png",
+    "website": "https://www.tryremy.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
-    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
+    "long_description": "We're building flexible automation for warehouses. Our robots automate operationally-intensive, high-dexterity tasks using a proprietary model that draws on the latest architectures in robotic learning. Our custom training pipeline learns new tasks with less data than vanilla VLA fine-tunes, and our unique hardware design operates robustly in the most demanding warehousing environments.\r\n\r\nToday, 80% of warehouses have zero automation. Not because solutions don't exist, but because existing systems are expensive, rigid, and bulky. Despite there being an automation solution for virtually every warehouse task, the vast majority of facilities can't justify the cost or the operational overhead of deploying them. \r\n\r\nWe're building robots that change that: flexible, adaptable machines that slot into existing work stations, bringing brownfield automation to the millions of facilities the last 20 years of warehouse automation has left behind.",
+    "one_liner": "Automating dexterous tasks in warehouses",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1768422882,
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1770934019,
     "tags": [
-      "SaaS",
-      "Energy",
-      "Infrastructure"
+      "Deep Learning",
+      "Robotics",
+      "Logistics",
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14647,7 +14811,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Energy"
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -14658,8 +14822,84 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/remy-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/remy-ai.json"
+  },
+  {
+    "id": 31245,
+    "name": "Squid",
+    "slug": "squid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93fe1704e4703d232c51eb59b83175a7dcf288f7.png",
+    "website": "https://squid.energy",
+    "all_locations": "",
+    "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
+    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1768422882,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/squid",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/squid.json"
+  },
+  {
+    "id": 31284,
+    "name": "Origami Robotics",
+    "slug": "origami-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/483745ec0ce0b61b675293fca49bf8749c113c1d.png",
+    "website": "https://www.origami-robotics.com",
+    "all_locations": "Millbrae, CA, USA",
+    "long_description": "We are building a \"manipulate anything\" model with the robot hardware that embodies it. We designed a hand-based data-collection device and a high DOF, direct drive robotic hand that match each other exactly, enabling us to eliminate embodiment gap and collect real-world data and deploy it directly. We want to scale real world manipulation data by deploying our devices \"in the wild\" like manufacturing factories, logistic centers to collect Tesla like data, use these data to train our model and then provide automation solutions to these industries.",
+    "one_liner": "Manipulate Anything Robot",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1770611317,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/origami-robotics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/origami-robotics.json"
   },
   {
     "id": 31285,
@@ -14754,16 +14994,17 @@
     "name": "Condor Energy",
     "slug": "condor-energy",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5751db10a61d10ff4226cc9aa0b10f70ff87bb6d.png",
-    "website": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fb409eebab1bce05d1234942c6f03c6739eec60.png",
+    "website": "https://www.condor.energy",
     "all_locations": "",
     "long_description": "Condor helps large electricity consumers - C&I and data centers - cut electricity costs by helping the grid.\r\nWe are former electricity traders and energy systems experts building our AI-powered software. Our clients use Condor to control their electricity costs, to steer their consumption based on reliable forecasts and to conduct profitable investments. ",
-    "one_liner": "Energy system enabling reliable, cheap and sustainable electricity…",
+    "one_liner": "Energy OS enabling reliable, cheap and sustainable electricity supply.",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1770133131,
     "tags": [
+      "B2B",
       "Energy"
     ],
     "tags_highlighted": [],

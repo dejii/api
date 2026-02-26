@@ -892,7 +892,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -1100,7 +1100,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -1147,7 +1147,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -1333,6 +1333,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/icarus",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/icarus.json"
+  },
+  {
+    "id": 30973,
+    "name": "General Astronautics",
+    "slug": "generalastro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7cf823c4893a350166b41685cc7e72de36fe4d.png",
+    "website": "https://generalastro.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robots for microgravity research and manufacturing.",
+    "one_liner": "The Space Robotics Company",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1772084363,
+    "tags": [
+      "Robotics",
+      "Space Exploration",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/generalastro",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/generalastro.json"
   },
   {
     "id": 30996,
@@ -1540,49 +1581,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/beyond-reach-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/beyond-reach-labs.json"
-  },
-  {
-    "id": 31212,
-    "name": "Constellation Space",
-    "slug": "constellation-space",
-    "former_names": [
-      "Constellation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
-    "website": "https://constellation-io.com/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic—zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
-    "one_liner": "AI for space mission assurance. ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1766273553,
-    "tags": [
-      "Artificial Intelligence",
-      "Satellites",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
   },
   {
     "id": 31287,

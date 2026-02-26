@@ -320,7 +320,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2016",
     "status": "Active",
@@ -1754,50 +1754,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/r2.json"
   },
   {
-    "id": 23075,
-    "name": "Sturdy",
-    "slug": "sturdy-2",
-    "former_names": [
-      "Trained Eye",
-      "Sturdy",
-      "Sturdy Finance"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad9396b9cebc1da00df8e848c265dd081f363791.png",
-    "website": "https://sturdy.finance",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "DeFi protocol for permissionless lending",
-    "team_size": 11,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1616256593,
-    "tags": [
-      "DeFi",
-      "Fintech",
-      "Lending"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sturdy-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/sturdy-2.json"
-  },
-  {
     "id": 23405,
     "name": "Dayra",
     "slug": "dayra",
@@ -2898,7 +2854,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -2983,7 +2939,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -3131,5 +3087,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veritus",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/veritus.json"
+  },
+  {
+    "id": 31169,
+    "name": "Proximitty",
+    "slug": "proximitty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
+    "website": "https://proximitty.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Proximitty is the first truly AI-native loan management system. We build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nTrusted by publicly traded fintechs and banks globally.",
+    "one_liner": "Autonomous loan servicing and collections",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1771451277,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Lending"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proximitty",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/proximitty.json"
   }
 ]

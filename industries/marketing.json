@@ -3194,7 +3194,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -4042,7 +4042,7 @@
       "Course Crafters"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f4a9dcc6bc70da6e6cdd8258616c7c1dee6f43.png",
-    "website": "http://rethoric.com",
+    "website": "http://rethoric.com/ycombinator",
     "all_locations": "San Diego, CA, USA; Remote",
     "long_description": "Rethoric is a plug-and-play content team specialized in helping founders publish high-quality content consistently and grow on LinkedIn to get 1M+ monthly impressions.\r\n\r\nMost founders know the value of building an audience on LinkedIn, but the process demands consistency, time, creativity, writing skills, and energy—things founders often lack.\r\n\r\nOur clients only need to attend a monthly content interview session, and we do the rest. ",
     "one_liner": "LinkedIn content & strategy for founders to get 1M monthly impressions",
@@ -5341,7 +5341,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -5640,20 +5640,20 @@
     "former_names": [
       "LineUp"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8be8a05c36ad89e0a6589a8573fae10d75c592.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32ccd0a8e163e6c0cf404e4f9c6202d57317315c.png",
     "website": "https://rankai.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rankai is building an AI-powered Marketing Agency, starting with search engine marketing.",
-    "one_liner": "Jumpstarting SEO/GEO with AI + Human Experts",
-    "team_size": 3,
+    "long_description": "SEO & GEO is confusing and massively overpriced. RankAI will handle everything autonomously to drive you millions of visitors from Google and AI search like ChatGPT. \r\n\r\nRankAI first identifies search queries your customers already search for, then it builds search-optimized pages to capture millions of these queries. Finally, like a real agency, RankAI will track its results, rethink its strategy, and rewrite pages again and again to improve performance. RankAI does not stop until traffic swarms in.",
+    "one_liner": "AI-Native Agency for Organic Growth (SEO & GEO) ",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1731442233,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5791,7 +5791,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -5822,17 +5822,17 @@
     "website": "https://getjust.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Always-on AI agents for 1-1 personalization at scale",
-    "one_liner": "A modern workflow for lifecycle marketing",
+    "one_liner": "Agentic Marketing Platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Workflow Automation",
       "Personalization",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5927,7 +5927,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -6088,47 +6088,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/affil-ai.json"
   },
   {
-    "id": 30057,
-    "name": "Luthor",
-    "slug": "luthor",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/541e114d564e1114486b6a9d192704be24343bd3.png",
-    "website": "https://luthor.ai",
-    "all_locations": "",
-    "long_description": "We’re building the first AI-Native Compliance Firm for RIAs, wealth advisors, and fintechs.\r\n\r\nWe're doing this by blending AI workflows with veteran ex-regulators so we can keep firms SEC/FINRA-ready in minutes, not days.",
-    "one_liner": "AI-Native Compliance Firm",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1730139932,
-    "tags": [
-      "B2B",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/luthor",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
-  },
-  {
     "id": 30066,
     "name": "Unusual",
     "slug": "unusual",
@@ -6138,15 +6097,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd15b298040da78745561fe92b10fb7b1c25f4d5.png",
     "website": "https://unusual.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unusual helps brands discover and change how AI models talk about them.\r\n\r\nUnusual surveys models with thousands of targeted probing questions to understand how they form their opinions. We examine the sources they pull from, and find patterns in their reasoning, that let us create content and PR engineered to change those models’ minds.\r\n\r\nA typical Unusual customer sees more than a 40% increase in traffic from AI models within a month of going live.\r\n\r\nBeyond driving more traffic, customers have used Unusual to shift models’ perception of their brand from “niche” to “enterprise-platform”, from “scrappy” to “customer-obsessed”, and from “good for startups” to “a solid bet for the middle market”.\r\n\r\nWe work with top companies including Reducto, Monarch Money, and more.",
+    "long_description": "Unusual helps brands discover and change how AI models talk about them.\r\n\r\nUnusual surveys models with thousands of targeted probing questions to understand how they form their opinions. We examine the sources they pull from, and find patterns in their reasoning, that let us create content and PR engineered to change those models’ minds.\r\n\r\nCustomers have used Unusual to shift models’ perception of their brand from “niche” to “enterprise-platform”, from “scrappy” to “customer-obsessed”, and from “good for startups” to “a solid bet for the middle market”.\r\n\r\nWe work with top companies including Reducto, Monarch Money, and more.",
     "one_liner": "Discover and change how AI models talk about your brand.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1730767330,
     "tags": [
-      "Artificial Intelligence",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6181,8 +6140,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c559a82e8bccf756d0c26668df5ed8dc95c8bd00.png",
     "website": "https://www.athenahq.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more using generative engine optimization (GEO).\r\n\r\nAI search is expected to overtake traditional search in the next 3 years. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
-    "one_liner": "Get Your Brand Discovered on AI Search.",
+    "long_description": "Make sure your brand doesn’t get left behind as search shifts from traditional SEO to generative AI search.\r\n\r\nAthenaHQ is an AI SEO platform for GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization), helping brands show up in AI-generated answers across ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nAI search is expected to overtake traditional search within the next few years. AthenaHQ fills the gap with a system to measure visibility, identify what AI engines cite and recommend, and help your team improve content and brand presence for AI-first discovery.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
+    "one_liner": "Be the Answer in AI Search - AI SEO across SEO, GEO & AEO",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -6597,8 +6556,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
     "website": "https://www.getbluma.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy with content templates, generating on brand videos on autopilot.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma automates end-to-end and at scale. We can make entire UGC videos from a reference at 10x the scale and 1/10th of the cost. We remove the operations of hiring, managing, creatives and spend with AI.",
-    "one_liner": "AI short form content engine",
+    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy by cloning your competitor's viral videos.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma can clone end-to-end and at scale.",
+    "one_liner": "Canva for short-form video ads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -6718,24 +6677,67 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bear.json"
   },
   {
+    "id": 31195,
+    "name": "Reframe",
+    "slug": "usereframe",
+    "former_names": [
+      "Milotic AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf91d138b76358671fb6075cfe46848aa81bd6cc.png",
+    "website": "http://usereframe.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reframe deploys AI agents to manage overseas hardware manufacturing. Our Agents can understand your build matrix, coordinate waterfall schedules with supplies, and negotiate pricing, ensuring that your parts won't miss the next build.",
+    "one_liner": "AI agents to automate hardware procurement",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1770935313,
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/usereframe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/usereframe.json"
+  },
+  {
     "id": 31203,
     "name": "sitefire",
     "slug": "sitefire",
     "former_names": [
       "pulse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d810cf9fbc8197e7a14f659b8561b30bc2fc6e4c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
     "website": "https://sitefire.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify the content that drives AI visibility, and recommend actions that work: third-party sites, UGC content, and new blog posts. But we don’t stop there. sitefire synthesizes the top-cited web pages into AI-optimized, ready-to-publish web pages. You just publish and start winning leads.",
-    "one_liner": "Marketing suite for the agentic web.",
+    "one_liner": "Marketing suite for the agentic web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1770178936,
     "tags": [
+      "Generative AI",
       "Marketing",
-      "Enterprise",
       "Search"
     ],
     "tags_highlighted": [],

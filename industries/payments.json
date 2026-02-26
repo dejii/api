@@ -644,7 +644,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2016",
     "status": "Active",
@@ -2829,7 +2829,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -4979,7 +4979,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -5058,7 +5058,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Moreta, we simplify payments for international travelers, letting you pay for anything using just your phone. Say goodbye to the hassle of searching for the best cash exchange rates or ATMs on your next trip. With Moreta, paying local merchants is easy, and the best part? Transparent fees.\r\n\r\nWe came up with Moreta while on our own backpacking adventures. Watching locals pay with a simple scan while we fumbled with cards and cash. So, we created a solution. By syncing with local payment networks, Moreta lets you pay like a local securely and digitally, without needing a bank account in every country.\r\n\r\nWe’re starting in Asia, where QR code digital wallets are taking over and are now the top choice at checkout. As these wallets start to join forces for cross-border payments, Moreta will be the first to bridge the gap for international travelers from card-centric markets to seamlessly tap into these local networks. Moreta will target 67 million travelers arriving in the region each year, who together have $127 billion in everyday expenditure.",
     "one_liner": "Payments made easy for international travelers.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1724360319,
@@ -5316,6 +5316,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
   },
   {
+    "id": 31119,
+    "name": "ZeroSettle",
+    "slug": "zerosettle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
+    "website": "https://zerosettle.io",
+    "all_locations": "",
+    "long_description": "Ever since Epic v Apple, developers are now allowed to support direct billing in their app and avoid the App Store fee. We help developers keep more of their revenue with \"Switch & Save\" Campaigns, Smart Cancellation Flows, and Web Checkout Paywalls.",
+    "one_liner": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1770252325,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zerosettle",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
+  },
+  {
     "id": 31255,
     "name": "Grade",
     "slug": "grade",
@@ -5356,5 +5398,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grade",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json"
+  },
+  {
+    "id": 31296,
+    "name": "Unifold",
+    "slug": "unifold",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
+    "website": "https://unifold.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Launch crypto deposits in minutes. \r\n\r\nUnifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works.\r\n\r\nIf you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.\r\n",
+    "one_liner": "Multi-chain deposit and payment infrastructure",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1771008732,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Payments",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unifold",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
   }
 ]

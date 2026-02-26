@@ -143,9 +143,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e61aca9e3ec1f41c1b6e3f94c2d34767562c42d.png",
     "website": "http://www.AYCFund.com/",
     "all_locations": "Seoul, South Korea",
-    "long_description": "AYC Fund is web3 VC and web3 liquid fund. ",
-    "one_liner": "Web3 VC and Web3 Liquid Fund",
-    "team_size": 2,
+    "long_description": "AI-native crypto hedge fund",
+    "one_liner": "AI-native crypto hedge fund",
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1641267384,
@@ -397,18 +397,20 @@
     "name": "ZeroSettle",
     "slug": "zerosettle",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df1cb7001d68c800f9bb4a4a4b48f8d7a27e4699.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
     "website": "https://zerosettle.io",
     "all_locations": "",
-    "long_description": "",
-    "one_liner": "Bypass the App Store tax and enable web-based purchases",
+    "long_description": "Ever since Epic v Apple, developers are now allowed to support direct billing in their app and avoid the App Store fee. We help developers keep more of their revenue with \"Switch & Save\" Campaigns, Smart Cancellation Flows, and Web Checkout Paywalls.",
+    "one_liner": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
     "launched_at": 1770252325,
     "tags": [
+      "Developer Tools",
       "Fintech",
       "Payments",
+      "B2B",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],
@@ -418,8 +420,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "Fintech",
+      "Payments"
     ],
     "regions": [
       "Unspecified"
@@ -437,7 +439,7 @@
     "name": "Sequence Markets",
     "slug": "sequence-markets",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/564c0c8ad6b1cf6c6c24454e941feb323039e055.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32de69f69c1154a1195504543e1a4fc2eed3dbfc.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
@@ -447,8 +449,8 @@
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
+      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],
@@ -471,5 +473,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
+  },
+  {
+    "id": 31296,
+    "name": "Unifold",
+    "slug": "unifold",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
+    "website": "https://unifold.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Launch crypto deposits in minutes. \r\n\r\nUnifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works.\r\n\r\nIf you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.\r\n",
+    "one_liner": "Multi-chain deposit and payment infrastructure",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1771008732,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Payments",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unifold",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
   }
 ]

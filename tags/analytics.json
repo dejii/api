@@ -2197,11 +2197,11 @@
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1525316905,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Analytics",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2222,7 +2222,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/alpha-vantage",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/alpha-vantage.json"
@@ -3209,49 +3209,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/june.json"
   },
   {
-    "id": 22906,
-    "name": "LiveFlow",
-    "slug": "liveflow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98bea3f929dc1e5ae170d9423f432e2f8a35726.png",
-    "website": "https://www.liveflow.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Meet your finance team's new superpower: LiveFlow eliminates the endless hours of manual financial reporting that keep CFOs and their teams stuck instead of driving strategic value. By automating your month-end close process from days to minutes, LiveFlow acts like your highest-performing analyst who works 24/7 with perfect accuracy. Not only does this free your team from the monthly close chaos, but it also means you can finally focus on what you actually became a CFO for – delivering insights that move your business forward.",
-    "one_liner": "The #1 platform for multi-entity finance",
-    "team_size": 47,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1613521213,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/liveflow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/liveflow.json"
-  },
-  {
     "id": 22951,
     "name": "Datrics",
     "slug": "datrics",
@@ -3868,7 +3825,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -4084,7 +4041,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\r\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\r\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
     "one_liner": "Open source feature flagging and A/B testing",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1645834859,
@@ -5019,8 +4976,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29768f3ec06f6ad6cbf8c250cca3501743daf869.png",
     "website": "https://www.getrima.ai",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Rima is an AI reconciliation assistant for accountants that enables them to complete complex reconciliations in minutes instead of hours\r\n\r\nWe are on a mission to build the automation layer for reconciliation for every ERP and payment system.",
-    "one_liner": "AI powered reconciliation for accountants",
+    "long_description": "Rima helps accountants automate document and spreadsheet work with accuracy and cell-level audit tracking.\r\n\r\nFor accountants that deal with messy docs and spend their time in Excel, Rima enables them to build workflows in natural language to extract and process financial data from PDFs or ERPs into their Excel templates and reconcile their spreadsheets in minutes. Accountants build these workflows once and our agents do the work for them going forward, preserving their institutional memory and know-how.",
+    "one_liner": "Document and spreadsheet automation for accountants",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -5580,10 +5537,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -6036,7 +5993,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -6202,7 +6159,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We're building the unified marketing measurement stack for online stores. We make it easy for marketeers to understand where their customers come from, cut unprofitable channels, and scale when things are working.\r\n\r\nWe are vertically integrating the modern data stack for marketing teams of online stores by consolidating customer data collection, consent management, identity resolution, transformations, attribution, data forwarding, and analytics into a single platform.",
     "one_liner": "All-in-one marketing measurement for B2C",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687127368,
@@ -6739,9 +6696,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b35e46eb9b08cc67eb469ae038a64122cff97e.png",
     "website": "http://www.betterbasket.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BetterBasket helps grocers with pricing, powered by competitive data. Our founding team worked together at Uber Eats growing the dark store business in Asia to $100 million in revenue and making it profitable, and are now building BetterBasket to bring those learnings to all grocers.",
-    "one_liner": "The only all-in-one pricing system for grocers",
-    "team_size": 4,
+    "long_description": "BetterBasket provides grocery retailers with AI agents for pricing, competitive intelligence and promotion optimization, with the aim of helping teams boost revenue, manage margin targets and automate decisions using real-time data across operations. ",
+    "one_liner": "Smart grocery pricing with AI",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1706153675,
@@ -6964,7 +6921,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
     "one_liner": "AI Data Scientist for Jupyter and Metabase",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722024736,
@@ -7022,7 +6979,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -7056,7 +7013,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
+    "long_description": "Visit https://ironclaw.sh\r\n\r\nAn AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
     "one_liner": "AI Workforce that does it all",
     "team_size": 4,
     "industry": "B2B",
@@ -7064,10 +7021,10 @@
     "launched_at": 1720334032,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Workflow Automation",
       "Analytics",
-      "CRM"
+      "CRM",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7095,18 +7052,19 @@
   },
   {
     "id": 29745,
-    "name": "Lumenary",
-    "slug": "lumenary",
+    "name": "Sharpe",
+    "slug": "sharpe",
     "former_names": [
       "January",
       "Lumenary",
-      "Lumenary, Inc."
+      "Lumenary, Inc.",
+      "Lumenary"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
-    "website": "https://try.solar",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a16f4a789dc478c2f72f7a8e219fdb5d33ec82.png",
+    "website": "https://sharpe.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
-    "one_liner": "Build working software exceedingly fast in Solar",
+    "long_description": "Sharpe is an AI data science agent purpose-built for quantitative finance, deployed on-premises at some of the world's most demanding trading firms and hedge funds. It absorbs your internal documentation, enforces your firm's methodology, and delivers completed, cited Jupyter notebooks at petabyte scale. Sharpe gives every analyst on your desk the institutional knowledge and output of your best.",
+    "one_liner": "Agents for quantitative research and financial data science.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -7137,8 +7095,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumenary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+    "url": "https://www.ycombinator.com/companies/sharpe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
   },
   {
     "id": 29768,
@@ -7237,7 +7195,7 @@
       "Invoke AI",
       "Invoke Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88e92cf25d0e0f2a176b614b7fca633db69671e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e097d283f408c0a5e7db6a2bef1bf267b298465c.png",
     "website": "https://voker.ai",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Voker is the analytics platform for monitoring and improving your AI agents. Companies like Lull.com and Dutch.com use our SDK to build better AI.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.",
@@ -7247,10 +7205,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8104,6 +8062,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
   },
   {
+    "id": 31092,
+    "name": "Axis",
+    "slug": "axis-2",
+    "former_names": [
+      "Sweep"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
+    "website": "https://axisanalysis.com",
+    "all_locations": "",
+    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trading desk to deploy models for monitoring strategies. \r\n\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. \r\n\r\nAxis is building an AI driven analytical layer for these markets.\r\n",
+    "one_liner": "An AI Trading System for Commodities Markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1769120993,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Analytics",
+      "Market Research",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/axis-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/axis-2.json"
+  },
+  {
     "id": 31242,
     "name": "Booko",
     "slug": "booko",
@@ -8150,18 +8151,19 @@
     "slug": "moda",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
-    "website": "https://modaflows.com",
+    "website": "https://usemoda.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moda alerts you when things go wrong with your AI agents.",
-    "one_liner": "Sentry for AI.",
+    "long_description": "Moda is the monitoring & analytics layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
+    "one_liner": "The monitoring & analytics layer your AI agents need.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769121297,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Analytics"
+      "Analytics",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8171,7 +8173,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -8184,5 +8186,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
+  },
+  {
+    "id": 31275,
+    "name": "Polymorph",
+    "slug": "polymorph",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
+    "website": "https://usepolymorph.com/",
+    "all_locations": "",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel, then attribute conversions to learn what works.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal Security, and Nira Energy.",
+    "one_liner": "Personalized notifs & attribution for consumer and self-serve apps",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771290879,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polymorph",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymorph.json"
   }
 ]

@@ -1090,10 +1090,10 @@
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "launched_at": 1630032705,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Chatbot",
       "Retail",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1289,7 +1289,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer"
     ],
@@ -1381,7 +1381,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -1788,7 +1788,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -2020,7 +2020,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer"
     ],
@@ -2126,16 +2126,17 @@
   },
   {
     "id": 26884,
-    "name": "RaptorGrid",
-    "slug": "raptorgrid",
+    "name": "Alphawatch AI",
+    "slug": "alphawatch-ai",
     "former_names": [
       "StableBank",
-      "AlphaWatch AI"
+      "AlphaWatch AI",
+      "RaptorGrid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023671fb6254cfaca19b56741b1b6b230aeb6a64.png",
-    "website": "https://raptorgrid.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
+    "website": "https://alphawatch.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "RaptorGrid generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
+    "long_description": "Alphawatch AI generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
     "one_liner": "AI Employees for Finance",
     "team_size": 10,
     "industry": "Fintech",
@@ -2168,8 +2169,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raptorgrid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/raptorgrid.json"
+    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
   },
   {
     "id": 26885,
@@ -2225,7 +2226,7 @@
     "former_names": [
       "Cambio"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c883569550177f7700c6efba769c869c5d530759.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40b545f0827e44a735f2287cc0b17aea7e65e7ff.png",
     "website": "http://www.helloaviary.ai",
     "all_locations": "Chicago, IL, USA",
     "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
@@ -2235,14 +2236,14 @@
     "subindustry": "Fintech",
     "launched_at": 1654737893,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -3114,14 +3115,14 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Elyos AI is a fully autonomous AI Agent, built specifically for trades and field services businesses.",
     "one_liner": "AI Customer Service Agents for trades and field services",
-    "team_size": 7,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1688401921,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3582,6 +3583,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/wattson-health.json"
   },
   {
+    "id": 29134,
+    "name": "Cognitio Labs",
+    "slug": "cognitio-labs",
+    "former_names": [
+      "Flair Technology Services Inc.",
+      "Flair",
+      "Flair Health",
+      "Flair Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
+    "website": "https://www.flairhealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1690407835,
+    "tags": [
+      "AIOps",
+      "B2B",
+      "Data Science",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cognitio-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
+  },
+  {
     "id": 29155,
     "name": "jo",
     "slug": "jo",
@@ -3711,68 +3759,26 @@
   },
   {
     "id": 29207,
-    "name": "PurplePages",
-    "slug": "purplepages",
+    "name": "Cora",
+    "slug": "cora",
     "former_names": [
       "PurplePill",
-      "HeyPurple"
+      "HeyPurple",
+      "PurplePages"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf22855fa2bcccfa5a6527f46a30a4d6e91069b2.png",
-    "website": "https://www.thepurplepages.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4d875b70b030b8234a9895a54859da447f55d2e.png",
+    "website": "https://www.corahealth.app/download",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Purple is an AI agent for online local marketplace transactions.",
+    "long_description": "Cora is a mobile app that provides personalized fitness coaching using health and wearable data. Cora is built for people who want structure and guidance in their training, but don’t benefit from generic programs or static plans. By connecting to Apple Watch and other health data sources, Cora understands a user’s current fitness level and adapts coaching, insights, and training plans over time.\r\n\r\nWith Cora, users get:\r\n- Coaching and insights based on real health and wearable data\r\n- Adaptive training plans that evolve with fitness level\r\n- Nutrition tracking with smart macro targets based on your goals\r\n- Clear guidance on training, recovery, and progress over time\r\n- A simple way to understand where they are and what to do next",
+    "one_liner": "AI Fitness Coach",
     "team_size": 3,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "subindustry": "Consumer",
     "launched_at": 1707161827,
     "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Real Estate",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
       "Consumer",
-      "Home and Personal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/purplepages",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/purplepages.json"
-  },
-  {
-    "id": 29239,
-    "name": "ion design",
-    "slug": "ion-design",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ac79a5dd7e79b8d3e0a7794a401a7673116ee9.png",
-    "website": "https://www.ion.design/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We created Ruby, an AI Product designer who improves your product while you sleep.\r\n\r\nYou can assign Ruby design tasks right in slack, like optimizing a flow or creating a new page.\r\nShe clarifies requirements, researches, designs multiple options, iterates with you, and ships PRs to your codebase. She will then monitor performance and suggest future improvements.\r\n\r\nShe’s like Devin, but for Product Design work.",
-    "one_liner": "We built the 1st Autonomous AI Product Designer",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1698787268,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Design Tools",
+      "Fitness",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3782,8 +3788,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -3794,8 +3799,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ion-design",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ion-design.json"
+    "url": "https://www.ycombinator.com/companies/cora",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/cora.json"
   },
   {
     "id": 29249,
@@ -3974,53 +3979,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/blume-benefits.json"
   },
   {
-    "id": 29332,
-    "name": "Pillar",
-    "slug": "trypillar",
-    "former_names": [
-      "Double"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3765a4b3a407691f524ffa2f1b9c994e62781a26.png",
-    "website": "https://trypillar.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your help center shouldn't be an afterthought. Pillar keeps yours alive and accurate, letting users self-help with trusted answers embedded right where they need them.",
-    "one_liner": "The Intelligent Help Center",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1701750687,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Customer Success",
-      "Customer Service",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trypillar",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/trypillar.json"
-  },
-  {
     "id": 29341,
     "name": "14.ai",
     "slug": "14-ai",
@@ -4030,17 +3988,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png",
     "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai is a Zendesk alternative built from the ground up for AI agents. ",
-    "one_liner": "AI Customer Service Platform and BPO for Your B2C Business",
+    "long_description": "14.ai is a Zendesk + offshore alternative built from the ground up for AI agents. ",
+    "one_liner": "AI Customer Service Agency for Your B2C Business",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700867535,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
+      "E-commerce",
       "Customer Support",
       "Infrastructure",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4293,7 +4251,7 @@
       "Ultra"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
-    "website": "https://deep24.ai",
+    "website": "https://deep24.com",
     "all_locations": "",
     "long_description": "Deep24 is a coach that syncs with all your data source, understanding you and then coming up with plans to improve your life. ",
     "one_liner": "AI coach for your entire life",
@@ -4513,17 +4471,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps lawyers stay organized, spot issues earlier, and close deals faster.",
-    "one_liner": "Legal due diligence platform powered by AI",
+    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
+    "one_liner": "M&A due diligence platform powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4867,7 +4825,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
     "one_liner": "AI Data Scientist for Jupyter and Metabase",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722024736,
@@ -4899,51 +4857,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/minusx",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/minusx.json"
-  },
-  {
-    "id": 29785,
-    "name": "Simple AI",
-    "slug": "simple-ai",
-    "former_names": [
-      "TBD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc2c60d479b7ebde0f22e07c40db2956ad5ff6c.png",
-    "website": "https://www.usesimple.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simple AI makes it easy to build and deploy enterprise-grade phone agents in days, not weeks. Iconic businesses use us for sales calls, customer support, leads qualification, and more.",
-    "one_liner": "AI phone agents for enterprise",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1723575608,
-    "tags": [
-      "Artificial Intelligence",
-      "Call Center",
-      "Operations",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simple-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simple-ai.json"
   },
   {
     "id": 29795,
@@ -5001,8 +4914,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
     "website": "https://orcaengine.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orca is an AI-native game engine that allows everyone to create 3D worlds and games only by chatting with an AI Agent, play with friends and fellow gamers.",
-    "one_liner": "AI Game Engine",
+    "long_description": "Orca lets you create and edit Minecraft servers, mods, and datapacks directly in your browser using an AI coding assistant, no setup required.",
+    "one_liner": "Make Minecraft mods and servers in your browser with AI",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -5086,17 +4999,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
     "website": "https://saldor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Saldor is your voice-first email client that lets you triage, read, and respond to messages without touching your screen. Whether you’re commuting, cooking, or on the go, Saldor keeps you connected and productive entirely through natural conversation.",
-    "one_liner": "Hands-free email",
+    "long_description": "",
+    "one_liner": "",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1722921255,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
       "Consumer Products",
-      "Email",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5296,47 +5208,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/sandra-ai.json"
   },
   {
-    "id": 30062,
-    "name": "Karmen",
-    "slug": "karmen",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa668d5cbf2cf7fdadb1d8847e54392cbd356305.png",
-    "website": "https://www.karmenai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Karmen is an AI assistant for construction project managers. We integrate with their emails, project management software and ERPs to automate admin tasks like invoice processing and approvals.\r\n\r\nOne construction company we are working with faced a project delay cost of around $50,000 a day from an invoicing mistake. Supplier management issues like these account for 20% of project delays.\r\n\r\n",
-    "one_liner": "AI Assistant for Construction Project Managers",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1731024115,
-    "tags": [
-      "Machine Learning",
-      "Construction",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/karmen",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/karmen.json"
-  },
-  {
     "id": 30096,
     "name": "Capy",
     "slug": "capy",
@@ -5346,12 +5217,12 @@
       "Scrapybara",
       "Scout"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a02216c7c53484d3ad973ad32b59b2140a197d7e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/632fea3abffd6f4ca17133e97e8ebb9eb1a9f356.png",
     "website": "https://capy.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Capy is an AI software engineer that ships dozens of features in parallel. It works end-to-end - autonomously triaging issues, executing code in isolated VMs, and pushing PRs to GitHub.",
-    "one_liner": "AI Software Engineer",
-    "team_size": 4,
+    "long_description": "Orchestrate an army of coding agents from one dashboard. Ship entire sprints in parallel.",
+    "one_liner": "The IDE for the parallel age",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1730261485,
@@ -5393,14 +5264,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Friday is building the assistant that learns how to predict the action that you will take on your emails, and does it for you.\r\n\r\nToday's email products try to help you go through your emails a little faster, but if you have to get through 1000 emails, those products doesn't do much for you. \r\n\r\nThe reality is, most of the emails you get don't require you to personally look at them. Friday completely eliminates the need to check those emails, and handles them all at once for you, immediately. \r\n\r\nFriday is here to file away spam, sift through newsletters for important tidbits, text you important notifications, and reply to mundane emails, so that no matter how many thousands of emails are in your inbox, you'll just be left with the few emails that actually require your personal touch.\r\n\r\nGetting this right is difficult, so everyone else settles with trying to help you go through your email twice as fast. If you want to go 100x as fast, you shouldn't spend even a second on useless emails. \r\n\r\nFriday gets this right, bringing the elite experience of having a professional assistant to the entire world.",
     "one_liner": "The AI Assistant for Gmail",
-    "team_size": 1,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1731106672,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
       "Email",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6250,6 +6121,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bidflow.json"
   },
   {
+    "id": 30621,
+    "name": "Tidy",
+    "slug": "tidy",
+    "former_names": [
+      "Pond"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93a91071e0526184092e4e72a13d1108008534a1.png",
+    "website": "https://withtidy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI assistant that you can teach to use any app + lives in your messages.",
+    "one_liner": "Does anything you can imagine with a text",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1752567931,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Messaging",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tidy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tidy.json"
+  },
+  {
     "id": 30660,
     "name": "Sagekit",
     "slug": "sagekit",
@@ -6303,8 +6217,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
     "website": "https://epicenter.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
-    "one_liner": "Open-source, local-first apps that share a memory.",
+    "long_description": "Epicenter is an ecosystem of open-source, local-first apps that share a memory. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
+    "one_liner": "ChatGPT's memory feature in an open, portable format",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -6436,14 +6350,14 @@
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Omnara brings Claude Code and Codex to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
-    "one_liner": "Mobile & Voice Interface for Claude Code & Codex",
+    "one_liner": "Mobile & Web Interface for Claude Code & Codex",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753676392,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6530,9 +6444,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1754475903,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6942,6 +6856,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
   },
   {
+    "id": 31000,
+    "name": "Vector Legal",
+    "slug": "vector-legal",
+    "former_names": [
+      "Cadence",
+      "Raise"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
+    "website": "https://vectorlegal.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A modern solution for Startup legal: Vector Legal is a hybrid AI law firm + legal tech platform. Our customers benefit from state of the art software for their legal operations + an experienced lawyer-in-the-loop. \r\n\r\nServices: fundraise & priced rounds | customer contracts | team growth & equity | AI draft & review | agentic data room | e-signatures | contract intelligence | legal health checks | mergers & acquisitions | co-founder separations | company formation.",
+    "one_liner": "AI Law Firm + Legal Tech Platform for Startups",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1771526564,
+    "tags": [
+      "Legal",
+      "LegalTech",
+      "Operations",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vector-legal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
+  },
+  {
     "id": 31001,
     "name": "Fastshot",
     "slug": "fastshot",
@@ -6992,7 +6951,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "item connects to all your customer tools, gathers and enriches context automatically, and becomes your company’s source of truth — one place where your team and your AI agents share the full picture to act autonomously.\r\n\r\nAt the center is the Assistant — your sidekick for daily work. It can send follow-ups, research leads, or add deals with a simple prompt. No complex UI, drop-downs or fields, simply ask.\r\n\r\nFor repeatable work, you build Agents that you can train like new hires, simply by writing documents that describe your processes. item Agents run business processes across sales, support, and account management autonomously.",
     "one_liner": "The AI-Native CRM that works for you",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1762209746,
@@ -7022,6 +6981,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/item",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/item.json"
+  },
+  {
+    "id": 31107,
+    "name": "Clam",
+    "slug": "clam",
+    "former_names": [
+      "BaseFrame"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5a9e3c752f35fdf71eba1c872ab536a75ec4db4.png",
+    "website": "https://tryclam.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI frameworks like OpenClaw have a major issue: data security. \r\n\r\nWhether you're an enterprise or an individual exploring AI, your data should stay protected.\r\n\r\nClam brings enterprise-grade security through their “Semantic Firewall”, a security checkpoint that sits around the AI's environment at the network level. \r\n\r\nOur system runs a series of scans on anything your AI sends out into the world and everything that comes in to catch inconsistencies before they turn into problems. Each message is scanned for personal info leaks (SSNs, credit cards, private keys), prompt injection attempts (jailbreaks, instruction overrides), and malicious code (reverse shells, encoded execution). \r\n\r\nTo keep your data even safer, API keys and secrets are injected at the network level so the AI never sees or stores your credentials. \r\n\r\nDeploy and set up broad-access AI agents built on security with Clam. \r\n",
+    "one_liner": "Enterprise-grade security for broad-access AI Agents like OpenClaw",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768518655,
+    "tags": [
+      "Workflow Automation",
+      "Security",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clam",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/clam.json"
   },
   {
     "id": 31117,
@@ -7067,14 +7069,59 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/bujo.json"
   },
   {
+    "id": 31118,
+    "name": "Carson",
+    "slug": "carson",
+    "former_names": [
+      "Workable Solutions Inc.",
+      "Fix.Fast"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92a11d3a3ee3272d1d97560705cf903b54ea3437.png",
+    "website": "https://usecarson.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An AI agent with enterprise-grade security that generates custom, task-specific interfaces.",
+    "one_liner": "more capable than Cowork, more secure than OpenClaw",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771920641,
+    "tags": [
+      "Productivity",
+      "Security",
+      "Enterprise",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carson",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/carson.json"
+  },
+  {
     "id": 31183,
     "name": "Patientdesk.ai",
     "slug": "patientdeskai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1817be5549646fb9b2b3d779a9bab1f85f130917.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61038c47ba4c75630383f542220a03d2ed7b93d4.png",
     "website": "https://patientdesk.ai/",
     "all_locations": "",
-    "long_description": "The universal AI front desk for healthcare: plugs into any practice management system (cloud-based or on-premise) and automates all patient workflows: scheduling, cancellations, payment plans, insurance checks, reminders, intake, and follow-ups.",
+    "long_description": "Patientdesk is an AI bookings system that helps healthcare practices make more money. We do this by handling bookings, payments, and insurance to fill up a provider's calendar with high value appointments. ",
     "one_liner": "AI voice agent for patient calls & admin workflows",
     "team_size": 3,
     "industry": "Healthcare",

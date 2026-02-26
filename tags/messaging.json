@@ -1748,16 +1748,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
     "one_liner": "Conversational AI agents for Customer Service.",
-    "team_size": 11,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Sales",
       "Customer Service",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1831,22 +1831,25 @@
   },
   {
     "id": 30621,
-    "name": "Pond",
-    "slug": "pond",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b509b40e2c3c32e42ebe7d8742a534de91515647.png",
-    "website": "https://trypond.ai",
+    "name": "Tidy",
+    "slug": "tidy",
+    "former_names": [
+      "Pond"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93a91071e0526184092e4e72a13d1108008534a1.png",
+    "website": "https://withtidy.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building an AI-native messaging app. Pond is a desktop app you can use with your existing messaging services like iMessage (and soon WhatsApp + more). You can see important messages you haven’t replied to, snooze conversations, answer customers in your voice, and more.",
-    "one_liner": "Superhuman for text messages",
+    "long_description": "AI assistant that you can teach to use any app + lives in your messages.",
+    "one_liner": "Does anything you can imagine with a text",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1752567931,
     "tags": [
       "Artificial Intelligence",
       "Productivity",
-      "Messaging"
+      "Messaging",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1855,8 +1858,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -1867,7 +1869,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pond",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
+    "url": "https://www.ycombinator.com/companies/tidy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tidy.json"
   }
 ]

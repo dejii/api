@@ -376,7 +376,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBest MDM: https://cybersecuritynews.com/best-linux-mobile-device-management-software-in-2026/\r\n\r\nIntro:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
     "one_liner": "The guardrail for AI on every device",
     "team_size": 20,
     "industry": "B2B",
@@ -932,11 +932,11 @@
     "subindustry": "B2B",
     "launched_at": 1642412738,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1371,8 +1371,8 @@
     "website": "https://aiprise.com/",
     "all_locations": "Santa Clara, CA, USA",
     "long_description": "Verify your customers globally with a single platform. Get 800+ data points on each business and 100+ data points on each individual and onboard with confidence.",
-    "one_liner": "AI Powered Global Compliance Platform",
-    "team_size": 36,
+    "one_liner": "AI-powered Global Compliance Platform",
+    "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1656614505,
@@ -1640,16 +1640,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 43,
+    "team_size": 51,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1663,11 +1663,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1948,16 +1946,16 @@
   },
   {
     "id": 28929,
-    "name": "Greenlite",
-    "slug": "greenlite",
+    "name": "Bretton AI",
+    "slug": "bretton-ai",
     "former_names": [
       "Greenlite AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1cb1ba3c32ce40d88e6b4b79ac86d9a520edfb7.png",
-    "website": "https://www.greenlite.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a2e212679d6416b22e5a93c56292d0faf00edc5.png",
+    "website": "https://www.bretton.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
-    "one_liner": "AI agents for financial compliance",
+    "long_description": "Bretton AI (formerly Greenlite) is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Bretton AI to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+    "one_liner": "AI agents for financial compliance (AML, KYC and Sanctions)",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -1987,8 +1985,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/greenlite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/greenlite.json"
+    "url": "https://www.ycombinator.com/companies/bretton-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/bretton-ai.json"
   },
   {
     "id": 29000,
@@ -2162,6 +2160,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/roe",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/roe.json"
+  },
+  {
+    "id": 29298,
+    "name": "Greenboard",
+    "slug": "greenboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b27383428d763a236956940e76e892fc851162b4.png",
+    "website": "https://www.greenboard.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
+    "one_liner": "Modern OS for the financial back office. ",
+    "team_size": 26,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1700498020,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Compliance",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/greenboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/greenboard.json"
   },
   {
     "id": 29376,
@@ -2358,16 +2398,16 @@
     "all_locations": "",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2622,6 +2662,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/galini",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/galini.json"
+  },
+  {
+    "id": 30057,
+    "name": "Luthor",
+    "slug": "luthor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d91e1c60cc50fb16c36d4796d44c09c5b7431053.png",
+    "website": "https://luthor.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building Luthor: software that helps regulated companies review and approve marketing content in minutes instead of weeks.",
+    "one_liner": "Marketing Approval Platform for Regulated Industries",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730139932,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Compliance",
+      "Marketing",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/luthor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
     "id": 30067,
@@ -3189,54 +3271,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/denki",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
-  },
-  {
-    "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
-    "former_names": [
-      "https://www.arcline-ai.com/",
-      "Arcline AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1767976988,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Compliance",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
     "id": 31187,

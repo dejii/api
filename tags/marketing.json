@@ -1258,7 +1258,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -1572,7 +1572,7 @@
       "Course Crafters"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f4a9dcc6bc70da6e6cdd8258616c7c1dee6f43.png",
-    "website": "http://rethoric.com",
+    "website": "http://rethoric.com/ycombinator",
     "all_locations": "San Diego, CA, USA; Remote",
     "long_description": "Rethoric is a plug-and-play content team specialized in helping founders publish high-quality content consistently and grow on LinkedIn to get 1M+ monthly impressions.\r\n\r\nMost founders know the value of building an audience on LinkedIn, but the process demands consistency, time, creativity, writing skills, and energy—things founders often lack.\r\n\r\nOur clients only need to attend a monthly content interview session, and we do the rest. ",
     "one_liner": "LinkedIn content & strategy for founders to get 1M monthly impressions",
@@ -2412,7 +2412,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -2840,7 +2840,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We're building the unified marketing measurement stack for online stores. We make it easy for marketeers to understand where their customers come from, cut unprofitable channels, and scale when things are working.\r\n\r\nWe are vertically integrating the modern data stack for marketing teams of online stores by consolidating customer data collection, consent management, identity resolution, transformations, attribution, data forwarding, and analytics into a single platform.",
     "one_liner": "All-in-one marketing measurement for B2C",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687127368,
@@ -2879,20 +2879,20 @@
     "former_names": [
       "LineUp"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8be8a05c36ad89e0a6589a8573fae10d75c592.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32ccd0a8e163e6c0cf404e4f9c6202d57317315c.png",
     "website": "https://rankai.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rankai is building an AI-powered Marketing Agency, starting with search engine marketing.",
-    "one_liner": "Jumpstarting SEO/GEO with AI + Human Experts",
-    "team_size": 3,
+    "long_description": "SEO & GEO is confusing and massively overpriced. RankAI will handle everything autonomously to drive you millions of visitors from Google and AI search like ChatGPT. \r\n\r\nRankAI first identifies search queries your customers already search for, then it builds search-optimized pages to capture millions of these queries. Finally, like a real agency, RankAI will track its results, rethink its strategy, and rewrite pages again and again to improve performance. RankAI does not stop until traffic swarms in.",
+    "one_liner": "AI-Native Agency for Organic Growth (SEO & GEO) ",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1731442233,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3007,6 +3007,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/nowadays.json"
   },
   {
+    "id": 29239,
+    "name": "ion design",
+    "slug": "ion-design",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ac79a5dd7e79b8d3e0a7794a401a7673116ee9.png",
+    "website": "https://www.ion.design/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ion designs and launches hundreds of on-brand pages for your website, so you close more deals, rank better, and turn your website into a growth engine.\r\n\r\nEvery ad campagin, use case, case study, and competitor comparison gets its own dedicated page, designed to convert.\r\n\r\nIt's like a growth designer working 24/7 to help you convert more traffic.",
+    "one_liner": "AI that creates & tests 100s of landing pages for your product",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1698787268,
+    "tags": [
+      "Design Tools",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ion-design",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/ion-design.json"
+  },
+  {
     "id": 29323,
     "name": "Zaymo",
     "slug": "zaymo",
@@ -3075,7 +3116,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -3151,17 +3192,17 @@
     "website": "https://getjust.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Always-on AI agents for 1-1 personalization at scale",
-    "one_liner": "A modern workflow for lifecycle marketing",
+    "one_liner": "Agentic Marketing Platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Workflow Automation",
       "Personalization",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3186,6 +3227,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/justai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/justai.json"
+  },
+  {
+    "id": 29501,
+    "name": "Latted",
+    "slug": "latted",
+    "former_names": [
+      "Fume Test",
+      "Fume"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b29e2d502cf6d25b0468bc3a78f72aad18346f8.png",
+    "website": "https://latted.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Latted is an all-in one tool to generate and edit professional AI video projects.\r\n\r\nAll professional AI video projects take more than a single generation. You need to juggle between hundreds of images and videos and use multiple tools to edit your project.\r\n\r\nWith Latted, you can generate a 10-minute long video from a single prompt or generate and edit your project from scratch.\r\n\r\nThousands of creators use Latted for marketing videos, content creation and educational content. Create your first project today at latted.com!",
+    "one_liner": "A Unified Editor For AI Video",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1705822020,
+    "tags": [
+      "B2B",
+      "Video",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/latted",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/latted.json"
   },
   {
     "id": 29510,
@@ -3344,7 +3430,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -3509,19 +3595,21 @@
     "name": "Luthor",
     "slug": "luthor",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/541e114d564e1114486b6a9d192704be24343bd3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d91e1c60cc50fb16c36d4796d44c09c5b7431053.png",
     "website": "https://luthor.ai",
-    "all_locations": "",
-    "long_description": "We’re building the first AI-Native Compliance Firm for RIAs, wealth advisors, and fintechs.\r\n\r\nWe're doing this by blending AI workflows with veteran ex-regulators so we can keep firms SEC/FINRA-ready in minutes, not days.",
-    "one_liner": "AI-Native Compliance Firm",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building Luthor: software that helps regulated companies review and approve marketing content in minutes instead of weeks.",
+    "one_liner": "Marketing Approval Platform for Regulated Industries",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B",
     "launched_at": 1730139932,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
+      "Compliance",
       "Marketing",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3530,12 +3618,11 @@
     "batch": "Fall 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "B2B"
     ],
     "regions": [
-      "Remote",
-      "Partly Remote"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3555,15 +3642,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd15b298040da78745561fe92b10fb7b1c25f4d5.png",
     "website": "https://unusual.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unusual helps brands discover and change how AI models talk about them.\r\n\r\nUnusual surveys models with thousands of targeted probing questions to understand how they form their opinions. We examine the sources they pull from, and find patterns in their reasoning, that let us create content and PR engineered to change those models’ minds.\r\n\r\nA typical Unusual customer sees more than a 40% increase in traffic from AI models within a month of going live.\r\n\r\nBeyond driving more traffic, customers have used Unusual to shift models’ perception of their brand from “niche” to “enterprise-platform”, from “scrappy” to “customer-obsessed”, and from “good for startups” to “a solid bet for the middle market”.\r\n\r\nWe work with top companies including Reducto, Monarch Money, and more.",
+    "long_description": "Unusual helps brands discover and change how AI models talk about them.\r\n\r\nUnusual surveys models with thousands of targeted probing questions to understand how they form their opinions. We examine the sources they pull from, and find patterns in their reasoning, that let us create content and PR engineered to change those models’ minds.\r\n\r\nCustomers have used Unusual to shift models’ perception of their brand from “niche” to “enterprise-platform”, from “scrappy” to “customer-obsessed”, and from “good for startups” to “a solid bet for the middle market”.\r\n\r\nWe work with top companies including Reducto, Monarch Money, and more.",
     "one_liner": "Discover and change how AI models talk about your brand.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1730767330,
     "tags": [
-      "Artificial Intelligence",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3770,18 +3857,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
     "website": "https://www.clarm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You only need two tools to build a business in 2026 - Cursor and Clarm. We automate inbound and customer support for highly technical teams like software, OSS, and finance and healthcare companies.",
-    "one_liner": "Automate PMF",
+    "long_description": "You only need two tools to build a business in 2026 - Cursor for building and Clarm for sales, distribution, and support. Our AI captures inbound, qualifies buyer intent, and routes revenue across every channel while you build.",
+    "one_liner": "Capture inbound revenue whilst you build",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1747978633,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Sales",
       "Marketing",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3903,9 +3990,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89a5d27698a033316145c05810e2edc1dbb57e96.png",
     "website": "https://www.louizalabs.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assemble pharma publication-grade evidence 100x faster\r\n\r\nWe synthesize real-world and published evidence into literature reviews for  pharma teams to prove drug safety and efficacy — in days, not months. Focusing initially on women's health drugs + GLP-1's.\r\n\r\nBuilt by a team of NVIDIA engineers, Apple Engineers, and Harvard Med Students.\r\n\r\n",
+    "long_description": "Ensuring every approved drug reaches patients who need it.\r\n\r\nAuditable AI to satisfy regulators and payors 10x faster. We Synthesize fragmented pharma and device data to prove safety, optimize market access, and anticipate regulatory response.\r\n\r\nMembers of our team worked in software engineering at Apple and AI at NVIDIA, helped start a large-cap pharma clinical trial, and trained at Harvard Medical School.\r\n\r\n",
     "one_liner": "Hebbia for Pharmaceutical Evidence",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1754166755,
@@ -4158,8 +4245,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
     "website": "https://www.getbluma.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy with content templates, generating on brand videos on autopilot.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma automates end-to-end and at scale. We can make entire UGC videos from a reference at 10x the scale and 1/10th of the cost. We remove the operations of hiring, managing, creatives and spend with AI.",
-    "one_liner": "AI short form content engine",
+    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy by cloning your competitor's viral videos.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma can clone end-to-end and at scale.",
+    "one_liner": "Canva for short-form video ads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -4243,17 +4330,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png",
     "website": "https://trylaurence.com",
     "all_locations": "",
-    "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints.\r\n\r\nWe use customers' existing ad copy and use reinforcement learning and train our own LLMs to run ads on autopilot, harvesting profits when we’re confident and borrowing signals from similar keywords when data is sparse.\r\n\r\nStarting with brands on Amazon, we are automating millions in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
+    "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints.\r\n\r\nWe use customers' existing ad copy and use reinforcement learning and train our own LLMs to run ads on autopilot, harvesting profits when we’re confident and borrowing signals from similar keywords when data is sparse.\r\n\r\nStarting with brands on Amazon, we are automating tens of millions in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
     "one_liner": "RL for performance marketing",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1767919574,
     "tags": [
+      "Artificial Intelligence",
       "Marketing",
       "Advertising",
-      "Trading",
-      "AI"
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4283,18 +4370,18 @@
     "former_names": [
       "pulse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d810cf9fbc8197e7a14f659b8561b30bc2fc6e4c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
     "website": "https://sitefire.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify the content that drives AI visibility, and recommend actions that work: third-party sites, UGC content, and new blog posts. But we don’t stop there. sitefire synthesizes the top-cited web pages into AI-optimized, ready-to-publish web pages. You just publish and start winning leads.",
-    "one_liner": "Marketing suite for the agentic web.",
+    "one_liner": "Marketing suite for the agentic web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1770178936,
     "tags": [
+      "Generative AI",
       "Marketing",
-      "Enterprise",
       "Search"
     ],
     "tags_highlighted": [],
@@ -4358,5 +4445,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veriad",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/veriad.json"
+  },
+  {
+    "id": 31275,
+    "name": "Polymorph",
+    "slug": "polymorph",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
+    "website": "https://usepolymorph.com/",
+    "all_locations": "",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel, then attribute conversions to learn what works.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal Security, and Nira Energy.",
+    "one_liner": "Personalized notifs & attribution for consumer and self-serve apps",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771290879,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polymorph",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymorph.json"
   }
 ]

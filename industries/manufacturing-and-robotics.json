@@ -1431,7 +1431,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -2812,7 +2812,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -3166,15 +3166,15 @@
     "website": "https://www.mbodi.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
-    "one_liner": "Make Industrial Robots Learn Like Humans",
-    "team_size": 4,
+    "one_liner": "Industrial Robots that Act Like Humans",
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1747670628,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3489,18 +3489,16 @@
     "former_names": [
       "Remnant Robotics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54d1482241918ee48c1c994945fd8c443280d29b.png",
     "website": "https://efference.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Efference builds the eyes and visual cortex for robots. Instead of treating depth as a hardware problem, we use software — inspired by how humans see — to generate rich and reliable 3D information. This lets us deliver higher performance and greater ease of use at a lower price than existing stereo cameras.",
-    "one_liner": "We build the eyes and visual cortex for robots.",
+    "long_description": "",
+    "one_liner": "",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762259214,
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
       "Robotics",
       "Computer Vision"
     ],
@@ -3662,6 +3660,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
   },
   {
+    "id": 30973,
+    "name": "General Astronautics",
+    "slug": "generalastro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7cf823c4893a350166b41685cc7e72de36fe4d.png",
+    "website": "https://generalastro.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robots for microgravity research and manufacturing.",
+    "one_liner": "The Space Robotics Company",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1772084363,
+    "tags": [
+      "Robotics",
+      "Space Exploration",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/generalastro",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/generalastro.json"
+  },
+  {
     "id": 30987,
     "name": "Lightberry",
     "slug": "lightberry",
@@ -3676,12 +3715,15 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761343459,
     "tags": [
+      "Hard Tech",
+      "Hardware",
       "Robotics",
+      "Design",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -3741,6 +3783,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/forge-robotics",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/forge-robotics.json"
+  },
+  {
+    "id": 31081,
+    "name": "One Robot",
+    "slug": "one-robot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e234115139eb6fced2e2703ae2ba2ee2d691412c.png",
+    "website": "https://www.onerobot.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time.\r\n\r\nToday, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world.\r\n\r\nWe use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.\r\n",
+    "one_liner": "World models for VLA evals and training.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1771897545,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/one-robot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/one-robot.json"
   },
   {
     "id": 31120,
@@ -3832,17 +3916,17 @@
     "website": "https://servo7.com",
     "all_locations": "Amsterdam, NH, Netherlands",
     "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
-    "one_liner": "Industry Robots - Ready to Work",
+    "one_liner": "Simple and rapidly deployed robots for industry work",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1769385653,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Logistics",
       "Manufacturing",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3865,5 +3949,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/servo7",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
+  },
+  {
+    "id": 31232,
+    "name": "Remy AI",
+    "slug": "remy-ai",
+    "former_names": [
+      "Bright Eyed Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94f9d60cdf58d3c7fc724152a315ad834ec78eec.png",
+    "website": "https://www.tryremy.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building flexible automation for warehouses. Our robots automate operationally-intensive, high-dexterity tasks using a proprietary model that draws on the latest architectures in robotic learning. Our custom training pipeline learns new tasks with less data than vanilla VLA fine-tunes, and our unique hardware design operates robustly in the most demanding warehousing environments.\r\n\r\nToday, 80% of warehouses have zero automation. Not because solutions don't exist, but because existing systems are expensive, rigid, and bulky. Despite there being an automation solution for virtually every warehouse task, the vast majority of facilities can't justify the cost or the operational overhead of deploying them. \r\n\r\nWe're building robots that change that: flexible, adaptable machines that slot into existing work stations, bringing brownfield automation to the millions of facilities the last 20 years of warehouse automation has left behind.",
+    "one_liner": "Automating dexterous tasks in warehouses",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1770934019,
+    "tags": [
+      "Deep Learning",
+      "Robotics",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/remy-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/remy-ai.json"
   }
 ]

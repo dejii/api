@@ -347,7 +347,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2016",
     "status": "Active",
@@ -1164,7 +1164,7 @@
     "all_locations": "Austin, TX, USA; Remote",
     "long_description": "We help security, legal and sales teams get answers in seconds without depending on subject-matter experts.\r\n\r\nOur AI agent connects to every source that already holds the truth (Google Drive, Notion, Slack, email, website, trust center, SOC 2 docs, etc.). It keeps that knowledge graph fresh on its own and drafts, validates, and formats responses to customer questions, security questionnaires, and RFPs, all in the background, so your team just reviews and ships.",
     "one_liner": "We help security, legal and sales teams answer customer questions",
-    "team_size": 7,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1658875414,
@@ -1611,17 +1611,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps lawyers stay organized, spot issues earlier, and close deals faster.",
-    "one_liner": "Legal due diligence platform powered by AI",
+    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
+    "one_liner": "M&A due diligence platform powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1654,17 +1654,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2e103cef868d10d11f8eda1c9371448e8a4640.png",
     "website": "https://www.getcodeshealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs law firms, providers, and more. ",
-    "one_liner": "Perfect medical histories. ",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "long_description": "Codes automates medical record retrieval. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for law firms, providers, and more. ",
+    "one_liner": "Medical Record Retrieval with Zero Human Error",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1721954121,
     "tags": [
       "Artificial Intelligence",
       "Health Tech",
       "B2B",
-      "Healthcare",
       "LegalTech"
     ],
     "tags_highlighted": [],
@@ -1674,7 +1673,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -2040,7 +2039,7 @@
     "name": "Blueshoe",
     "slug": "blueshoe",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97746bdd15069c4993687b88ecedf70475b734a2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3167c58e3e1e694a6620d4b50851ebec19886cb.png",
     "website": "https://blueshoe.com",
     "all_locations": "Boston, MA, USA",
     "long_description": "Blueshoe is an AI platform for legal research and reasoning designed to capture the structure of legal thought and allow users to work directly within the logic of caselaw. By combining advanced AI with curated legal and proprietary data pipelines, the system allows users build and test arguments with unprecedented clarity.",
@@ -2206,6 +2205,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/patent-watch.json"
   },
   {
+    "id": 31000,
+    "name": "Vector Legal",
+    "slug": "vector-legal",
+    "former_names": [
+      "Cadence",
+      "Raise"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
+    "website": "https://vectorlegal.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A modern solution for Startup legal: Vector Legal is a hybrid AI law firm + legal tech platform. Our customers benefit from state of the art software for their legal operations + an experienced lawyer-in-the-loop. \r\n\r\nServices: fundraise & priced rounds | customer contracts | team growth & equity | AI draft & review | agentic data room | e-signatures | contract intelligence | legal health checks | mergers & acquisitions | co-founder separations | company formation.",
+    "one_liner": "AI Law Firm + Legal Tech Platform for Startups",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1771526564,
+    "tags": [
+      "Legal",
+      "LegalTech",
+      "Operations",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vector-legal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
+  },
+  {
     "id": 31020,
     "name": "Mayflower",
     "slug": "mayflower",
@@ -2291,54 +2335,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/autositu.json"
   },
   {
-    "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
-    "former_names": [
-      "https://www.arcline-ai.com/",
-      "Arcline AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1767976988,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Compliance",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
-  },
-  {
     "id": 31167,
     "name": "Stilta",
     "slug": "stilta",
@@ -2348,8 +2344,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
     "website": "https://stilta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.\r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. Now we are building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with paying customers in both Europe and the US. ",
-    "one_liner": "Cursor for patent practitioners",
+    "long_description": "Stilta is the AI-native software for patent attorneys, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and analyzing patents, practitioners can reduce manual work by up to ~60% while unlocking new revenue opportunities. \r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. Now we are building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with leading firms in both Europe and the US. ",
+    "one_liner": "Cursor for patent attorneys",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2417,5 +2413,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/general-legal",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/general-legal.json"
+  },
+  {
+    "id": 31299,
+    "name": "Wayco",
+    "slug": "wayco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94c89a7cae8ae38e06b3e2143d887bbe29fc3a82.png",
+    "website": "https://wayco.ai",
+    "all_locations": "",
+    "long_description": "Wayco is building the unified intelligence layer for legal case referrals and 24/7 access to justice across the United States. We integrate directly into law firms referral case management systems - turning any local practice into a nationwide operation. \r\n\r\nLike Facebook's campus-by-campus playbook, we're onboarding market by market to build the first true social-referral network for the legal industry. As we scale, Wayco is also becoming a law firm itself - ensuring anyone, anywhere in America, gets access to justice anytime they need it.\r\n\r\nStarting with Personal Injury.",
+    "one_liner": "AI operator for legal case referrals",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1770576314,
+    "tags": [
+      "Marketplace",
+      "LegalTech",
+      "Call Center"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wayco",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/wayco.json"
   }
 ]

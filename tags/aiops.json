@@ -461,7 +461,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LanceDB is a new open-source vector database that can support low-latency billion-scale vector search on a single node. Built around a new columnar data format, LanceDB makes it incredibly easy to build applications for generative AI, recsys, search engines, content moderation, and more.",
     "one_liner": "Open-source, serverless vectordb for production-scale generative AI",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1648263864,
@@ -967,16 +967,16 @@
     "all_locations": "",
     "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
     "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675814900,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -993,7 +993,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/litellm",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/litellm.json"
@@ -1179,6 +1179,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/chatter.json"
   },
   {
+    "id": 29134,
+    "name": "Cognitio Labs",
+    "slug": "cognitio-labs",
+    "former_names": [
+      "Flair Technology Services Inc.",
+      "Flair",
+      "Flair Health",
+      "Flair Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
+    "website": "https://www.flairhealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1690407835,
+    "tags": [
+      "AIOps",
+      "B2B",
+      "Data Science",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cognitio-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
+  },
+  {
     "id": 29187,
     "name": "OpenPipe",
     "slug": "openpipe",
@@ -1221,24 +1268,26 @@
   },
   {
     "id": 29325,
-    "name": "Keywords AI",
-    "slug": "keywords-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
-    "website": "https://keywordsai.co",
+    "name": "Respan",
+    "slug": "respan",
+    "former_names": [
+      "Keywords AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
+    "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe process a billion LLM calls every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.",
-    "one_liner": "The AI gateway with built-in observability & evals",
-    "team_size": 6,
+    "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
+    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1248,7 +1297,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -1261,8 +1310,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keywords-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/keywords-ai.json"
+    "url": "https://www.ycombinator.com/companies/respan",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/respan.json"
   },
   {
     "id": 29572,
@@ -1636,10 +1685,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -1665,11 +1714,11 @@
       "Xylem AI",
       "Pipeshift AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18e4c91b67f788583f15cd62be509fb95adf7cf6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift is a modular orchestration platform for building with open-source AI components — embeddings, vector databases, LLMs, vision models and audio models — across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end.",
-    "one_liner": "Modular Orchestration Platform for Open Source AI",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
+    "one_liner": "Inference for real-time production workloads",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2325,7 +2374,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "B2B"
@@ -2340,7 +2389,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentic-fabriq",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/agentic-fabriq.json"
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/agentic-fabriq.json"
   },
   {
     "id": 31051,
@@ -2353,7 +2402,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://www.corvera.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) helps retail brands increase profits by 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s platform, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\n Visit www.corvera.ai to learn more and schedule a demo!",
+    "long_description": "Corvera (YC W26) is the last ops hire CPG brands will ever make. We help retail brands increase profits by 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
     "one_liner": "Fully autonomous operations for CPG brands",
     "team_size": 4,
     "industry": "B2B",
@@ -2361,10 +2410,10 @@
     "launched_at": 1763141207,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2438,17 +2487,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b7bb4a4c603e5aceea61b58a68a6d3b7156a9d9.png",
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sentrial is the observability platform for AI agents in production. \r\n\r\nWhen your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",
-    "one_liner": "Production Monitoring for AI Agents",
+    "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
+    "one_liner": "Production Monitoring for AI Products",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2473,6 +2522,138 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
   },
   {
+    "id": 31128,
+    "name": "Cumulus Labs",
+    "slug": "cumulus-labs",
+    "former_names": [
+      "Cumulus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
+    "website": "https://cumuluslabs.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cumulus Labs is a serverless GPU cloud with a proprietary inference stack, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work.\r\n\r\nIf your team uses GPUs — for inference, training, fine-tuning, or any compute workload — Cumulus replaces the painful parts of your stack with a platform that just works.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with vLLM or SGLang configurations, debugging CUDA issues, and babysitting infrastructure that breaks at scale. Managed API providers like OpenRouter or Fireworks are convenient but expensive, and you're paying their margin on top of the compute. Serverless GPU platforms give you flexibility but hit you with slow cold starts, idle billing, and no help on the inference layer — you're still on your own to make models run fast.\r\n\r\nCumulus eliminates that tradeoff. The platform assigns containers in seconds, scales to zero when you're idle, and scales up to as many instances as you need with no waitlists or approvals. You're billed by the second for exactly the compute you use — nothing more.\r\n\r\nFor inference, Cumulus ships Ion — a proprietary engine that supports all major LLMs, VLMs, and MoE architectures out of the box. Ion is optimized for latency and throughput beyond what teams typically achieve managing vLLM or SGLang themselves, with zero configuration required. Whether you're serving your own fine-tuned model or hosting an open-source model like Llama or Mixtral, Ion handles the performance layer so your team doesn't have to. Cumulus also supports checkpointing, model compilation, and LoRA serving, and the team forward-deploys custom optimizations directly for customers.\r\n\r\nFor training, fine-tuning, and general container workloads, teams bring any job to Cumulus and run it on the same serverless infrastructure — no cluster management, no GPU debugging, no orchestration setup.\r\n\r\nIf you're paying for inference APIs, Cumulus lets you run the same models yourself for less. If you're self-hosting, Cumulus makes your models faster without the operational burden. If you need GPUs for any workload at all, Cumulus is the simplest and most performant way to get them.\r\n",
+    "one_liner": "Performant serverless GPU inference",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768427687,
+    "tags": [
+      "AIOps",
+      "B2B",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cumulus-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
+  },
+  {
+    "id": 31165,
+    "name": "IncidentFox",
+    "slug": "brownie",
+    "former_names": [
+      "Brownie"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43fb964e8e0ca12dcc1000b4c4c2d6be7ffc203e.png",
+    "website": "https://incidentfox.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI SRE agents that automatically learn each customer’s system so they work just like an in-house engineer.",
+    "one_liner": "AI SRE agent that triages, coordinates, and fixes production incidents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1771353224,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/brownie",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/brownie.json"
+  },
+  {
+    "id": 31172,
+    "name": "Terminal Use",
+    "slug": "terminal-use",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
+    "website": "https://www.terminaluse.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Terminal Use is an orchestration platform for background agents. Purpose-built for agents that use filesystems. Our platform is CLI-first, making it easy for your coding agents to experiment and continuously improve your deployed agents.",
+    "one_liner": "Vercel for background agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770866075,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Workflow Automation",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terminal-use",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/terminal-use.json"
+  },
+  {
     "id": 31278,
     "name": "Zymbly",
     "slug": "zymbly",
@@ -2486,7 +2667,7 @@
     "all_locations": "",
     "long_description": "",
     "one_liner": "Automates admin for aircraft technicians",
-    "team_size": 0,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768869245,
@@ -2514,5 +2695,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zymbly",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/zymbly.json"
+  },
+  {
+    "id": 31413,
+    "name": "Arga Labs",
+    "slug": "arga-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
+    "website": "https://www.argalabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Arga handles everything after the coding agent. Connect any platform (Slack, Grafana, Jira, etc.) and it validates AI code changes by running relevant tests. With Arga, anyone can ship, maintain, and fix production code reliably without manual testing.",
+    "one_liner": "The validation framework for AI agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771902214,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arga-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
   }
 ]

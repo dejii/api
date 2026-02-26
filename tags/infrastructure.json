@@ -140,9 +140,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d64a8d4a7fd2ff08cd85f22f8bd8525fd1a2a965.png",
     "website": "https://adenhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aden provides real-time financial governance for AI agents in production. Aden replaces opaque API bills with precise control and serves as a drop-in SDK that enables engineering teams to track unit economics per feature, enforce hard budget caps to prevent runaway loops, and generate SOC2-ready audit logs instantly. We bridge the gap between engineering velocity and financial safety.",
-    "one_liner": "Scale AI agents profitably",
-    "team_size": 12,
+    "long_description": "https://github.com/adenhq/hive",
+    "one_liner": "Open source agent generation framework",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
@@ -283,7 +283,7 @@
       "QuickVid",
       "True3D"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4b03b851bb9232b2e94c25c13366b7bb5c9948.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/084dd39112f991529cbcde05f2b6e80e075b606f.png",
     "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "True3D is building the next generation of video.\r\nOur AI foundation models bring real-world depth to every frame, making 3D creation and streaming instant and universal.",
@@ -642,50 +642,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wingback",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/wingback.json"
-  },
-  {
-    "id": 25338,
-    "name": "Cozmo AI",
-    "slug": "cozmo-ai",
-    "former_names": [
-      "Zywa",
-      "CozmoX AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22096b578ff14b789d9b1882b55f7dc73e26f3.png",
-    "website": "https://www.hellocozmo.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cozmo AI is building the foundational infrastructure for real-time, low-latency voice automation for regulated enterprises. \r\n\r\nWe enable Fortune 500 and leading insurers to deploy AI Employees that can speak, think, and act across revenue-critical workflows. In one global deployment, our voice-native AI employees managed all inbound and outbound policy calls with zero wait time and full compliance. \r\n\r\nThe verified AI performance not only improved service speed but also surfaced new, qualified leads creating what we call the “efficiency loop,” where AI handles repeatable tasks while humans capture higher-value opportunities. \r\n\r\nEach interaction is governed and auditable through our Agent Protocol Engine (APE™), which provides a transparent trail showing what the AI did, why it did it, and what business outcome it achieved. In industries like insurance, where trust and traceability matter more than speed, verified outcomes have become the new competitive edge. Cozmo AI also supports with foundational voice and agentic infrastructure built for regulated, multilingual markets:\r\n•⁠ ⁠Arabic + English first agents with Gulf dialect understanding. 97+ other languages supported\r\n•⁠ ⁠Sub-1.5 second latency across telephony.\r\n•⁠ ⁠Compliance-ready for local sovereignty laws.\r\n•⁠ ⁠APE Memory Engine for contextual, traceable reasoning.\r\n•⁠ ⁠Forward-Deployed Implementation Pods that integrate AI employees directly into live operations.\r\n\r\nBacked by YCombinator, Dubai Future District Fund and other global VCs we have headquarters in San Francisco and EMEA HQ in Dubai.",
-    "one_liner": "Voice AI workforce for regulated businesses",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1644299294,
-    "tags": [
-      "Artificial Intelligence",
-      "Infrastructure",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cozmo-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/cozmo-ai.json"
   },
   {
     "id": 25537,
@@ -1123,10 +1079,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -1587,7 +1543,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We're building the unified marketing measurement stack for online stores. We make it easy for marketeers to understand where their customers come from, cut unprofitable channels, and scale when things are working.\r\n\r\nWe are vertically integrating the modern data stack for marketing teams of online stores by consolidating customer data collection, consent management, identity resolution, transformations, attribution, data forwarding, and analytics into a single platform.",
     "one_liner": "All-in-one marketing measurement for B2C",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687127368,
@@ -1849,51 +1805,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glide-2.json"
   },
   {
-    "id": 29181,
-    "name": "Event Horizon Labs",
-    "slug": "event-horizon-labs",
-    "former_names": [
-      "EmergentAGI",
-      "SciPhi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
-    "website": "https://www.ehl.markets/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use thousands of AI agents to automate the work of human investors—reading filings, processing news, and finding high-signal events. Our goal is to build a fully autonomous fund that outperforms the best PMs on the planet. Starting with equity long/short.\r\n\r\n",
-    "one_liner": "AI-native hedge fund using agents to invest the way humans do—at scale",
-    "team_size": 1,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1710132587,
-    "tags": [
-      "Artificial Intelligence",
-      "Search",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/event-horizon-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/event-horizon-labs.json"
-  },
-  {
     "id": 29231,
     "name": "Ubicloud",
     "slug": "ubicloud",
@@ -2077,17 +1988,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png",
     "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai is a Zendesk alternative built from the ground up for AI agents. ",
-    "one_liner": "AI Customer Service Platform and BPO for Your B2C Business",
+    "long_description": "14.ai is a Zendesk + offshore alternative built from the ground up for AI agents. ",
+    "one_liner": "AI Customer Service Agency for Your B2C Business",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700867535,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
+      "E-commerce",
       "Customer Support",
       "Infrastructure",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2167,12 +2078,12 @@
       "Hatchet Technologies",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbef5bdf63091b02b57c823ab78af3d7abdc56c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e540520fafc66c31f803395b8f5603e6765d484.png",
     "website": "https://hatchet.run",
     "all_locations": "New York, NY, USA",
     "long_description": "Hatchet abstracts away the infrastructure for managing task queues and message brokers, so you can focus on writing your background task and workflow logic. With Hatchet, you can run slow OpenAI requests in the background with async tasks, chain complex tasks together into workflows, and set retries and timeouts to recover from failure. ",
     "one_liner": "Background task orchestration and visibility",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709312849,
@@ -2739,11 +2650,11 @@
       "Xylem AI",
       "Pipeshift AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18e4c91b67f788583f15cd62be509fb95adf7cf6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift is a modular orchestration platform for building with open-source AI components — embeddings, vector databases, LLMs, vision models and audio models — across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end.",
-    "one_liner": "Modular Orchestration Platform for Open Source AI",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
+    "one_liner": "Inference for real-time production workloads",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3042,21 +2953,24 @@
   },
   {
     "id": 30269,
-    "name": "Strike",
-    "slug": "strike",
+    "name": "Pluto",
+    "slug": "pluto",
     "former_names": [
-      "PowerPlay"
+      "PowerPlay",
+      "Strike"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3212b214ed79ac19b611c2453947f4caaa6755d.png",
-    "website": "http://tradestrike.app",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Still in stealth, reach out to learn more!",
-    "one_liner": "Regulated futures exchange",
-    "team_size": 8,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b533d4bccae312fbf4823b72ca0d59a43a6ebff2.png",
+    "website": "https://www.pluto.trade",
+    "all_locations": "New York, NY, USA",
+    "long_description": "First regulated exchange for compute",
+    "one_liner": "Regulated derivatives exchange",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1740523068,
     "tags": [
+      "Artificial Intelligence",
+      "FinOps",
       "Fintech",
       "Infrastructure"
     ],
@@ -3067,7 +2981,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "Fintech",
+      "Banking and Exchange"
     ],
     "regions": [
       "United States of America",
@@ -3078,8 +2993,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/strike",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/strike.json"
+    "url": "https://www.ycombinator.com/companies/pluto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/pluto.json"
   },
   {
     "id": 30277,
@@ -3827,11 +3742,11 @@
     "name": "Modelence",
     "slug": "modelence",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b7379070cfa5f91e4300dce0bab8471d55a5d0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caf676672b230c36291913a0a2ddce1bd212e7b0.png",
     "website": "https://modelence.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included framework that abstracts away boilerplate so you can just focus on building your product logic and nothing else - it’s like Next.js + Vercel + Supabase on a single platform, built for full-stack TypeScript.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
-    "one_liner": "All-in-one TypeScript cloud for production AI apps",
+    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included production ready platform for agentic development that abstracts away boilerplate so you can just focus on building your product logic and deploy it to production without worrying about infrastructure.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
+    "one_liner": "The full-stack platform for agentic development",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4061,7 +3976,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "B2B"
@@ -4076,7 +3991,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentic-fabriq",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/agentic-fabriq.json"
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/agentic-fabriq.json"
   },
   {
     "id": 30935,
@@ -4175,7 +4090,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair builds drones that charge on transmission lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith fewer than 1000 pads, we can service the entire U.S. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -4209,6 +4124,91 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/voltair.json"
   },
   {
+    "id": 31096,
+    "name": "shortkit",
+    "slug": "shortkit",
+    "former_names": [
+      "Embassi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a0714fa881cb99f3080456e1c76e5b495a45be7.png",
+    "website": "https://www.shortkit.dev",
+    "all_locations": "",
+    "long_description": "ShortKit empowers consumer teams and publishers with the same best-in-class short-form video technology that powers the most engaging platforms in the world. Our managed SDK & video infrastructure are purpose built for product teams, deeply customizable, and optimized for the encoding and delivery of retentive short-form video experiences.",
+    "one_liner": "We make enterprise-scale short-form video really simple.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1771985375,
+    "tags": [
+      "Developer Tools",
+      "Video",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shortkit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/shortkit.json"
+  },
+  {
+    "id": 31110,
+    "name": "Cascade",
+    "slug": "cascade",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d44862b96a82afa074ef25dfec87a6b186e7241.png",
+    "website": "https://runcascade.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cascade builds software infrastructure for autonomous intelligence with self-improving safety and reliability models that continuously maintain, update, and prevent threats and failures at scale.",
+    "one_liner": "Making Autonomous Intelligence Safe & Reliable",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770726393,
+    "tags": [
+      "B2B",
+      "Security",
+      "Infrastructure",
+      "Trust & Safety",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cascade",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cascade.json"
+  },
+  {
     "id": 31128,
     "name": "Cumulus Labs",
     "slug": "cumulus-labs",
@@ -4217,16 +4217,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
     "website": "https://cumuluslabs.io",
-    "all_locations": "",
-    "long_description": "Cumulus Labs is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged by physical resource use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
-    "one_liner": "The Optimized GPU Cloud",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cumulus Labs is a serverless GPU cloud with a proprietary inference stack, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work.\r\n\r\nIf your team uses GPUs — for inference, training, fine-tuning, or any compute workload — Cumulus replaces the painful parts of your stack with a platform that just works.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with vLLM or SGLang configurations, debugging CUDA issues, and babysitting infrastructure that breaks at scale. Managed API providers like OpenRouter or Fireworks are convenient but expensive, and you're paying their margin on top of the compute. Serverless GPU platforms give you flexibility but hit you with slow cold starts, idle billing, and no help on the inference layer — you're still on your own to make models run fast.\r\n\r\nCumulus eliminates that tradeoff. The platform assigns containers in seconds, scales to zero when you're idle, and scales up to as many instances as you need with no waitlists or approvals. You're billed by the second for exactly the compute you use — nothing more.\r\n\r\nFor inference, Cumulus ships Ion — a proprietary engine that supports all major LLMs, VLMs, and MoE architectures out of the box. Ion is optimized for latency and throughput beyond what teams typically achieve managing vLLM or SGLang themselves, with zero configuration required. Whether you're serving your own fine-tuned model or hosting an open-source model like Llama or Mixtral, Ion handles the performance layer so your team doesn't have to. Cumulus also supports checkpointing, model compilation, and LoRA serving, and the team forward-deploys custom optimizations directly for customers.\r\n\r\nFor training, fine-tuning, and general container workloads, teams bring any job to Cumulus and run it on the same serverless infrastructure — no cluster management, no GPU debugging, no orchestration setup.\r\n\r\nIf you're paying for inference APIs, Cumulus lets you run the same models yourself for less. If you're self-hosting, Cumulus makes your models faster without the operational burden. If you need GPUs for any workload at all, Cumulus is the simplest and most performant way to get them.\r\n",
+    "one_liner": "Performant serverless GPU inference",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768427687,
     "tags": [
-      "Machine Learning",
+      "AIOps",
       "B2B",
+      "Cloud Computing",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -4240,6 +4241,8 @@
       "Infrastructure"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4252,11 +4255,54 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
   },
   {
+    "id": 31131,
+    "name": "Zatanna",
+    "slug": "zatanna",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
+    "website": "https://www.zatanna.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building continuously learning infrastructure for healthcare. Where insurance friction explodes admin overhead, our platform institutionalizes tribal knowledge into everyday AI agents that allows providers to focus on patients. Starting with dental.",
+    "one_liner": "Adaptive Healthcare Admin Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Office Management",
+    "launched_at": 1770919305,
+    "tags": [
+      "Healthcare",
+      "Dental",
+      "Billing",
+      "Infrastructure",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Office Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zatanna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
+  },
+  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c6ac09e3c5b1ea11b328571a796a96107e4570.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab475a73fae950cedb2c238eb5a23d6a709d5cb2.png",
     "website": "https://www.usesalus.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.\r\n\r\nWe’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",
@@ -4266,11 +4312,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770354850,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4293,6 +4339,89 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/salus",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/salus.json"
+  },
+  {
+    "id": 31171,
+    "name": "Overshoot",
+    "slug": "overshoot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cabbe8c8fd17d316132f3dc3a13e469c74ebb408.png",
+    "website": "https://overshoot.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Overshoot makes it easy for developers to build and run real-time vision applications.\r\n\r\nAI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. \r\n\r\nHowever, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. \r\n\r\nOvershoot solves this.\r\n\r\nToday, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. \r\n\r\nOur moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines.\r\n\r\nYounes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
+    "one_liner": "Enable developers to build and run AI vision applications",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770705031,
+    "tags": [
+      "Computer Vision",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overshoot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/overshoot.json"
+  },
+  {
+    "id": 31172,
+    "name": "Terminal Use",
+    "slug": "terminal-use",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
+    "website": "https://www.terminaluse.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Terminal Use is an orchestration platform for background agents. Purpose-built for agents that use filesystems. Our platform is CLI-first, making it easy for your coding agents to experiment and continuously improve your deployed agents.",
+    "one_liner": "Vercel for background agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770866075,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Workflow Automation",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terminal-use",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/terminal-use.json"
   },
   {
     "id": 31192,
@@ -4338,6 +4467,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sidekit.json"
   },
   {
+    "id": 31212,
+    "name": "Constellation Space",
+    "slug": "constellation-space",
+    "former_names": [
+      "Constellation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
+    "website": "https://constellationspace.ai/",
+    "all_locations": "",
+    "long_description": "Constellation Space is building the autonomous infrastructure layer for the next generation of space networking. As satellite constellations rapidly scale from hundreds of nodes to tens of thousands, traditional ground-based orchestration fundamentally breaks down. ConstellationOS bridges this gap by providing zero-intervention network handoffs, predictive thermal load-balancing, and sub-second optical routing.\r\n\r\nOur founding team spent years building and operating satellite systems at SpaceX, Blue Origin, and NASA. We started Constellation to solve the problem we kept running into: reactive monitoring doesn't scale.\r\n\r\nWe are building the sub-second routing protocols and hyperscale load-balancing infrastructure that will manage the future of off-world telecommunications and compute. \r\n\r\nhello@constellation-io.com",
+    "one_liner": "AI for space mission assurance.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1766273553,
+    "tags": [
+      "Space Exploration",
+      "Satellites",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/constellation-space",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
+  },
+  {
     "id": 31213,
     "name": "Byteport",
     "slug": "byteport",
@@ -4345,7 +4518,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/462f2cba50e8812c9f84433bea456da30ecab7fa.png",
     "website": "https://byteport.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Founded in 2025, Byteport is a technology company that builds mission-critical network infrastructure for robotics, satellite, AI, and enterprise applications all over the world. Businesses of every size—from new startups to public companies—use our software to accelerate file transfer online.",
     "one_liner": "Global upload acceleration for 1GB-100TB files.",
     "team_size": 1,
     "industry": "B2B",
@@ -4392,9 +4565,11 @@
     "subindustry": "Industrials -> Energy",
     "launched_at": 1768576763,
     "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Energy",
       "Renewable Energy",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4410,7 +4585,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -4418,22 +4593,23 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/voxel-energy.json"
   },
   {
-    "id": 31245,
-    "name": "Squid",
-    "slug": "squid",
+    "id": 31252,
+    "name": "Moda",
+    "slug": "moda",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0dabfec2f533f2142f1c315fccba6afcb525ef1.png",
-    "website": "https://squid.energy",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
+    "website": "https://usemoda.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
-    "one_liner": "AI-powered grid planning in your browser 🦑 (squid.energy)",
+    "long_description": "Moda is the monitoring & analytics layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
+    "one_liner": "The monitoring & analytics layer your AI agents need.",
     "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1768422882,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1769121297,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Energy",
+      "Analytics",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -4443,8 +4619,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -4455,7 +4631,51 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/squid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/squid.json"
+    "url": "https://www.ycombinator.com/companies/moda",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
+  },
+  {
+    "id": 31253,
+    "name": "Maven",
+    "slug": "maven",
+    "former_names": [
+      "Lattice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
+    "website": "https://trymaven.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
+    "one_liner": "Payments for Voice Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770422490,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "SaaS",
+      "Infrastructure",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maven",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   }
 ]

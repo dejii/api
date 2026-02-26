@@ -897,11 +897,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png",
     "website": "https://quillbills.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and fight every denial.",
+    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and recover denied claims.\r\nOur platform performs much of a biller's job autonomously, and we sell this platform to private practice doctors and medical MSOs.",
     "one_liner": "AI-Powered Medical Billing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1685991991,
     "tags": [
       "Artificial Intelligence",
@@ -912,13 +912,13 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -976,53 +976,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/wattson-health.json"
   },
   {
-    "id": 29134,
-    "name": "Cognitio Labs",
-    "slug": "cognitio-labs",
-    "former_names": [
-      "Flair Technology Services Inc.",
-      "Flair",
-      "Flair Health",
-      "Flair Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
-    "website": "https://www.flairhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1690407835,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Data Science",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cognitio-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
-  },
-  {
     "id": 29159,
     "name": "Healthtech 1",
     "slug": "healthtech-1",
@@ -1045,7 +998,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -1117,7 +1070,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
+    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes more than $1B in medical claim charges annually.\r\n",
     "one_liner": "AI chart review for speciality medical clinics.",
     "team_size": 9,
     "industry": "Healthcare",
@@ -1376,95 +1329,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paratus-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/paratus-health.json"
-  },
-  {
-    "id": 30399,
-    "name": "Frekil",
-    "slug": "frekil",
-    "former_names": [
-      "Notate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
-    "website": "https://www.frekil.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR and claims data. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies and FDA/EMA-ready evidence packages with transparent lineage in minutes.",
-    "one_liner": "Intelligence Layer for Real World Clinical Data",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1744440110,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frekil",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
-  },
-  {
-    "id": 30533,
-    "name": "Delty",
-    "slug": "delty",
-    "former_names": [
-      "Cue",
-      "Delty AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdd61a6b51bd621ffd6f24f4e6cd7ce09b1d4a71.png",
-    "website": "https://delty.ai",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Transforming healthcare operations with AI agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1746945144,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Healthcare",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delty",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
   },
   {
     "id": 30681,

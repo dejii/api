@@ -745,7 +745,7 @@
       "Course Crafters"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f4a9dcc6bc70da6e6cdd8258616c7c1dee6f43.png",
-    "website": "http://rethoric.com",
+    "website": "http://rethoric.com/ycombinator",
     "all_locations": "San Diego, CA, USA; Remote",
     "long_description": "Rethoric is a plug-and-play content team specialized in helping founders publish high-quality content consistently and grow on LinkedIn to get 1M+ monthly impressions.\r\n\r\nMost founders know the value of building an audience on LinkedIn, but the process demands consistency, time, creativity, writing skills, and energy—things founders often lack.\r\n\r\nOur clients only need to attend a monthly content interview session, and we do the rest. ",
     "one_liner": "LinkedIn content & strategy for founders to get 1M monthly impressions",
@@ -1280,8 +1280,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
     "website": "https://www.getbluma.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy with content templates, generating on brand videos on autopilot.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma automates end-to-end and at scale. We can make entire UGC videos from a reference at 10x the scale and 1/10th of the cost. We remove the operations of hiring, managing, creatives and spend with AI.",
-    "one_liner": "AI short form content engine",
+    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy by cloning your competitor's viral videos.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma can clone end-to-end and at scale.",
+    "one_liner": "Canva for short-form video ads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -1314,48 +1314,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
-  },
-  {
-    "id": 31300,
-    "name": "Shofo",
-    "slug": "shofo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
-    "website": "https://shofo.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every video across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
-    "one_liner": "Common Crawl for Videos",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768432806,
-    "tags": [
-      "Social Media",
-      "API",
-      "Data Labeling",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shofo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
   }
 ]

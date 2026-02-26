@@ -1213,7 +1213,7 @@
     "former_names": [
       "Ferveret"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3181cc71c0ab721a1030e4c2c811247cccf5d4ee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "website": "http://www.ferveret.com",
     "all_locations": "San Jose, CA, USA",
     "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
@@ -1350,12 +1350,12 @@
       "SeaCycle",
       "Seabound Carbon"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef05b260fca4eb9826dc504b44512b6c883854f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1528dd1b7f462a6ecd64d04d3bd29abcce12563.png",
     "website": "http://seabound.co",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Seabound builds carbon capture equipment for ships. We're the only way for existing ships to reduce up to 95% of CO2 emissions and meet new global regulations.",
     "one_liner": "Carbon capture equipment for ships",
-    "team_size": 9,
+    "team_size": 18,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1643912064,
@@ -1366,7 +1366,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -1376,7 +1376,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2013,7 +2015,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -2136,15 +2138,15 @@
     "subindustry": "Industrials -> Climate",
     "launched_at": 1724527338,
     "tags": [
-      "SaaS",
-      "Real Estate",
-      "Climate",
-      "Renewable Energy",
-      "ClimateTech"
+      "Artificial Intelligence",
+      "Solar Power",
+      "B2B",
+      "Energy",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -2214,9 +2216,9 @@
     "name": "OctaPulse",
     "slug": "octapulse",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23da3a492d96b19d0437b960a02a4a3614f0c79c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e0172397f4c3479d08f16556c96343e2d1c9b1.png",
     "website": "https://www.tryoctapulse.com/",
-    "all_locations": "Remote",
+    "all_locations": "",
     "long_description": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry.\r\n\r\nAquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle.\r\n\r\n We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.\r\n",
     "one_liner": "Robotics and computer vision to automate fish farming from hatchery…",
     "team_size": 2,
@@ -2241,7 +2243,7 @@
     ],
     "regions": [
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,

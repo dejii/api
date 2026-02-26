@@ -1396,6 +1396,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/parea.json"
   },
   {
+    "id": 28957,
+    "name": "Continue",
+    "slug": "continue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6603bbbb05f3629720acc724a2c02719efad6f67.png",
+    "website": "https://continue.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
+    "one_liner": "Your tests pass. But standards slip.",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688142176,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevSecOps",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/continue",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
+  },
+  {
     "id": 29073,
     "name": "Terracotta AI",
     "slug": "terracotta-ai",
@@ -1670,16 +1713,17 @@
   },
   {
     "id": 30108,
-    "name": "Edgedive",
-    "slug": "edgedive",
+    "name": "Struct",
+    "slug": "struct-ai",
     "former_names": [
-      "Bramble"
+      "Bramble",
+      "Edgedive"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f92fa322d1cca62c4066915fee6ecf728cde156.png",
-    "website": "https://edgedive.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f292fd64c9e2943d040e390cd2700e19b243bb8c.png",
+    "website": "https://struct.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Edgedive is the agent that triages & debugs your eng team's oncall issues to reduce mean-time-to-resolution (MTTR). It:\r\n\r\n- Automates your oncall runbook for incoming issues to provide an impact assessment, root cause, and plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n- Can be triggered from Slack, Linear, Asana, or automatically from support tickets or alerts (ex. Intercom, Sentry, etc)\r\n\r\nIt’s like having a teammate that responds to issues 24/7, gathering the context your team needs to address them ASAP.",
-    "one_liner": "The AI Support Engineer",
+    "long_description": "Struct cross-references logs, metrics, traces, and your codebase to accurately root-cause eng alerts and bugs. \r\n\r\nIntegrate your entire stack in minutes, auto-investigate every issue, dive deeper at will, and hand-off context to fix in one click.\r\n",
+    "one_liner": "Automate your on-call runbook",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1710,8 +1754,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edgedive",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/edgedive.json"
+    "url": "https://www.ycombinator.com/companies/struct-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/struct-ai.json"
   },
   {
     "id": 30114,
@@ -2018,6 +2062,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
   },
   {
+    "id": 30630,
+    "name": "Lark",
+    "slug": "lark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d081c0c274bbf68a2b6814e7891694bfd2e2c515.png",
+    "website": "https://getlark.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lark lets teams write end-to-end tests in plain English. Validate dashboards, APIs, SDKs, and full product flows without maintaining fragile test code. Run continuously on feature branches, in CI, or in production.",
+    "one_liner": "The E2E testing layer for AI-driven development",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755281037,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "DevOps",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lark",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
+  },
+  {
     "id": 30648,
     "name": "Janet AI",
     "slug": "tryjanet",
@@ -2027,7 +2114,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://janet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS/email.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out janet.ai to get started today!",
+    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS/email.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet AI when a ticket is resolved.\r\n- Janet auto-tags issues, clusters related issues, suggests assignees and priorities for issues, and evaluates ticket quality.\r\n- Your Cursor/Claude Code's context is synced with full knowledge of your Janet AI workspace, so coding agents can create, understand, update, prioritize, and resolve your issues.\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless.\r\n\r\nCheck out janet.ai to get started today!",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
@@ -2068,17 +2155,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b78cfc7f96ec9c05be6c06823bccd27995a3125.png",
     "website": "https://specific.dev",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Specific lets users build and deploy backends without code. They simply connect their preferred coding agent and we build, deploy and scale a backend for any project automatically.",
-    "one_liner": "Build and deploy production-ready backends without code",
+    "long_description": "Specific lets your coding agent write code and build the infrastructure to deploy it. Connect your favorite coding agent and start building immediately. Run `specific dev` to get a full local environment running in seconds. Run `specific deploy` to go to production on our scalable cloud platform in minutes.",
+    "one_liner": "AWS for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1758776605,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2101,6 +2188,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/specific",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
+  },
+  {
+    "id": 31139,
+    "name": "Ashr",
+    "slug": "ashr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "website": "https://ashr.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ashr is a fully contained test and evals platform that improves AI agents by ensuring accuracy and quality across a wide range of user journeys through your product.\r\n\r\nAshr generates user journeys through your agents’ tool calls, results, and questions. We don’t generate one off tests, we generate large amounts of authentic user stories through your product, and pick up on errors, inconsistencies, and failures that would otherwise take hours of manual testing or get caught by a customer. We also work to ensure agent response quality in line with your business goals by offering custom evaluation metrics.\r\n\r\nAshr works with voice, text, automated website generation, image, file generation, and multimodal. We’re also willing to generate custom input types or make modifications for anyone interested. Currently, we integrate as an SDK, and are proactively working to make our documentation and resources as accessible and easy to use as possible.",
+    "one_liner": "Mimic Users in Your Production Environment to Catch Agent Fails",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1771535371,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Data Engineering",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ashr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   },
   {
     "id": 31210,

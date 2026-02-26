@@ -330,11 +330,11 @@
     "subindustry": "B2B",
     "launched_at": 1642412738,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -412,8 +412,8 @@
     "website": "https://aiprise.com/",
     "all_locations": "Santa Clara, CA, USA",
     "long_description": "Verify your customers globally with a single platform. Get 800+ data points on each business and 100+ data points on each individual and onboard with confidence.",
-    "one_liner": "AI Powered Global Compliance Platform",
-    "team_size": 36,
+    "one_liner": "AI-powered Global Compliance Platform",
+    "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1656614505,
@@ -459,16 +459,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 43,
+    "team_size": 51,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -482,11 +482,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -716,6 +714,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arva-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json"
+  },
+  {
+    "id": 30057,
+    "name": "Luthor",
+    "slug": "luthor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d91e1c60cc50fb16c36d4796d44c09c5b7431053.png",
+    "website": "https://luthor.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building Luthor: software that helps regulated companies review and approve marketing content in minutes instead of weeks.",
+    "one_liner": "Marketing Approval Platform for Regulated Industries",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730139932,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Compliance",
+      "Marketing",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/luthor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
     "id": 30239,

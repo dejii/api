@@ -18,10 +18,10 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare"
     ],
@@ -48,15 +48,15 @@
     "website": "https://overstandlabs.com",
     "all_locations": "",
     "long_description": "Overstand is an on-demand data and insights team for customer communications. We unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
-    "one_liner": "The on-demand data team for medium-to-large enterprises",
+    "one_liner": "We help companies find and leverage the needles in their data haystack",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1724369845,
     "tags": [
-      "Artificial Intelligence",
       "Data Science",
       "Data Engineering",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -470,7 +470,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -667,13 +667,13 @@
     "subindustry": "B2B",
     "launched_at": 1736780951,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -1023,11 +1023,11 @@
       "Fin",
       "Guse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d12ad9959282e3312f594f8a7d258cc5e4882ec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46940a5d670fe7056206ec169c72d133b7e95868.png",
     "website": "https://www.orchids.app/",
     "all_locations": "",
-    "long_description": "Orchids is the best way to build apps with AI. If this mission resonates with you, we encourage you to apply for a role at Orchids - orchids.app/careers.",
-    "one_liner": "The AI Full Stack Engineer",
+    "long_description": "The best way to build any app with AI. If this mission resonates with you, we encourage you to apply for a role at orchids.app/careers.",
+    "one_liner": "AI App Builder",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1858,7 +1858,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -2081,7 +2081,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -2467,7 +2467,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -3130,7 +3130,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -3396,7 +3396,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3699,7 +3699,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -3907,8 +3907,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c559a82e8bccf756d0c26668df5ed8dc95c8bd00.png",
     "website": "https://www.athenahq.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more using generative engine optimization (GEO).\r\n\r\nAI search is expected to overtake traditional search in the next 3 years. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
-    "one_liner": "Get Your Brand Discovered on AI Search.",
+    "long_description": "Make sure your brand doesn’t get left behind as search shifts from traditional SEO to generative AI search.\r\n\r\nAthenaHQ is an AI SEO platform for GEO (Generative Engine Optimization) and AEO (Answer Engine Optimization), helping brands show up in AI-generated answers across ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nAI search is expected to overtake traditional search within the next few years. AthenaHQ fills the gap with a system to measure visibility, identify what AI engines cite and recommend, and help your team improve content and brand presence for AI-first discovery.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
+    "one_liner": "Be the Answer in AI Search - AI SEO across SEO, GEO & AEO",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -3938,21 +3938,24 @@
   },
   {
     "id": 30269,
-    "name": "Strike",
-    "slug": "strike",
+    "name": "Pluto",
+    "slug": "pluto",
     "former_names": [
-      "PowerPlay"
+      "PowerPlay",
+      "Strike"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3212b214ed79ac19b611c2453947f4caaa6755d.png",
-    "website": "http://tradestrike.app",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Still in stealth, reach out to learn more!",
-    "one_liner": "Regulated futures exchange",
-    "team_size": 8,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b533d4bccae312fbf4823b72ca0d59a43a6ebff2.png",
+    "website": "https://www.pluto.trade",
+    "all_locations": "New York, NY, USA",
+    "long_description": "First regulated exchange for compute",
+    "one_liner": "Regulated derivatives exchange",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1740523068,
     "tags": [
+      "Artificial Intelligence",
+      "FinOps",
       "Fintech",
       "Infrastructure"
     ],
@@ -3963,7 +3966,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "Fintech",
+      "Banking and Exchange"
     ],
     "regions": [
       "United States of America",
@@ -3974,8 +3978,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/strike",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/strike.json"
+    "url": "https://www.ycombinator.com/companies/pluto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/pluto.json"
   },
   {
     "id": 30270,
@@ -4162,16 +4166,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
     "one_liner": "AI-powered research desk for hedge funds",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1738274242,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Community",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4368,7 +4372,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efdf6ee9c7e7982e5c4b3241aed41a34d139d93c.png",
     "website": "http://www.bystreet.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bystreet is a hospitality deal sourcing platform built for hotel brands, management companies, and suppliers going after the CALA market. We provide best-in-class data on ownership groups and the right contacts to reach out to at them.",
+    "long_description": "Bystreet is a hospitality deal sourcing platform for development teams going after the Caribbean and Latin American hotel market. It offers a database of properties and hotels, allowing users to filter by country, asset type, and ownership details. The platform also provides contact information for owners and developers, streamlining the deal-sourcing process.",
     "one_liner": "Find your next hospitality deal.",
     "team_size": 4,
     "industry": "B2B",
@@ -4490,16 +4494,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (12.6k stars, >3m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The Leading LLM Eval and Observability Platform for AI Quality",
+    "one_liner": "The LLM Eval and Observability Platform for AI Quality",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4826,17 +4830,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh helps finance teams close with confidence when vendor spend is variable and invoices don’t reflect true spend for that period.\r\n\r\nWe use AI to understand and consolidate vendor and stakeholder context — across emails, internal messages, and historical invoices — into a clear view of incurred, prepaid, and incoming vendor costs. This gives teams early, reliable visibility into true spend, so budgets, runway, and close are driven by actual business activity rather than invoice timing or manual guesswork.\r\n\r\nMesh is built for finance teams managing large, complex vendor bases where spend is unpredictable and timing mismatches create risk at month-end.",
-    "one_liner": "Know where your money is going, regardless of when invoices arrive",
+    "long_description": "Month-end shouldn’t be a race against the clock.\r\n\r\nFor most mid-to-enterprise finance teams, accruals are a manual bottleneck. Chasing missing invoices and manually updating spreadsheets can eat up 4+ days of every month-end close.\r\n\r\nMesh changes the timeline. We automate 90% of the accruals process by capturing real-time usage and service signals directly from your AP inbox, Slack, Teams, and historical journals. We turn fragmented data into audit-ready outputs, so you can stop guessing and start closing.\r\n\r\nSee how top teams are accelerating their close by 4+ days at www.usemesh.com",
+    "one_liner": "Eliminating accrual spreadsheets for faster month-end",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736927502,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4854,7 +4858,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mesh-2",
@@ -5648,8 +5652,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
     "website": "https://www.corsair.dev",
     "all_locations": "New York, NY, USA",
-    "long_description": "Every codebase has integrations. If you look at how they're written, 90% of the code is identical whether you're connecting to Slack, Gmail, Hubspot, or some random API. You have to...\r\n\r\n- make an API call with proper error handling\r\n- deal with authentication and rate limits\r\n- store responses in your database with custom schemas\r\n- map untyped API responses to your own types\r\n- keep that data fresh with webhooks or polling\r\n- write foreign keys to connect the external data to your own\r\n\r\nEach integration requires rebuilding this infrastructure from scratch. This results in fragmented code with different patterns, error handling, and auth flows for every service. \r\n\r\nCorsair is the unified framework for integrating with third-party services. Add Slack, Linear, GitHub, Gmail, and hundreds of other integrations with the same syntax, same types, and same four database tables.",
-    "one_liner": "The TypeScript Integration Framework",
+    "long_description": "Don't do work yourself because you're nervous to hand it off.\r\n\r\nAI agents are genuinely capable now, but giving them the keys to your email, Slack, GitHub, and CRM feels reckless. One misunderstood instruction and they're sending emails to the wrong person, creating calendar invites, or pushing code you didn't mean to ship. So you end up doing the work yourself anyway.\r\n\r\nCorsair is a drop-in integration layer for AI agents that holds your credentials in an encrypted local database and enforces a configurable permission layer on every call. Anything risky gets paused and sent to you as a review link. Your agent cannot get around it. The approval is enforced in code, not in the prompt.\r\n\r\nIt works alongside OpenClaw, NanoClaw, or any agent you're already running. Drop it in, configure how much trust each integration gets, and hand off the work you've been too nervous to assign.\r\n\r\nIt ships with 12 integrations today, including Slack, GitHub, Gmail, Linear, HubSpot, and Google Calendar, with 15 more in development. Multi-tenancy and webhook handlers are built in.\r\n\r\nTake a look at the repo and see if it fits how you work: github.com/corsairdev/corsair",
+    "one_liner": "Integration Layer for AI Agents 🦞",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -5659,7 +5663,7 @@
       "B2B",
       "Workflow Automation",
       "Open Source",
-      "API"
+      "Personalization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6104,18 +6108,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
     "website": "https://runcopycat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CopyCat helps dermatology clinics deliver lab results to their patients. We use voice AI to provide simple explanations, answer any FAQs, and schedule patients for treatment.",
-    "one_liner": "AI Biopsy Callback Platform for Dermatologists",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "long_description": "CopyCat analyzes your manual processes and builds custom AI automations to execute them. We use browser agents, reverse engineered APIs, document processing, and more, to go beyond traditional RPA and do the heavy lifting for you.",
+    "one_liner": "AI-Powered Automation to Transform Your Back Office",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1734580429,
     "tags": [
       "Artificial Intelligence",
-      "Health Tech",
       "B2B",
+      "Logistics",
       "Healthcare",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6124,7 +6128,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -6544,27 +6549,27 @@
   },
   {
     "id": 30351,
-    "name": "ThirdLayer",
-    "slug": "thirdlayer",
+    "name": "Dex",
+    "slug": "joindex",
     "former_names": [
       "Dexterity",
       "Dex",
       "Dexterity AI",
       "Dexterity",
-      "Dex"
+      "Dex",
+      "ThirdLayer"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b8230cea80b14be0026f198edeff9c8f351272c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac79d12169377e5c2a4f0dfc5863cb25ef3beb7.png",
     "website": "https://joindex.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ThirdLayer is an applied research and product lab building the next interface for human–AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy—spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent — it’s a foundation for:\r\n\r\n● Long-term, cross-modal memory grounded in real workflows\r\n● A new interaction layer to replace static UI with a collaborative canvas \r\n● Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.",
-    "one_liner": "Building Dex, the AI Browser Copilot",
+    "one_liner": "The AI Coworker in Chrome",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1737217789,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
       "Productivity",
       "Consumer Products",
       "AI"
@@ -6576,7 +6581,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -6587,8 +6593,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thirdlayer",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/thirdlayer.json"
+    "url": "https://www.ycombinator.com/companies/joindex",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/joindex.json"
   },
   {
     "id": 30353,

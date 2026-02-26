@@ -3409,7 +3409,7 @@
     "former_names": [
       "Ferveret"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3181cc71c0ab721a1030e4c2c811247cccf5d4ee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5df9957e26e62bd0ce5370986cca3a22a7822646.png",
     "website": "http://www.ferveret.com",
     "all_locations": "San Jose, CA, USA",
     "long_description": "Ferveret develops liquid cooling solutions inspired by nuclear power plant cooling. We save data centers 96% in cooling costs, 68% on capital costs, and reduce their carbon footprint by 40% while increasing chip performance by 2X. Today, about 40% of the electricity used in these facilities is wasted on cooling. \r\n\r\nOur technology eliminates this wasted energy.",
@@ -4265,7 +4265,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -4914,7 +4914,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -4991,10 +4991,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5146,6 +5146,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sigmanticai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sigmanticai.json"
+  },
+  {
+    "id": 30770,
+    "name": "Button Computer",
+    "slug": "button-computer",
+    "former_names": [
+      "Vibe Code Go"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3ef287c6a9d9e31ec9e8347a2eeae128d1893d.png",
+    "website": "https://buttoncomputer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re launching a small hardware device: a button that you clip to your shirt. You press it to talk to AI, and it responds instantly.",
+    "one_liner": "Button is the wearable AI that can talk.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755546681,
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/button-computer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/button-computer.json"
   },
   {
     "id": 30771,
@@ -5403,6 +5448,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/icarus.json"
   },
   {
+    "id": 30987,
+    "name": "Lightberry",
+    "slug": "lightberry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d547e87dd8a95aef15364dc6867d855165863209.png",
+    "website": "https://lightberry.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build brains for robots.\r\n\r\nWe work with manufacturers like Unitree to make robots listen, speak, and act. You can program your robot out of the box by literally talking to it, no coding involved.\r\n\r\nRobots running Lightberry are emotionally intelligent, always on, and fully autonomous. Just like in Star Wars!",
+    "one_liner": "The social brain for robots.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1761343459,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Design",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lightberry",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/lightberry.json"
+  },
+  {
     "id": 31062,
     "name": "Hlabs",
     "slug": "hlabs",
@@ -5493,11 +5581,11 @@
     "name": "Protent",
     "slug": "protent",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4accd78dacbfd5c67ed4bbb399b521fdd61f69b9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08fe208eabd322adf04efcdf91f3bf0f7efc1a4a.png",
     "website": "https://protent.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI intelligence for mission-critical operations",
+    "long_description": "We provide real-time video intelligence that identifies escalating incidents as they unfold. Protent detects early escalation patterns and predictive threat signals, giving surveillance staff the immediate context they need to prioritize alerts and intervene before situations spiral out of control.",
+    "one_liner": "Protent turns passive surveillance into proactive intelligence.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -5506,8 +5594,8 @@
       "Hardware",
       "Machine Learning",
       "SaaS",
-      "Security",
-      "Monitoring"
+      "GovTech",
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5530,47 +5618,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/protent",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
-  },
-  {
-    "id": 31107,
-    "name": "BaseFrame",
-    "slug": "baseframe",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bf1c04a6815e7f5e0f651298fe715b7395428d.png",
-    "website": "https://baseframe.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BaseFrame helps hardware teams build more efficiently by identifying design gaps, data-driven tradeoffs, and component availability issues before the first board is spun, catching fatal mistakes while they are still cheap to fix.\r\n\r\nWe want to speed-up hardware teams so that they can build the cool innovations they are trying to bring to life with fewer bottlenecks.\r\n\r\nThe current hardware workflow is a broken sequence of handoffs: you finalize a design and send it to procurement, only to discover weeks later that there was an oversight or a critical component has a massive lead time. \r\n\r\nHow It Works\r\n• Project Scoping: Specialized AI agents ask you questions to scope out the project and uncover gaps, drilling down with follow up questions if needed or handing off to the next agent when sufficient. It provides suggestions and recommendations for each question, making sure we have thought about everything early on. \r\n• Validations: Once the questions are answered, we consolidate them into a document and run parallel agents to once again find issues, contradictions, or areas of improvement. \r\n• BOM Generation: Our AI splits the scope into a block diagram and generates a Bill of Materials (BOM) for each by parsing diagrams and tables from datasheets, getting price and lead time data from top vendors, and internal vendor communications. \r\n• Versioning & Parallel Agents: You can branch designs and use parallel agents to simulate multiple architectures simultaneously, revealing quantitative tradeoffs in cost, price, and lead times \r\n\r\nWe met during our first week of college and became roommates at Berkeley, and are excited to make physical innovation easier!\r\n",
-    "one_liner": "AI agents for hardware design that catch risks and tradeoffs early",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1768518655,
-    "tags": [
-      "Hardware",
-      "Workflow Automation",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/baseframe",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/baseframe.json"
   },
   {
     "id": 31142,

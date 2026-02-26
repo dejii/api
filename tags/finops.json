@@ -932,10 +932,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96f17fae40f55e74f9d214af11045d8eed8f096f.png",
     "website": "https://cloudchipr.com/",
-    "all_locations": "Berlin, Berlin, Germany; Hamburg, HH, Germany; Yerevan, Yerevan, Armenia; Remote",
-    "long_description": "Cloudchipr helps engineering and finance teams save time and money by automating cloud operations. With Cloudchipr, teams can schedule different automated workflows that send Slack alerts, build Tableau charts, create Jira tickets, and deactivate unused resources across all major cloud platforms. It’s like Zapier for cloud ops.\r\n",
-    "one_liner": "Workflow Automation for Cloud Operations",
-    "team_size": 8,
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Cloudchipr is an actionable FinOps platform that keeps multi-cloud spend under control 24/7 with AI agents.",
+    "one_liner": "The #1 Actionable FinOps Platform",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1667473991,
@@ -956,11 +956,9 @@
     ],
     "regions": [
       "Germany",
-      "Armenia",
       "Europe",
-      "Middle East and North Africa",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1142,6 +1140,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cifrato.json"
   },
   {
+    "id": 30269,
+    "name": "Pluto",
+    "slug": "pluto",
+    "former_names": [
+      "PowerPlay",
+      "Strike"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b533d4bccae312fbf4823b72ca0d59a43a6ebff2.png",
+    "website": "https://www.pluto.trade",
+    "all_locations": "New York, NY, USA",
+    "long_description": "First regulated exchange for compute",
+    "one_liner": "Regulated derivatives exchange",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1740523068,
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Fintech",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pluto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/pluto.json"
+  },
+  {
     "id": 30292,
     "name": "Mesh",
     "slug": "mesh-2",
@@ -1153,17 +1196,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh helps finance teams close with confidence when vendor spend is variable and invoices don’t reflect true spend for that period.\r\n\r\nWe use AI to understand and consolidate vendor and stakeholder context — across emails, internal messages, and historical invoices — into a clear view of incurred, prepaid, and incoming vendor costs. This gives teams early, reliable visibility into true spend, so budgets, runway, and close are driven by actual business activity rather than invoice timing or manual guesswork.\r\n\r\nMesh is built for finance teams managing large, complex vendor bases where spend is unpredictable and timing mismatches create risk at month-end.",
-    "one_liner": "Know where your money is going, regardless of when invoices arrive",
+    "long_description": "Month-end shouldn’t be a race against the clock.\r\n\r\nFor most mid-to-enterprise finance teams, accruals are a manual bottleneck. Chasing missing invoices and manually updating spreadsheets can eat up 4+ days of every month-end close.\r\n\r\nMesh changes the timeline. We automate 90% of the accruals process by capturing real-time usage and service signals directly from your AP inbox, Slack, Teams, and historical journals. We turn fragmented data into audit-ready outputs, so you can stop guessing and start closing.\r\n\r\nSee how top teams are accelerating their close by 4+ days at www.usemesh.com",
+    "one_liner": "Eliminating accrual spreadsheets for faster month-end",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736927502,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1181,7 +1224,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mesh-2",
@@ -1235,7 +1278,7 @@
     "slug": "fullseam",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
-    "website": "https://www.fullseam.com",
+    "website": "https://fullseam.com",
     "all_locations": "",
     "long_description": "FullSeam is an AI employee for finance and accounting teams. It logs into a company's accounting, billing, banking, and CRM tools and completes routine tasks typically done manually — like accounts receivable, accounts payable, billing, and updating financial records.",
     "one_liner": "FullSeam is an AI employee for finance and accounting teams.",
@@ -1244,10 +1287,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1769713322,
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1270,5 +1313,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fullseam",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fullseam.json"
+  },
+  {
+    "id": 31169,
+    "name": "Proximitty",
+    "slug": "proximitty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
+    "website": "https://proximitty.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Proximitty is the first truly AI-native loan management system. We build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nTrusted by publicly traded fintechs and banks globally.",
+    "one_liner": "Autonomous loan servicing and collections",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1771451277,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Lending"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proximitty",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/proximitty.json"
   }
 ]

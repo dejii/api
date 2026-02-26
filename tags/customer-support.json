@@ -956,13 +956,15 @@
   },
   {
     "id": 29283,
-    "name": "Assembly",
-    "slug": "assembly-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e776eb370bd36ebbc8087ded38ebcb435bf3d4c4.png",
-    "website": "https://www.askassembly.app/",
+    "name": "Wavelength",
+    "slug": "wavelength",
+    "former_names": [
+      "Assembly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2155f0e58d43be7fbf11024f78067345664004.png",
+    "website": "https://wavelength.cx/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assembly is a customer experience platform that turns customer feedback into product growth and support requests into long-lasting relationships. ",
+    "long_description": "The AI-native Customer Intelligence Platform purpose built for post sales teams.\r\nWavelength brings your entire customer data stack into one place - with powerful AI agents that uncover important signals and act instantly",
     "one_liner": "Build Magical Customer Experiences",
     "team_size": 3,
     "industry": "B2B",
@@ -993,8 +995,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/assembly-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/assembly-2.json"
+    "url": "https://www.ycombinator.com/companies/wavelength",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/wavelength.json"
   },
   {
     "id": 29341,
@@ -1006,17 +1008,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png",
     "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai is a Zendesk alternative built from the ground up for AI agents. ",
-    "one_liner": "AI Customer Service Platform and BPO for Your B2C Business",
+    "long_description": "14.ai is a Zendesk + offshore alternative built from the ground up for AI agents. ",
+    "one_liner": "AI Customer Service Agency for Your B2C Business",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700867535,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
+      "E-commerce",
       "Customer Support",
       "Infrastructure",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1147,16 +1149,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
     "one_liner": "Conversational AI agents for Customer Service.",
-    "team_size": 11,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Sales",
       "Customer Service",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1228,48 +1230,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/intryc.json"
   },
   {
-    "id": 29983,
-    "name": "PathPilot",
-    "slug": "pathpilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75c7444d35c6b426ac80829e6ed40b07d33577d.png",
-    "website": "https://www.getpathpilot.com/",
-    "all_locations": "San Jose, CA, USA",
-    "long_description": "PathPilot is the AI platform powering the next generation of financial operations.\r\nWe build fintech-specialized AI agents that automate the most critical and manual workflows — loan origination, customer support, onboarding, collections, and regulatory oversight — so financial institutions can scale with confidence.",
-    "one_liner": "AI platform helping fintech/bank teams scale efficiently",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724891975,
-    "tags": [
-      "SaaS",
-      "Finance",
-      "B2B",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pathpilot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
-  },
-  {
     "id": 30036,
     "name": "Rulebase",
     "slug": "rulebase",
@@ -1322,18 +1282,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
     "website": "https://www.clarm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You only need two tools to build a business in 2026 - Cursor and Clarm. We automate inbound and customer support for highly technical teams like software, OSS, and finance and healthcare companies.",
-    "one_liner": "Automate PMF",
+    "long_description": "You only need two tools to build a business in 2026 - Cursor for building and Clarm for sales, distribution, and support. Our AI captures inbound, qualifies buyer intent, and routes revenue across every channel while you build.",
+    "one_liner": "Capture inbound revenue whilst you build",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1747978633,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Sales",
       "Marketing",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1356,6 +1316,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clarm",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/clarm.json"
+  },
+  {
+    "id": 30524,
+    "name": "Lapel",
+    "slug": "lapel",
+    "former_names": [
+      "Echo Exploration Company, Inc.",
+      "Echo Exploration Co."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b4720ee8b1c90bf120b33611e6eebe044cd993.png",
+    "website": "https://lapel.com/",
+    "all_locations": "",
+    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: tools to power every touchpoint across sales, success, and support.\r\n\r\nToday, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. We believe online customer relationships should feel personal, not transactional.\r\n\r\nLearn more at lapel.com",
+    "one_liner": "Scale personalized service to every customer.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747773891,
+    "tags": [
+      "Customer Success",
+      "Sales",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lapel",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
   },
   {
     "id": 30912,

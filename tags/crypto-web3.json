@@ -188,7 +188,7 @@
     "all_locations": "Los Angeles, CA, USA; Remote",
     "long_description": "SFOX, a YC-backed company, makes it easy for enterprises to trade bitcoin.  We started with an advanced trading platform that uses algorithms to provide a competitive advantage to our customers. SFOX now aims to expand international commerce by making it easy to trade any currency and settle in real time.",
     "one_liner": "Crypto-currency trading platform.",
-    "team_size": 40,
+    "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1398907976,
@@ -2713,9 +2713,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e61aca9e3ec1f41c1b6e3f94c2d34767562c42d.png",
     "website": "http://www.AYCFund.com/",
     "all_locations": "Seoul, South Korea",
-    "long_description": "AYC Fund is web3 VC and web3 liquid fund. ",
-    "one_liner": "Web3 VC and Web3 Liquid Fund",
-    "team_size": 2,
+    "long_description": "AI-native crypto hedge fund",
+    "one_liner": "AI-native crypto hedge fund",
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1641267384,
@@ -3278,7 +3278,7 @@
     "website": "https://www.hype.meme/",
     "all_locations": "New York, NY, USA",
     "long_description": "Trade memecoins, crypto and send crypto to your friends\r\nDownload Hype here: https://apps.apple.com/us/app/hype-trade-memes/id6477802830",
-    "one_liner": "Trade memecoins & crypto",
+    "one_liner": "Trade memecoins ",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -4060,18 +4060,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport allows you to turn tweets into meaningful alpha. Get news as soon as it brakes with the associated trade. Scroll, Trade, and use Perps all in one app!",
-    "one_liner": "Turn tweets into trades",
-    "team_size": 2,
+    "long_description": "Freeport turns the sources you already trust (starting with Twitter) into a tradable feed. Our AI analysts track breaking news across social and financial media, distill what matters, and translate it into actionable trade ideas so you’re never late when markets move. ",
+    "one_liner": "Tradable Twitter Feed ",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -4183,5 +4183,92 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orthogonal",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/orthogonal.json"
+  },
+  {
+    "id": 31159,
+    "name": "Sponge",
+    "slug": "sponge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1db2b5d11f2e4062fbe5039b3382027c6c156ad.png",
+    "website": "https://paysponge.com/",
+    "all_locations": "",
+    "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
+    "one_liner": "Financial infrastructure for the agent economy",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771280774,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Crypto / Web3",
+      "Payments"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sponge",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sponge.json"
+  },
+  {
+    "id": 31296,
+    "name": "Unifold",
+    "slug": "unifold",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
+    "website": "https://unifold.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Launch crypto deposits in minutes. \r\n\r\nUnifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works.\r\n\r\nIf you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.\r\n",
+    "one_liner": "Multi-chain deposit and payment infrastructure",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1771008732,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Payments",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unifold",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
   }
 ]

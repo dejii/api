@@ -2392,7 +2392,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7fe48d854a5e26f76b915462fef2c4d177bfa49.png",
     "website": "https://www.svix.com",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Svix is the enterprise ready and open source webhooks service.\r\n\r\nWebhooks are a pain. Developers need to worry about deliverability, retries, monitoring and security. All of which are different for webhooks compared to the rest of the stack. We turn all of that into a simple API call.\r\n\r\nSvix is sending billions of webhooks for customers both large (Fortune 500) and small (startups), and is backed by Y Combinator, Andreessen Horowitz (a16z), Aleph, and founders and CTOs of companies such as Github, PagerDuty, Segment and Lookout.",
     "one_liner": "Enterprise ready webhooks service, open-source and in the cloud",
     "team_size": 12,
@@ -2418,7 +2418,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2881,7 +2881,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "GrowthBook is an open source platform to help companies make data-driven product decisions with feature flags and A/B tests.  \r\n\r\nExisting SaaS solutions like LaunchDarkly require a company to send all of their data to them. This results in high costs, data compliance issues, and vendor lock-in.  As a result, many companies end up building their own platforms in-house, which can take thousands of hours of work and lots of headaches.  To solve this, GrowthBook uses a company's existing data infrastructure and business metrics.\r\n\r\nWe believe feature flags and experimentation are the right way to build products at scale and that they will become a standard part of the development process.  GrowthBook is well positioned to be a leader in this growing market.",
     "one_liner": "Open source feature flagging and A/B testing",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1645834859,
@@ -2917,24 +2917,25 @@
   },
   {
     "id": 25402,
-    "name": "LlamaFarm",
-    "slug": "llamafarm",
+    "name": "Rownd",
+    "slug": "rownd",
     "former_names": [
-      "Rownd"
+      "Rownd",
+      "LlamaFarm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8d3ff52cb90605a538dc8d645bc45e1c2fba559.png",
-    "website": "https://llamafarm.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c9dcd6e10984a18f91f153e7efc538957c387fd.png",
+    "website": "https://rownd.ai",
     "all_locations": "Raleigh, NC, USA",
-    "long_description": "LlamaFarm helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
-    "one_liner": "Build powerful AI projects locally, deploy anywhere",
+    "long_description": "Rownd helps enterprises in regulated industries build and deploy AI applications with our open-core model, providing production-ready components for RAG systems, model fine-tuning, and prompt engineering that run entirely on-premise while maintaining complete data sovereignty. \r\n\r\nWith a powerful CLI and YAML configs, teams can create differentiated AI products without vendor lock-in or ML expertise, ensuring compliance and cost control that cloud-only solutions can't match.",
+    "one_liner": "Build powerful AI solutions. Deploy anywhere.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1643295526,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -2958,8 +2959,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/llamafarm",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/llamafarm.json"
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
   },
   {
     "id": 25542,
@@ -3061,7 +3062,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LanceDB is a new open-source vector database that can support low-latency billion-scale vector search on a single node. Built around a new columnar data format, LanceDB makes it incredibly easy to build applications for generative AI, recsys, search engines, content moderation, and more.",
     "one_liner": "Open-source, serverless vectordb for production-scale generative AI",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1648263864,
@@ -4210,7 +4211,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -4258,10 +4259,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -4743,16 +4744,16 @@
     "all_locations": "",
     "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
     "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675814900,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4769,7 +4770,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/litellm",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/litellm.json"
@@ -4967,16 +4968,16 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Skyvern helps companies automate browser based workflows using LLMs and Computer Vision, fully automating manual workflows and replacing brittle or unreliable scripts.\r\n\r\nExamples include:\r\n1. Automating materials procurement from commerce websites\r\n2. Completing complex multi-step workflows (ie getting an insurance quote from Geico.com)\r\n3. Automatically logging into portals and downloading invoices\r\n4. Navigating legacy content systems to do data extraction or data entry",
     "one_liner": "Open Source AI Agent to automate browser workflows via an API",
-    "team_size": 8,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1687648021,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Workflow Automation",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5090,49 +5091,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revideo",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/revideo.json"
-  },
-  {
-    "id": 28957,
-    "name": "Continue",
-    "slug": "continue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
-    "website": "https://continue.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Writing code got 10x faster. Shipping it didn't. Continue closes the gap. What good looks like on your team, enforced automatically.\r\n\r\nDevelopers are drowning in AI-generated code. Continuous AI solves this by automating the workflows around code, not just the code itself. The role of the software engineer is shifting from prompting AI to designing processes that run automatically.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.\r\n\r\nhttps://continuousai.com",
-    "one_liner": "Ship as fast as you code",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688142176,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "Machine Learning",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/continue",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
   },
   {
     "id": 28978,
@@ -5547,17 +5505,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat helps security, IT, and production support engineers close tickets fast. We provide everything they need to automate mission-critical work — AI agents, workflow builder, and case management.\r\n\r\nBuilt open source on open source (Temporal, Pydantic AI, Postgres, Clickhouse). Founded in 2024, deployed by more than 200 organizations from startups to Fortune 500 and federal agencies.",
-    "one_liner": "All-in-one AI automation platform for security and IT teams",
+    "long_description": "Tracecat is the open source AI automation platform for technical teams. Purpose-built for security, reliability, and internal operations.\r\n\r\nWe provide everything technical builders need to automate work — AI agents, workflows, cases, and over 150 integrations. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies. ",
+    "one_liner": "Automate work with secure AI agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
-      "Artificial Intelligence",
       "Open Source",
       "Enterprise",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5855,12 +5813,12 @@
       "Hatchet Technologies",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbef5bdf63091b02b57c823ab78af3d7abdc56c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e540520fafc66c31f803395b8f5603e6765d484.png",
     "website": "https://hatchet.run",
     "all_locations": "New York, NY, USA",
     "long_description": "Hatchet abstracts away the infrastructure for managing task queues and message brokers, so you can focus on writing your background task and workflow logic. With Hatchet, you can run slow OpenAI requests in the background with async tasks, chain complex tasks together into workflows, and set retries and timeouts to recover from failure. ",
     "one_liner": "Background task orchestration and visibility",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709312849,
@@ -6385,16 +6343,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (12.6k stars, >3m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The Leading LLM Eval and Observability Platform for AI Quality",
+    "one_liner": "The LLM Eval and Observability Platform for AI Quality",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6470,8 +6428,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
     "website": "https://www.corsair.dev",
     "all_locations": "New York, NY, USA",
-    "long_description": "Every codebase has integrations. If you look at how they're written, 90% of the code is identical whether you're connecting to Slack, Gmail, Hubspot, or some random API. You have to...\r\n\r\n- make an API call with proper error handling\r\n- deal with authentication and rate limits\r\n- store responses in your database with custom schemas\r\n- map untyped API responses to your own types\r\n- keep that data fresh with webhooks or polling\r\n- write foreign keys to connect the external data to your own\r\n\r\nEach integration requires rebuilding this infrastructure from scratch. This results in fragmented code with different patterns, error handling, and auth flows for every service. \r\n\r\nCorsair is the unified framework for integrating with third-party services. Add Slack, Linear, GitHub, Gmail, and hundreds of other integrations with the same syntax, same types, and same four database tables.",
-    "one_liner": "The TypeScript Integration Framework",
+    "long_description": "Don't do work yourself because you're nervous to hand it off.\r\n\r\nAI agents are genuinely capable now, but giving them the keys to your email, Slack, GitHub, and CRM feels reckless. One misunderstood instruction and they're sending emails to the wrong person, creating calendar invites, or pushing code you didn't mean to ship. So you end up doing the work yourself anyway.\r\n\r\nCorsair is a drop-in integration layer for AI agents that holds your credentials in an encrypted local database and enforces a configurable permission layer on every call. Anything risky gets paused and sent to you as a review link. Your agent cannot get around it. The approval is enforced in code, not in the prompt.\r\n\r\nIt works alongside OpenClaw, NanoClaw, or any agent you're already running. Drop it in, configure how much trust each integration gets, and hand off the work you've been too nervous to assign.\r\n\r\nIt ships with 12 integrations today, including Slack, GitHub, Gmail, Linear, HubSpot, and Google Calendar, with 15 more in development. Multi-tenancy and webhook handlers are built in.\r\n\r\nTake a look at the repo and see if it fits how you work: github.com/corsairdev/corsair",
+    "one_liner": "Integration Layer for AI Agents 🦞",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6481,7 +6439,7 @@
       "B2B",
       "Workflow Automation",
       "Open Source",
-      "API"
+      "Personalization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6897,9 +6855,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CUDA for phones & consumer hardware: Cactus is used by 3k+ developers and 100+ products to run AI locally on consumer hardware. It is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
-    "one_liner": "Kernels & Engine for running AI on consumer devices.",
-    "team_size": 9,
+    "long_description": "Check out the project: https://github.com/cactus-compute/cactus",
+    "one_liner": "Low-latency AI engine for mobile devices & wearables",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752189935,
@@ -7033,8 +6991,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
     "website": "https://epicenter.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
-    "one_liner": "Open-source, local-first apps that share a memory.",
+    "long_description": "Epicenter is an ecosystem of open-source, local-first apps that share a memory. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
+    "one_liner": "ChatGPT's memory feature in an open, portable format",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -7153,47 +7111,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
   },
   {
-    "id": 30876,
-    "name": "Velum Labs",
-    "slug": "velum-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png",
-    "website": "https://www.velum-labs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velum is an open-source firewall for content-level access control across documents, databases, and applications. Admins define policies, and we apply them in real time across your entire stack to control what each recipient sees.\r\n\r\nOur firewall sits between your data sources and consumers (LLMs, users, vendors), enforcing policies on every request. We understand meaning in text, documents, and databases to detect sensitive information based on your policies, then apply recipient-specific controls without blocking workflows.\r\n\r\nCreate policies in natural language. Teams write rules that define what's sensitive and who should access it, and Velum enforces them consistently across all systems. When authorization changes, we can reveal tokenized data just-in-time for approved recipients, maintaining both security and utility.\r\n\r\nWe integrate directly into your existing infrastructure. For AI workflows, we intercept prompts, responses, and retrievals to prevent sensitive information from leaking into or out of models. For enterprise systems like Salesforce, SAP, or Workday, we extend policy enforcement to exports, reports, and syncs.\r\n\r\nVelum is designed for scale and compliance. We provide encryption and structure-preserving tokenization for high-throughput pipelines, with multi-cloud deployment options and configurable data residency per tenant to meet your compliance requirements.",
-    "one_liner": "Firewall that controls access to information across AI and humans",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762847882,
-    "tags": [
-      "Machine Learning",
-      "Security",
-      "Open Source",
-      "Privacy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velum-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/velum-labs.json"
-  },
-  {
     "id": 30939,
     "name": "Expected Parrot",
     "slug": "expected-parrot",
@@ -7303,7 +7220,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -7363,5 +7280,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skillsync",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/skillsync.json"
+  },
+  {
+    "id": 31199,
+    "name": "Emdash",
+    "slug": "emdash",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65f0b89667ff290bb9620bcc2fa2d4c1e952c051.png",
+    "website": "https://emdash.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agent-first development environment. Emdash enables engineering teams to develop software faster, by running multiple coding agents in parallel. We're an open-source and provider-agnostic desktop application.",
+    "one_liner": "Open-source Agentic Development Environment",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1770661748,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/emdash",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/emdash.json"
   }
 ]

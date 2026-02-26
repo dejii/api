@@ -941,17 +941,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/184d30d91903380caada7f52cd7cd7992759e07b.png",
     "website": "https://www.extend.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "We’re helping companies transform their documents into high quality data, achieve unmatched accuracy, and ship custom document automation in days, not months.",
-    "one_liner": "The Modern Document Processing Cloud",
-    "team_size": 13,
+    "long_description": "Parse, extract, and split your hardest documents with unmatched accuracy. Read any layout with specialized vision models, and ship reliable pipelines in minutes, not months.",
+    "one_liner": "Production-ready document processing",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1679062598,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1299,7 +1299,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
+    "long_description": "Visit https://ironclaw.sh\r\n\r\nAn AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
     "one_liner": "AI Workforce that does it all",
     "team_size": 4,
     "industry": "B2B",
@@ -1307,10 +1307,10 @@
     "launched_at": 1720334032,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Workflow Automation",
       "Analytics",
-      "CRM"
+      "CRM",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1503,5 +1503,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eigenpal",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/eigenpal.json"
+  },
+  {
+    "id": 31396,
+    "name": "qomplement",
+    "slug": "qomplement",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
+    "website": "https://qomplement.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "qomplement builds the most accurate AI agents for document filling. We take messy data and fill internal pdfs forms and spreadsheets templates teams actually use.\r\n\r\nToday 90% of enterprise data lives in documents. Extracting it is only half the job. In real workflows, that data has to be filled back into other documents. ",
+    "one_liner": "AI Agents for Document Filling",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771907564,
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qomplement",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
   }
 ]

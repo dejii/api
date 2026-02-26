@@ -430,24 +430,26 @@
   },
   {
     "id": 1826,
-    "name": "Volley",
-    "slug": "volley",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f0d1fed30e4c74c866f99e37ec1de04b5bbc0bd.png",
-    "website": "https://volleygames.com",
+    "name": "Weekend (fmr. Volley)",
+    "slug": "weekend-fmr-volley",
+    "former_names": [
+      "Volley"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68c8a6e771fdf5740d62e8d102b798b6c95ac403.png",
+    "website": "https://weekend.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Volley builds the best voice AI games and entertainment experiences for Amazon Alexa, smartphones, and TVs.\r\n\r\nPopular Volley voice games include “Song Quiz”, “Jeopardy!”, and “The Price Is Right”.\r\n\r\nOur voice apps are used by millions of people every month. We believe voice control will become the main way people access entertainment in their bedrooms, kitchens, living rooms, and cars, and our goal is to become the \"Netflix of Voice\" for this emerging category of devices.\r\n\r\nVolley was founded by Max Child and James Wilsterman in 2016. We're a hybrid remote/in-person company, headquartered in San Francisco.",
-    "one_liner": "Voice AI games on smart speakers, TVs, and mobile",
+    "long_description": "Weekend builds the best AI games and entertainment experiences for TVs.\r\n\r\nPopular Weekend games include Song Quiz, Jeopardy!, and Wheel of Fortune, and Wit's End.\r\n\r\nWeekend was founded by Max Child and James Wilsterman and is headquartered in San Francisco.",
+    "one_liner": "AI games and entertainment on TV",
     "team_size": 80,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1510193033,
     "tags": [
-      "Speech Recognition",
+      "Artificial Intelligence",
       "Entertainment",
       "Gaming",
-      "NLP",
-      "AI"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -461,17 +463,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/volley",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/volley.json"
+    "url": "https://www.ycombinator.com/companies/weekend-fmr-volley",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/weekend-fmr-volley.json"
   },
   {
     "id": 1852,
@@ -1603,7 +1603,7 @@
     "website": "https://www.hype.meme/",
     "all_locations": "New York, NY, USA",
     "long_description": "Trade memecoins, crypto and send crypto to your friends\r\nDownload Hype here: https://apps.apple.com/us/app/hype-trade-memes/id6477802830",
-    "one_liner": "Trade memecoins & crypto",
+    "one_liner": "Trade memecoins ",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -1774,18 +1774,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39e64fe4e49894144581ae2ef69befe4cb83f6b8.png",
     "website": "https://gladestudio.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glade is helping everyone build games with AI. GladeCore powers over 50 studios and developers with local AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
+    "long_description": "Glade is helping everyone build games with AI. GladeCore powers hundreds of studios and developers with locally powered AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
     "one_liner": "Build games at the speed of thought",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687994809,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
       "Entertainment",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1806,7 +1806,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glade",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glade.json"
   },
@@ -2087,17 +2087,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
     "website": "https://www.theinterface.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Interface is a frontier research lab focused on high-fidelity human simulation. We build systems that model human appearance, behavior, and interaction for world-model research.",
-    "one_liner": "The frontier lab for human simulation",
+    "long_description": "Interface is a frontier research lab focused on high-fidelity human and object simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
+    "one_liner": "The frontier lab for visual simulation",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1754968088,
     "tags": [
+      "Artificial Intelligence",
       "Entertainment",
       "Gaming",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,

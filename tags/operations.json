@@ -537,6 +537,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tile.json"
   },
   {
+    "id": 29298,
+    "name": "Greenboard",
+    "slug": "greenboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b27383428d763a236956940e76e892fc851162b4.png",
+    "website": "https://www.greenboard.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
+    "one_liner": "Modern OS for the financial back office. ",
+    "team_size": 26,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1700498020,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Compliance",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/greenboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/greenboard.json"
+  },
+  {
     "id": 29404,
     "name": "DianaHR",
     "slug": "dianahr",
@@ -770,18 +812,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc2c60d479b7ebde0f22e07c40db2956ad5ff6c.png",
     "website": "https://www.usesimple.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simple AI makes it easy to build and deploy enterprise-grade phone agents in days, not weeks. Iconic businesses use us for sales calls, customer support, leads qualification, and more.",
-    "one_liner": "AI phone agents for enterprise",
-    "team_size": 2,
+    "long_description": "Simple AI is building AI voice that sells. Our voice agents know every detail about every product SKU. They’re trained on the best reps, so every call is handled at top-performer quality. Simple AI agents already outperform trained live reps by 30% on conversion and upsell.",
+    "one_liner": "AI voice that sells",
+    "team_size": 11,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1723575608,
     "tags": [
       "Artificial Intelligence",
+      "Sales",
       "Call Center",
       "Operations",
-      "AI",
-      "AI Assistant"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -791,7 +833,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -848,6 +890,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/orgorg",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/orgorg.json"
+  },
+  {
+    "id": 30338,
+    "name": "CopyCat",
+    "slug": "copycat",
+    "former_names": [
+      "Platter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
+    "website": "https://runcopycat.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CopyCat analyzes your manual processes and builds custom AI automations to execute them. We use browser agents, reverse engineered APIs, document processing, and more, to go beyond traditional RPA and do the heavy lifting for you.",
+    "one_liner": "AI-Powered Automation to Transform Your Back Office",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1734580429,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Logistics",
+      "Healthcare",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copycat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
   },
   {
     "id": 30406,
@@ -1155,24 +1242,109 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunavo.json"
   },
   {
+    "id": 31000,
+    "name": "Vector Legal",
+    "slug": "vector-legal",
+    "former_names": [
+      "Cadence",
+      "Raise"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
+    "website": "https://vectorlegal.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A modern solution for Startup legal: Vector Legal is a hybrid AI law firm + legal tech platform. Our customers benefit from state of the art software for their legal operations + an experienced lawyer-in-the-loop. \r\n\r\nServices: fundraise & priced rounds | customer contracts | team growth & equity | AI draft & review | agentic data room | e-signatures | contract intelligence | legal health checks | mergers & acquisitions | co-founder separations | company formation.",
+    "one_liner": "AI Law Firm + Legal Tech Platform for Startups",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1771526564,
+    "tags": [
+      "Legal",
+      "LegalTech",
+      "Operations",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vector-legal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
+  },
+  {
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Haladir is an AI product lab for verifiable domains, enabling RL & models to scale to economically-complex tasks via operations research & formal methods.",
+    "one_liner": "Building Operational Superintelligence.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1766374394,
+    "tags": [
+      "Reinforcement Learning",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
+  },
+  {
     "id": 31200,
     "name": "Ressl AI",
     "slug": "ressl-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0464bfc1a158571ff22902856b269f9c0f52001.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
     "website": "https://ressl.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ressl AI is an AI Transformation partner for the enterprise. \r\n\r\nWe build custom AI agents for enterprises that matches the way they work and integrates deeply with their existing system-of-record. No migration required.\r\n\r\n",
-    "one_liner": "AI Transformation Partner",
-    "team_size": 3,
+    "long_description": "AI employees for home services and trades businesses. We automate the back office so field crews can focus on the actual work.\r\n\r\nTrades businesses (HVAC, plumbing, electrical, collision repair, roofing) run on legacy software and \"glue\" employees: people whose entire job is clicking through systems, copy-pasting between tools, and managing inbound volume across channels. A collision shop has one person generating estimates in CCCOne, another chasing parts vendors, another answering calls and Yelp messages, another doing invoices in QuickBooks. None of that requires a human.\r\n\r\nWe build proactive background agents that run these operations autonomously -- quoting, estimating, procurement, insurance coordination, scheduling, follow-ups -- on top of the software these businesses already own. \r\n\r\nWe started as an AI consulting firm talking to businesses across every industry. After a month, the pattern was obvious - trades and field services had the most \"glue work\" and the least tech sophistication to solve it themselves. Every shop we walked into had 2–4 people doing work that software should be delivering as an outcome, not just enabling.\r\n\r\nOur GTM is direct to operators and through PE-backed roll-ups, who are actively looking for margin improvements across their portfolio companies. If this is of interest, please reach out arushi@ressl.ai",
+    "one_liner": "AI Transformation for the Trades",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1765975223,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation",
-      "Operations",
-      "AI"
+      "Home Services",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1203,16 +1375,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
     "website": "https://bubblelab.ai/",
     "all_locations": "",
-    "long_description": "Bubble Lab (YC W'26) lets operations teams build production workflows in minutes, just by prompting. \r\n\r\nAlready trusted by thousands of professionals in BizOps, SalesOps, and RevOps who are saving hundreds of hours from manual work by automating processes across the tools they use daily.",
-    "one_liner": "Prompt once, automate forever.",
+    "long_description": "Bubble Lab (YC W’26) lets you deploy Pearl, your ops super-employee, directly into Slack.\r\n\r\nPearl connects to your tools like Notion, Jira, HubSpot, Stripe, and Google Workspace, and can take action on your behalf—updating systems, running reports, and executing operational workflows automatically.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work, reduce context switching, and scale their operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
+    "one_liner": "Your ops super-employee in Slack",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1764881455,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1235,5 +1407,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bubble-lab",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
+  },
+  {
+    "id": 31269,
+    "name": "MochaCare",
+    "slug": "mochacare",
+    "former_names": [
+      "HelpingHome"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
+    "website": "https://www.mochacare.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "MochaCare is an AI-powered, human-in-the-loop scheduling and hiring service for home care agencies. We give agencies their time back and turn their operations data into growth.",
+    "one_liner": "AI-powered scheduling and hiring service for home care agencies.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1771654500,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Home Services",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mochacare",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
   }
 ]

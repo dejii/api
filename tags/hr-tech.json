@@ -664,17 +664,18 @@
   },
   {
     "id": 1705,
-    "name": "Candidate.ly",
-    "slug": "candidate-ly",
+    "name": "Candidately",
+    "slug": "candidately",
     "former_names": [
       "Gustav",
       "Candidately",
       "Gustav",
-      "Candidately"
+      "Candidately",
+      "Candidate.ly"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb845253b30b7d03651816b8bbbf27b80eaffa2.png",
-    "website": "https://candidate.ly/",
-    "all_locations": "New York, NY, USA; Vienna, Vienna, Austria; Remote",
+    "website": "https://www.candidately.com/",
+    "all_locations": "New York, NY, USA; Remote",
     "long_description": "Candidately simplifies the process of sharing candidate resumes between staffing firms and their clients. Instead of relying on email attachments, Candidately offers a collaborative space where staffing firms can submit their top candidates, receive prompt client feedback, track client activity on candidate profiles, and increase the number of successful placements.",
     "one_liner": "The digital storefront for staffing and recruiting teams.",
     "team_size": 9,
@@ -699,9 +700,7 @@
     ],
     "regions": [
       "United States of America",
-      "Austria",
       "America / Canada",
-      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -710,8 +709,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/candidate-ly",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/candidate-ly.json"
+    "url": "https://www.ycombinator.com/companies/candidately",
+    "api": "https://yc-oss.github.io/api/batches/summer-2017/candidately.json"
   },
   {
     "id": 1787,
@@ -1913,7 +1912,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -2406,8 +2405,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba7b37dc3c29d740d89959501d5950b59307a9f.png",
     "website": "https://www.flexdesk.com/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "FlexDesk is the modern platform for corporate real estate departments. Combining lease administration with utilization intelligence, financial management, and a coworking booking platform, FlexDesk’s all-in-one solution is designed to help occupiers maximize the ROI of their real estate portfolio. Leading public and private corporations like Confluent, Hopper, ezCater, Blink Health, Paystand, and Bluecrest use FlexDesk to streamline their portfolio management processes while delighting their business users.",
-    "one_liner": "One platform for corporate occupiers to manage their office portfolios",
+    "long_description": "Real estate rent is often the largest non-payroll expense for companies. FlexDesk replaces fragmented, manual back-office work with intelligent agents that execute the workflows required to manage and optimize portfolios.\r\n\r\nInternal real estate teams at enterprises like Reddit and Confluent use FlexDesk in the same way that Travel teams use Navan and Procurement teams use Zip.",
+    "one_liner": "AI Agents for corporate real estate teams",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Office Management",
@@ -2462,7 +2461,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -2594,7 +2593,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",

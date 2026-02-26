@@ -832,7 +832,7 @@
     "all_locations": "Lausanne, VD, Switzerland",
     "long_description": "Proteins are the most advanced nanotechnology we know of. At Adaptyv, we’re building a fully automated protein foundry to allow you to synthesize and test any protein you design.\r\n",
     "one_liner": "We're building fully automated labs for protein engineering",
-    "team_size": 12,
+    "team_size": 25,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1628157260,
@@ -1308,8 +1308,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
     "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
-    "one_liner": "Easy to use computational biology tools for drug discovery",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by thousands researchers in large pharma companies, top biotechs, and academic institutions.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "one_liner": "AI Inference Platform for Drug Discovery",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1623,7 +1623,8 @@
     "tags": [
       "AI-powered Drug Discovery",
       "Gene Therapy",
-      "Cell Therapy"
+      "Cell Therapy",
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1646,5 +1647,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/origin-bio",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/origin-bio.json"
+  },
+  {
+    "id": 31113,
+    "name": "CellType",
+    "slug": "celltype",
+    "former_names": [
+      "Contextual Bio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7626449e8e50e3bcef406586024dca5da4b7918b.png",
+    "website": "https://www.celltype.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
+    "one_liner": "The agentic drug company. We simulate human biology.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1771295425,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Biotech",
+      "Therapeutics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/celltype",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/celltype.json"
   }
 ]

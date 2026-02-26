@@ -2340,15 +2340,16 @@
   },
   {
     "id": 1927,
-    "name": "AskMyClass",
-    "slug": "askmyclass",
+    "name": "AskMyClass, now Soundkins",
+    "slug": "askmyclass-now-soundkins",
     "former_names": [
       "Hoogalit",
       "Inc.",
-      "Hoogalit"
+      "Hoogalit",
+      "AskMyClass"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2177907760d08fb491a5c3607a0b5577d2629c98.png",
-    "website": "https://mysoundtown.com/",
+    "website": "https://soundkins.com/",
     "all_locations": "Menlo Park, CA, USA; Remote",
     "long_description": "AskMyClass, is a learning assistant that helps teachers save time and enhance learning, using smart speakers like Alexa, and help students get back-on-task quickly and build life skills through classroom management, social-emotional learning, and lesson support.",
     "one_liner": "Audio learning assistant for teachers and students.",
@@ -2380,8 +2381,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/askmyclass",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass.json"
+    "url": "https://www.ycombinator.com/companies/askmyclass-now-soundkins",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass-now-soundkins.json"
   },
   {
     "id": 1955,
@@ -4385,7 +4386,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": true,
     "batch": "Winter 2021",
     "status": "Active",
@@ -5786,7 +5787,7 @@
       "Shaktimaan",
       "Kalam"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b77af33029a4b47cc037f68e90edf366b8b47b3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e158289890d2edaade7efd0948c8b53b8775a93.png",
     "website": "https://superkalam.com",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Every student deserve personal attention. With AI, we can infinitely scale personalised learning experience at scale to every student. That's what we are building at SuperKalam.\r\n\r\n",
@@ -6230,15 +6231,15 @@
     "website": "https://www.educato.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Educato builds exam prep platforms worldwide using AI.\r\n\r\nOnline exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies.",
-    "one_liner": "AI-Powered Worldwide exam-prep platform",
+    "one_liner": "Worldwide exam-prep platform",
     "team_size": 5,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1722269199,
     "tags": [
+      "Artificial Intelligence",
       "Education",
-      "Edtech",
-      "AI"
+      "Edtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6322,7 +6323,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "ISSEN is an AI conversational language app that helps you become fluent. Your on-demand voice tutor is personal to you, adapting lessons and chats to your particular interests, learning style, and goals. Our mission is to transform language learning by offering a level of connection, effectiveness and fun that, until now, only human teachers could provide.",
     "one_liner": "AI realtime voice companion for language learning",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1729707215,
@@ -6613,7 +6614,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tegore follows K-12 school curriculum to design courses like Algebra I & Algebra II. In addition to working with high schools in the Bay Area to design the best in-classroom experiences, Tegore is developing the corresponding consumer product, a Duolingo for Math.\r\n\r\nEach lesson in Tegore follows a lesson plan (e.g. Polynomial Long Division), and the content is delivered with voice / interactive visuals, and checks students' understanding by using dialectic teaching.",
     "one_liner": "Your new AI-powered math tutor.",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1747781122,
@@ -6624,7 +6625,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -6854,5 +6855,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parrot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/parrot.json"
+  },
+  {
+    "id": 31229,
+    "name": "Doomersion",
+    "slug": "doomersion",
+    "former_names": [
+      "Doomlingo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/282ed17cf8938481c5ec2aa08a10e8dccc3570cd.png",
+    "website": "https://doomersion.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Doomersion (formerly Doomlingo) lets you learn languages by doomsrolling! Watch TikToks in your target language that are exactly matched to your level, and as you scroll, they get a little bit harder.\r\n\r\nGen-Z doomscrolls 2.5-3 hours a day, and if we bake immersion into that by only showing them viral videos in another language that are matched to their level, we can make the optimal language learning method addictive for people. Hence the name, doomersion.\r\n\r\nThe app gained ~15k downloads in the first two weeks, and power users spend ~3+ hours daily on the app. Feel free to download and try it yourself!",
+    "one_liner": "Doomscroll to learn languages",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1771974925,
+    "tags": [
+      "Education"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/doomersion",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/doomersion.json"
   }
 ]

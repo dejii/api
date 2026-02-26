@@ -299,16 +299,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
     "website": "https://www.ehl.markets/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use thousands of AI agents to automate the work of human investors—reading filings, processing news, and finding high-signal events. Our goal is to build a fully autonomous fund that outperforms the best PMs on the planet. Starting with equity long/short.\r\n\r\n",
-    "one_liner": "AI-native hedge fund using agents to invest the way humans do—at scale",
-    "team_size": 1,
+    "long_description": "We operate a platform that automates quantitative research — generating hypotheses, backtesting strategies, and analyzing results. Hundreds of agents run in parallel and learn from what the others discovered. We are building a fund that scales on agents, not researchers.",
+    "one_liner": "AI-native hedge fund using agents to automate quant research—at scale",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1710132587,
     "tags": [
-      "Artificial Intelligence",
-      "Search",
-      "Infrastructure",
+      "Finance",
+      "Investing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -759,26 +758,26 @@
   },
   {
     "id": 29207,
-    "name": "PurplePages",
-    "slug": "purplepages",
+    "name": "Cora",
+    "slug": "cora",
     "former_names": [
       "PurplePill",
-      "HeyPurple"
+      "HeyPurple",
+      "PurplePages"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf22855fa2bcccfa5a6527f46a30a4d6e91069b2.png",
-    "website": "https://www.thepurplepages.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4d875b70b030b8234a9895a54859da447f55d2e.png",
+    "website": "https://www.corahealth.app/download",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Purple is an AI agent for online local marketplace transactions.",
+    "long_description": "Cora is a mobile app that provides personalized fitness coaching using health and wearable data. Cora is built for people who want structure and guidance in their training, but don’t benefit from generic programs or static plans. By connecting to Apple Watch and other health data sources, Cora understands a user’s current fitness level and adapts coaching, insights, and training plans over time.\r\n\r\nWith Cora, users get:\r\n- Coaching and insights based on real health and wearable data\r\n- Adaptive training plans that evolve with fitness level\r\n- Nutrition tracking with smart macro targets based on your goals\r\n- Clear guidance on training, recovery, and progress over time\r\n- A simple way to understand where they are and what to do next",
+    "one_liner": "AI Fitness Coach",
     "team_size": 3,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "subindustry": "Consumer",
     "launched_at": 1707161827,
     "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Real Estate",
-      "Conversational AI",
+      "Consumer",
+      "Fitness",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -788,8 +787,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Home and Personal"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -800,8 +798,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/purplepages",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/purplepages.json"
+    "url": "https://www.ycombinator.com/companies/cora",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/cora.json"
   },
   {
     "id": 29226,
@@ -815,7 +813,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
     "one_liner": "AI code review agent with complete context of your codebase",
-    "team_size": 16,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1695668492,
@@ -980,17 +978,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ac79a5dd7e79b8d3e0a7794a401a7673116ee9.png",
     "website": "https://www.ion.design/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We created Ruby, an AI Product designer who improves your product while you sleep.\r\n\r\nYou can assign Ruby design tasks right in slack, like optimizing a flow or creating a new page.\r\nShe clarifies requirements, researches, designs multiple options, iterates with you, and ships PRs to your codebase. She will then monitor performance and suggest future improvements.\r\n\r\nShe’s like Devin, but for Product Design work.",
-    "one_liner": "We built the 1st Autonomous AI Product Designer",
+    "long_description": "ion designs and launches hundreds of on-brand pages for your website, so you close more deals, rank better, and turn your website into a growth engine.\r\n\r\nEvery ad campagin, use case, case study, and competitor comparison gets its own dedicated page, designed to convert.\r\n\r\nIt's like a growth designer working 24/7 to help you convert more traffic.",
+    "one_liner": "AI that creates & tests 100s of landing pages for your product",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1698787268,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Design Tools",
-      "AI Assistant"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1149,17 +1146,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat helps security, IT, and production support engineers close tickets fast. We provide everything they need to automate mission-critical work — AI agents, workflow builder, and case management.\r\n\r\nBuilt open source on open source (Temporal, Pydantic AI, Postgres, Clickhouse). Founded in 2024, deployed by more than 200 organizations from startups to Fortune 500 and federal agencies.",
-    "one_liner": "All-in-one AI automation platform for security and IT teams",
+    "long_description": "Tracecat is the open source AI automation platform for technical teams. Purpose-built for security, reliability, and internal operations.\r\n\r\nWe provide everything technical builders need to automate work — AI agents, workflows, cases, and over 150 integrations. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies. ",
+    "one_liner": "Automate work with secure AI agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
-      "Artificial Intelligence",
       "Open Source",
       "Enterprise",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1913,7 +1910,7 @@
     "all_locations": "Salt Lake City, UT, USA",
     "long_description": "Buster is an AI agent platform built for analytics engineering. It provides data teams with AI agents that keep their dbt projects reliable, documented, and consistent — automatically.",
     "one_liner": "AI platform for analytics engineering",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1698776495,
@@ -2317,13 +2314,15 @@
   },
   {
     "id": 29283,
-    "name": "Assembly",
-    "slug": "assembly-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e776eb370bd36ebbc8087ded38ebcb435bf3d4c4.png",
-    "website": "https://www.askassembly.app/",
+    "name": "Wavelength",
+    "slug": "wavelength",
+    "former_names": [
+      "Assembly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2155f0e58d43be7fbf11024f78067345664004.png",
+    "website": "https://wavelength.cx/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assembly is a customer experience platform that turns customer feedback into product growth and support requests into long-lasting relationships. ",
+    "long_description": "The AI-native Customer Intelligence Platform purpose built for post sales teams.\r\nWavelength brings your entire customer data stack into one place - with powerful AI agents that uncover important signals and act instantly",
     "one_liner": "Build Magical Customer Experiences",
     "team_size": 3,
     "industry": "B2B",
@@ -2354,8 +2353,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/assembly-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/assembly-2.json"
+    "url": "https://www.ycombinator.com/companies/wavelength",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/wavelength.json"
   },
   {
     "id": 29284,
@@ -2455,11 +2454,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d2b1ddf28226da2f8d8938a45c15ffe3f10eb.png",
     "website": "https://pointone.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
-    "one_liner": "Automated time tracking and billing for law firms.",
-    "team_size": 12,
+    "long_description": "PointOne is the leading AI Time platform. With automated time entry, compliance, and analytics, PointOne offers AI-native",
+    "one_liner": "AI Time Platform for Law Firms",
+    "team_size": 15,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1705177845,
     "tags": [
       "Artificial Intelligence",
@@ -2475,7 +2474,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Legal"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -2841,11 +2840,17 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
     "one_liner": "Modern OS for the financial back office. ",
-    "team_size": 17,
+    "team_size": 26,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1700498020,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Compliance",
+      "Operations"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -3025,7 +3030,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Healthcare IT"
@@ -3693,7 +3698,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -3884,24 +3889,26 @@
   },
   {
     "id": 29325,
-    "name": "Keywords AI",
-    "slug": "keywords-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
-    "website": "https://keywordsai.co",
+    "name": "Respan",
+    "slug": "respan",
+    "former_names": [
+      "Keywords AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
+    "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe process a billion LLM calls every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.",
-    "one_liner": "The AI gateway with built-in observability & evals",
-    "team_size": 6,
+    "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
+    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3911,7 +3918,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -3924,8 +3931,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keywords-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/keywords-ai.json"
+    "url": "https://www.ycombinator.com/companies/respan",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/respan.json"
   },
   {
     "id": 29326,
@@ -4062,18 +4069,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3765a4b3a407691f524ffa2f1b9c994e62781a26.png",
     "website": "https://trypillar.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your help center shouldn't be an afterthought. Pillar keeps yours alive and accurate, letting users self-help with trusted answers embedded right where they need them.",
-    "one_liner": "The Intelligent Help Center",
+    "long_description": "Pillar is an open source copilot that turns user requests into completed actions, right inside your app.",
+    "one_liner": "Your App's Copilot",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701750687,
     "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Customer Success",
-      "Customer Service",
-      "AI Assistant"
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4365,8 +4371,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
     "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
-    "one_liner": "Easy to use computational biology tools for drug discovery",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by thousands researchers in large pharma companies, top biotechs, and academic institutions.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "one_liner": "AI Inference Platform for Drug Discovery",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4408,17 +4414,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png",
     "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "14.ai is a Zendesk alternative built from the ground up for AI agents. ",
-    "one_liner": "AI Customer Service Platform and BPO for Your B2C Business",
+    "long_description": "14.ai is a Zendesk + offshore alternative built from the ground up for AI agents. ",
+    "one_liner": "AI Customer Service Agency for Your B2C Business",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700867535,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
+      "E-commerce",
       "Customer Support",
       "Infrastructure",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4810,7 +4816,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -5812,7 +5818,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -5888,16 +5894,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
     "one_liner": "Conversational AI agents for Customer Service.",
-    "team_size": 11,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Sales",
       "Customer Service",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6147,16 +6153,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Andy is AI software that completes documentation for nurses doing home visits. Our software saves $8B a year; Tiantian was previously a PM at Google’s healthcare business and Max was a staff engineer on the health team at Apple. \r\n\r\nAndy benefits nurses and the agencies that employ them. Agencies that use Andy see up to 45% more detailed charts, 2x greater nurse productivity, and timely submission (no more billing delays!) With Andy, clinicians get their evenings back. \r\n\r\nHome health is the fastest growing segment of healthcare, doubling to $251B by 2031. Combined with recent nursing shortages and burnout, we’re seeing not just urgency, but excitement and joy, around adopting AI for home health. ",
     "one_liner": "Faster clinical documentation for home health nurses",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1707354939,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6170,7 +6176,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6894,17 +6902,17 @@
     "website": "https://getjust.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Always-on AI agents for 1-1 personalization at scale",
-    "one_liner": "A modern workflow for lifecycle marketing",
+    "one_liner": "Agentic Marketing Platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Workflow Automation",
       "Personalization",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6974,9 +6982,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b35e46eb9b08cc67eb469ae038a64122cff97e.png",
     "website": "http://www.betterbasket.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BetterBasket helps grocers with pricing, powered by competitive data. Our founding team worked together at Uber Eats growing the dark store business in Asia to $100 million in revenue and making it profitable, and are now building BetterBasket to bring those learnings to all grocers.",
-    "one_liner": "The only all-in-one pricing system for grocers",
-    "team_size": 4,
+    "long_description": "BetterBasket provides grocery retailers with AI agents for pricing, competitive intelligence and promotion optimization, with the aim of helping teams boost revenue, manage margin targets and automate decisions using real-time data across operations. ",
+    "one_liner": "Smart grocery pricing with AI",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1706153675,
@@ -7066,7 +7074,7 @@
     "all_locations": "",
     "long_description": "Artos is an AI-based document-drafting platform that helps life sciences companies turn their data into critical documents in minutes. These submissions currently take months and are the final hurdle before life sciences companies are allowed to sell their product. \r\n",
     "one_liner": "Authoring documents for life sciences in minutes, not months.",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1706544116,
@@ -7263,17 +7271,17 @@
     "website": "https://brainbaselabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Brainbase Labs is an applied AI research lab enabling AI in the workforce by building high-fidelity agent environments and tooling.\r\n\r\n",
-    "one_liner": "Applied AI research lab enabling the global AI workforce",
+    "one_liner": "The AI Labor Company",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707350817,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Workflow Automation",
-      "AI"
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7481,7 +7489,7 @@
       "Ultra"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
-    "website": "https://deep24.ai",
+    "website": "https://deep24.com",
     "all_locations": "",
     "long_description": "Deep24 is a coach that syncs with all your data source, understanding you and then coming up with plans to improve your life. ",
     "one_liner": "AI coach for your entire life",
@@ -7815,12 +7823,12 @@
       "Hatchet Technologies",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fbef5bdf63091b02b57c823ab78af3d7abdc56c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e540520fafc66c31f803395b8f5603e6765d484.png",
     "website": "https://hatchet.run",
     "all_locations": "New York, NY, USA",
     "long_description": "Hatchet abstracts away the infrastructure for managing task queues and message brokers, so you can focus on writing your background task and workflow logic. With Hatchet, you can run slow OpenAI requests in the background with async tasks, chain complex tasks together into workflows, and set retries and timeouts to recover from failure. ",
     "one_liner": "Background task orchestration and visibility",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709312849,
@@ -8352,7 +8360,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -8430,7 +8438,7 @@
     "website": "https://aquavoice.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Super fast AI dictation that lets you talk into any text field -- Cursor, Gmail, Slack, even your terminal. It starts up in under 50ms, inserts text as fast as 450ms, and has state-of-the-art accuracy. Write 4x faster anywhere with Aqua. 🌊",
-    "one_liner": "Talk into any text box - write 4x faster than typing.",
+    "one_liner": "Frontier Voice Input - write 4x faster than typing.",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -9700,7 +9708,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a8698407a8cb5928c428073e83afe6e5668d63c.png",
     "website": "https://www.forgehq.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Forge helps companies recover tariffs and duties paid on imported goods that are later exported or scrapped by automating a process called duty drawback.\r\n\r\nBillions of dollars of eligible refunds go unclaimed every year. We take full ownership of the process from organizing data to filing claims so businesses can unlock this extra revenue with minimal effort. ",
     "one_liner": "Getting companies refunds on tariffs & duties",
     "team_size": 3,
@@ -9708,14 +9716,14 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705516248,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -9786,24 +9794,26 @@
   },
   {
     "id": 29501,
-    "name": "Fume",
-    "slug": "fume",
+    "name": "Latted",
+    "slug": "latted",
     "former_names": [
-      "Fume Test"
+      "Fume Test",
+      "Fume"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d53ea7e7c8721b3c046f054b9cb0a5c2cc4b8cae.png",
-    "website": "https://fumedev.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b29e2d502cf6d25b0468bc3a78f72aad18346f8.png",
+    "website": "https://latted.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building an AI software developer that can solve complex tasks.\r\n\r\nAll of those bugs, sentry errors, feature requests can now be handled by Fume now. Just report them over Slack and tag Fume under it. Fume will solve all of them in minutes.\r\n\r\nIf you find yourself copying and pasting code over to ChatGPT all the time, shoot me an email at emre@fumedev.com",
-    "one_liner": "We are building the AI Software Developer",
+    "long_description": "Latted is an all-in one tool to generate and edit professional AI video projects.\r\n\r\nAll professional AI video projects take more than a single generation. You need to juggle between hundreds of images and videos and use multiple tools to edit your project.\r\n\r\nWith Latted, you can generate a 10-minute long video from a single prompt or generate and edit your project from scratch.\r\n\r\nThousands of creators use Latted for marketing videos, content creation and educational content. Create your first project today at latted.com!",
+    "one_liner": "A Unified Editor For AI Video",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1705822020,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
+      "B2B",
+      "Video",
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9824,8 +9834,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fume",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/fume.json"
+    "url": "https://www.ycombinator.com/companies/latted",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/latted.json"
   },
   {
     "id": 29502,
@@ -9962,17 +9972,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps lawyers stay organized, spot issues earlier, and close deals faster.",
-    "one_liner": "Legal due diligence platform powered by AI",
+    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
+    "one_liner": "M&A due diligence platform powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -10435,16 +10445,16 @@
     "all_locations": "",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -1679,7 +1679,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -2032,7 +2032,7 @@
     "all_locations": "Austin, TX, USA; Remote",
     "long_description": "We help security, legal and sales teams get answers in seconds without depending on subject-matter experts.\r\n\r\nOur AI agent connects to every source that already holds the truth (Google Drive, Notion, Slack, email, website, trust center, SOC 2 docs, etc.). It keeps that knowledge graph fresh on its own and drafts, validates, and formats responses to customer questions, security questionnaires, and RFPs, all in the background, so your team just reviews and ships.",
     "one_liner": "We help security, legal and sales teams answer customer questions",
-    "team_size": 7,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1658875414,
@@ -2295,26 +2295,27 @@
   },
   {
     "id": 26730,
-    "name": "Champ",
-    "slug": "champ",
+    "name": "Mocke",
+    "slug": "mocke",
     "former_names": [
       "Paigo",
       "Champ",
-      "Mocke"
+      "Mocke",
+      "Champ"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/171c0581e57f0416e5a735d4a205a75022ed470a.png",
-    "website": "https://trychamp.co/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e139b92e8bc60907f4d34db4e4a35641c4f569d9.png",
+    "website": "https://mocke.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Your team focus on closing deals, while AI SDR supplies you with meetings booked with decision makers",
-    "one_liner": "Top of B2B sales funnel on autopilot, by Champ AI SDR",
+    "long_description": "Cursor for cold email, with lead research and personalization at scale",
+    "one_liner": "Cold Email AI Agent",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1654798414,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2337,8 +2338,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/champ",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/champ.json"
+    "url": "https://www.ycombinator.com/companies/mocke",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/mocke.json"
   },
   {
     "id": 26741,
@@ -3171,9 +3172,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d914e5099612c52b407ca205a19346b7915e770f.png",
     "website": "https://hyperbound.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperbound pioneered AI Sales Roleplay technology and is the trailblazer behind the AI Sales Roleplay category for mid-market/enterprise revenue teams.\r\n\r\nWe provide human-like roleplays with AI buyers customized for your ICP, giving reps more at-bats and leveling up their business acumen in half the amount of time.\r\n\r\nWe then inspect live calls to certify that reps are mirroring your top performers and generate personalized AI feedback and targeted roleplays to tackle performance gaps.\r\nThe goal is faster ramp times, more pipeline, higher win rates, increased ACVs, more consistent performance across your team, and more time for your managers.\r\n\r\nInterested in trying it out today? Start a free demo simulation at hyperbound.ai and contact us at founders@hyperbound.ai for next steps.",
-    "one_liner": "AI Sales Performance OS",
-    "team_size": 17,
+    "long_description": "Hyperbound is the leading enterprise-first Revenue Activation Platform, pioneering a new category focused on turning insights into revenue-driving actions. Hyperbound AI analyzes thousands of sales calls to identify the behaviors that lead to closed-won deals, then transforms those insights into realistic, highly customizable human-like roleplays with AI buyers that drive behavior change at scale.\r\n\r\nTrusted by enterprises like IBM, LinkedIn, Monday.com, Bloomberg, Vanta, Autodesk, and G2, Hyperbound helps revenue teams ramp 50% faster, define what good looks like, and scale top performance across thousands of reps.\r\n\r\nInterested in trying it out today? Start a free demo simulation at https://app.hyperbound.ai/buyers and book time with our team to learn more.",
+    "one_liner": "Revenue Activation Platform",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1690226897,
@@ -3250,6 +3251,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/venta-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/venta-ai.json"
+  },
+  {
+    "id": 28884,
+    "name": "Dialtone",
+    "slug": "dialtone",
+    "former_names": [
+      "Samtana",
+      "Anneal",
+      "Dialtone",
+      "Big Smart AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8692e4ed8f0a4f0994a54350ecdac6d39e97ad8e.png",
+    "website": "https://usedialtone.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Pre built self-learning agents that automate duplicates and account matching, plus stale-opportunity enforcement and close-date drift - across your existing CRM, GTM stack, comms, and data warehouses.",
+    "one_liner": "Identity & pipeline freshness AI agents for revenue teams",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1688669019,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dialtone",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/dialtone.json"
   },
   {
     "id": 28920,
@@ -3633,7 +3681,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -3806,16 +3854,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
     "one_liner": "Conversational AI agents for Customer Service.",
-    "team_size": 11,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Sales",
       "Customer Service",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4148,6 +4196,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/soff.json"
   },
   {
+    "id": 29785,
+    "name": "Simple AI",
+    "slug": "simple-ai",
+    "former_names": [
+      "TBD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc2c60d479b7ebde0f22e07c40db2956ad5ff6c.png",
+    "website": "https://www.usesimple.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Simple AI is building AI voice that sells. Our voice agents know every detail about every product SKU. They’re trained on the best reps, so every call is handled at top-performer quality. Simple AI agents already outperform trained live reps by 30% on conversion and upsell.",
+    "one_liner": "AI voice that sells",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1723575608,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Call Center",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simple-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/simple-ai.json"
+  },
+  {
     "id": 30090,
     "name": "Origami",
     "slug": "origami-2",
@@ -4160,8 +4253,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90a150650f55581e2db5d27ee09895ea19f1d1a7.png",
     "website": "https://origami.chat/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Origami is an AI-powered spreadsheet to find and enrich your ideal customers.\r\n\r\nFind your perfect customers with AI, start free → origami.chat\r\n\r\nUsed by sales teams at CBRE, Clipboard Health, Remote.com, and more.",
-    "one_liner": "AI that finds your perfect customers",
+    "long_description": "Origami is an AI-powered spreadsheet to find and enrich your ideal customers.\r\n\r\norigami.chat has 100+ data sources - use it to find more of your perfect customers, enrich a CSV, or get decision makers. \r\n\r\nTry it out and get a lead list in seconds, start free → origami.chat\r\n\r\nUsed by sales teams at CBRE, Clipboard Health, Remote.com, and more.",
+    "one_liner": "Find your perfect leads with one prompt",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -4461,18 +4554,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
     "website": "https://www.clarm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You only need two tools to build a business in 2026 - Cursor and Clarm. We automate inbound and customer support for highly technical teams like software, OSS, and finance and healthcare companies.",
-    "one_liner": "Automate PMF",
+    "long_description": "You only need two tools to build a business in 2026 - Cursor for building and Clarm for sales, distribution, and support. Our AI captures inbound, qualifies buyer intent, and routes revenue across every channel while you build.",
+    "one_liner": "Capture inbound revenue whilst you build",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1747978633,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Sales",
       "Marketing",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4547,7 +4640,7 @@
     "slug": "nomi",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd11dae7a652bf143efed034d199e59b84ab4b90.png",
-    "website": "https://nomi.so",
+    "website": "https://www.nomi.so",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Nomi.so provides on-the-spot phrase suggestions, intelligently crafted from your transcribed sales calls and a custom playbook that adapts and grows with you, from founder-led sales to revops mastery. \r\n\r\nPS: We also increase closing rates by 12% on average and free up your sales team's mental energy. ",
     "one_liner": "Realtime Sales Copilot",
@@ -4556,9 +4649,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1747841477,
     "tags": [
-      "Artificial Intelligence",
       "Sales",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4669,6 +4762,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
   },
   {
+    "id": 30524,
+    "name": "Lapel",
+    "slug": "lapel",
+    "former_names": [
+      "Echo Exploration Company, Inc.",
+      "Echo Exploration Co."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b4720ee8b1c90bf120b33611e6eebe044cd993.png",
+    "website": "https://lapel.com/",
+    "all_locations": "",
+    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: tools to power every touchpoint across sales, success, and support.\r\n\r\nToday, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. We believe online customer relationships should feel personal, not transactional.\r\n\r\nLearn more at lapel.com",
+    "one_liner": "Scale personalized service to every customer.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747773891,
+    "tags": [
+      "Customer Success",
+      "Sales",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lapel",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
+  },
+  {
     "id": 30565,
     "name": "Cohesive",
     "slug": "cohesive",
@@ -4709,49 +4845,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cohesive",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
-  },
-  {
-    "id": 30692,
-    "name": "Candytrail",
-    "slug": "candytrail",
-    "former_names": [
-      "Wisp AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0fdeec730be1800b110510e5da85dc49f55644c.png",
-    "website": "https://candytrail.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the optimization platform for in-person sales teams. Our agents capture every customer interaction and surface insights on winning talk tracks, common objections, and revenue drivers. We have already delivered an average 13% lift in revenue for customers in pharma, real estate, and retail.",
-    "one_liner": "AI agents for in-person sales teams, starting with coaching",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1751244737,
-    "tags": [
-      "Sales",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/candytrail",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/candytrail.json"
   },
   {
     "id": 30715,
@@ -4814,9 +4907,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1754475903,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4945,9 +5038,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1760047494,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4981,8 +5074,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
     "website": "https://imagineai.me",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). \r\n\r\nWe launched in November, now serve 40+ paying customers (Series-A,B and seed stage companies plus VCs, global franchises, and ghostwriting agencies). Achieving minimum 30%-70% week to week growth.\r\n\r\n💡 Results:\r\n$20 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe’re not just another AI tool.\r\n\r\nWe’re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n📅 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n🔗 Connect with Sky: https://www.linkedin.com/in/skyyang/",
-    "one_liner": "Your AI Clone for B2B Content",
+    "long_description": "Imagine AI builds B2B content pipelines for entire teams so prospects find you, trust you, and book meetings before competitors even get a reply.\r\n\r\nMost B2B companies try LinkedIn GTM with one founder posting alone. It works, but it's slow. One voice. One network. Limited reach. What actually moves the needle is coordinated team effort, where multiple executives post aligned content, amplify each other, and create a ripple effect across the org.\r\n\r\nHere's how it works:\r\n\r\nWe build 100+ page Persona Reports from your transcripts, interviews, posts, and conversations for each person on your team. These capture how you actually think and talk. That persona powers every post and comment, so the content sounds like you wrote it. Not a polished version of you. You.\r\n\r\nOne calendar for your whole team. Your CEO posts the vision, your VP of Sales posts the proof, your Head of Marketing posts the framework. Same theme, different angles, coordinated cadence. Every client gets a dedicated Content Engineer who owns your strategy with an AI platform behind them.\r\n\r\nWe serve 40+ paying B2B companies from pre-seed to publicly traded such as Rippling, Corgi Insurnace, Fondo, Campfire AI, Paramify, etc\r\n\r\nResults across all clients:\r\n-> $31M in revenue generated\r\n-> 431 qualified inbounds in 1 month for one client\r\n-> $53K inbound revenue in 1.5 weeks for another\r\n-> 12M total impressions\r\n-> 10,400 hours saved\r\n\r\nBook a demo: https://imagineai.me \r\nEmail: sky@imagineai.me \r\nSky: https://linkedin.com/in/skyyang \r\nNeo: https://linkedin.com/in/neo-lky",
+    "one_liner": "We build B2B content for your entire team",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",

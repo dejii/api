@@ -347,24 +347,26 @@
   },
   {
     "id": 29325,
-    "name": "Keywords AI",
-    "slug": "keywords-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
-    "website": "https://keywordsai.co",
+    "name": "Respan",
+    "slug": "respan",
+    "former_names": [
+      "Keywords AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
+    "website": "https://respan.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe process a billion LLM calls every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.",
-    "one_liner": "The AI gateway with built-in observability & evals",
-    "team_size": 6,
+    "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
+    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -374,7 +376,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -387,8 +389,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keywords-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/keywords-ai.json"
+    "url": "https://www.ycombinator.com/companies/respan",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/respan.json"
   },
   {
     "id": 29401,
@@ -568,48 +570,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-context-company",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/the-context-company.json"
-  },
-  {
-    "id": 31106,
-    "name": "Protent",
-    "slug": "protent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4accd78dacbfd5c67ed4bbb399b521fdd61f69b9.png",
-    "website": "https://protent.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI intelligence for mission-critical operations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1767579587,
-    "tags": [
-      "Hardware",
-      "Machine Learning",
-      "SaaS",
-      "Security",
-      "Monitoring"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/protent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
   }
 ]

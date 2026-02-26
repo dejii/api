@@ -562,7 +562,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2015",
     "status": "Active",
@@ -896,7 +896,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -1804,16 +1804,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98bea3f929dc1e5ae170d9423f432e2f8a35726.png",
     "website": "https://www.liveflow.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Meet your finance team's new superpower: LiveFlow eliminates the endless hours of manual financial reporting that keep CFOs and their teams stuck instead of driving strategic value. By automating your month-end close process from days to minutes, LiveFlow acts like your highest-performing analyst who works 24/7 with perfect accuracy. Not only does this free your team from the monthly close chaos, but it also means you can finally focus on what you actually became a CFO for – delivering insights that move your business forward.",
-    "one_liner": "The #1 platform for multi-entity finance",
-    "team_size": 47,
+    "long_description": "LiveFlow is the unified AI-ERP & FP&A platform.\r\n\r\nWe're on a mission to transform the $200B+ accounting & finance industry by replacing the fragmented, legacy finance stack with one intelligent system — eliminating the manual operational work for accounting & finance teams.\r\n\r\nServing +6,000 businesses. \r\n\r\nHQ in New York, with team members around the globe. ",
+    "one_liner": "The Unified AI-ERP & FP&A Platform",
+    "team_size": 51,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1613521213,
     "tags": [
-      "Fintech",
-      "SaaS",
-      "Analytics"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2836,7 +2835,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -3133,8 +3132,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29768f3ec06f6ad6cbf8c250cca3501743daf869.png",
     "website": "https://www.getrima.ai",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Rima is an AI reconciliation assistant for accountants that enables them to complete complex reconciliations in minutes instead of hours\r\n\r\nWe are on a mission to build the automation layer for reconciliation for every ERP and payment system.",
-    "one_liner": "AI powered reconciliation for accountants",
+    "long_description": "Rima helps accountants automate document and spreadsheet work with accuracy and cell-level audit tracking.\r\n\r\nFor accountants that deal with messy docs and spend their time in Excel, Rima enables them to build workflows in natural language to extract and process financial data from PDFs or ERPs into their Excel templates and reconcile their spreadsheets in minutes. Accountants build these workflows once and our agents do the work for them going forward, preserving their institutional memory and know-how.",
+    "one_liner": "Document and spreadsheet automation for accountants",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -3654,17 +3653,18 @@
   },
   {
     "id": 27949,
-    "name": "SPRX",
-    "slug": "sprx",
+    "name": "Onshore",
+    "slug": "onshore",
     "former_names": [
-      "SPRX Technologies"
+      "SPRX Technologies",
+      "SPRX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/056d6666e994a3429e78aefc6ec8d705e2d405c1.png",
-    "website": "https://sprx.tax",
-    "all_locations": "",
-    "long_description": "SPRX uses AI to prepare corporate R&D tax credits.\r\n\r\nWith our technology, anyone can prepare an R&D Tax Credit accurately and fast. To provide some background, the R&D Credit is often cited as the most complex and audited tax credit in the United States. With that in mind, we set out to create software to achieve two primary objectives:\r\n\r\n1. Ensure that any credit computed with our software is exactly what the IRS is asking for in terms of quality.\r\n\r\n2. Democratize the ability to perform high quality R&D Credit studies extremely fast.",
-    "one_liner": "AI for corporate R&D tax credits",
-    "team_size": 32,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c5d6fcfdd95bdf07f580b5df18a19dab5e5843.png",
+    "website": "https://onshore.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Onshore uses AI to prepare corporate R&D tax credits.\r\n\r\nWith our technology, anyone can prepare an R&D Tax Credit accurately and fast. To provide some background, the R&D Credit is often cited as the most complex and audited tax credit in the United States. With that in mind, we set out to create software to achieve two primary objectives:\r\n\r\n1. Ensure that any credit computed with our software is exactly what the IRS is asking for in terms of quality.\r\n\r\n2. Democratize the ability to perform high quality R&D Credit studies extremely fast.",
+    "one_liner": "AI for corporate tax",
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1669758881,
@@ -3680,6 +3680,8 @@
       "Finance and Accounting"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3688,8 +3690,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sprx",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/sprx.json"
+    "url": "https://www.ycombinator.com/companies/onshore",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/onshore.json"
   },
   {
     "id": 28079,
@@ -4071,51 +4073,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentive",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/agentive.json"
-  },
-  {
-    "id": 29085,
-    "name": "Quill Bills",
-    "slug": "quill-bills",
-    "former_names": [
-      "Quill AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ad90ff298c085246c8c2af38a348e6f2c92f338.png",
-    "website": "https://quillbills.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quill Bills is a medical billing company that works with healthcare providers to significantly lower billing costs and fight every denial.",
-    "one_liner": "AI-Powered Medical Billing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1685991991,
-    "tags": [
-      "Artificial Intelligence",
-      "Healthcare",
-      "Health Insurance",
-      "Healthcare IT",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quill-bills",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/quill-bills.json"
   },
   {
     "id": 29090,
@@ -4718,16 +4675,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
     "one_liner": "AI-powered research desk for hedge funds",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1738274242,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Community",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4763,17 +4720,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh helps finance teams close with confidence when vendor spend is variable and invoices don’t reflect true spend for that period.\r\n\r\nWe use AI to understand and consolidate vendor and stakeholder context — across emails, internal messages, and historical invoices — into a clear view of incurred, prepaid, and incoming vendor costs. This gives teams early, reliable visibility into true spend, so budgets, runway, and close are driven by actual business activity rather than invoice timing or manual guesswork.\r\n\r\nMesh is built for finance teams managing large, complex vendor bases where spend is unpredictable and timing mismatches create risk at month-end.",
-    "one_liner": "Know where your money is going, regardless of when invoices arrive",
+    "long_description": "Month-end shouldn’t be a race against the clock.\r\n\r\nFor most mid-to-enterprise finance teams, accruals are a manual bottleneck. Chasing missing invoices and manually updating spreadsheets can eat up 4+ days of every month-end close.\r\n\r\nMesh changes the timeline. We automate 90% of the accruals process by capturing real-time usage and service signals directly from your AP inbox, Slack, Teams, and historical journals. We turn fragmented data into audit-ready outputs, so you can stop guessing and start closing.\r\n\r\nSee how top teams are accelerating their close by 4+ days at www.usemesh.com",
+    "one_liner": "Eliminating accrual spreadsheets for faster month-end",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736927502,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4791,7 +4748,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mesh-2",
@@ -5290,7 +5247,7 @@
     "slug": "fullseam",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
-    "website": "https://www.fullseam.com",
+    "website": "https://fullseam.com",
     "all_locations": "",
     "long_description": "FullSeam is an AI employee for finance and accounting teams. It logs into a company's accounting, billing, banking, and CRM tools and completes routine tasks typically done manually — like accounts receivable, accounts payable, billing, and updating financial records.",
     "one_liner": "FullSeam is an AI employee for finance and accounting teams.",
@@ -5299,10 +5256,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1769713322,
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5325,6 +5282,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fullseam",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fullseam.json"
+  },
+  {
+    "id": 31066,
+    "name": "Payna",
+    "slug": "payna",
+    "former_names": [
+      "Paena"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
+    "website": "",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Crypto/fintech compliance simplified.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1772054441,
+    "tags": [
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/payna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
   },
   {
     "id": 31155,
@@ -5367,6 +5365,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/q2q",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
+  },
+  {
+    "id": 31186,
+    "name": "End Close",
+    "slug": "end-close",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf9a301d6c80de3972ebd650a41ad29595cbd28.png",
+    "website": "https://endclose.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "End Close builds automatic reconciliation for payments companies like fintechs, marketplaces, banks and payroll companies. Reconciliation helps companies track every dollar and resolve every exception, ensuring they have no money loss, can report audit ready financials, and stay compliant.\r\n\r\nSean (CEO) spent the last 6 years building the reconciliation org at Modern Treasury (S18), processing a trillion dollars in payments across 40 banks with 99.995% automation. Fast growing companies like Modern Treasury are forced to build a solution in-house or buy a legacy solution. End Close provides a modern reconciliation system that works with a company's existing stack and is managed by AI agents.\r\n\r\nException handling is where 99% of the manual work happens today, payment ops teams spend hours gathering context across various data sources to investigate each ticket. End Close provides an AI ops agent that connects to a company's data warehouse, invoicing platform and payment processors to triage and resolve issues without human intervention.\r\n\r\nLegacy providers only provide reconciliation for month end close applications. End Close continuously reconciles with developer friendly APIs, allowing teams to integrate real time payments data within their products to create product experiences for customers like faster balance top-ups, instant trading etc. \r\n\r\nNew payment rails and agent-to-agent payments are increasing online transaction volumes, making reconciliation a growing challenge for companies. David (CTO and 2nd time YC founder) most recently built these kinds of high-scale ingestion pipelines when starting and leading error tracking at PostHog (W20), the fastest growing product in the company's history.",
+    "one_liner": "AI powered reconciliation for high-volume payments companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1771459857,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Payments",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/end-close",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/end-close.json"
   },
   {
     "id": 31230,
@@ -5419,7 +5460,7 @@
       "Balance",
       "Balance AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae2096fe98e5cb289362ddf9936e4dfe3407ee0f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ea7352fed58904bc7cc1f143d4af52e98a52d64.png",
     "website": "https://getbalance.ai",
     "all_locations": "",
     "long_description": "Balance is an AI accountancy helping SMBs close their monthly books. Our agent work as an in-house finance hire, chasing unpaid invoices, preparing monthly reports, and flagging issues before they worsen.\r\n",
@@ -5429,9 +5470,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768976472,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5453,5 +5494,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/getbalance",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
+  },
+  {
+    "id": 31260,
+    "name": "Copperlane",
+    "slug": "copperlane",
+    "former_names": [
+      "Sevenfold",
+      "Rhombal",
+      "Coevolved"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
+    "website": "https://www.copperlane.ai",
+    "all_locations": "",
+    "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
+    "one_liner": "Agents for Mortgage Origination",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768253497,
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copperlane",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/copperlane.json"
   }
 ]

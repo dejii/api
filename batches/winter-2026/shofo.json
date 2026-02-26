@@ -6,18 +6,17 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
   "website": "https://shofo.ai/",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every video across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
-  "one_liner": "Common Crawl for Videos",
+  "long_description": "We maintain the world’s largest index of short-form videos and run a human-in-the-loop pipeline to clean, segment, and label this data for AI labs. For example, if a lab needs 50k cooking videos featuring hand-object interactions, we query our index, run the results through our labeling pipeline, and deliver a clean, annotated dataset.",
+  "one_liner": "Common Crawl for Video",
   "team_size": 4,
   "industry": "B2B",
   "subindustry": "B2B -> Infrastructure",
   "launched_at": 1768432806,
   "tags": [
-    "Social Media",
-    "API",
+    "Artificial Intelligence",
+    "Video",
     "Data Labeling",
-    "Big Data",
-    "AI"
+    "Big Data"
   ],
   "tags_highlighted": [],
   "top_company": false,

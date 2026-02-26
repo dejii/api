@@ -629,6 +629,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/tarsal.json"
   },
   {
+    "id": 24382,
+    "name": "Malloc Inc",
+    "slug": "malloc-inc",
+    "former_names": [
+      "Malloc, LTD.",
+      "Malloc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f9e51a7bd166fd06ac233b1bc31a81d599db773.png",
+    "website": "https://mallocprivacy.com/",
+    "all_locations": "Nicosia, Nicosia, Cyprus",
+    "long_description": "Malloc monitors and prevents anyone from recoding or transmitting data from your mobile device without your knowledge. Malloc uses on-device AI to detect zero-click spyware and abnormal activity and blocks any suspicious communication in real time. We sell this to individuals, enterprises and governments that care about their privacy. ",
+    "one_liner": "AI-driven mobile cybersecurity ",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1626963356,
+    "tags": [
+      "Privacy",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Cyprus",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/malloc-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/malloc-inc.json"
+  },
+  {
     "id": 24604,
     "name": "Telivy",
     "slug": "telivy",
@@ -1144,7 +1190,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -1355,16 +1401,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user — not even by Tinfoil or the cloud provider it’s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating “God in a box”, we are putting God in a blackbox, so Satan can’t spy.",
     "one_liner": "Tinfoil makes your AI workflows secure, verifiable, and private.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1744845895,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Privacy",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1558,6 +1604,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/contextfort.json"
   },
   {
+    "id": 30680,
+    "name": "Riverbank",
+    "slug": "riverbank",
+    "former_names": [
+      "Riverbank Labs",
+      "Riverbank",
+      "Riverbank Security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/907a43235986d6f57ceffcf97d5210b7d662533b.png",
+    "website": "https://www.riverbank.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Riverbank is an ex-NSA and DoD team creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
+    "one_liner": "AI-native Red Teaming and Offensive Security ",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1754465108,
+    "tags": [
+      "Artificial Intelligence",
+      "IoT Security",
+      "Cybersecurity",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riverbank",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/riverbank.json"
+  },
+  {
     "id": 30696,
     "name": "GhostEye",
     "slug": "ghosteye",
@@ -1566,15 +1657,15 @@
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
-    "one_liner": "Security awareness that simulates real attacks",
+    "one_liner": "Vulnerability Management for Human Risk ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1597,6 +1688,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ghosteye",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
+  },
+  {
+    "id": 30875,
+    "name": "Veria Labs",
+    "slug": "veria-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a840ecd92ea1ebab3e7fa406ce9389683fe9208.png",
+    "website": "https://verialabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Veria Labs is developing AI agents that hack better than the best human hackers. Founded by members of the #1 US competitive hacking team, we've already found critical bugs in AI tools, operating systems, fintech and billion dollar crypto exchanges. \r\n\r\nNow we're scaling that expertise through AI-native security tooling that operates faster than human researchers while finding deeper, more complex vulnerabilities that traditional tools miss.",
+    "one_liner": "Continuous AI pentesting that finds and fixes vulnerabilities",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1758644249,
+    "tags": [
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veria-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/veria-labs.json"
   },
   {
     "id": 30896,
@@ -1726,6 +1858,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/complydo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/complydo.json"
+  },
+  {
+    "id": 31016,
+    "name": "Crosslayer Labs",
+    "slug": "crosslayer-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d04232f7799c42a8a176b06d7c366c511a6cab7.png",
+    "website": "https://www.crosslayerlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Crosslayer Labs detects impersonation attacks on websites and APIs. We provide \"outside-in\" monitoring of customer infrastructure, comprehensively discovering and monitoring all Internet dependencies, including DNS, BGP, TLS certs, Javascript. We correlate signals from different layers of the Internet stack to identify attack patterns. Our alerts are actionable and contain root cause analysis/remediation recommendations. Our founding team is world renowned for previously inventing the MPIC standard adopted by all the major CAs including Google, Apple, Amazon. The MPIC standard is securing over 700 million websites via the issuance of over 3 billion digital certificates, and is now a global internet standard that protects every single HTTPS connection.",
+    "one_liner": "Protect, monitor and defend your Internet presence",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1770673305,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crosslayer-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/crosslayer-labs.json"
   },
   {
     "id": 31174,

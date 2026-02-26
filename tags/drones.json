@@ -756,7 +756,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -1131,7 +1131,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair builds drones that charge on transmission lines. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Autonomous drones can deliver over 20x the inspection coverage for the same cost. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech on a power line, built 5x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith 50 miles of range, we can service 90% of the U.S. land area. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith fewer than 1000 pads, we can service the entire U.S. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -1171,7 +1171,7 @@
     "former_names": [
       "DroneTector Ltd"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7e290287e83867619ff9db96fe93dcb0dcc7e36.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a1552aeba914f75657392e47de071913dbe0bc.png",
     "website": "https://www.dronetector.com/",
     "all_locations": "",
     "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
@@ -1182,7 +1182,8 @@
     "launched_at": 1768863894,
     "tags": [
       "Hard Tech",
-      "Drones"
+      "Drones",
+      "Radar"
     ],
     "tags_highlighted": [],
     "top_company": false,

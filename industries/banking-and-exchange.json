@@ -309,7 +309,7 @@
     "all_locations": "Los Angeles, CA, USA; Remote",
     "long_description": "SFOX, a YC-backed company, makes it easy for enterprises to trade bitcoin.  We started with an advanced trading platform that uses algorithms to provide a competitive advantage to our customers. SFOX now aims to expand international commerce by making it easy to trade any currency and settle in real time.",
     "one_liner": "Crypto-currency trading platform.",
-    "team_size": 40,
+    "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1398907976,
@@ -905,11 +905,11 @@
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1525316905,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Analytics",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -930,7 +930,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/alpha-vantage",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/alpha-vantage.json"
@@ -2823,6 +2823,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pax-markets.json"
   },
   {
+    "id": 30269,
+    "name": "Pluto",
+    "slug": "pluto",
+    "former_names": [
+      "PowerPlay",
+      "Strike"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b533d4bccae312fbf4823b72ca0d59a43a6ebff2.png",
+    "website": "https://www.pluto.trade",
+    "all_locations": "New York, NY, USA",
+    "long_description": "First regulated exchange for compute",
+    "one_liner": "Regulated derivatives exchange",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1740523068,
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Fintech",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pluto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/pluto.json"
+  },
+  {
     "id": 30367,
     "name": "QFEX",
     "slug": "qfex",
@@ -2838,7 +2883,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
     "one_liner": "24/7 Global Stock Exchange",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1747069734,
@@ -2879,7 +2924,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
     "one_liner": "AI for M&A",
-    "team_size": 5,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,

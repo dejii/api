@@ -7,16 +7,17 @@
   ],
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
   "website": "https://cumuluslabs.io",
-  "all_locations": "",
-  "long_description": "Cumulus Labs is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged by physical resource use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
-  "one_liner": "The Optimized GPU Cloud",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Cumulus Labs is a serverless GPU cloud with a proprietary inference stack, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work.\r\n\r\nIf your team uses GPUs — for inference, training, fine-tuning, or any compute workload — Cumulus replaces the painful parts of your stack with a platform that just works.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with vLLM or SGLang configurations, debugging CUDA issues, and babysitting infrastructure that breaks at scale. Managed API providers like OpenRouter or Fireworks are convenient but expensive, and you're paying their margin on top of the compute. Serverless GPU platforms give you flexibility but hit you with slow cold starts, idle billing, and no help on the inference layer — you're still on your own to make models run fast.\r\n\r\nCumulus eliminates that tradeoff. The platform assigns containers in seconds, scales to zero when you're idle, and scales up to as many instances as you need with no waitlists or approvals. You're billed by the second for exactly the compute you use — nothing more.\r\n\r\nFor inference, Cumulus ships Ion — a proprietary engine that supports all major LLMs, VLMs, and MoE architectures out of the box. Ion is optimized for latency and throughput beyond what teams typically achieve managing vLLM or SGLang themselves, with zero configuration required. Whether you're serving your own fine-tuned model or hosting an open-source model like Llama or Mixtral, Ion handles the performance layer so your team doesn't have to. Cumulus also supports checkpointing, model compilation, and LoRA serving, and the team forward-deploys custom optimizations directly for customers.\r\n\r\nFor training, fine-tuning, and general container workloads, teams bring any job to Cumulus and run it on the same serverless infrastructure — no cluster management, no GPU debugging, no orchestration setup.\r\n\r\nIf you're paying for inference APIs, Cumulus lets you run the same models yourself for less. If you're self-hosting, Cumulus makes your models faster without the operational burden. If you need GPUs for any workload at all, Cumulus is the simplest and most performant way to get them.\r\n",
+  "one_liner": "Performant serverless GPU inference",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Infrastructure",
   "launched_at": 1768427687,
   "tags": [
-    "Machine Learning",
+    "AIOps",
     "B2B",
+    "Cloud Computing",
     "Infrastructure"
   ],
   "tags_highlighted": [],
@@ -30,6 +31,8 @@
     "Infrastructure"
   ],
   "regions": [
+    "United States of America",
+    "America / Canada",
     "Remote",
     "Partly Remote"
   ],

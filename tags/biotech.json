@@ -3813,7 +3813,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -3989,7 +3989,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -4540,8 +4540,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
     "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
-    "one_liner": "Easy to use computational biology tools for drug discovery",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by thousands researchers in large pharma companies, top biotechs, and academic institutions.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "one_liner": "AI Inference Platform for Drug Discovery",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -5367,6 +5367,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/reticular.json"
   },
   {
+    "id": 30399,
+    "name": "Frekil",
+    "slug": "frekil",
+    "former_names": [
+      "Notate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
+    "website": "https://www.frekil.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, it takes months to understand how drugs perform in the real world, delaying safety insights, slowing approvals, and costing lives. Frekil turns that months-long process into minutes, with full auditability and regulatory-grade rigor.\r\n\r\nFrekil automatically generates real-world evidence of drug performance from EHR and claims data. It acts like an AI Biostatistician that understands medical ontologies and statistical methods, running complex analyses on autopilot.\r\n\r\nWe help Pharma, Biotech, CROs, and Clinical Researchers to run RWE studies 100x faster and produce publication-ready retrospective studies and FDA/EMA-ready evidence packages with transparent lineage in minutes.",
+    "one_liner": "Intelligence Layer for Clinical Real World Data (RWD)",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1744440110,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "B2B",
+      "Biotech",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frekil",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
+  },
+  {
     "id": 30421,
     "name": "SynthioLabs",
     "slug": "synthiolabs",
@@ -5667,6 +5711,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis-biotechnology.json"
   },
   {
+    "id": 31064,
+    "name": "Origin",
+    "slug": "origin-bio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0bdde9261c1483c617c9ca235a7378e3d7ba10.png",
+    "website": "https://origin.bio/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Designing novel regulatory DNA (e.g., enhancers and promoters) to program precise therapeutic gene expression patterns - for diseases like cancer, CNS disorders and more. We're building the largest proprietary dataset of synthetic regulatory sequences across diverse cell-states.",
+    "one_liner": "AI for safer cell & gene therapies",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1770167044,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Gene Therapy",
+      "Cell Therapy",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/origin-bio",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/origin-bio.json"
+  },
+  {
     "id": 31098,
     "name": "10x Science",
     "slug": "10x-science",
@@ -5718,7 +5804,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png",
     "website": "https://strandai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strand AI builds foundation models that predict missing biological data from measured readouts.",
+    "long_description": "Strand AI develops foundation models to generate missing bio-data about patients. With this imputed data, pharmaceutical companies can select better patients for their drug trials and shave months from their drug launch timelines. We’ve already trained a multimodal foundation model that integrates spatial biology modalities, beating SOTA at a fraction of the cost.",
     "one_liner": "Curated multimodal datasets for biology AI",
     "team_size": 2,
     "industry": "Healthcare",
@@ -5750,6 +5836,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/strand-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/strand-ai.json"
+  },
+  {
+    "id": 31113,
+    "name": "CellType",
+    "slug": "celltype",
+    "former_names": [
+      "Contextual Bio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7626449e8e50e3bcef406586024dca5da4b7918b.png",
+    "website": "https://www.celltype.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
+    "one_liner": "The agentic drug company. We simulate human biology.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1771295425,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Biotech",
+      "Therapeutics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/celltype",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/celltype.json"
   },
   {
     "id": 31176,

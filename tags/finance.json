@@ -211,6 +211,54 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2017/penny.json"
   },
   {
+    "id": 1498,
+    "name": "Veryfi, Inc.",
+    "slug": "veryfi-inc",
+    "former_names": [
+      "IQB Labs",
+      "IQBoxy",
+      "Veryfi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b363a44bfe1278786c4092bd157ce82f208e1a21.png",
+    "website": "https://www.veryfi.com/",
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "Enterprise-grade document extraction and fraud detection — deploy in minutes via mobile SDKs or APIs. No ML expertise required.\r\n\r\nTurn receipts, invoices, checks and bank statements into automated expense tracking, instant payments, and fraud-protected transactions. Explore our Multi-Modal APIs: https://www.veryfi.com/apis/",
+    "one_liner": "Document AI. One API Call.",
+    "team_size": 70,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1478227238,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Finance",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veryfi-inc",
+    "api": "https://yc-oss.github.io/api/batches/winter-2017/veryfi-inc.json"
+  },
+  {
     "id": 1652,
     "name": "Piggy",
     "slug": "piggy",
@@ -828,6 +876,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pry-financials.json"
   },
   {
+    "id": 22906,
+    "name": "LiveFlow",
+    "slug": "liveflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f98bea3f929dc1e5ae170d9423f432e2f8a35726.png",
+    "website": "https://www.liveflow.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "LiveFlow is the unified AI-ERP & FP&A platform.\r\n\r\nWe're on a mission to transform the $200B+ accounting & finance industry by replacing the fragmented, legacy finance stack with one intelligent system — eliminating the manual operational work for accounting & finance teams.\r\n\r\nServing +6,000 businesses. \r\n\r\nHQ in New York, with team members around the globe. ",
+    "one_liner": "The Unified AI-ERP & FP&A Platform",
+    "team_size": 51,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1613521213,
+    "tags": [
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/liveflow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/liveflow.json"
+  },
+  {
     "id": 23105,
     "name": "Reclaim Protocol",
     "slug": "reclaim-protocol",
@@ -980,11 +1070,11 @@
     "name": "Aqua",
     "slug": "aqua",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0238fbfedcf80336a77344bfd8964d1ce527eef.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55790b66a55aee54f67a7eb5bdc7202fe373d753.png",
     "website": "https://www.investwithaqua.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "One stop shop to find, invest, and service an alternative investment for RIAs, IBDs, and institutions. ",
-    "one_liner": "The Operating System for Alternative Investments",
+    "long_description": "One platform to put your alternative assets on autopilot. ",
+    "one_liner": "The AI-Native Turnkey Alternative Investment Platform (TAIP)",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -1217,7 +1307,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -1246,9 +1336,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e61aca9e3ec1f41c1b6e3f94c2d34767562c42d.png",
     "website": "http://www.AYCFund.com/",
     "all_locations": "Seoul, South Korea",
-    "long_description": "AYC Fund is web3 VC and web3 liquid fund. ",
-    "one_liner": "Web3 VC and Web3 Liquid Fund",
-    "team_size": 2,
+    "long_description": "AI-native crypto hedge fund",
+    "one_liner": "AI-native crypto hedge fund",
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1641267384,
@@ -1377,16 +1467,17 @@
   },
   {
     "id": 26884,
-    "name": "RaptorGrid",
-    "slug": "raptorgrid",
+    "name": "Alphawatch AI",
+    "slug": "alphawatch-ai",
     "former_names": [
       "StableBank",
-      "AlphaWatch AI"
+      "AlphaWatch AI",
+      "RaptorGrid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023671fb6254cfaca19b56741b1b6b230aeb6a64.png",
-    "website": "https://raptorgrid.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
+    "website": "https://alphawatch.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "RaptorGrid generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
+    "long_description": "Alphawatch AI generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
     "one_liner": "AI Employees for Finance",
     "team_size": 10,
     "industry": "Fintech",
@@ -1419,8 +1510,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raptorgrid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/raptorgrid.json"
+    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
   },
   {
     "id": 26907,
@@ -1434,8 +1525,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29768f3ec06f6ad6cbf8c250cca3501743daf869.png",
     "website": "https://www.getrima.ai",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Rima is an AI reconciliation assistant for accountants that enables them to complete complex reconciliations in minutes instead of hours\r\n\r\nWe are on a mission to build the automation layer for reconciliation for every ERP and payment system.",
-    "one_liner": "AI powered reconciliation for accountants",
+    "long_description": "Rima helps accountants automate document and spreadsheet work with accuracy and cell-level audit tracking.\r\n\r\nFor accountants that deal with messy docs and spend their time in Excel, Rima enables them to build workflows in natural language to extract and process financial data from PDFs or ERPs into their Excel templates and reconcile their spreadsheets in minutes. Accountants build these workflows once and our agents do the work for them going forward, preserving their institutional memory and know-how.",
+    "one_liner": "Document and spreadsheet automation for accountants",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -2162,7 +2253,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -2180,6 +2271,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/goldbridge",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/goldbridge.json"
+  },
+  {
+    "id": 29181,
+    "name": "Event Horizon Labs",
+    "slug": "event-horizon-labs",
+    "former_names": [
+      "EmergentAGI",
+      "SciPhi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
+    "website": "https://www.ehl.markets/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We operate a platform that automates quantitative research — generating hypotheses, backtesting strategies, and analyzing results. Hundreds of agents run in parallel and learn from what the others discovered. We are building a fund that scales on agents, not researchers.",
+    "one_liner": "AI-native hedge fund using agents to automate quant research—at scale",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1710132587,
+    "tags": [
+      "Finance",
+      "Investing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/event-horizon-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/event-horizon-labs.json"
   },
   {
     "id": 29276,
@@ -2660,18 +2795,19 @@
   },
   {
     "id": 29745,
-    "name": "Lumenary",
-    "slug": "lumenary",
+    "name": "Sharpe",
+    "slug": "sharpe",
     "former_names": [
       "January",
       "Lumenary",
-      "Lumenary, Inc."
+      "Lumenary, Inc.",
+      "Lumenary"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
-    "website": "https://try.solar",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a16f4a789dc478c2f72f7a8e219fdb5d33ec82.png",
+    "website": "https://sharpe.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
-    "one_liner": "Build working software exceedingly fast in Solar",
+    "long_description": "Sharpe is an AI data science agent purpose-built for quantitative finance, deployed on-premises at some of the world's most demanding trading firms and hedge funds. It absorbs your internal documentation, enforces your firm's methodology, and delivers completed, cited Jupyter notebooks at petabyte scale. Sharpe gives every analyst on your desk the institutional knowledge and output of your best.",
+    "one_liner": "Agents for quantitative research and financial data science.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -2702,8 +2838,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumenary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+    "url": "https://www.ycombinator.com/companies/sharpe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
   },
   {
     "id": 29804,
@@ -2803,18 +2939,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75c7444d35c6b426ac80829e6ed40b07d33577d.png",
     "website": "https://www.getpathpilot.com/",
     "all_locations": "San Jose, CA, USA",
-    "long_description": "PathPilot is the AI platform powering the next generation of financial operations.\r\nWe build fintech-specialized AI agents that automate the most critical and manual workflows — loan origination, customer support, onboarding, collections, and regulatory oversight — so financial institutions can scale with confidence.",
-    "one_liner": "AI platform helping fintech/bank teams scale efficiently",
+    "long_description": "Today, onboarding, servicing, and collections still depend on large human teams — which means operations scale linearly with loan volume. PathPilot deploys specialized AI agents that handle 60–80% of high-volume operational workflows, turning human-heavy processes into scalable software. These agents operate alongside internal teams — embedded directly into existing systems. This allows lenders to grow loan volume and revenue without proportional headcount growth. ",
+    "one_liner": "AI Agents for Lending Operations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724891975,
     "tags": [
-      "SaaS",
+      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Customer Support",
-      "AI"
+      "Lending"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3148,16 +3283,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
     "one_liner": "AI-powered research desk for hedge funds",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1738274242,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Community",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3193,17 +3328,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh helps finance teams close with confidence when vendor spend is variable and invoices don’t reflect true spend for that period.\r\n\r\nWe use AI to understand and consolidate vendor and stakeholder context — across emails, internal messages, and historical invoices — into a clear view of incurred, prepaid, and incoming vendor costs. This gives teams early, reliable visibility into true spend, so budgets, runway, and close are driven by actual business activity rather than invoice timing or manual guesswork.\r\n\r\nMesh is built for finance teams managing large, complex vendor bases where spend is unpredictable and timing mismatches create risk at month-end.",
-    "one_liner": "Know where your money is going, regardless of when invoices arrive",
+    "long_description": "Month-end shouldn’t be a race against the clock.\r\n\r\nFor most mid-to-enterprise finance teams, accruals are a manual bottleneck. Chasing missing invoices and manually updating spreadsheets can eat up 4+ days of every month-end close.\r\n\r\nMesh changes the timeline. We automate 90% of the accruals process by capturing real-time usage and service signals directly from your AP inbox, Slack, Teams, and historical journals. We turn fragmented data into audit-ready outputs, so you can stop guessing and start closing.\r\n\r\nSee how top teams are accelerating their close by 4+ days at www.usemesh.com",
+    "one_liner": "Eliminating accrual spreadsheets for faster month-end",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736927502,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3221,7 +3356,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mesh-2",
@@ -3325,17 +3460,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a815e7868c4a6d85c8b5fdb3324a29a6600f72.png",
     "website": "https://serafis.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Serafis is a search and discovery engine for long-form content. Our AI knowledge graph turns under-indexed data into structured market intelligence — starting with podcasts.\r\n\r\nWe help investors and operators:\r\n• Accelerate research\r\n• Surface new insights\r\n• Distill signal from noise\r\n\r\nWe are already live with 12 organizations managing over $70B in capital. Our library features >10,000 curated transcripts featuring top investors, Series A+ founders, and public company CEOs — searchable by person, company or theme.",
+    "long_description": "Serafis is building super-intelligence for financial markets. We mine petabytes of unstructured data to identify narrative inflections before they become consensus. Think building early conviction in Bitcoin (2014), Tesla (2018), or Nvidia (2022).\r\n\r\nWe are already live with 12 organizations managing over $70B in capital.",
     "one_liner": "The AI knowledge graph for institutional investors",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1755276267,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Finance",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3448,7 +3583,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
     "one_liner": "Building the first AI Bank",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1759770880,
@@ -3522,6 +3657,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/crunched.json"
   },
   {
+    "id": 31066,
+    "name": "Payna",
+    "slug": "payna",
+    "former_names": [
+      "Paena"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
+    "website": "",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Crypto/fintech compliance simplified.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1772054441,
+    "tags": [
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/payna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
+  },
+  {
     "id": 31188,
     "name": "Maywood",
     "slug": "maywood",
@@ -3531,7 +3707,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
     "one_liner": "AI for M&A",
-    "team_size": 5,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,

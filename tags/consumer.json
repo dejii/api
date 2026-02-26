@@ -1568,7 +1568,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -3077,10 +3077,10 @@
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "launched_at": 1630032705,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Chatbot",
       "Retail",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3238,53 +3238,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/fitia.json"
   },
   {
-    "id": 24382,
-    "name": "Malloc Inc",
-    "slug": "malloc-inc",
-    "former_names": [
-      "Malloc, LTD.",
-      "Malloc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f9e51a7bd166fd06ac233b1bc31a81d599db773.png",
-    "website": "https://mallocprivacy.com/",
-    "all_locations": "Nicosia, Nicosia, Cyprus",
-    "long_description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc Privacy & Security VPN app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts. ",
-    "one_liner": "We protect your phone from spyware and hacking attempts. ",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1626963356,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Security",
-      "Privacy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "Cyprus",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/malloc-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/malloc-inc.json"
-  },
-  {
     "id": 24408,
     "name": "Forage Mail",
     "slug": "forage-mail",
@@ -3313,7 +3266,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer"
     ],
@@ -3375,11 +3328,12 @@
   },
   {
     "id": 24461,
-    "name": "Mine (formerly Fizz)",
+    "name": "Mine",
     "slug": "mine",
     "former_names": [
       "ShoulderTap",
-      "Fizz"
+      "Fizz",
+      "Mine (formerly Fizz)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7a0d14910b74597e1e70723a08a579e8dafe145.png",
     "website": "https://usemine.com/",
@@ -3391,10 +3345,10 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1628179251,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Consumer",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3521,9 +3475,9 @@
       "LazyWeb"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c2b55aa5e7689ba35628ff2ed6299db9328d83c.png",
-    "website": "https://andisearch.com",
+    "website": "https://AndiAI.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\n",
+    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\nYou can try the search app at https://andisearch.com",
     "one_liner": "AI Search for the Next Generation",
     "team_size": 2,
     "industry": "Consumer",
@@ -3548,9 +3502,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -3586,7 +3538,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -3748,19 +3700,20 @@
   },
   {
     "id": 25339,
-    "name": "VacationHomeRents",
-    "slug": "vacationhomerents",
+    "name": "Wizwand",
+    "slug": "wizwand",
     "former_names": [
-      "PageOne Lab, Inc."
+      "PageOne Lab, Inc.",
+      "VacationHomeRents"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0071b16b382bb816988dd49705c681b85468891c.png",
-    "website": "https://www.vacationhomerents.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55502c46bfc1db96f7b6a7797fc1865fa18b8c69.png",
+    "website": "https://www.wizwand.com",
     "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "VacationHomeRents helps users explore and compare vacation rental options across many listing platforms such as Airbnb, VRBO, Booking.com, etc.",
-    "one_liner": "Kayak.com for vacation rentals",
+    "long_description": "We help improve reproducibility and transparency in AI/ML research, by allowing research engineers to easily find, implement, and compare the performance of SOTA papers and methods.",
+    "one_liner": "Discover SOTA research papers on AI and Machine Learning",
     "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1647541720,
     "tags": [
       "Marketplace",
@@ -3774,8 +3727,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Travel, Leisure and Tourism"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -3786,10 +3739,10 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": false,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vacationhomerents",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/vacationhomerents.json"
+    "url": "https://www.ycombinator.com/companies/wizwand",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/wizwand.json"
   },
   {
     "id": 25341,
@@ -5730,7 +5683,7 @@
     "website": "https://www.hype.meme/",
     "all_locations": "New York, NY, USA",
     "long_description": "Trade memecoins, crypto and send crypto to your friends\r\nDownload Hype here: https://apps.apple.com/us/app/hype-trade-memes/id6477802830",
-    "one_liner": "Trade memecoins & crypto",
+    "one_liner": "Trade memecoins ",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -6762,18 +6715,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39e64fe4e49894144581ae2ef69befe4cb83f6b8.png",
     "website": "https://gladestudio.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glade is helping everyone build games with AI. GladeCore powers over 50 studios and developers with local AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
+    "long_description": "Glade is helping everyone build games with AI. GladeCore powers hundreds of studios and developers with locally powered AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
     "one_liner": "Build games at the speed of thought",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687994809,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
       "Entertainment",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6794,7 +6747,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glade",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glade.json"
   },
@@ -6943,8 +6896,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c9d8480ce32c923dc77fca44069ab19c5dab6eb.png",
     "website": "https://webhound.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Webhound builds long-running AI research agents that scale quality with time and budget. Our agents can create either structured datasets or fully cited research reports.",
-    "one_liner": "Research agents built for depth over speed",
+    "long_description": "Webhound builds long-horizon AI research agents that scale quality with time and budget. Our agents can create either structured datasets or fully cited research reports.",
+    "one_liner": "Long-horizon research agents",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -7061,6 +7014,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ego",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ego.json"
+  },
+  {
+    "id": 29207,
+    "name": "Cora",
+    "slug": "cora",
+    "former_names": [
+      "PurplePill",
+      "HeyPurple",
+      "PurplePages"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4d875b70b030b8234a9895a54859da447f55d2e.png",
+    "website": "https://www.corahealth.app/download",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cora is a mobile app that provides personalized fitness coaching using health and wearable data. Cora is built for people who want structure and guidance in their training, but don’t benefit from generic programs or static plans. By connecting to Apple Watch and other health data sources, Cora understands a user’s current fitness level and adapts coaching, insights, and training plans over time.\r\n\r\nWith Cora, users get:\r\n- Coaching and insights based on real health and wearable data\r\n- Adaptive training plans that evolve with fitness level\r\n- Nutrition tracking with smart macro targets based on your goals\r\n- Clear guidance on training, recovery, and progress over time\r\n- A simple way to understand where they are and what to do next",
+    "one_liner": "AI Fitness Coach",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1707161827,
+    "tags": [
+      "Consumer",
+      "Fitness",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cora",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/cora.json"
   },
   {
     "id": 29247,
@@ -7519,7 +7517,7 @@
     "website": "https://aquavoice.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Super fast AI dictation that lets you talk into any text field -- Cursor, Gmail, Slack, even your terminal. It starts up in under 50ms, inserts text as fast as 450ms, and has state-of-the-art accuracy. Write 4x faster anywhere with Aqua. 🌊",
-    "one_liner": "Talk into any text box - write 4x faster than typing.",
+    "one_liner": "Frontier Voice Input - write 4x faster than typing.",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -8222,8 +8220,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
     "website": "https://orcaengine.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orca is an AI-native game engine that allows everyone to create 3D worlds and games only by chatting with an AI Agent, play with friends and fellow gamers.",
-    "one_liner": "AI Game Engine",
+    "long_description": "Orca lets you create and edit Minecraft servers, mods, and datapacks directly in your browser using an AI coding assistant, no setup required.",
+    "one_liner": "Make Minecraft mods and servers in your browser with AI",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -8313,7 +8311,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Moreta, we simplify payments for international travelers, letting you pay for anything using just your phone. Say goodbye to the hassle of searching for the best cash exchange rates or ATMs on your next trip. With Moreta, paying local merchants is easy, and the best part? Transparent fees.\r\n\r\nWe came up with Moreta while on our own backpacking adventures. Watching locals pay with a simple scan while we fumbled with cards and cash. So, we created a solution. By syncing with local payment networks, Moreta lets you pay like a local securely and digitally, without needing a bank account in every country.\r\n\r\nWe’re starting in Asia, where QR code digital wallets are taking over and are now the top choice at checkout. As these wallets start to join forces for cross-border payments, Moreta will be the first to bridge the gap for international travelers from card-centric markets to seamlessly tap into these local networks. Moreta will target 67 million travelers arriving in the region each year, who together have $127 billion in everyday expenditure.",
     "one_liner": "Payments made easy for international travelers.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1724360319,
@@ -8397,7 +8395,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/528be4d7bdd9d7697989ae9bb99887ac579f65cc.png",
     "website": "https://www.dayflow.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dayflow is building productivity tools that increase the amount of (human) agency in the world. ",
+    "long_description": "Dayflow is building open-source productivity tools that help founders and engineers make the most of their time.",
     "one_liner": "Generate a detailed log of everything you've worked on, automatically.",
     "team_size": 2,
     "industry": "Consumer",
@@ -8609,11 +8607,11 @@
       "Encore",
       "Candle - Couple Games & Photos"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/967c1e53e66d046df8e703123f8c4710471c7285.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c680b57e2e4b0d17f51d2d49aeccea3dd96748e0.png",
     "website": "https://www.trycandle.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Most relationships, romantic or platonic, don’t end in one moment, they drift apart over time. Missed check-ins, surface-level conversations, busy lives, and routines replace real connection. Candle helps couples and friends stay close through 1-minute daily rituals that bring back presence, play, and curiosity.\r\n\r\nCandle gives couples and friends a daily, low-pressure game designed to create emotional momentum: the most essential, and often most neglected, ingredient in long-term connection.\r\n\r\nWhat started as a swipeable questions game has grown into a full platform and private space for your relationship:\r\n\r\n- Daily Prompts & Games: Thoughtful, funny, and unexpected questions, couple quizzes, audio and photo challenges that update and adapt monthly\r\n\r\n- Shared Canvas Widget: Leave notes, doodles, or drawings right on each other’s home screen\r\n\r\n- Now in beta: Date Ideas Swiping**: Get 60 curated date ideas based on your area (yes, even San Francisco :)), updated weekly. Swipe to match on what you both want to try. From pop-up events to hidden gems, it’s the easiest way to try something new together or even with friends or family! We’d love feedback here!\r\n\r\n- Streaks & Shared Progress — Build accountability and a shared rhythm\r\n\r\n- Adaptive Decks: Smarter, more relevant questions over time\r\n\r\n- Shared Photo Albums & Memories: Keep track of all your photos and logged memories\r\n",
-    "one_liner": "Candle helps couples and friends grow closer daily in just 5 minutes.",
+    "one_liner": "Candle helps friends and couples grow closer daily in just 5 minutes.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -8704,7 +8702,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "ISSEN is an AI conversational language app that helps you become fluent. Your on-demand voice tutor is personal to you, adapting lessons and chats to your particular interests, learning style, and goals. Our mission is to transform language learning by offering a level of connection, effectiveness and fun that, until now, only human teachers could provide.",
     "one_liner": "AI realtime voice companion for language learning",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1729707215,
@@ -9223,15 +9221,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ff33764ca4ba54e5d48b68723ba2f5c5e90324c.png",
     "website": "https://www.opine.chat",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Get opinions from anyone by talking to an AI chatbot trained on their content",
+    "long_description": "Get advice about career, relationships, health, and more from 100+ AI personas.",
     "one_liner": "Opinionated AI",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1740162817,
     "tags": [
-      "Consumer",
-      "AI"
+      "Artificial Intelligence",
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9482,7 +9480,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tegore follows K-12 school curriculum to design courses like Algebra I & Algebra II. In addition to working with high schools in the Bay Area to design the best in-classroom experiences, Tegore is developing the corresponding consumer product, a Duolingo for Math.\r\n\r\nEach lesson in Tegore follows a lesson plan (e.g. Polynomial Long Division), and the content is delivered with voice / interactive visuals, and checks students' understanding by using dialectic teaching.",
     "one_liner": "Your new AI-powered math tutor.",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1747781122,
@@ -9493,7 +9491,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -9740,14 +9738,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fa7e6874bb04b698aead6e523b8be6359e8af3d.png",
     "website": "https://cocreate.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Before editing begins, professional video teams spend days copying, organizing, and prepping footage — a process that can eat up 40% of a project’s time and budget. CoCreate runs in the background during backup, delivering fully organized, searchable, and edit-ready projects for Premiere, Avid, Final Cut, or Resolve the moment media is offloaded. The result: faster turnarounds, fewer errors, and more time spent actually editing.",
-    "one_liner": "AI-native video production software that automates post-production",
+    "long_description": "Cocreate was built alongside our friends and colleagues — editors and their assistants, DITs, post supervisors, and UPMs — to design something that will keep individual professionals competitive in a landscape rapidly overrun by needless automation.\r\n\r\nWe've spent the past few years collecting as many grumbling stories of production and post production inefficiency; lost footage, wasted time. Shots un-slated, timecodes un-jammed, script supervisor notes incoherent; days wasted on menial tasks.\r\n\r\nWhat if there was a tool to take care of all that?",
+    "one_liner": "video production software",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1755287719,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Video"
     ],
@@ -9983,6 +9980,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pally",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
+  },
+  {
+    "id": 30770,
+    "name": "Button Computer",
+    "slug": "button-computer",
+    "former_names": [
+      "Vibe Code Go"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3ef287c6a9d9e31ec9e8347a2eeae128d1893d.png",
+    "website": "https://buttoncomputer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re launching a small hardware device: a button that you clip to your shirt. You press it to talk to AI, and it responds instantly.",
+    "one_liner": "Button is the wearable AI that can talk.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755546681,
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/button-computer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/button-computer.json"
   },
   {
     "id": 30786,
@@ -10377,7 +10419,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
     "one_liner": "Building the first AI Bank",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1759770880,
@@ -10502,7 +10544,7 @@
     "slug": "codewisp",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbb4da2e7614c1fd4c6c439a1afa51661f2fb7dc.png",
-    "website": "https://codewisp.net/",
+    "website": "https://codewisp.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game’s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
     "one_liner": "Anyone can create real games with AI",
@@ -10584,6 +10626,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
   },
   {
+    "id": 31178,
+    "name": "Cardboard",
+    "slug": "cardboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png",
+    "website": "https://usecardboard.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
+    "one_liner": "Agentic video editor",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768162565,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Consumer",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
+  },
+  {
     "id": 31239,
     "name": "Fort",
     "slug": "fort",
@@ -10592,7 +10676,7 @@
     "website": "https://fort.cx",
     "all_locations": "",
     "long_description": "Fort is a wearable that tracks strength training for people who care about longevity.\r\n\r\nOther wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
-    "one_liner": "Wearable that tracks strength",
+    "one_liner": "Strength Tracking Wearable",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",

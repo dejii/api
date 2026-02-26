@@ -1550,7 +1550,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBest MDM: https://cybersecuritynews.com/best-linux-mobile-device-management-software-in-2026/\r\n\r\nIntro:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
     "one_liner": "The guardrail for AI on every device",
     "team_size": 20,
     "industry": "B2B",
@@ -2072,6 +2072,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/cloudanix.json"
   },
   {
+    "id": 24382,
+    "name": "Malloc Inc",
+    "slug": "malloc-inc",
+    "former_names": [
+      "Malloc, LTD.",
+      "Malloc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f9e51a7bd166fd06ac233b1bc31a81d599db773.png",
+    "website": "https://mallocprivacy.com/",
+    "all_locations": "Nicosia, Nicosia, Cyprus",
+    "long_description": "Malloc monitors and prevents anyone from recoding or transmitting data from your mobile device without your knowledge. Malloc uses on-device AI to detect zero-click spyware and abnormal activity and blocks any suspicious communication in real time. We sell this to individuals, enterprises and governments that care about their privacy. ",
+    "one_liner": "AI-driven mobile cybersecurity ",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1626963356,
+    "tags": [
+      "Privacy",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Cyprus",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/malloc-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/malloc-inc.json"
+  },
+  {
     "id": 24604,
     "name": "Telivy",
     "slug": "telivy",
@@ -2269,7 +2315,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -3636,7 +3682,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -3676,11 +3722,12 @@
       "Artificial Intelligence",
       "Generative AI",
       "Security",
-      "Privacy"
+      "Privacy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -3695,7 +3742,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -4018,16 +4065,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user — not even by Tinfoil or the cloud provider it’s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating “God in a box”, we are putting God in a blackbox, so Satan can’t spy.",
     "one_liner": "Tinfoil makes your AI workflows secure, verifiable, and private.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1744845895,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Privacy",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4063,7 +4110,7 @@
     "all_locations": "",
     "long_description": "Casco performs autonomous security testing for your web apps, APIs, infrastructure, and AI systems. Human supervision optionally available. Use Casco for year-round security and get a penetration test report for your SOC2 and ISO27001 compliance certifications. \r\n\r\nTrusted by 100+ companies from enterprises to fast-moving startups, such as Gusto, CrewAI, Novig, and Delve.\r\n\r\nHack yourself at: https://casco.com\r\n\r\n---\r\n\r\nWe already secure software deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
     "one_liner": "Autonomous security testing for web apps, APIs, cloud, and AI systems",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1747691019,
@@ -4389,15 +4436,15 @@
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
-    "one_liner": "Security awareness that simulates real attacks",
+    "one_liner": "Vulnerability Management for Human Risk ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4436,8 +4483,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1758644249,
     "tags": [
-      "Artificial Intelligence",
-      "Security"
+      "Security",
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4548,15 +4596,101 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json"
   },
   {
+    "id": 31016,
+    "name": "Crosslayer Labs",
+    "slug": "crosslayer-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d04232f7799c42a8a176b06d7c366c511a6cab7.png",
+    "website": "https://www.crosslayerlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Crosslayer Labs detects impersonation attacks on websites and APIs. We provide \"outside-in\" monitoring of customer infrastructure, comprehensively discovering and monitoring all Internet dependencies, including DNS, BGP, TLS certs, Javascript. We correlate signals from different layers of the Internet stack to identify attack patterns. Our alerts are actionable and contain root cause analysis/remediation recommendations. Our founding team is world renowned for previously inventing the MPIC standard adopted by all the major CAs including Google, Apple, Amazon. The MPIC standard is securing over 700 million websites via the issuance of over 3 billion digital certificates, and is now a global internet standard that protects every single HTTPS connection.",
+    "one_liner": "Protect, monitor and defend your Internet presence",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1770673305,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crosslayer-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/crosslayer-labs.json"
+  },
+  {
+    "id": 31094,
+    "name": "Lexius",
+    "slug": "lexius",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png",
+    "website": "https://www.lexius.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lexius turns any retail security camera into an AI security guard that detects shoplifting, identifies repeated and organized crime, and automates case generation with video evidence.\r\n\r\nLexius is the AI layer for existing security cameras. No rip and replace. No new hardware. No expensive upgrades.\r\n\r\nThink of it as a security guard that never misses a moment.",
+    "one_liner": "AI Security Guards",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1766833804,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Computer Vision",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lexius",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
+  },
+  {
     "id": 31106,
     "name": "Protent",
     "slug": "protent",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4accd78dacbfd5c67ed4bbb399b521fdd61f69b9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08fe208eabd322adf04efcdf91f3bf0f7efc1a4a.png",
     "website": "https://protent.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI intelligence for mission-critical operations",
+    "long_description": "We provide real-time video intelligence that identifies escalating incidents as they unfold. Protent detects early escalation patterns and predictive threat signals, giving surveillance staff the immediate context they need to prioritize alerts and intervene before situations spiral out of control.",
+    "one_liner": "Protent turns passive surveillance into proactive intelligence.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -4565,8 +4699,8 @@
       "Hardware",
       "Machine Learning",
       "SaaS",
-      "Security",
-      "Monitoring"
+      "GovTech",
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -248,7 +248,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -279,17 +279,17 @@
     "website": "https://getjust.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Always-on AI agents for 1-1 personalization at scale",
-    "one_liner": "A modern workflow for lifecycle marketing",
+    "one_liner": "Agentic Marketing Platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Workflow Automation",
       "Personalization",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -337,10 +337,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -1006,46 +1006,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/idler.json"
   },
   {
-    "id": 30851,
-    "name": "Sylvian",
-    "slug": "sylvian",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
-    "website": "https://sylvian.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sylvian helps companies build specialized AI agents. ",
-    "one_liner": "Specialized AI Agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762195938,
-    "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sylvian",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sylvian.json"
-  },
-  {
     "id": 30883,
     "name": "hillclimb",
     "slug": "hillclimb",
@@ -1129,6 +1089,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cortex-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
+  },
+  {
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Haladir is an AI product lab for verifiable domains, enabling RL & models to scale to economically-complex tasks via operations research & formal methods.",
+    "one_liner": "Building Operational Superintelligence.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1766374394,
+    "tags": [
+      "Reinforcement Learning",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
   },
   {
     "id": 31112,
@@ -1266,7 +1266,7 @@
     "website": "https://www.traverse.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Reinforcement learning environments for long horizon agent journeys",
+    "one_liner": "Data research company building RL envs for non-deterministic work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

@@ -652,16 +652,16 @@
     ],
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "https://goradar.com",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; San Diego, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "RADAR is a platform that combines RFID and computer vision to automate and augment retail store processes. Our technology offers unprecedented speed and location accuracy, which allows stores to:\r\n\r\n1) Manage inventory efficiently, through automated inventory counts, improved in-store replenishment and instantaneous customer stock checks\r\n\r\n2) Eliminate checkout lines altogether through our autonomous checkout tool.\r\n\r\n3) Measure all customer-product interactions, giving physical stores the same insight into consumer behavior and product performance as online stores.\r\n\r\nhttps://goradar.com",
     "one_liner": "RADAR is building technology to completely transform the in-store…",
-    "team_size": 46,
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1354492792,
     "tags": [
-      "Artificial Intelligence",
-      "Retail Tech"
+      "Retail Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3607,12 +3607,12 @@
     "name": "Glimpse",
     "slug": "glimpse-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b3ff22eb22ed3a4fb84e602217d7c216f5bea2f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c1bb0fb7eb4819828b6a0f5d554f6602a5299cf.png",
     "website": "https://tryglimpse.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Glimpse helps retail brands automate their identify and fight invalid fees & streamline the cash reconciliation process &  from their retailers & distributors using AI. Imagine a beverage company sold $100k worth of goods to Whole Foods & only got paid $60k. The deducted $40k comes in hundreds of long PDF’s with obscure codes that a team has to manually review every single one of to ensure the fees are valid. A % of these fees are always invalid and brands have to go through a lengthy process to get back money owed to them. We automate this whole process - saving a brand dozens of hours a week & recouping them 2-3% of their topline sales. Our vision is to become an AI BPO for retail brands. ",
-    "one_liner": "Glimpse offers AI services for retail brands starting with deductions ",
-    "team_size": 3,
+    "long_description": "Glimpse is the leading AI platform for CPG brands - automating key back office workflows like deductions management, revenue recovery, & cash application to increase operating leverage and put millions of dollars back into a brand's pocket. \r\n\r\nOur agents automatically retrieve deduction data, validate charges, automate cash application, and dispute invalid claims to recover lost revenue—often starting with a lookback of the past year of deductions. For a $1B CPG, one agent reviewed 17,000 deductions in under 24 hours (work that would take an FTE ~2 years), identifying $10M+ in revenue and driving meaningful margin expansion. Pricing is simple and incentive-aligned, structured to create clear P&L impact from day one.\r\n\r\n",
+    "one_liner": "Glimpse is the system of action for CPG retail operations",
+    "team_size": 27,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1595628044,
@@ -4111,7 +4111,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -4890,15 +4890,17 @@
   },
   {
     "id": 28883,
-    "name": "Transformity",
-    "slug": "transformity",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbd6de64f9d6f58ed791388826096ffb6e31d01e.png",
-    "website": "https://transformity.tech/",
+    "name": "Margin",
+    "slug": "margin",
+    "former_names": [
+      "Transformity"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87b560e31073922b9212a3b9849ef30b5e5dc6e4.png",
+    "website": "https://usemargin.com/",
     "all_locations": "",
-    "long_description": "Transformity is empowering beer, wine & liquor stores with amazing technology. We bring enterprise-level sophistication to liquor retailers, giving them one integrated operating system for every part of their business. Our product integrates with distributors, automates manual work, and opens new sources of revenue.",
-    "one_liner": "Point-of-sale & Vertical SaaS for the $75B Liquor Industry",
-    "team_size": 9,
+    "long_description": "Margin is empowering beer, wine & liquor stores with amazing technology. We bring enterprise-level sophistication to liquor retailers, giving them one integrated operating system for every part of their business. We increase profits for liquor stores who have been underserved by technology.",
+    "one_liner": "POS & operating system that makes liquor stores more money",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1690953624,
@@ -4921,8 +4923,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/transformity",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/transformity.json"
+    "url": "https://www.ycombinator.com/companies/margin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/margin.json"
   },
   {
     "id": 29042,
@@ -5183,23 +5185,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786573119daa04ca85d28b00e8358a03f4e0a184.png",
     "website": "https://surebright.com/",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
     "one_liner": "Apple Care-like warranty program for every retailer ",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1720298517,
-    "tags": [
-      "Fintech",
-      "E-commerce",
-      "Insurance",
-      "Retail",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -5208,8 +5204,6 @@
       "Retail"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -5394,6 +5388,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json"
   },
   {
+    "id": 30639,
+    "name": "Return Signals",
+    "slug": "return-signals",
+    "former_names": [
+      "Material Model"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/487ac0ad9f618f937dd875c80053d719f8a25d07.png",
+    "website": "https://www.returnsignals.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Return Signals, we are building an AI-powered luxury concierge that proactively checks in with customers via SMS when their items are delivered. This high-touch experience drives 5–10% absolute margin uplift while improving CSAT and LTV.\r\n\r\nWe improve e-commerce margins by intelligently recommending appropriate exchanges when customers are unsatisfied. Our texts achieve very high response rates (over 80% of eventual returns), and convert 70% of return intents into exchanges. All this without increasing the combined exchange and return rate. Because exchanges preserve revenue, our customers retain most of the original sale value. We achieve over 95% positive sentiment in our interactions (and almost no negative interactions), with many customers spending multiple messages thanking our bot and developing a personal relationship.\r\n\r\n",
+    "one_liner": "AI luxury concierge for E-commerce brands",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1771009461,
+    "tags": [
+      "Generative AI",
+      "E-commerce",
+      "SMS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/return-signals",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/return-signals.json"
+  },
+  {
     "id": 30695,
     "name": "Channel3",
     "slug": "channel3",
@@ -5432,46 +5469,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/channel3",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
-  },
-  {
-    "id": 31094,
-    "name": "Lexius",
-    "slug": "lexius",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png",
-    "website": "https://www.lexius.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn existing store security cameras into an AI system that catches shoplifting in real time and alerts staff before thieves leave.",
-    "one_liner": "AI Crime Detection",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1766833804,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Computer Vision"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lexius",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
   }
 ]

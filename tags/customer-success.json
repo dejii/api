@@ -811,13 +811,15 @@
   },
   {
     "id": 29283,
-    "name": "Assembly",
-    "slug": "assembly-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e776eb370bd36ebbc8087ded38ebcb435bf3d4c4.png",
-    "website": "https://www.askassembly.app/",
+    "name": "Wavelength",
+    "slug": "wavelength",
+    "former_names": [
+      "Assembly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2155f0e58d43be7fbf11024f78067345664004.png",
+    "website": "https://wavelength.cx/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assembly is a customer experience platform that turns customer feedback into product growth and support requests into long-lasting relationships. ",
+    "long_description": "The AI-native Customer Intelligence Platform purpose built for post sales teams.\r\nWavelength brings your entire customer data stack into one place - with powerful AI agents that uncover important signals and act instantly",
     "one_liner": "Build Magical Customer Experiences",
     "team_size": 3,
     "industry": "B2B",
@@ -848,55 +850,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/assembly-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/assembly-2.json"
-  },
-  {
-    "id": 29332,
-    "name": "Pillar",
-    "slug": "trypillar",
-    "former_names": [
-      "Double"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3765a4b3a407691f524ffa2f1b9c994e62781a26.png",
-    "website": "https://trypillar.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your help center shouldn't be an afterthought. Pillar keeps yours alive and accurate, letting users self-help with trusted answers embedded right where they need them.",
-    "one_liner": "The Intelligent Help Center",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1701750687,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Customer Success",
-      "Customer Service",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trypillar",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/trypillar.json"
+    "url": "https://www.ycombinator.com/companies/wavelength",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/wavelength.json"
   },
   {
     "id": 29770,
@@ -1026,6 +981,93 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyrahq",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
+  },
+  {
+    "id": 30524,
+    "name": "Lapel",
+    "slug": "lapel",
+    "former_names": [
+      "Echo Exploration Company, Inc.",
+      "Echo Exploration Co."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b4720ee8b1c90bf120b33611e6eebe044cd993.png",
+    "website": "https://lapel.com/",
+    "all_locations": "",
+    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: tools to power every touchpoint across sales, success, and support.\r\n\r\nToday, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. We believe online customer relationships should feel personal, not transactional.\r\n\r\nLearn more at lapel.com",
+    "one_liner": "Scale personalized service to every customer.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747773891,
+    "tags": [
+      "Customer Success",
+      "Sales",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lapel",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
+  },
+  {
+    "id": 30765,
+    "name": "Pollen",
+    "slug": "pollen",
+    "former_names": [
+      "Daymi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
+    "website": "https://www.pollen.cx/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents for Customer Success",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1754592638,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Customer Success",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pollen",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
   },
   {
     "id": 30807,

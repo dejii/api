@@ -3315,7 +3315,7 @@
       "Adyn"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01db92cbf9e971ce4967a2173b419590716a0fb8.png",
-    "website": "https://www.adynhealth.com",
+    "website": "https://adyn.com",
     "all_locations": "Seattle, WA, USA; Remote",
     "long_description": "",
     "one_liner": "The first test designed to prevent birth control side effects",
@@ -3702,7 +3702,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -3867,13 +3867,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda6209e5ce1deac3dd962c779d7c375cd750a5a.png",
     "website": "http://www.taktile.com",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Taktile is building the world's leading software platform for running critical and highly automated decisions. Our customers use our product to catch fraudsters, prevent money laundering, and expand access to credit for small businesses, among many other use cases. Taktile is already making millions of such decisions across the globe every day.",
-    "one_liner": "Empowering decision makers to make smarter and safer decisions at…",
+    "long_description": "Taktile empowers financial institutions to quickly unlock AI-driven efficiencies across the customer lifecycle, reducing manual work while optimizing decisions and enabling seamless end-user experiences.\r\n\r\nBuilt for highly regulated environments, our agentic decision platform combines the speed of AI automation with the oversight of human judgement—so you can safely approve customers, catch more fraud, and stay compliant.\r\n\r\nWe power AI transformation from offices in NYC, London, Berlin, and Iasi, and have raised $80M in capital from top investors including Index Ventures, Tiger Global, Balderton Capital and Y Combinator.\r\n\r\nJoin over 200 leading financial institutions who rely on Taktile to enable faster, more intelligent decisions from onboarding to credit, AML, compliance, and fraud.",
+    "one_liner": "Transform your decision-making with reliable AI agents in weeks, not…",
     "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1638102391,
     "tags": [
+      "Artificial Intelligence",
+      "Fintech",
       "Machine Learning",
       "Enterprise Software"
     ],
@@ -4520,7 +4522,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -5929,7 +5931,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LanceDB is a new open-source vector database that can support low-latency billion-scale vector search on a single node. Built around a new columnar data format, LanceDB makes it incredibly easy to build applications for generative AI, recsys, search engines, content moderation, and more.",
     "one_liner": "Open-source, serverless vectordb for production-scale generative AI",
-    "team_size": 20,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1648263864,
@@ -6151,7 +6153,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people. \r\n\r\nWe’re changing that by building the AI companion that frees nurses from admin, giving them back up to 30% of time. We don’t replace humans - we support and amplify their impact. Today, 1,500+ care facilities trust voize, and over 100,000 nurses rely on our AI companion** to ease their daily workload.\r\n\r\nOur mission is backed with a $50M Series A funding led by Balderton Capital, with support from HV Capital, Y Combinator and other leading VCs.",
     "one_liner": "We build the AI companion for nurses, to create time for care.",
-    "team_size": 85,
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1648233375,
@@ -6325,14 +6327,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
     "one_liner": "Enriched transaction data you can build on",
-    "team_size": 13,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "team_size": 20,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
     "launched_at": 1641512856,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "Fintech",
-      "Machine Learning"
+      "Machine Learning",
+      "Payments",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6341,8 +6345,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -6573,51 +6576,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/numind",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/numind.json"
-  },
-  {
-    "id": 26859,
-    "name": "Typewise",
-    "slug": "typewise",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/037b66c1bbe3365f03b5de5fac263f8ea652ae3f.png",
-    "website": "https://typewise.app",
-    "all_locations": "Zürich, ZH, Switzerland",
-    "long_description": "Typewise develops text prediction software for customer service and sales teams. Our enterprise clients such as DPD (a Fortune 500 logistics company) use Typewise to communicate with their customers faster and more effectively.",
-    "one_liner": "Boosting customer service and sales productivity by 2-3x.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1655022154,
-    "tags": [
-      "Machine Learning",
-      "B2B",
-      "Productivity",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Switzerland",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/typewise",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/typewise.json"
   },
   {
     "id": 26863,
@@ -7116,7 +7074,7 @@
       "Scanbase",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9177f461ffabba1796fab772ec9f376ad91bf4e.png",
     "website": "https://www.scanbase.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Scanbase makes it easy for medical companies to convert photos of rapid diagnostic tests into results. We do this by providing a simple API that any medical company can access.\r\n",
@@ -7126,11 +7084,11 @@
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1670991822,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Health Tech",
-      "Telemedicine"
+      "Telemedicine",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7640,7 +7598,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -7842,10 +7800,10 @@
     "slug": "guac",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffff2e450f7c22939b75b50d62a49acbce05716.png",
-    "website": "https://www.guac-ai.com/",
+    "website": "https://www.guac.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Guac accurately forecasts demand for grocery retailers, to reduce food waste and increase availability.",
-    "one_liner": "AI-powered demand forecasting for grocery",
+    "long_description": "Guac accurately forecasts grocery demand to help supermarkets order and produce the right amount of inventory — reducing food waste and increasing availability.",
+    "one_liner": "AI-powered forecasting & replenishment for grocery",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -7877,49 +7835,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/guac",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/guac.json"
-  },
-  {
-    "id": 28957,
-    "name": "Continue",
-    "slug": "continue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
-    "website": "https://continue.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Writing code got 10x faster. Shipping it didn't. Continue closes the gap. What good looks like on your team, enforced automatically.\r\n\r\nDevelopers are drowning in AI-generated code. Continuous AI solves this by automating the workflows around code, not just the code itself. The role of the software engineer is shifting from prompting AI to designing processes that run automatically.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.\r\n\r\nhttps://continuousai.com",
-    "one_liner": "Ship as fast as you code",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688142176,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "Machine Learning",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/continue",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
   },
   {
     "id": 28958,
@@ -8556,7 +8471,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
     "one_liner": "AI Data Scientist for Jupyter and Metabase",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722024736,
@@ -8685,8 +8600,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
     "website": "https://www.conductorquantum.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
-    "one_liner": "Quantum computers on silicon chips using AI.",
+    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon quantum chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of quantum technology.",
+    "one_liner": "AI software for scaling quantum computers",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -8939,47 +8854,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/astrix-health",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/astrix-health.json"
-  },
-  {
-    "id": 30062,
-    "name": "Karmen",
-    "slug": "karmen",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa668d5cbf2cf7fdadb1d8847e54392cbd356305.png",
-    "website": "https://www.karmenai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Karmen is an AI assistant for construction project managers. We integrate with their emails, project management software and ERPs to automate admin tasks like invoice processing and approvals.\r\n\r\nOne construction company we are working with faced a project delay cost of around $50,000 a day from an invoicing mistake. Supplier management issues like these account for 20% of project delays.\r\n\r\n",
-    "one_liner": "AI Assistant for Construction Project Managers",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1731024115,
-    "tags": [
-      "Machine Learning",
-      "Construction",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/karmen",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/karmen.json"
   },
   {
     "id": 30079,
@@ -9698,50 +9572,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/spotlight-realty.json"
   },
   {
-    "id": 30821,
-    "name": "Efference",
-    "slug": "efference",
-    "former_names": [
-      "Remnant Robotics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png",
-    "website": "https://efference.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Efference builds the eyes and visual cortex for robots. Instead of treating depth as a hardware problem, we use software — inspired by how humans see — to generate rich and reliable 3D information. This lets us deliver higher performance and greater ease of use at a lower price than existing stereo cameras.",
-    "one_liner": "We build the eyes and visual cortex for robots.",
-    "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1762259214,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Robotics",
-      "Computer Vision"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/efference",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/efference.json"
-  },
-  {
     "id": 30835,
     "name": "Brickanta",
     "slug": "brickanta",
@@ -9838,17 +9668,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png",
     "website": "https://www.velum-labs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velum is an open-source firewall for content-level access control across documents, databases, and applications. Admins define policies, and we apply them in real time across your entire stack to control what each recipient sees.\r\n\r\nOur firewall sits between your data sources and consumers (LLMs, users, vendors), enforcing policies on every request. We understand meaning in text, documents, and databases to detect sensitive information based on your policies, then apply recipient-specific controls without blocking workflows.\r\n\r\nCreate policies in natural language. Teams write rules that define what's sensitive and who should access it, and Velum enforces them consistently across all systems. When authorization changes, we can reveal tokenized data just-in-time for approved recipients, maintaining both security and utility.\r\n\r\nWe integrate directly into your existing infrastructure. For AI workflows, we intercept prompts, responses, and retrievals to prevent sensitive information from leaking into or out of models. For enterprise systems like Salesforce, SAP, or Workday, we extend policy enforcement to exports, reports, and syncs.\r\n\r\nVelum is designed for scale and compliance. We provide encryption and structure-preserving tokenization for high-throughput pipelines, with multi-cloud deployment options and configurable data residency per tenant to meet your compliance requirements.",
-    "one_liner": "Firewall that controls access to information across AI and humans",
+    "long_description": "Velum is the operating system for data quality. We observe real data traffic to automatically derive contracts, trace lineage across any stack, and enforce integrity from ingestion to executive dashboards - no manual rules, no migration required.\r\n\r\nData trust you can prove. From the pipeline to the boardroom.",
+    "one_liner": "The OS for data quality across any stack",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1762847882,
     "tags": [
       "Machine Learning",
-      "Security",
-      "Open Source",
-      "Privacy"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9960,6 +9788,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sciloop.json"
   },
   {
+    "id": 30970,
+    "name": "Exonic",
+    "slug": "exonic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144f0914ccf312aeee94512a8dc4a6cf9502f07e.png",
+    "website": "https://exonic.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "What if you could train a biological foundation model on... the entire internet?\r\n\r\nExonic is pioneering a new generation of biological foundation models, focused on heterogeneous, unstructured, and noisy datasets.\r\n\r\nOur first application is the design of safer gene therapies.\r\n\r\nIn 2025, we used AI to set a new state of the art in liver cancer targeted gene therapy, validated in vitro in our lab in San Francisco.\r\n\r\nSo far in 2026, we have trained a new model with unprecedented zero-shot generalization on genomic regulatory expression in hold-out biosample datasets. More to be shared soon.\r\n",
+    "one_liner": "Unsupervised Biological AI",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1762663893,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Synthetic Biology",
+      "Drug discovery",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/exonic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/exonic.json"
+  },
+  {
     "id": 31010,
     "name": "Fixpoint",
     "slug": "fixpoint",
@@ -10002,15 +9873,57 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fixpoint.json"
   },
   {
+    "id": 31081,
+    "name": "One Robot",
+    "slug": "one-robot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e234115139eb6fced2e2703ae2ba2ee2d691412c.png",
+    "website": "https://www.onerobot.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time.\r\n\r\nToday, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world.\r\n\r\nWe use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.\r\n",
+    "one_liner": "World models for VLA evals and training.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1771897545,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/one-robot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/one-robot.json"
+  },
+  {
     "id": 31106,
     "name": "Protent",
     "slug": "protent",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4accd78dacbfd5c67ed4bbb399b521fdd61f69b9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08fe208eabd322adf04efcdf91f3bf0f7efc1a4a.png",
     "website": "https://protent.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI intelligence for mission-critical operations",
+    "long_description": "We provide real-time video intelligence that identifies escalating incidents as they unfold. Protent detects early escalation patterns and predictive threat signals, giving surveillance staff the immediate context they need to prioritize alerts and intervene before situations spiral out of control.",
+    "one_liner": "Protent turns passive surveillance into proactive intelligence.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -10019,8 +9932,8 @@
       "Hardware",
       "Machine Learning",
       "SaaS",
-      "Security",
-      "Monitoring"
+      "GovTech",
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10085,25 +9998,27 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
   },
   {
-    "id": 31128,
-    "name": "Cumulus Labs",
-    "slug": "cumulus-labs",
+    "id": 31113,
+    "name": "CellType",
+    "slug": "celltype",
     "former_names": [
-      "Cumulus"
+      "Contextual Bio"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
-    "website": "https://cumuluslabs.io",
-    "all_locations": "",
-    "long_description": "Cumulus Labs is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged by physical resource use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
-    "one_liner": "The Optimized GPU Cloud",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7626449e8e50e3bcef406586024dca5da4b7918b.png",
+    "website": "https://www.celltype.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
+    "one_liner": "The agentic drug company. We simulate human biology.",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768427687,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1771295425,
     "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "Machine Learning",
-      "B2B",
-      "Infrastructure"
+      "Biotech",
+      "Therapeutics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10112,20 +10027,20 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Healthcare",
+      "Drug Discovery and Delivery"
     ],
     "regions": [
-      "Remote",
-      "Partly Remote"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cumulus-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
+    "url": "https://www.ycombinator.com/companies/celltype",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/celltype.json"
   },
   {
     "id": 31145,
@@ -10222,8 +10137,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
     "website": "https://www.librarlabs.com",
     "all_locations": "",
-    "long_description": "AI for librarians. Librar speed up the manual & boring work, so librarians can build reading culture and community.\r\n\r\nThe worlds first AI-librarian.\r\n\r\n",
-    "one_liner": "Intelligence for physical knowledge starting with libraries. Worlds…",
+    "long_description": "At Librar Labs we are building the next generation of intelligence layer for the physical world.\r\n\r\nOur first commercial product Librar makes it easy to set up and manage a library with or without a librarian.\r\n\r\nFastest growing library tech company in the world.",
+    "one_liner": "The next generation of the intelligence layer for the physical world",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -10246,7 +10161,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,

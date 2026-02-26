@@ -231,7 +231,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Here at Spellbrush, we're passionate about making a good anime game.\r\n\r\nWe also happen to be the world's leading generative AI studio — we're the team behind niji・journey.\r\n\r\nWe are currently investigating how AI can be used to help human artists perform masterpieces in the most complex medium of our times: video games.\r\n\r\nOur games are characterized by a no-compromise approach to well-balanced gameplay married to a truthful love of visual arts.",
     "one_liner": "Making Anime Real",
-    "team_size": 35,
+    "team_size": 30,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1669939734,
@@ -685,7 +685,7 @@
     "name": "Taskade",
     "slug": "taskade",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/248887910b0a219a26cb0668b94543b544d4d48b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b44dce0d7c87c47de6b97a5c0517675320527da.png",
     "website": "https://www.taskade.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Taskade is the execution layer for ideas. One prompt becomes a live app that thinks and collaborates with your team. Build live dashboards, websites, and tools that connect with your workspace in real time.\r\n\r\nEvery workflow automates itself.\r\nEvery project becomes a live database.\r\nEvery agent plans, acts, and learns inside your workspace.\r\n\r\nNo code. No setup. Just creation.\r\n\r\nTaskade Genesis turns work into living systems.\r\nProjects remember. Agents learn. Automations keep everything in motion.\r\nBuild once, and your workspace evolves as your data and team grow.\r\n\r\nYour workspace is the backend. The interface builds itself.\r\nSoftware should be built by everyone.\r\nBuild without permission.\r\n\r\nhttps://www.taskade.com",
@@ -695,11 +695,11 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1559271132,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Collaboration"
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -718,7 +718,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
@@ -1078,7 +1078,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -1840,16 +1840,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70bf325ba6f13643292ce722346a076bac8e2292.png",
     "website": "https://coloop.ai/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "CoLoop is the AI copilot for insights and strategy. We help insights and strategy consultants complete their qualitative analysis in 30% of the time it would take with traditional tools and methods.",
+    "long_description": "At CoLoop we’re on a mission to make every company in the world as customer obsessed as Amazon. We’re doing this by giving the next generation of workers immediate, intuitive access to the customer knowledge they need to make better decisions, faster.",
     "one_liner": "AI Copilot for insights & strategy",
-    "team_size": 20,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1626771804,
     "tags": [
       "Generative AI",
-      "NLP",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2130,7 +2129,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -2159,9 +2158,9 @@
       "LazyWeb"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c2b55aa5e7689ba35628ff2ed6299db9328d83c.png",
-    "website": "https://andisearch.com",
+    "website": "https://AndiAI.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\n",
+    "long_description": "Instead of just links, Andi AI gives you answers - like chatting with a smart friend. \r\n\r\nAndi is a new type of search engine that uses generative AI and language models combined with live data to generate factually correct answers to questions, and to explain and summarize information combined from the best sources. \r\n\r\nAndi works as a search chatbot that's ad-free and privacy-focused. Ask Andi to...\r\n\r\n✅  Answer questions\r\n🧠  Find, summarize and explain information\r\n🔍  Navigate and search the web\r\n\r\nSearch is broken because of SEO spam, ads, and surveillance capitalism. Andi cuts through the clutter to get you straight to the knowledge you need. It presents results visually in a way that's easy to understand with a simple chat interface, and protects you from ad tech and distraction.\r\n\r\nYou can try the search app at https://andisearch.com",
     "one_liner": "AI Search for the Next Generation",
     "team_size": 2,
     "industry": "Consumer",
@@ -2186,9 +2185,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2945,7 +2942,7 @@
     "all_locations": "Austin, TX, USA; Remote",
     "long_description": "We help security, legal and sales teams get answers in seconds without depending on subject-matter experts.\r\n\r\nOur AI agent connects to every source that already holds the truth (Google Drive, Notion, Slack, email, website, trust center, SOC 2 docs, etc.). It keeps that knowledge graph fresh on its own and drafts, validates, and formats responses to customer questions, security questionnaires, and RFPs, all in the background, so your team just reviews and ships.",
     "one_liner": "We help security, legal and sales teams answer customer questions",
-    "team_size": 7,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1658875414,
@@ -3370,7 +3367,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer"
     ],
@@ -3528,16 +3525,17 @@
   },
   {
     "id": 26884,
-    "name": "RaptorGrid",
-    "slug": "raptorgrid",
+    "name": "Alphawatch AI",
+    "slug": "alphawatch-ai",
     "former_names": [
       "StableBank",
-      "AlphaWatch AI"
+      "AlphaWatch AI",
+      "RaptorGrid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023671fb6254cfaca19b56741b1b6b230aeb6a64.png",
-    "website": "https://raptorgrid.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
+    "website": "https://alphawatch.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "RaptorGrid generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
+    "long_description": "Alphawatch AI generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
     "one_liner": "AI Employees for Finance",
     "team_size": 10,
     "industry": "Fintech",
@@ -3570,8 +3568,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raptorgrid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/raptorgrid.json"
+    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
   },
   {
     "id": 26902,
@@ -3637,7 +3635,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -4822,10 +4820,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -4895,17 +4893,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/704cabf9ad75f0fbbf74aa11aa3372df14b27ea1.png",
     "website": "https://iliad.ai",
     "all_locations": "Pittsburgh, PA, USA",
-    "long_description": "Iliad is an AI tool for creating stylized artwork, textures, illustrations, and 3D assets. Users sketch, upload images, or write prompts, then guide results with visual controls like brushstrokes, masks, and transform sliders. Iliad is built for artists, game developers, and designers.",
-    "one_liner": "Create stylized art, textures, and 3D assets with AI.",
+    "long_description": "Iliad builds procedural material tools for production studios. Its node-based material engine, Aqueduct, includes an AI assistant that helps artists build and edit procedural graphs. Iliad also offers diffusion tools for texture generation, PBR maps, and reference-to-texture conversion.",
+    "one_liner": "AI-accelerated procedural material and texture tools.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1674524413,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Gaming",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6110,16 +6108,16 @@
     "all_locations": "",
     "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
     "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675814900,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6136,7 +6134,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/litellm",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/litellm.json"
@@ -7037,18 +7035,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39e64fe4e49894144581ae2ef69befe4cb83f6b8.png",
     "website": "https://gladestudio.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glade is helping everyone build games with AI. GladeCore powers over 50 studios and developers with local AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
+    "long_description": "Glade is helping everyone build games with AI. GladeCore powers hundreds of studios and developers with locally powered AI NPCs that include TTS, STT, emotional tuning, and RAG. GladeKit is Cursor for Games - an AI agent that lives directly in your game engine and builds games for you. ",
     "one_liner": "Build games at the speed of thought",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687994809,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
       "Entertainment",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7069,7 +7067,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glade",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glade.json"
   },
@@ -7483,8 +7481,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c9d8480ce32c923dc77fca44069ab19c5dab6eb.png",
     "website": "https://webhound.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Webhound builds long-running AI research agents that scale quality with time and budget. Our agents can create either structured datasets or fully cited research reports.",
-    "one_liner": "Research agents built for depth over speed",
+    "long_description": "Webhound builds long-horizon AI research agents that scale quality with time and budget. Our agents can create either structured datasets or fully cited research reports.",
+    "one_liner": "Long-horizon research agents",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -7571,11 +7569,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dedc5ca68422aae62a4f58f3a0823d0903b71997.png",
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fast Apply - Edit Files Faster - 10,500 tok/sec\r\nWarpGrep - Fast Context - 5x faster agentic code search without context rot",
-    "one_liner": "Models that improve coding agents",
-    "team_size": 5,
+    "long_description": "Fast Apply - Edit Files Faster - 10,500 tok/sec\r\nWarpGrep - Fast Context - 5x faster agentic code search subagent. eliminates context rot\r\nGlance- Videos of AI testing your PR, embedded in GitHub",
+    "one_liner": "Subagents and tools that improve coding agents",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1686706939,
     "tags": [
       "Artificial Intelligence",
@@ -7591,7 +7589,8 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -7749,7 +7748,7 @@
     "all_locations": "Salt Lake City, UT, USA",
     "long_description": "Buster is an AI agent platform built for analytics engineering. It provides data teams with AI agents that keep their dbt projects reliable, documented, and consistent — automatically.",
     "one_liner": "AI platform for analytics engineering",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1698776495,
@@ -7892,7 +7891,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -8195,17 +8194,17 @@
     "website": "https://brainbaselabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Brainbase Labs is an applied AI research lab enabling AI in the workforce by building high-fidelity agent environments and tooling.\r\n\r\n",
-    "one_liner": "Applied AI research lab enabling the global AI workforce",
+    "one_liner": "The AI Labor Company",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1707350817,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Workflow Automation",
-      "AI"
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8873,11 +8872,12 @@
       "Artificial Intelligence",
       "Generative AI",
       "Security",
-      "Privacy"
+      "Privacy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -8892,7 +8892,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -9309,7 +9309,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -9331,6 +9331,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rentflow.json"
   },
   {
+    "id": 29849,
+    "name": "Usul",
+    "slug": "usul",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13cb6bfcfd9da8720538116ad6d82ceae4a1adb9.png",
+    "website": "https://www.usul.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Usul helps companies win government contracts in 60+ nations. \r\n\r\nOur AI monitors $8 trillion in annual government spending and instantly matches you to contracts across defense, IT, energy, healthcare and more.\r\n\r\nLearn more at https://usul.com/",
+    "one_liner": "AI Platform for Winning Defense & Government Contracts",
+    "team_size": 11,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1722274635,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/usul",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/usul.json"
+  },
+  {
     "id": 29950,
     "name": "Pipeshift",
     "slug": "pipeshift",
@@ -9338,11 +9378,11 @@
       "Xylem AI",
       "Pipeshift AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18e4c91b67f788583f15cd62be509fb95adf7cf6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift is a modular orchestration platform for building with open-source AI components — embeddings, vector databases, LLMs, vision models and audio models — across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end.",
-    "one_liner": "Modular Orchestration Platform for Open Source AI",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
+    "one_liner": "Inference for real-time production workloads",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -9648,7 +9688,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "ISSEN is an AI conversational language app that helps you become fluent. Your on-demand voice tutor is personal to you, adapting lessons and chats to your particular interests, learning style, and goals. Our mission is to transform language learning by offering a level of connection, effectiveness and fun that, until now, only human teachers could provide.",
     "one_liner": "AI realtime voice companion for language learning",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1729707215,
@@ -9732,8 +9772,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c86ce92c78b4bd9698a823b31a8ee51eff7418e7.png",
     "website": "https://www.x1.new",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "x1 helps anyone build a real, native iOS app — step by step.\r\n\r\nYou describe what you want to build, and x1 generates a clear plan that takes you from idea to App Store. Each step ships a real feature and explains how the pieces fit together.\r\n\r\nInstead of asking AI to one-shot an entire app, x1 guides it through the build — the first tool that teaches you and builds with you.",
-    "one_liner": "The Blueprint for Shipping iOS Apps",
+    "long_description": "x1 is building the next generation AI app studio for iOS.\r\n\r\nInstead of generating disposable demos, we provide a structured system that guides builders from idea to a production-ready App Store launch. Our platform replaces chaotic prompt loops with modular, purpose-built studios that handle everything from product design to monetization and growth.\r\n\r\nWe’re turning AI app creation into a disciplined, end-to-end system.",
+    "one_liner": "World’s Most Powerful AI App Studio",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -10090,7 +10130,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -10381,16 +10421,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (12.6k stars, >3m monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The Leading LLM Eval and Observability Platform for AI Quality",
+    "one_liner": "The LLM Eval and Observability Platform for AI Quality",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10628,54 +10668,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/trainloop.json"
   },
   {
-    "id": 30351,
-    "name": "ThirdLayer",
-    "slug": "thirdlayer",
-    "former_names": [
-      "Dexterity",
-      "Dex",
-      "Dexterity AI",
-      "Dexterity",
-      "Dex"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b8230cea80b14be0026f198edeff9c8f351272c.png",
-    "website": "https://joindex.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ThirdLayer is an applied research and product lab building the next interface for human–AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy—spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent — it’s a foundation for:\r\n\r\n● Long-term, cross-modal memory grounded in real workflows\r\n● A new interaction layer to replace static UI with a collaborative canvas \r\n● Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.",
-    "one_liner": "Building Dex, the AI Browser Copilot",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737217789,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Productivity",
-      "Consumer Products",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thirdlayer",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/thirdlayer.json"
-  },
-  {
     "id": 30355,
     "name": "assistant-ui",
     "slug": "assistant-ui",
@@ -10896,10 +10888,10 @@
     "former_names": [
       "Prism AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973718be82b1053c971c2efe1c5263b785ae3711.png",
     "website": "https://prismvideos.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Prism is a platform for making short-form videos with AI.",
     "one_liner": "AI for the next generation of media",
     "team_size": 3,
     "industry": "B2B",
@@ -10981,7 +10973,7 @@
     "name": "Blueshoe",
     "slug": "blueshoe",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97746bdd15069c4993687b88ecedf70475b734a2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3167c58e3e1e694a6620d4b50851ebec19886cb.png",
     "website": "https://blueshoe.com",
     "all_locations": "Boston, MA, USA",
     "long_description": "Blueshoe is an AI platform for legal research and reasoning designed to capture the structure of legal thought and allow users to work directly within the logic of caselaw. By combining advanced AI with curated legal and proprietary data pipelines, the system allows users build and test arguments with unprecedented clarity.",
@@ -11142,6 +11134,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeroeval",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/zeroeval.json"
+  },
+  {
+    "id": 30639,
+    "name": "Return Signals",
+    "slug": "return-signals",
+    "former_names": [
+      "Material Model"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/487ac0ad9f618f937dd875c80053d719f8a25d07.png",
+    "website": "https://www.returnsignals.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Return Signals, we are building an AI-powered luxury concierge that proactively checks in with customers via SMS when their items are delivered. This high-touch experience drives 5–10% absolute margin uplift while improving CSAT and LTV.\r\n\r\nWe improve e-commerce margins by intelligently recommending appropriate exchanges when customers are unsatisfied. Our texts achieve very high response rates (over 80% of eventual returns), and convert 70% of return intents into exchanges. All this without increasing the combined exchange and return rate. Because exchanges preserve revenue, our customers retain most of the original sale value. We achieve over 95% positive sentiment in our interactions (and almost no negative interactions), with many customers spending multiple messages thanking our bot and developing a personal relationship.\r\n\r\n",
+    "one_liner": "AI luxury concierge for E-commerce brands",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1771009461,
+    "tags": [
+      "Generative AI",
+      "E-commerce",
+      "SMS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/return-signals",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/return-signals.json"
   },
   {
     "id": 30646,
@@ -11313,6 +11348,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pleom",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
+  },
+  {
+    "id": 30765,
+    "name": "Pollen",
+    "slug": "pollen",
+    "former_names": [
+      "Daymi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
+    "website": "https://www.pollen.cx/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents for Customer Success",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1754592638,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Customer Success",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pollen",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
   },
   {
     "id": 30870,
@@ -11497,7 +11576,7 @@
     "website": "https://everestmanagedai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Outsourced IT is a $350B industry running on 10-20% margins. We're building AI employees to help them solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT companies. We're now bringing the automation Netflix has to 150K companies globally. ",
-    "one_liner": "AI employees for outsourced IT ",
+    "one_liner": "AI agents for IT services",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11660,48 +11739,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bear.json"
   },
   {
-    "id": 31054,
-    "name": "ARC Prize Foundation",
-    "slug": "arc-prize-foundation",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cfa6fd37255bf3036179eb9d4770661d2f35d12.png",
-    "website": "https://arcprize.org/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "ARC Prize builds AI benchmarks that measure general intelligence. Our benchmark, ARC-AGI, has been used by OpenAI, Anthropic, Google DeepMind, and xAI.\r\n\r\nFounded by Mike Knoop and Francois Chollet, we inspire open source artificial general intelligence (AGI) research through benchmarks (the ARC-AGI series), global competitions, research grants, community, and content, we exist to guide researchers, industry, and regulators on the path to AGI.\r\n\r\nWe believe that AGI requires more than just scaling up existing AI models. It demands a fundamental shift towards systems capable of genuine fluid intelligence, the ability to adapt to novel challenges and solve problems efficiently, much like humans do.",
-    "one_liner": "AI benchmarks that measure general intelligence and inspire new ideas",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1769103962,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arc-prize-foundation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arc-prize-foundation.json"
-  },
-  {
     "id": 31091,
     "name": "Sonarly",
     "slug": "sonarly",
@@ -11710,7 +11747,7 @@
     "website": "https://sonarly.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’d like to automate monitoring. To advance that mission, we’re building Sonarly.\r\n\r\nSoftware has two phases: build time and run time. Coding agents are getting great at build time, but production is still a mess of charts, logs, and noisy alerts. Sonarly triages production alerts, deduping - prioritizing, and attaching the missing context - so teams can trust what pages them and fix the right issue fast. As you deploy new code, Sonarly keeps alerts and investigations up to date automatically.",
-    "one_liner": "The AI engineer for production",
+    "one_liner": "AI engineer to triage and fix your production alerts",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -11749,7 +11786,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png",
     "website": "https://strandai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strand AI builds foundation models that predict missing biological data from measured readouts.",
+    "long_description": "Strand AI develops foundation models to generate missing bio-data about patients. With this imputed data, pharmaceutical companies can select better patients for their drug trials and shave months from their drug launch timelines. We’ve already trained a multimodal foundation model that integrates spatial biology modalities, beating SOTA at a fraction of the cost.",
     "one_liner": "Curated multimodal datasets for biology AI",
     "team_size": 2,
     "industry": "Healthcare",
@@ -11832,7 +11869,7 @@
     "former_names": [
       "ProactiveAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
     "website": "https://www.ishikilabs.ai/",
     "all_locations": "",
     "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
@@ -11842,9 +11879,9 @@
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI",
-      "AI"
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11865,6 +11902,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ishiki-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
+  },
+  {
+    "id": 31203,
+    "name": "sitefire",
+    "slug": "sitefire",
+    "former_names": [
+      "pulse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
+    "website": "https://sitefire.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify the content that drives AI visibility, and recommend actions that work: third-party sites, UGC content, and new blog posts. But we don’t stop there. sitefire synthesizes the top-cited web pages into AI-optimized, ready-to-publish web pages. You just publish and start winning leads.",
+    "one_liner": "Marketing suite for the agentic web",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1770178936,
+    "tags": [
+      "Generative AI",
+      "Marketing",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sitefire",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
   },
   {
     "id": 31244,

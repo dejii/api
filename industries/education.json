@@ -1691,15 +1691,16 @@
   },
   {
     "id": 1927,
-    "name": "AskMyClass",
-    "slug": "askmyclass",
+    "name": "AskMyClass, now Soundkins",
+    "slug": "askmyclass-now-soundkins",
     "former_names": [
       "Hoogalit",
       "Inc.",
-      "Hoogalit"
+      "Hoogalit",
+      "AskMyClass"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2177907760d08fb491a5c3607a0b5577d2629c98.png",
-    "website": "https://mysoundtown.com/",
+    "website": "https://soundkins.com/",
     "all_locations": "Menlo Park, CA, USA; Remote",
     "long_description": "AskMyClass, is a learning assistant that helps teachers save time and enhance learning, using smart speakers like Alexa, and help students get back-on-task quickly and build life skills through classroom management, social-emotional learning, and lesson support.",
     "one_liner": "Audio learning assistant for teachers and students.",
@@ -1731,8 +1732,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/askmyclass",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass.json"
+    "url": "https://www.ycombinator.com/companies/askmyclass-now-soundkins",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/askmyclass-now-soundkins.json"
   },
   {
     "id": 2018,
@@ -3101,7 +3102,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": true,
     "batch": "Winter 2021",
     "status": "Active",
@@ -4274,7 +4275,7 @@
       "Shaktimaan",
       "Kalam"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b77af33029a4b47cc037f68e90edf366b8b47b3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e158289890d2edaade7efd0948c8b53b8775a93.png",
     "website": "https://superkalam.com",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Every student deserve personal attention. With AI, we can infinitely scale personalised learning experience at scale to every student. That's what we are building at SuperKalam.\r\n\r\n",
@@ -4579,7 +4580,7 @@
       "Ultra"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0586276952946e7eb368770c1670669a2ac319d6.png",
-    "website": "https://deep24.ai",
+    "website": "https://deep24.com",
     "all_locations": "",
     "long_description": "Deep24 is a coach that syncs with all your data source, understanding you and then coming up with plans to improve your life. ",
     "one_liner": "AI coach for your entire life",
@@ -4718,15 +4719,15 @@
     "website": "https://www.educato.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Educato builds exam prep platforms worldwide using AI.\r\n\r\nOnline exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies.",
-    "one_liner": "AI-Powered Worldwide exam-prep platform",
+    "one_liner": "Worldwide exam-prep platform",
     "team_size": 5,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1722269199,
     "tags": [
+      "Artificial Intelligence",
       "Education",
-      "Edtech",
-      "AI"
+      "Edtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5129,7 +5130,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tegore follows K-12 school curriculum to design courses like Algebra I & Algebra II. In addition to working with high schools in the Bay Area to design the best in-classroom experiences, Tegore is developing the corresponding consumer product, a Duolingo for Math.\r\n\r\nEach lesson in Tegore follows a lesson plan (e.g. Polynomial Long Division), and the content is delivered with voice / interactive visuals, and checks students' understanding by using dialectic teaching.",
     "one_liner": "Your new AI-powered math tutor.",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1747781122,
@@ -5140,7 +5141,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",

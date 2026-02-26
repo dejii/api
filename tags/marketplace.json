@@ -4056,12 +4056,12 @@
     "name": "Snappr",
     "slug": "snappr",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d4b8eea553ccc3ff1a645fc2affd4f8c5fc3b26.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f634405992d692577e2cfd091936940a54fcab1e.png",
     "website": "https://www.snappr.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Snappr is the one-stop-shop for visual content creation, backed by the largest marketplace for on-demand photography and photo editing services.\r\n\r\nSnappr Shoots is a self-service product for anyone to book a photoshoot in as little as 60 seconds.\r\n\r\nSnappr Workflows is a SaaS solution for brands for automating visual content pipelines.",
     "one_liner": "Snappr is the one-stop-shop for visual content creation",
-    "team_size": 240,
+    "team_size": 250,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1478224835,
@@ -8265,7 +8265,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9eb31df6605279d78436b260aecddc2b77c97ff.png",
     "website": "https://www.homebreeze.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our technology remotely scopes projects based on photos, video, answers to questions, and other data. We send those scopes to our network of contractors and get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.",
+    "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our AI system remotely scopes projects based on photos, video, answers to questions, and other data. We send those scopes to our network of contractors and get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.\r\n\r\nAs a pioneer in bringing AI to home services, we served thousands of customers across California and delivered an experience that both homeowners and contractors love (our reviews average 4.97 stars!).",
     "one_liner": "The fastest and easiest way to make home upgrades",
     "team_size": 40,
     "industry": "Consumer",
@@ -10238,19 +10238,20 @@
   },
   {
     "id": 25339,
-    "name": "VacationHomeRents",
-    "slug": "vacationhomerents",
+    "name": "Wizwand",
+    "slug": "wizwand",
     "former_names": [
-      "PageOne Lab, Inc."
+      "PageOne Lab, Inc.",
+      "VacationHomeRents"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0071b16b382bb816988dd49705c681b85468891c.png",
-    "website": "https://www.vacationhomerents.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55502c46bfc1db96f7b6a7797fc1865fa18b8c69.png",
+    "website": "https://www.wizwand.com",
     "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "VacationHomeRents helps users explore and compare vacation rental options across many listing platforms such as Airbnb, VRBO, Booking.com, etc.",
-    "one_liner": "Kayak.com for vacation rentals",
+    "long_description": "We help improve reproducibility and transparency in AI/ML research, by allowing research engineers to easily find, implement, and compare the performance of SOTA papers and methods.",
+    "one_liner": "Discover SOTA research papers on AI and Machine Learning",
     "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1647541720,
     "tags": [
       "Marketplace",
@@ -10264,8 +10265,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Travel, Leisure and Tourism"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -10276,10 +10277,10 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": false,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vacationhomerents",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/vacationhomerents.json"
+    "url": "https://www.ycombinator.com/companies/wizwand",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/wizwand.json"
   },
   {
     "id": 25360,
@@ -11433,7 +11434,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Energy"
@@ -11505,9 +11506,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37d72609fbfc24b4a158ddb750a5b26591ee74b6.png",
     "website": "https://www.novig.us",
     "all_locations": "New York, NY, USA",
-    "long_description": "Novig is a sports prediction market that eliminates the need for traditional sportsbooks by creating a two-sided marketplace. \r\n\r\nWe do this by enabling users to trade directly against friends or the market, rather than against the house, making the betting experience more efficient, fair, and, most importantly, profitable. ",
+    "long_description": "Novig is building America's #1 sports prediction market. Founded by Jacob Fortinsky and Kelechi Ukah, we are the only platform to offer commission-free sports trading. We deliver better pricing, full transparency, and a more efficient market structure for users by eliminating the traditional sportsbook model.\r\n\r\nBacked by the best - Novig has raised over $100M from some of Silicon Valley’s top investors including Pantera, Forerunner, Lux, NFX, Paul Graham, and Joe Montana.",
     "one_liner": "America's #1 Sports Prediction Market",
-    "team_size": 30,
+    "team_size": 55,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1655052377,
@@ -11531,7 +11532,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12238,52 +12239,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/flex.json"
   },
   {
-    "id": 29207,
-    "name": "PurplePages",
-    "slug": "purplepages",
-    "former_names": [
-      "PurplePill",
-      "HeyPurple"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf22855fa2bcccfa5a6527f46a30a4d6e91069b2.png",
-    "website": "https://www.thepurplepages.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Purple is an AI agent for online local marketplace transactions.",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
-    "launched_at": 1707161827,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Real Estate",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Home and Personal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/purplepages",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/purplepages.json"
-  },
-  {
     "id": 29269,
     "name": "Garage",
     "slug": "garage-2",
@@ -12732,7 +12687,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
     "one_liner": "24/7 Global Stock Exchange",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1747069734,
@@ -12762,6 +12717,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/qfex",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/qfex.json"
+  },
+  {
+    "id": 30561,
+    "name": "Sureform",
+    "slug": "sureform",
+    "former_names": [
+      "Valora",
+      "Daxa"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0aa8a269ab91daa7f1007cbe3b7c767e28dc44.png",
+    "website": "https://www.sureformhq.com/",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "We connect real-world workplaces and skilled trade workers with robotics labs to collect task-specific training data for robot foundation models\r\n",
+    "one_liner": "Real-world data for world models and robotics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1744274885,
+    "tags": [
+      "Marketplace",
+      "Robotics",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sureform",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sureform.json"
   },
   {
     "id": 30566,
@@ -13110,54 +13109,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/luel.json"
   },
   {
-    "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
-    "former_names": [
-      "https://www.arcline-ai.com/",
-      "Arcline AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1767976988,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Compliance",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
-  },
-  {
     "id": 31175,
     "name": "Pax Historia",
     "slug": "pax-historia",
@@ -13198,5 +13149,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pax-historia",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
+  },
+  {
+    "id": 31299,
+    "name": "Wayco",
+    "slug": "wayco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94c89a7cae8ae38e06b3e2143d887bbe29fc3a82.png",
+    "website": "https://wayco.ai",
+    "all_locations": "",
+    "long_description": "Wayco is building the unified intelligence layer for legal case referrals and 24/7 access to justice across the United States. We integrate directly into law firms referral case management systems - turning any local practice into a nationwide operation. \r\n\r\nLike Facebook's campus-by-campus playbook, we're onboarding market by market to build the first true social-referral network for the legal industry. As we scale, Wayco is also becoming a law firm itself - ensuring anyone, anywhere in America, gets access to justice anytime they need it.\r\n\r\nStarting with Personal Injury.",
+    "one_liner": "AI operator for legal case referrals",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1770576314,
+    "tags": [
+      "Marketplace",
+      "LegalTech",
+      "Call Center"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wayco",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/wayco.json"
   }
 ]

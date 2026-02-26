@@ -812,11 +812,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d2b1ddf28226da2f8d8938a45c15ffe3f10eb.png",
     "website": "https://pointone.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
-    "one_liner": "Automated time tracking and billing for law firms.",
-    "team_size": 12,
+    "long_description": "PointOne is the leading AI Time platform. With automated time entry, compliance, and analytics, PointOne offers AI-native",
+    "one_liner": "AI Time Platform for Law Firms",
+    "team_size": 15,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1705177845,
     "tags": [
       "Artificial Intelligence",
@@ -832,7 +832,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Legal"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -897,17 +897,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97d9192686e0278a86ecd8f8e25d07e7d760cfd1.png",
     "website": "https://withtower.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps lawyers stay organized, spot issues earlier, and close deals faster.",
-    "one_liner": "Legal due diligence platform powered by AI",
+    "long_description": "Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps deal teams stay organized, spot issues earlier, and close deals faster.",
+    "one_liner": "M&A due diligence platform powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1715707959,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Legal",
       "LegalTech",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1372,7 +1372,7 @@
     "name": "Blueshoe",
     "slug": "blueshoe",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97746bdd15069c4993687b88ecedf70475b734a2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3167c58e3e1e694a6620d4b50851ebec19886cb.png",
     "website": "https://blueshoe.com",
     "all_locations": "Boston, MA, USA",
     "long_description": "Blueshoe is an AI platform for legal research and reasoning designed to capture the structure of legal thought and allow users to work directly within the logic of caselaw. By combining advanced AI with curated legal and proprietary data pipelines, the system allows users build and test arguments with unprecedented clarity.",
@@ -1413,7 +1413,7 @@
     "name": "Skope",
     "slug": "skope",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e403e5ebfb77935a44bb057a8a646c4ae90d54f2.png",
     "website": "https://useskope.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Skope builds AI for core legal workflows. We will save your law firm time and help you make more money, with AI.",
@@ -1423,9 +1423,9 @@
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Legal",
-      "AI"
+      "Legal"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1536,6 +1536,91 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/patent-watch.json"
   },
   {
+    "id": 31000,
+    "name": "Vector Legal",
+    "slug": "vector-legal",
+    "former_names": [
+      "Cadence",
+      "Raise"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
+    "website": "https://vectorlegal.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A modern solution for Startup legal: Vector Legal is a hybrid AI law firm + legal tech platform. Our customers benefit from state of the art software for their legal operations + an experienced lawyer-in-the-loop. \r\n\r\nServices: fundraise & priced rounds | customer contracts | team growth & equity | AI draft & review | agentic data room | e-signatures | contract intelligence | legal health checks | mergers & acquisitions | co-founder separations | company formation.",
+    "one_liner": "AI Law Firm + Legal Tech Platform for Startups",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1771526564,
+    "tags": [
+      "Legal",
+      "LegalTech",
+      "Operations",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vector-legal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
+  },
+  {
+    "id": 31090,
+    "name": "Docura Health",
+    "slug": "docura-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcf719c51dea2161bc0d4cdea73a80b7a6c917f9.png",
+    "website": "https://docurahealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Docura Health reduces settlement time in workers’ compensation cases by automating medical record review, chronologies, and report drafting with AI. We transform thousands of pages of records into structured, compliant summaries, helping evaluators, claim adjusters, insurers, and legal teams resolve cases faster.",
+    "one_liner": "AI-Native Medico-Legal Firm",
+    "team_size": 1,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1771815794,
+    "tags": [
+      "Health Tech",
+      "Legal",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/docura-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/docura-health.json"
+  },
+  {
     "id": 31101,
     "name": "LegalOS",
     "slug": "legalos",
@@ -1579,54 +1664,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/legalos",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
-  },
-  {
-    "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
-    "former_names": [
-      "https://www.arcline-ai.com/",
-      "Arcline AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
-    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1767976988,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Compliance",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
     "id": 31240,

@@ -1568,7 +1568,7 @@
     "all_locations": "Los Angeles, CA, USA; Remote",
     "long_description": "SFOX, a YC-backed company, makes it easy for enterprises to trade bitcoin.  We started with an advanced trading platform that uses algorithms to provide a competitive advantage to our customers. SFOX now aims to expand international commerce by making it easy to trade any currency and settle in real time.",
     "one_liner": "Crypto-currency trading platform.",
-    "team_size": 40,
+    "team_size": 60,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1398907976,
@@ -2999,7 +2999,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2016",
     "status": "Active",
@@ -3123,7 +3123,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2016",
     "status": "Active",
@@ -4966,11 +4966,11 @@
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1525316905,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Analytics",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4991,7 +4991,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/alpha-vantage",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/alpha-vantage.json"
@@ -9158,7 +9158,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The trucking and logistics industry provides the backbone of the economy, but the payments infrastructure on which it runs is broken; the existing suite of payment tools is outdated, difficult to use, prone to fraud, and saddled with hidden fee structures. \r\n\r\nAtoB is building Stripe for Transportation — modernizing the payments infrastructure for trucking and logistics, where capital movement occurs quickly and transparently. Our flagship product is the AtoB Fuel Card, a zero-fee fuel card accepted anywhere built for fleets of all shapes and sizes.",
     "one_liner": "Modernizing global transportation payments.",
-    "team_size": 71,
+    "team_size": 75,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1602605067,
@@ -11266,26 +11266,26 @@
   },
   {
     "id": 23075,
-    "name": "Sturdy",
-    "slug": "sturdy-2",
+    "name": "TaoFi",
+    "slug": "taofi",
     "former_names": [
       "Trained Eye",
       "Sturdy",
-      "Sturdy Finance"
+      "Sturdy Finance",
+      "Sturdy"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad9396b9cebc1da00df8e848c265dd081f363791.png",
-    "website": "https://sturdy.finance",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0978b02398d2e208700132e4080e74a5adc8d662.png",
+    "website": "https://taofi.com",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "DeFi protocol for permissionless lending",
+    "one_liner": "The financial layer for decentralized AI",
     "team_size": 11,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
+    "subindustry": "Fintech",
     "launched_at": 1616256593,
     "tags": [
-      "DeFi",
-      "Fintech",
-      "Lending"
+      "Artificial Intelligence",
+      "DeFi"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11294,8 +11294,7 @@
     "batch": "Winter 2021",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Credit and Lending"
+      "Fintech"
     ],
     "regions": [
       "Unspecified"
@@ -11305,8 +11304,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sturdy-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/sturdy-2.json"
+    "url": "https://www.ycombinator.com/companies/taofi",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/taofi.json"
   },
   {
     "id": 23120,
@@ -12325,7 +12324,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -13261,11 +13260,11 @@
     "name": "Aqua",
     "slug": "aqua",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0238fbfedcf80336a77344bfd8964d1ce527eef.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55790b66a55aee54f67a7eb5bdc7202fe373d753.png",
     "website": "https://www.investwithaqua.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "One stop shop to find, invest, and service an alternative investment for RIAs, IBDs, and institutions. ",
-    "one_liner": "The Operating System for Alternative Investments",
+    "long_description": "One platform to put your alternative assets on autopilot. ",
+    "one_liner": "The AI-Native Turnkey Alternative Investment Platform (TAIP)",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -13362,7 +13361,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -13896,11 +13895,12 @@
   },
   {
     "id": 24461,
-    "name": "Mine (formerly Fizz)",
+    "name": "Mine",
     "slug": "mine",
     "former_names": [
       "ShoulderTap",
-      "Fizz"
+      "Fizz",
+      "Mine (formerly Fizz)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7a0d14910b74597e1e70723a08a579e8dafe145.png",
     "website": "https://usemine.com/",
@@ -13912,10 +13912,10 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1628179251,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Consumer",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16413,10 +16413,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -17995,6 +17995,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/amal-invest.json"
   },
   {
+    "id": 25948,
+    "name": "Spade",
+    "slug": "spade",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c34a890239baf0d72f56f357f5a24dee709b667.png",
+    "website": "https://www.spade.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
+    "one_liner": "Enriched transaction data you can build on",
+    "team_size": 20,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1641512856,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Machine Learning",
+      "Payments",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spade",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/spade.json"
+  },
+  {
     "id": 25960,
     "name": "Clupp",
     "slug": "clupp",
@@ -18236,7 +18280,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -18269,9 +18313,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e61aca9e3ec1f41c1b6e3f94c2d34767562c42d.png",
     "website": "http://www.AYCFund.com/",
     "all_locations": "Seoul, South Korea",
-    "long_description": "AYC Fund is web3 VC and web3 liquid fund. ",
-    "one_liner": "Web3 VC and Web3 Liquid Fund",
-    "team_size": 2,
+    "long_description": "AI-native crypto hedge fund",
+    "one_liner": "AI-native crypto hedge fund",
+    "team_size": 1,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1641267384,
@@ -19811,16 +19855,17 @@
   },
   {
     "id": 26884,
-    "name": "RaptorGrid",
-    "slug": "raptorgrid",
+    "name": "Alphawatch AI",
+    "slug": "alphawatch-ai",
     "former_names": [
       "StableBank",
-      "AlphaWatch AI"
+      "AlphaWatch AI",
+      "RaptorGrid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023671fb6254cfaca19b56741b1b6b230aeb6a64.png",
-    "website": "https://raptorgrid.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
+    "website": "https://alphawatch.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "RaptorGrid generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
+    "long_description": "Alphawatch AI generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
     "one_liner": "AI Employees for Finance",
     "team_size": 10,
     "industry": "Fintech",
@@ -19853,8 +19898,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raptorgrid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/raptorgrid.json"
+    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
   },
   {
     "id": 26897,
@@ -19863,7 +19908,7 @@
     "former_names": [
       "Cambio"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c883569550177f7700c6efba769c869c5d530759.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40b545f0827e44a735f2287cc0b17aea7e65e7ff.png",
     "website": "http://www.helloaviary.ai",
     "all_locations": "Chicago, IL, USA",
     "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
@@ -19873,14 +19918,14 @@
     "subindustry": "Fintech",
     "launched_at": 1654737893,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -20095,8 +20140,8 @@
     "website": "https://aiprise.com/",
     "all_locations": "Santa Clara, CA, USA",
     "long_description": "Verify your customers globally with a single platform. Get 800+ data points on each business and 100+ data points on each individual and onboard with confidence.",
-    "one_liner": "AI Powered Global Compliance Platform",
-    "team_size": 36,
+    "one_liner": "AI-powered Global Compliance Platform",
+    "team_size": 42,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1656614505,
@@ -21178,6 +21223,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/chart.json"
   },
   {
+    "id": 27859,
+    "name": "No Cap",
+    "slug": "no-cap",
+    "former_names": [
+      "Carbon Science",
+      "Carbon Search",
+      "Intently",
+      "Socap.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cf30e5fb4585b9d43dd92dd9ebe9b279cd7f68a.png",
+    "website": "https://www.nocap.so",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "The world's first AI agent that coaches founders & invests in them. Currently led by a repeat AI founder Alexander Nevedovsky (exit to Farfetch), who joined post-YC batch: https://www.linkedin.com/in/ednevsky 👋",
+    "one_liner": "AI startup investor, No Cap",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1680292727,
+    "tags": [
+      "Artificial Intelligence",
+      "Investing",
+      "Fundraising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/no-cap",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/no-cap.json"
+  },
+  {
     "id": 27862,
     "name": "Bluedot",
     "slug": "bluedot",
@@ -21354,16 +21446,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
     "one_liner": "Automating Securities Compliance",
-    "team_size": 43,
+    "team_size": 51,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21377,11 +21469,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22209,7 +22299,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -22269,16 +22359,16 @@
   },
   {
     "id": 28929,
-    "name": "Greenlite",
-    "slug": "greenlite",
+    "name": "Bretton AI",
+    "slug": "bretton-ai",
     "former_names": [
       "Greenlite AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1cb1ba3c32ce40d88e6b4b79ac86d9a520edfb7.png",
-    "website": "https://www.greenlite.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a2e212679d6416b22e5a93c56292d0faf00edc5.png",
+    "website": "https://www.bretton.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
-    "one_liner": "AI agents for financial compliance",
+    "long_description": "Bretton AI (formerly Greenlite) is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Bretton AI to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+    "one_liner": "AI agents for financial compliance (AML, KYC and Sanctions)",
     "team_size": 34,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -22308,8 +22398,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/greenlite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/greenlite.json"
+    "url": "https://www.ycombinator.com/companies/bretton-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/bretton-ai.json"
   },
   {
     "id": 28932,
@@ -22802,16 +22892,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
     "website": "https://www.ehl.markets/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use thousands of AI agents to automate the work of human investors—reading filings, processing news, and finding high-signal events. Our goal is to build a fully autonomous fund that outperforms the best PMs on the planet. Starting with equity long/short.\r\n\r\n",
-    "one_liner": "AI-native hedge fund using agents to invest the way humans do—at scale",
-    "team_size": 1,
+    "long_description": "We operate a platform that automates quantitative research — generating hypotheses, backtesting strategies, and analyzing results. Hundreds of agents run in parallel and learn from what the others discovered. We are building a fund that scales on agents, not researchers.",
+    "one_liner": "AI-native hedge fund using agents to automate quant research—at scale",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1710132587,
     "tags": [
-      "Artificial Intelligence",
-      "Search",
-      "Infrastructure",
+      "Finance",
+      "Investing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -22936,11 +23025,17 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
     "one_liner": "Modern OS for the financial back office. ",
-    "team_size": 17,
+    "team_size": 26,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1700498020,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Compliance",
+      "Operations"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -23273,7 +23368,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -23871,7 +23966,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -23937,7 +24032,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Moreta, we simplify payments for international travelers, letting you pay for anything using just your phone. Say goodbye to the hassle of searching for the best cash exchange rates or ATMs on your next trip. With Moreta, paying local merchants is easy, and the best part? Transparent fees.\r\n\r\nWe came up with Moreta while on our own backpacking adventures. Watching locals pay with a simple scan while we fumbled with cards and cash. So, we created a solution. By syncing with local payment networks, Moreta lets you pay like a local securely and digitally, without needing a bank account in every country.\r\n\r\nWe’re starting in Asia, where QR code digital wallets are taking over and are now the top choice at checkout. As these wallets start to join forces for cross-border payments, Moreta will be the first to bridge the gap for international travelers from card-centric markets to seamlessly tap into these local networks. Moreta will target 67 million travelers arriving in the region each year, who together have $127 billion in everyday expenditure.",
     "one_liner": "Payments made easy for international travelers.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1724360319,
@@ -24065,10 +24160,10 @@
     "former_names": [
       "Elayne AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a98fa9035236422ae40e39daab0354f2090e797e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a39c5ab69e2cfbf8fdd2de5562516b23e3a5d91.png",
     "website": "https://www.elayne.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Elayne helps families organize their assets, estate documents, and key contacts in one place, then guides them through life transitions as circumstances and priorities evolve. Like getting married, moving, having a baby, or losing a parent.\r\nUnlike traditional wealth management tools or online estate platforms that produce static legal documents, Elayne is dynamic, intelligent, and built not just to delight, but to comfort and guide you when it matters most.\r\n\r\nI started Elayne after my mom passed away and I had to settle her estate, accounts, and affairs - essentially, I suddenly had to untangle all the details of her life. It was shocking how fragmented and opaque the process was and how I spent hundreds of hours chasing documents, coordinating accounts, filling legal gaps, and navigating unfamiliar systems, all while grieving and working full time. It shouldn’t be that way.\r\n\r\nIn the future, you could hire an attorney, download DIY legal forms, fax and mail physical documents, sync 10 different fintech apps, use a financial planner, spend thousands in fees, and hope it all holds together. Or, you could just use Elayne.",
+    "long_description": "Elayne an AI-powered estate settlement platform that helps families settle an estate with clarity and speed using AI plus expert review. We turn scattered accounts, paperwork, and deadlines into a structured workflow: asset discovery, document intake, next steps, and status tracking.\r\n\r\nElayne generates a verified step-by-step action plan based on institution and jurisdiction requirements. Families track progress in one place, share a single source of truth with executors and advisors, and move cases forward with fewer calls, forms, and surprises.",
     "one_liner": "AI copilot for growing, organizing, and transferring family estates",
     "team_size": 6,
     "industry": "Fintech",
@@ -24195,7 +24290,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage for venture-backed startups. We simplify the complex U.S. insurance landscape with digital transparency, multi-carrier comparison, and plain-English policy breakdowns—powered by AI analysis and backed by licensed human expertise. \r\n\r\nFounders get side-by-side quotes, fair pricing benchmarks, and the right coverage (D&O, Cyber, E&O, and more) without overpaying or guesswork.",
+    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage built for YC founders and venture-backed startups. We simplify the complex U.S. insurance landscape—D&O, Cyber, E&O, General Liability, and more—with digital transparency and plain-English policy breakdowns.\r\n\r\nNeed insurance for enterprise contracts? We provide multiple quotes from top-rated (AM Best A-rated) carriers, so you can meet vendor requirements and get certificates of insurance fast. Whether you're a Delaware C Corp getting your first policy, scaling a global team, or closing enterprise deals, we give you side-by-side comparisons, fair pricing benchmarks, and the right coverage—without overpaying or guesswork.",
     "one_liner": "AI-native insurance firm for startups.",
     "team_size": 2,
     "industry": "Fintech",
@@ -24284,7 +24379,7 @@
     "all_locations": "",
     "long_description": "Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.\r\n",
     "one_liner": "AI Compliance Analysts for Banks & Fintechs",
-    "team_size": 9,
+    "team_size": 11,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1730337457,
@@ -24588,6 +24683,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pax-markets.json"
   },
   {
+    "id": 30269,
+    "name": "Pluto",
+    "slug": "pluto",
+    "former_names": [
+      "PowerPlay",
+      "Strike"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b533d4bccae312fbf4823b72ca0d59a43a6ebff2.png",
+    "website": "https://www.pluto.trade",
+    "all_locations": "New York, NY, USA",
+    "long_description": "First regulated exchange for compute",
+    "one_liner": "Regulated derivatives exchange",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1740523068,
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Fintech",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pluto",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/pluto.json"
+  },
+  {
     "id": 30285,
     "name": "Karsa",
     "slug": "karsa",
@@ -24815,7 +24955,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
     "one_liner": "24/7 Global Stock Exchange",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1747069734,
@@ -25101,7 +25241,7 @@
       "Gaus"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b5fdcf24f0c61830898968d03a605cac559df3.png",
-    "website": "https://www.joinastor.com/",
+    "website": "https://astor.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Astor is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Astor gives every active investor an AI investment advisor working around the clock to surface their next great investment. We’re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don’t feel confident in their investment decisions. Astor fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
     "one_liner": "AI advisor for retail investors",
@@ -25110,10 +25250,10 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1754607917,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Investing",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25195,7 +25335,7 @@
     "all_locations": "",
     "long_description": "The domain specific AI for claims that gives leading insurers clarity and speed on the most complex claims",
     "one_liner": "Automates insurance claims and stops incorrect payouts",
-    "team_size": 6,
+    "team_size": 15,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1754360048,
@@ -25573,7 +25713,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
     "one_liner": "Building the first AI Bank",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1759770880,
@@ -25615,21 +25755,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
     "website": "https://www.meetcasey.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
-    "one_liner": "Casey automates workflows for the insurance industry",
+    "all_locations": "",
+    "long_description": "Casey is an AI-native commercial insurance broker. Our producers focus on client relationships and closing business, whilst our AI handles all the operational work behind the scenes.\r\n\r\n",
+    "one_liner": "Casey is the first global AI-native insurance brokerage",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1759942019,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Insurance"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -25638,8 +25774,7 @@
       "Insurance"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25692,18 +25827,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport allows you to turn tweets into meaningful alpha. Get news as soon as it brakes with the associated trade. Scroll, Trade, and use Perps all in one app!",
-    "one_liner": "Turn tweets into trades",
-    "team_size": 2,
+    "long_description": "Freeport turns the sources you already trust (starting with Twitter) into a tradable feed. Our AI analysts track breaking news across social and financial media, distill what matters, and translate it into actionable trade ideas so you’re never late when markets move. ",
+    "one_liner": "Tradable Twitter Feed ",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -25775,7 +25910,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dff0894649ff29064b020845633a9ebb22c2e9de.png",
     "website": "https://pantainsure.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe formed the company in December and have already bound multiple commercial policies for clients in San Francisco.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
+    "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
     "one_liner": "Commercial insurance brokerage run by AI agents. Scales like software.",
     "team_size": 4,
     "industry": "Fintech",
@@ -25857,14 +25992,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
     "website": "https://axisanalysis.com",
     "all_locations": "",
-    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trader or analyst to deploy models for monitoring information relevant to their strategy. Commodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy (Crude, Refined Products, Natural Gas, Petroleum) across the globe. Due to the size of these markets, commodities traders monitor data sources spanning prices and derivatives, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an analytical layer for these markets.\r\n",
-    "one_liner": "Models for Monitoring Commodities Markets",
+    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trading desk to deploy models for monitoring strategies. \r\n\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. \r\n\r\nAxis is building an AI driven analytical layer for these markets.\r\n",
+    "one_liner": "An AI Trading System for Commodities Markets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1769120993,
     "tags": [
-      "Fintech"
+      "Artificial Intelligence",
+      "Fintech",
+      "Analytics",
+      "Market Research",
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25885,6 +26024,91 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/axis-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/axis-2.json"
+  },
+  {
+    "id": 31119,
+    "name": "ZeroSettle",
+    "slug": "zerosettle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
+    "website": "https://zerosettle.io",
+    "all_locations": "",
+    "long_description": "Ever since Epic v Apple, developers are now allowed to support direct billing in their app and avoid the App Store fee. We help developers keep more of their revenue with \"Switch & Save\" Campaigns, Smart Cancellation Flows, and Web Checkout Paywalls.",
+    "one_liner": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1770252325,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zerosettle",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
+  },
+  {
+    "id": 31169,
+    "name": "Proximitty",
+    "slug": "proximitty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
+    "website": "https://proximitty.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Proximitty is the first truly AI-native loan management system. We build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nTrusted by publicly traded fintechs and banks globally.",
+    "one_liner": "Autonomous loan servicing and collections",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1771451277,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Lending"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proximitty",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/proximitty.json"
   },
   {
     "id": 31187,
@@ -25941,7 +26165,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
     "one_liner": "AI for M&A",
-    "team_size": 5,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,
@@ -26020,7 +26244,7 @@
     "name": "Sequence Markets",
     "slug": "sequence-markets",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/564c0c8ad6b1cf6c6c24454e941feb323039e055.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32de69f69c1154a1195504543e1a4fc2eed3dbfc.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
@@ -26030,8 +26254,8 @@
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
+      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],
@@ -26135,5 +26359,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spotpay",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/spotpay.json"
+  },
+  {
+    "id": 31296,
+    "name": "Unifold",
+    "slug": "unifold",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
+    "website": "https://unifold.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Launch crypto deposits in minutes. \r\n\r\nUnifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works.\r\n\r\nIf you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.\r\n",
+    "one_liner": "Multi-chain deposit and payment infrastructure",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1771008732,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Payments",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unifold",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
   }
 ]

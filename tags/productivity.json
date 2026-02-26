@@ -2924,7 +2924,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer"
     ],
@@ -3447,11 +3447,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1642140655,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Productivity",
-      "SMB"
+      "SMB",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3944,18 +3944,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/037b66c1bbe3365f03b5de5fac263f8ea652ae3f.png",
     "website": "https://typewise.app",
     "all_locations": "Zürich, ZH, Switzerland",
-    "long_description": "Typewise develops text prediction software for customer service and sales teams. Our enterprise clients such as DPD (a Fortune 500 logistics company) use Typewise to communicate with their customers faster and more effectively.",
+    "long_description": "Typewise is an AI-first customer service platform where orchestrated agents resolve requests end-to-end by taking real actions across your stack. Teams describe outcomes in natural language and the platform compiles them into working automations—no flowcharts, no code. You can safely simulate changes and roll them out step by step.\r\n\r\nFortune 500 brands such as Unilever and DPD use Typewise to cut support effort by 50%+ while increasing CSAT and NPS. With 200+ integrations, Typewise reads from and writes to CRM, ERP, and other systems to fully resolve cases, handing off to humans only where they add the most value. Hybrid intelligence enables partial hand-offs, review-before-send, and context-preserving resumption—so teams stay in control.\r\n\r\nOperate natively within Typewise Ticketing, with optional integrations into your existing CRM or helpdesk systems such as Zendesk, Salesforce, or Freshdesk, and enhance agents with a CRM-embedded copilot. A company-specific AI language model keeps every interaction on-brand. EU-hosted and ISO 27001 certified, Typewise delivers measurable ROI in weeks—so you can start small and scale automation with confidence.",
     "one_liner": "Boosting customer service and sales productivity by 2-3x.",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1655022154,
     "tags": [
-      "Machine Learning",
+      "Artificial Intelligence",
       "B2B",
       "Productivity",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4971,7 +4970,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -5262,13 +5261,15 @@
   },
   {
     "id": 29283,
-    "name": "Assembly",
-    "slug": "assembly-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e776eb370bd36ebbc8087ded38ebcb435bf3d4c4.png",
-    "website": "https://www.askassembly.app/",
+    "name": "Wavelength",
+    "slug": "wavelength",
+    "former_names": [
+      "Assembly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2155f0e58d43be7fbf11024f78067345664004.png",
+    "website": "https://wavelength.cx/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assembly is a customer experience platform that turns customer feedback into product growth and support requests into long-lasting relationships. ",
+    "long_description": "The AI-native Customer Intelligence Platform purpose built for post sales teams.\r\nWavelength brings your entire customer data stack into one place - with powerful AI agents that uncover important signals and act instantly",
     "one_liner": "Build Magical Customer Experiences",
     "team_size": 3,
     "industry": "B2B",
@@ -5299,8 +5300,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/assembly-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/assembly-2.json"
+    "url": "https://www.ycombinator.com/companies/wavelength",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/wavelength.json"
   },
   {
     "id": 29285,
@@ -5534,7 +5535,7 @@
     "website": "https://aquavoice.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Super fast AI dictation that lets you talk into any text field -- Cursor, Gmail, Slack, even your terminal. It starts up in under 50ms, inserts text as fast as 450ms, and has state-of-the-art accuracy. Write 4x faster anywhere with Aqua. 🌊",
-    "one_liner": "Talk into any text box - write 4x faster than typing.",
+    "one_liner": "Frontier Voice Input - write 4x faster than typing.",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -6019,17 +6020,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
     "website": "https://saldor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Saldor is your voice-first email client that lets you triage, read, and respond to messages without touching your screen. Whether you’re commuting, cooking, or on the go, Saldor keeps you connected and productive entirely through natural conversation.",
-    "one_liner": "Hands-free email",
+    "long_description": "",
+    "one_liner": "",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1722921255,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
       "Consumer Products",
-      "Email",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6064,7 +6064,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/528be4d7bdd9d7697989ae9bb99887ac579f65cc.png",
     "website": "https://www.dayflow.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dayflow is building productivity tools that increase the amount of (human) agency in the world. ",
+    "long_description": "Dayflow is building open-source productivity tools that help founders and engineers make the most of their time.",
     "one_liner": "Generate a detailed log of everything you've worked on, automatically.",
     "team_size": 2,
     "industry": "Consumer",
@@ -6284,14 +6284,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Email sucks. It takes forever to go through, and hiring an assistant is costly and invasive. Friday is building the assistant that learns how to predict the action that you will take on your emails, and does it for you.\r\n\r\nToday's email products try to help you go through your emails a little faster, but if you have to get through 1000 emails, those products doesn't do much for you. \r\n\r\nThe reality is, most of the emails you get don't require you to personally look at them. Friday completely eliminates the need to check those emails, and handles them all at once for you, immediately. \r\n\r\nFriday is here to file away spam, sift through newsletters for important tidbits, text you important notifications, and reply to mundane emails, so that no matter how many thousands of emails are in your inbox, you'll just be left with the few emails that actually require your personal touch.\r\n\r\nGetting this right is difficult, so everyone else settles with trying to help you go through your email twice as fast. If you want to go 100x as fast, you shouldn't spend even a second on useless emails. \r\n\r\nFriday gets this right, bringing the elite experience of having a professional assistant to the entire world.",
     "one_liner": "The AI Assistant for Gmail",
-    "team_size": 1,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1731106672,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
       "Email",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6348,7 +6348,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6401,27 +6401,27 @@
   },
   {
     "id": 30351,
-    "name": "ThirdLayer",
-    "slug": "thirdlayer",
+    "name": "Dex",
+    "slug": "joindex",
     "former_names": [
       "Dexterity",
       "Dex",
       "Dexterity AI",
       "Dexterity",
-      "Dex"
+      "Dex",
+      "ThirdLayer"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b8230cea80b14be0026f198edeff9c8f351272c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac79d12169377e5c2a4f0dfc5863cb25ef3beb7.png",
     "website": "https://joindex.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ThirdLayer is an applied research and product lab building the next interface for human–AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy—spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent — it’s a foundation for:\r\n\r\n● Long-term, cross-modal memory grounded in real workflows\r\n● A new interaction layer to replace static UI with a collaborative canvas \r\n● Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.",
-    "one_liner": "Building Dex, the AI Browser Copilot",
+    "one_liner": "The AI Coworker in Chrome",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1737217789,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
       "Productivity",
       "Consumer Products",
       "AI"
@@ -6433,7 +6433,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -6444,8 +6445,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thirdlayer",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/thirdlayer.json"
+    "url": "https://www.ycombinator.com/companies/joindex",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/joindex.json"
   },
   {
     "id": 30425,
@@ -6585,7 +6586,7 @@
     "website": "https://voiceos.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "VoiceOS turns voice into a seamless, universal interface to 10x productivity — a true voice operating system for the next era of computing.\r\n\r\nIt works across any app, letting users speak naturally to dictate, edit, and write text instantly. Whether writing an email, revising a document, or grasping complex information, VoiceOS transforms voice into the most powerful productivity tool, bridging the gap between thought and expression.",
-    "one_liner": "The Voice OS for Productivity",
+    "one_liner": "The Siri for Productivity",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -6701,22 +6702,25 @@
   },
   {
     "id": 30621,
-    "name": "Pond",
-    "slug": "pond",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b509b40e2c3c32e42ebe7d8742a534de91515647.png",
-    "website": "https://trypond.ai",
+    "name": "Tidy",
+    "slug": "tidy",
+    "former_names": [
+      "Pond"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93a91071e0526184092e4e72a13d1108008534a1.png",
+    "website": "https://withtidy.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building an AI-native messaging app. Pond is a desktop app you can use with your existing messaging services like iMessage (and soon WhatsApp + more). You can see important messages you haven’t replied to, snooze conversations, answer customers in your voice, and more.",
-    "one_liner": "Superhuman for text messages",
+    "long_description": "AI assistant that you can teach to use any app + lives in your messages.",
+    "one_liner": "Does anything you can imagine with a text",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1752567931,
     "tags": [
       "Artificial Intelligence",
       "Productivity",
-      "Messaging"
+      "Messaging",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6725,8 +6729,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -6737,8 +6740,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pond",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
+    "url": "https://www.ycombinator.com/companies/tidy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tidy.json"
   },
   {
     "id": 30655,
@@ -6877,21 +6880,21 @@
     "former_names": [
       "Trace AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2aef05823ea025fd58985ddba1bb239174e788.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c08d892e148caaaf2ce4e85ef39beddd97353a8.png",
     "website": "https://www.trace.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trace is a workflow automation platform that routes tasks to the right agent – human or AI. We enable enterprise-grade context and AI orchestration in mid-sized teams. \r\n\r\nTrace breaks workflows into clear steps, sends repetitive tasks to AI agents, and routes the rest to the right people while respecting permissions and logging every action. \r\n\r\nWe help teams cut busywork and unify AI tools across departments – helping companies adopt AI in days rather than months.",
-    "one_liner": "Workflow automation that routes tasks to humans and AI",
-    "team_size": 5,
+    "long_description": "Trace is a workflow orchestration platform that gives agents shared context across systems and lets teams build visual processes combining AI and humans. It automatically identifies which tasks can be AI-automated and which need human input, so non-technical teams build and run workflows without engineering involvement.",
+    "one_liner": "Context-aware orchestration between humans and AI.",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1754919932,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Workflow Automation",
-      "Productivity"
+      "Productivity",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6923,8 +6926,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
     "website": "https://epicenter.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
-    "one_liner": "Open-source, local-first apps that share a memory.",
+    "long_description": "Epicenter is an ecosystem of open-source, local-first apps that share a memory. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
+    "one_liner": "ChatGPT's memory feature in an open, portable format",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -7308,8 +7311,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
     "website": "https://www.tensol.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Your AI employee has full context of your company, is running 24/7 and can monitor Slack, track Sentry errors, update your CRM. We handle the setup and deployment of isolated VMs, no need for a Mac mini, a dedicated phone number or a devOps engineer.\r\n\r\nTensol also lets you create specialized AI employees for different jobs, like engineering, sales, and support, from a simple UI. You can connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations and a quick OAuth flow that takes about two minutes. Each AI employee also gets its own dedicated identity, so it can operate like a real teammate.",
-    "one_liner": "AI Employees for Startups, Built on OpenClaw",
+    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Each AI employee runs 24/7 in its own isolated VM, has full context of your company, and can monitor Slack, track Sentry errors, update your CRM, and more. We handle the infrastructure, security, and deployment.\r\n\r\nTensol also lets you create specialized AI employees for different jobs - engineering, sales, support, in a couple of minutes. You connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations. Every action is logged with a full audit trail, credentials are injected at network-level, and each AI employee gets its own dedicated identity and sandboxed environment, with enterprise-grade security built-in.",
+    "one_liner": "AI Employees for your Business, Powered by OpenClaw",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7341,6 +7344,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tensol",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
+  },
+  {
+    "id": 31118,
+    "name": "Carson",
+    "slug": "carson",
+    "former_names": [
+      "Workable Solutions Inc.",
+      "Fix.Fast"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92a11d3a3ee3272d1d97560705cf903b54ea3437.png",
+    "website": "https://usecarson.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An AI agent with enterprise-grade security that generates custom, task-specific interfaces.",
+    "one_liner": "more capable than Cowork, more secure than OpenClaw",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771920641,
+    "tags": [
+      "Productivity",
+      "Security",
+      "Enterprise",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carson",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/carson.json"
   },
   {
     "id": 31151,

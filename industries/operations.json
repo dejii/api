@@ -3087,11 +3087,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1642140655,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Productivity",
-      "SMB"
+      "SMB",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4080,14 +4080,14 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Elyos AI is a fully autonomous AI Agent, built specifically for trades and field services businesses.",
     "one_liner": "AI Customer Service Agents for trades and field services",
-    "team_size": 7,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1688401921,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4285,13 +4285,15 @@
   },
   {
     "id": 29283,
-    "name": "Assembly",
-    "slug": "assembly-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e776eb370bd36ebbc8087ded38ebcb435bf3d4c4.png",
-    "website": "https://www.askassembly.app/",
+    "name": "Wavelength",
+    "slug": "wavelength",
+    "former_names": [
+      "Assembly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db2155f0e58d43be7fbf11024f78067345664004.png",
+    "website": "https://wavelength.cx/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Assembly is a customer experience platform that turns customer feedback into product growth and support requests into long-lasting relationships. ",
+    "long_description": "The AI-native Customer Intelligence Platform purpose built for post sales teams.\r\nWavelength brings your entire customer data stack into one place - with powerful AI agents that uncover important signals and act instantly",
     "one_liner": "Build Magical Customer Experiences",
     "team_size": 3,
     "industry": "B2B",
@@ -4322,8 +4324,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/assembly-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/assembly-2.json"
+    "url": "https://www.ycombinator.com/companies/wavelength",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/wavelength.json"
   },
   {
     "id": 29357,
@@ -4783,7 +4785,7 @@
     "website": "https://parahelp.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Set up Parahelp in just 1 day without engineers to resolve your complex support tickets end-to-end. It connects with your existing ticketing system (such as Zendesk, Intercom, Front), tools (like Stripe, Slack, Linear), knowledge, and procedures.",
-    "one_liner": "The AI support agent that manages itself",
+    "one_liner": "The AI agent that resolves complex support tickets, effortlessly",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -4903,51 +4905,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/intryc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/intryc.json"
-  },
-  {
-    "id": 29785,
-    "name": "Simple AI",
-    "slug": "simple-ai",
-    "former_names": [
-      "TBD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdc2c60d479b7ebde0f22e07c40db2956ad5ff6c.png",
-    "website": "https://www.usesimple.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simple AI makes it easy to build and deploy enterprise-grade phone agents in days, not weeks. Iconic businesses use us for sales calls, customer support, leads qualification, and more.",
-    "one_liner": "AI phone agents for enterprise",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1723575608,
-    "tags": [
-      "Artificial Intelligence",
-      "Call Center",
-      "Operations",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simple-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simple-ai.json"
   },
   {
     "id": 29822,
@@ -5116,8 +5073,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc1d327c6dd1df139ea6177767194e0a1289d32b.png",
     "website": "https://www.getdexter.co/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "AI procurement agents built for European enterprises. Automate intake, sourcing, contracts, due diligence, and 3-way match.",
-    "one_liner": "AI-powered Source-to-Pay",
+    "long_description": "AI procurement agents built for European enterprises. Automate intake, supplier onboarding, contracts, order tracking, and 4-way match.",
+    "one_liner": "AI-powered Procure-to-Pay",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -5364,6 +5321,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/atlog.json"
   },
   {
+    "id": 30338,
+    "name": "CopyCat",
+    "slug": "copycat",
+    "former_names": [
+      "Platter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
+    "website": "https://runcopycat.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CopyCat analyzes your manual processes and builds custom AI automations to execute them. We use browser agents, reverse engineered APIs, document processing, and more, to go beyond traditional RPA and do the heavy lifting for you.",
+    "one_liner": "AI-Powered Automation to Transform Your Back Office",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1734580429,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Logistics",
+      "Healthcare",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copycat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
+  },
+  {
     "id": 30406,
     "name": "BitBoard",
     "slug": "bitboard",
@@ -5498,49 +5500,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
   },
   {
-    "id": 30630,
-    "name": "Lark",
-    "slug": "lark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d081c0c274bbf68a2b6814e7891694bfd2e2c515.png",
-    "website": "https://uselark.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark is a modern billing platform with the flexibility to support any pricing model (flat-fee, credit-based, usage-based, hybrid, dimensional, outcome-based, etc.) at any scale. \r\nWhether you're building an AI powered API service or a B2B SaaS product, Lark provides the tools you need to implement complex billing logic without the hassle. Jack and Vijit previously built a usage-based billing system for a large billing provider.",
-    "one_liner": "Billing for modern pricing models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1755281037,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Subscriptions"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lark",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
-  },
-  {
     "id": 30663,
     "name": "Tesora",
     "slug": "tesora",
@@ -5549,18 +5508,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
     "website": "https://tesora.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Tesora builds AI-Native Software for Operations and Finance Teams at enterprises, manufacturers, distributors, small and mid-market businesses.",
     "one_liner": "AI-Native Software for Operations and Finance Teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1755571936,
-    "tags": [
-      "B2B",
-      "Supply Chain",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5572,8 +5527,7 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5637,7 +5591,7 @@
     "all_locations": "",
     "long_description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
     "one_liner": "AI coworkers for fraud and risk teams.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1752778488,
@@ -5662,6 +5616,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/socratix-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/socratix-ai.json"
+  },
+  {
+    "id": 30765,
+    "name": "Pollen",
+    "slug": "pollen",
+    "former_names": [
+      "Daymi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
+    "website": "https://www.pollen.cx/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents for Customer Success",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1754592638,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Customer Success",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pollen",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
   },
   {
     "id": 30785,
@@ -5793,7 +5791,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://www.corvera.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) helps retail brands increase profits by 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s platform, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\n Visit www.corvera.ai to learn more and schedule a demo!",
+    "long_description": "Corvera (YC W26) is the last ops hire CPG brands will ever make. We help retail brands increase profits by 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
     "one_liner": "Fully autonomous operations for CPG brands",
     "team_size": 4,
     "industry": "B2B",
@@ -5801,10 +5799,10 @@
     "launched_at": 1763141207,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5868,5 +5866,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eigenpal",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/eigenpal.json"
+  },
+  {
+    "id": 31269,
+    "name": "MochaCare",
+    "slug": "mochacare",
+    "former_names": [
+      "HelpingHome"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
+    "website": "https://www.mochacare.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "MochaCare is an AI-powered, human-in-the-loop scheduling and hiring service for home care agencies. We give agencies their time back and turn their operations data into growth.",
+    "one_liner": "AI-powered scheduling and hiring service for home care agencies.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1771654500,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Home Services",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mochacare",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
   }
 ]

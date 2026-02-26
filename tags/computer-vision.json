@@ -696,8 +696,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b363a44bfe1278786c4092bd157ce82f208e1a21.png",
     "website": "https://www.veryfi.com/",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "Veryfi's cutting-edge multimodal AI transforms documents into structured data with unparalleled accuracy, bulletproof privacy, and lightning-fast speed. Experience the power of data extraction, fraud detection & product intelligence.\r\n\r\nVeryfi gives you a fully integrated suite of data transformation products for you to securely capture, extract and transform bills, receipts and any other documents into structured data for use in your app, website or backoffice. To learn more https://www.veryfi.com/",
-    "one_liner": "APIs to Transform Documents into Structured Data",
+    "long_description": "Enterprise-grade document extraction and fraud detection — deploy in minutes via mobile SDKs or APIs. No ML expertise required.\r\n\r\nTurn receipts, invoices, checks and bank statements into automated expense tracking, instant payments, and fraud-protected transactions. Explore our Multi-Modal APIs: https://www.veryfi.com/apis/",
+    "one_liner": "Document AI. One API Call.",
     "team_size": 70,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -705,6 +705,7 @@
     "tags": [
       "Artificial Intelligence",
       "Computer Vision",
+      "Finance",
       "API",
       "AI"
     ],
@@ -2079,7 +2080,7 @@
       "Scanbase",
       "Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9177f461ffabba1796fab772ec9f376ad91bf4e.png",
     "website": "https://www.scanbase.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Scanbase makes it easy for medical companies to convert photos of rapid diagnostic tests into results. We do this by providing a simple API that any medical company can access.\r\n",
@@ -2089,11 +2090,11 @@
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1670991822,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Health Tech",
-      "Telemedicine"
+      "Telemedicine",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2642,6 +2643,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/digitalcarbon.json"
   },
   {
+    "id": 29682,
+    "name": "RunLocal AI",
+    "slug": "runlocal-ai",
+    "former_names": [
+      "Neuralize",
+      "RunLocal"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
+    "website": "https://runlocal.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "RunLocal helps engineering teams ship better on-device AI in their application, faster, with more confidence and less hassle.\r\n",
+    "one_liner": "The On-Device AI Development Platform ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722617907,
+    "tags": [
+      "Developer Tools",
+      "Computer Vision",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runlocal-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/runlocal-ai.json"
+  },
+  {
     "id": 29819,
     "name": "Weel",
     "slug": "weel",
@@ -3116,18 +3162,16 @@
     "former_names": [
       "Remnant Robotics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54d1482241918ee48c1c994945fd8c443280d29b.png",
     "website": "https://efference.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Efference builds the eyes and visual cortex for robots. Instead of treating depth as a hardware problem, we use software — inspired by how humans see — to generate rich and reliable 3D information. This lets us deliver higher performance and greater ease of use at a lower price than existing stereo cameras.",
-    "one_liner": "We build the eyes and visual cortex for robots.",
+    "long_description": "",
+    "one_liner": "",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762259214,
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
       "Robotics",
       "Computer Vision"
     ],
@@ -3163,15 +3207,15 @@
     "all_locations": "",
     "long_description": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders.\r\n\r\n⚙️ Automates QA/QC across mechanical, electrical, structural and more\r\n🧩 Used by multi-disciplinary design firms to deliver projects faster with less risk\r\n🚀 Mission: Free engineers to focus on creative design, not repetitive admin",
     "one_liner": "AI workforce for Construction Engineering",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1759212406,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "Construction",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3337,16 +3381,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png",
     "website": "https://www.lexius.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn existing store security cameras into an AI system that catches shoplifting in real time and alerts staff before thieves leave.",
-    "one_liner": "AI Crime Detection",
+    "long_description": "Lexius turns any retail security camera into an AI security guard that detects shoplifting, identifies repeated and organized crime, and automates case generation with video evidence.\r\n\r\nLexius is the AI layer for existing security cameras. No rip and replace. No new hardware. No expensive upgrades.\r\n\r\nThink of it as a security guard that never misses a moment.",
+    "one_liner": "AI Security Guards",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B -> Security",
     "launched_at": 1766833804,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Computer Vision"
+      "Computer Vision",
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3356,7 +3402,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Retail"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -3375,9 +3421,9 @@
     "name": "OctaPulse",
     "slug": "octapulse",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23da3a492d96b19d0437b960a02a4a3614f0c79c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e0172397f4c3479d08f16556c96343e2d1c9b1.png",
     "website": "https://www.tryoctapulse.com/",
-    "all_locations": "Remote",
+    "all_locations": "",
     "long_description": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry.\r\n\r\nAquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle.\r\n\r\n We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.\r\n",
     "one_liner": "Robotics and computer vision to automate fish farming from hatchery…",
     "team_size": 2,
@@ -3402,7 +3448,7 @@
     ],
     "regions": [
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3457,6 +3503,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
   },
   {
+    "id": 31171,
+    "name": "Overshoot",
+    "slug": "overshoot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cabbe8c8fd17d316132f3dc3a13e469c74ebb408.png",
+    "website": "https://overshoot.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Overshoot makes it easy for developers to build and run real-time vision applications.\r\n\r\nAI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. \r\n\r\nHowever, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. \r\n\r\nOvershoot solves this.\r\n\r\nToday, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. \r\n\r\nOur moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines.\r\n\r\nYounes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
+    "one_liner": "Enable developers to build and run AI vision applications",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770705031,
+    "tags": [
+      "Computer Vision",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overshoot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/overshoot.json"
+  },
+  {
     "id": 31283,
     "name": "Librar Labs",
     "slug": "librar-labs",
@@ -3466,8 +3552,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
     "website": "https://www.librarlabs.com",
     "all_locations": "",
-    "long_description": "AI for librarians. Librar speed up the manual & boring work, so librarians can build reading culture and community.\r\n\r\nThe worlds first AI-librarian.\r\n\r\n",
-    "one_liner": "Intelligence for physical knowledge starting with libraries. Worlds…",
+    "long_description": "At Librar Labs we are building the next generation of intelligence layer for the physical world.\r\n\r\nOur first commercial product Librar makes it easy to set up and manage a library with or without a librarian.\r\n\r\nFastest growing library tech company in the world.",
+    "one_liner": "The next generation of the intelligence layer for the physical world",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3490,7 +3576,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
