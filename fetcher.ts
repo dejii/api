@@ -1,7 +1,7 @@
 import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 
-const indexName = "YCCompany_By_Launch_Date_production";
+const indexName = "YCCompany_production";
 interface LaunchedCompany {
   id: number;
   name: string;
