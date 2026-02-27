@@ -46883,16 +46883,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
     "website": "https://rimba.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rimba is building an AI-powered platform to help industrial and energy companies stay compliant with environmental regulations.\r\n\r\nLegacy systems can’t keep up with today’s complex compliance needs. Rimba offers a platform that integrates data from various software systems—like ERPs, SCADA, Sharepoint—to monitor, report, and verify emissions and other environmental data. Rimba has the capability to parse through PDFs and time-series data at scale while having an AI that continuously learns and predicts outcomes.",
-    "one_liner": "AI to replace manual work in environmental compliance reporting",
+    "long_description": "Rimba integrates fragmented data — PDFs, Excel files, time-series, IoT sensors, equipment telemetry, and system performance data — to complete a workflow, such as populating a database, running analytics, and creating a report. \r\n\r\nOur software streamlines the entire journey from data capture to report creation for the physical world, starting with heavy industries such as renewables, oil & gas, supply chain, and chemicals. \r\n\r\nLegacy systems don't communicate, and critical operational data remains siloed. Rimba bridges that gap by connecting data from fragmented systems and structures — ERPs, SCADA, SharePoint, email, and more — to automate workflows, classify inputs, transform data, and improve data monitoring.",
+    "one_liner": "Streamlining Data Capture to Report Creation for Heavy Industries",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1744344066,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47257,49 +47257,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeroeval",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/zeroeval.json"
-  },
-  {
-    "id": 30646,
-    "name": "Qualify.bot",
-    "slug": "qualify-bot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ceffd4f572173f3b351bfe31078aa9baee60955e.png",
-    "website": "https://www.qualify.bot/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Qualify.bot helps commercial lenders and loan brokers process business loan applications with 4x higher conversion rates. Our AI voice calls eliminates 8+ hours of manual work per loan, from lead qualification to document collection & follow-ups.",
-    "one_liner": "AI phone agents for Commercial Lending ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1753843448,
-    "tags": [
-      "Fintech",
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/qualify-bot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/qualify-bot.json"
   },
   {
     "id": 30648,

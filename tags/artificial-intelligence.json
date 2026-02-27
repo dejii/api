@@ -20837,6 +20837,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/radmate-ai.json"
   },
   {
+    "id": 29196,
+    "name": "Scritch",
+    "slug": "scritch",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1417e27622750e5a7c5f574c3d27db4ba86723ae.png",
+    "website": "https://www.scritchai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Scritch is building the leading AI systems for veterinary medicine, starting with voice agents that automate front-desk operations in veterinary practices.",
+    "one_liner": "AI operating system for veterinary care",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1707453846,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer Health Services",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scritch",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/scritch.json"
+  },
+  {
     "id": 29205,
     "name": "ego",
     "slug": "ego",
@@ -33156,49 +33198,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
   },
   {
-    "id": 30530,
-    "name": "Rimba",
-    "slug": "rimba",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
-    "website": "https://rimba.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rimba is building an AI-powered platform to help industrial and energy companies stay compliant with environmental regulations.\r\n\r\nLegacy systems can’t keep up with today’s complex compliance needs. Rimba offers a platform that integrates data from various software systems—like ERPs, SCADA, Sharepoint—to monitor, report, and verify emissions and other environmental data. Rimba has the capability to parse through PDFs and time-series data at scale while having an AI that continuously learns and predicts outcomes.",
-    "one_liner": "AI to replace manual work in environmental compliance reporting",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1744344066,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rimba",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
-  },
-  {
     "id": 30531,
     "name": "Moby Analytics",
     "slug": "moby-analytics",
@@ -39936,49 +39935,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bubble-lab",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
-  },
-  {
-    "id": 31217,
-    "name": "Polymath",
-    "slug": "polymath",
-    "former_names": [
-      "Palette AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
-    "website": "https://polymathlabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is building world generation models and systems to automate the creation of reinforcement learning environments.\r\n\r\nAs the demand for AI shifts from question-answering to autonomous agents that can operate over long horizons, models must be trained in environments that reflect the real world. Today, RL environment generation is bottlenecked by human labor. Companies hire contractors to hand-build artifacts one-by-one. This approach is expensive and doesn’t scale. Moreover, human data alone will never lead to superintelligence.\r\n\r\nWe’re building the core technology to enable automated environment generation using far less human effort than traditionally required, and eventually none. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nOur end goal is to create realistic, long-horizon environments from a text description alone. This will enable the creation of worlds of arbitrary complexity and scale, which is foundational for training & evaluating autonomous, superintelligent AI agents.\r\n\r\nWe’re a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large-scale data systems.",
-    "one_liner": "Automating RL environment generation",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769103780,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polymath",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymath.json"
   },
   {
     "id": 31219,

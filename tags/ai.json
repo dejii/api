@@ -17677,48 +17677,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/event-horizon-labs.json"
   },
   {
-    "id": 29196,
-    "name": "Scritch",
-    "slug": "scritch",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1417e27622750e5a7c5f574c3d27db4ba86723ae.png",
-    "website": "https://www.scritchai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scritch is building the leading AI systems for veterinary medicine, starting with voice agents that automate front-desk operations in veterinary practices.",
-    "one_liner": "AI operating system for veterinary care",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1707453846,
-    "tags": [
-      "Consumer Health Services",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scritch",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/scritch.json"
-  },
-  {
     "id": 29201,
     "name": "Legora (formerly Leya)",
     "slug": "legora",
@@ -29066,6 +29024,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/adentris.json"
   },
   {
+    "id": 30530,
+    "name": "Rimba",
+    "slug": "rimba",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
+    "website": "https://rimba.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rimba integrates fragmented data — PDFs, Excel files, time-series, IoT sensors, equipment telemetry, and system performance data — to complete a workflow, such as populating a database, running analytics, and creating a report. \r\n\r\nOur software streamlines the entire journey from data capture to report creation for the physical world, starting with heavy industries such as renewables, oil & gas, supply chain, and chemicals. \r\n\r\nLegacy systems don't communicate, and critical operational data remains siloed. Rimba bridges that gap by connecting data from fragmented systems and structures — ERPs, SCADA, SharePoint, email, and more — to automate workflows, classify inputs, transform data, and improve data monitoring.",
+    "one_liner": "Streamlining Data Capture to Report Creation for Heavy Industries",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1744344066,
+    "tags": [
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rimba",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
+  },
+  {
     "id": 30532,
     "name": "Nimbic AI",
     "slug": "nimbic-ai",
@@ -34683,9 +34684,10 @@
     "subindustry": "B2B",
     "launched_at": 1769103780,
     "tags": [
-      "Artificial Intelligence",
+      "Reinforcement Learning",
       "B2B",
       "Big Data",
+      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
