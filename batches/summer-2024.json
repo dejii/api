@@ -3237,8 +3237,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
     "website": "https://runlocal.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "RunLocal helps engineering teams ship better on-device AI in their application, faster, with more confidence and less hassle.\r\n",
-    "one_liner": "The On-Device AI Development Platform ",
+    "long_description": "RunLocal is the first AI-native platform for optimizing ML model inference on edge hardware (like Nvidia Orin and Qualcomm)\r\n\r\nOur AI agent automates on-device model performance debugging and optimization. Our web platform replaces brittle validation scripts and manual experiment tracking.\r\n\r\nWith RunLocal, you deploy more capable/efficient models on your target hardware with a fraction of the engineering effort.\r\n\r\nWe’re working with market-leaders in autonomous vehicles, robotics, drones and smart cameras. We're backed by investors like Y Combinator and 468 Capital.",
+    "one_liner": "The first AI agent for optimizing ML model inference on edge hardware",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3970,12 +3970,13 @@
   },
   {
     "id": 29703,
-    "name": "dmodel",
-    "slug": "dmodel",
+    "name": "d_model",
+    "slug": "d_model",
     "former_names": [
       "ChipChap",
       "DAS Intelligence",
-      "d-model"
+      "d-model",
+      "dmodel"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
     "website": "https://www.dmodel.ai",
@@ -4005,8 +4006,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dmodel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/dmodel.json"
+    "url": "https://www.ycombinator.com/companies/d_model",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/d_model.json"
   },
   {
     "id": 29704,
@@ -10393,16 +10394,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes more than $1B in medical claim charges annually.\r\n",
+    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
     "one_liner": "AI chart review for speciality medical clinics.",
     "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
-      "Artificial Intelligence",
       "Healthcare IT",
-      "Billing"
+      "Billing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

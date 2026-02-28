@@ -8637,7 +8637,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16867,19 +16867,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec22cfec2eb1602e4ae48a85862a05e4be149771.png",
     "website": "https://www.ncompass.tech",
-    "all_locations": "Remote",
-    "long_description": "nCompass is a platform for acceleration and hosting of open-source and custom AI models. We provide low-latency AI deployment without rate-limiting you. All with just one line of code.",
-    "one_liner": "Deploy hardware accelerated AI models with only one line of code",
-    "team_size": 2,
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Identifying performance bottlenecks and strategizing ways to solve them takes 4-8x longer than actually writing the code to fix them. We're building an agent that is an expert at analyzing the performance GPU systems like inference engines at all levels of the stack - from CPU-GPU interactions down to GPU kernels. \r\n\r\nPairing our agent with Cursor / Claude Code allows you to automate both the reasoning and code implementation steps of performance optimization. What used to take weeks can now be done in days. \r\n\r\nAlong with our AI agent, we have features such as running diffs on system traces as well as sharing and collaboration features that make our VSCode extension the most powerful way to work on performance optimization. ",
+    "one_liner": "Optimize performance on GPUs - 10x faster",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1708296726,
     "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
       "Hardware",
-      "Open Source",
-      "API",
-      "Cloud Computing",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16892,6 +16891,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -19147,8 +19148,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
     "website": "https://runlocal.ai",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "RunLocal helps engineering teams ship better on-device AI in their application, faster, with more confidence and less hassle.\r\n",
-    "one_liner": "The On-Device AI Development Platform ",
+    "long_description": "RunLocal is the first AI-native platform for optimizing ML model inference on edge hardware (like Nvidia Orin and Qualcomm)\r\n\r\nOur AI agent automates on-device model performance debugging and optimization. Our web platform replaces brittle validation scripts and manual experiment tracking.\r\n\r\nWith RunLocal, you deploy more capable/efficient models on your target hardware with a fraction of the engineering effort.\r\n\r\nWe’re working with market-leaders in autonomous vehicles, robotics, drones and smart cameras. We're backed by investors like Y Combinator and 468 Capital.",
+    "one_liner": "The first AI agent for optimizing ML model inference on edge hardware",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -19229,12 +19230,13 @@
   },
   {
     "id": 29703,
-    "name": "dmodel",
-    "slug": "dmodel",
+    "name": "d_model",
+    "slug": "d_model",
     "former_names": [
       "ChipChap",
       "DAS Intelligence",
-      "d-model"
+      "d-model",
+      "dmodel"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
     "website": "https://www.dmodel.ai",
@@ -19264,8 +19266,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dmodel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/dmodel.json"
+    "url": "https://www.ycombinator.com/companies/d_model",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/d_model.json"
   },
   {
     "id": 29708,

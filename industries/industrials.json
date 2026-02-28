@@ -3894,7 +3894,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -12998,6 +12998,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
   },
   {
+    "id": 30542,
+    "name": "LineWise",
+    "slug": "linewise",
+    "former_names": [
+      "Comply Genie",
+      "Vision Nexus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
+    "website": "https://www.linewise.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "LineWise captures expert knowledge from videos and deliver AI-guided training on the floor.",
+    "one_liner": "Closing the Frontline Skills Gap with AI",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1743036496,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/linewise",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
+  },
+  {
     "id": 30556,
     "name": "Cascade Space",
     "slug": "cascade-space",
@@ -13584,7 +13629,7 @@
     "all_locations": "Detroit, MI, USA",
     "long_description": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
     "one_liner": "Supplying America's Industrial Base",
-    "team_size": 8,
+    "team_size": 11,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1751751667,
@@ -14041,7 +14086,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith fewer than 1000 pads, we can service the entire U.S. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nAfter power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -14277,47 +14322,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kyten-technologies",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/kyten-technologies.json"
-  },
-  {
-    "id": 31129,
-    "name": "Verdex",
-    "slug": "verdex",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
-    "website": "https://www.verdexai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Verdex is building the infrastructure to modernize agricultural risk. We fuse high-resolution satellite imagery and weather models to monitor fields 24/7, allowing insurers to settle claims without ever leaving their desks. We are currently helping to insure over 11% of all American farmland.\r\n",
-    "one_liner": "Helping insurers settle claims without leaving their desks.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Agriculture",
-    "launched_at": 1768239774,
-    "tags": [
-      "Insurance",
-      "Agriculture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Agriculture"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/verdex",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/verdex.json"
   },
   {
     "id": 31135,

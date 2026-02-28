@@ -559,6 +559,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2011/mino-games.json"
   },
   {
+    "id": 168,
+    "name": "GOAT Group",
+    "slug": "goat-group",
+    "former_names": [
+      "Airgoat",
+      "was Superb",
+      "was Grub With Us",
+      "GOAT"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f3a455935f36a6655742aae286b206df1cd13bd.png",
+    "website": "https://www.goatgroup.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "GOAT Group represents the leading platforms for authentic sneakers, apparel and accessories. Operating four distinct brands–GOAT, Flight Club, Grailed and alias–GOAT Group has a global community of over 50M members across 170 countries.\r\n\r\nWe are backed by some of the leading names in venture capital including Accel Partners, Andreessen Horowitz, Index Ventures, Matrix Partners, NEA, SV Angel, Upfront Ventures, Webb Investment Network and Y Combinator.",
+    "one_liner": "Platform for the greatest products from the past, present and future.",
+    "team_size": 1600,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Apparel and Cosmetics",
+    "launched_at": 1326789988,
+    "tags": [
+      "Marketplace"
+    ],
+    "tags_highlighted": [],
+    "top_company": true,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2011",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Apparel and Cosmetics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/goat-group",
+    "api": "https://yc-oss.github.io/api/batches/winter-2011/goat-group.json"
+  },
+  {
     "id": 240,
     "name": "Stripe",
     "slug": "stripe",
@@ -8267,6 +8313,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/pocket-worlds.json"
   },
   {
+    "id": 1950,
+    "name": "Corvus Robotics",
+    "slug": "corvus-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a834aa68231adfb62bba1347854fb4089ce584f5.png",
+    "website": "https://www.corvus-robotics.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Our software allows drones to fly indoors and collect analytics, helping warehouses automate inventory tracking.",
+    "one_liner": "Autonomous drones to help warehouses scan inventory.",
+    "team_size": 30,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1525226777,
+    "tags": [
+      "Warehouse Management Tech",
+      "Robotics",
+      "Drones",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corvus-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/corvus-robotics.json"
+  },
+  {
     "id": 1953,
     "name": "Duffel",
     "slug": "duffel",
@@ -8308,6 +8399,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/duffel",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/duffel.json"
+  },
+  {
+    "id": 1956,
+    "name": "Regology",
+    "slug": "regology",
+    "former_names": [
+      "Regology",
+      "Regology",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4e59148374543e5853a9de0a3bbd86ccab2246e.png",
+    "website": "http://regology.com",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Regology is an AI-powered regulatory intelligence platform that enables compliance, legal, risk, and operations teams to navigate complex regulatory environments across U.S. Federal, all 50 states, and global jurisdictions. At its core, the Smart Law Library™ provides a curated, continuously updated repository of applicable laws and regulations. Three specialized AI agents drive the platform: the Regulatory Change Agent tracks and alerts on jurisdiction-specific developments; the Compliance Agent maps changes to policies, controls, and risks; and the Regulatory Research Agent delivers plain-language summaries, multi-jurisdictional comparisons, and actionable insights—helping teams anticipate change, mitigate risk, and act decisively in fast-evolving regulatory landscapes.",
+    "one_liner": "AI Agents for Regulatory Compliance",
+    "team_size": 60,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1525230401,
+    "tags": [
+      "Legal",
+      "LegalTech",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/regology",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/regology.json"
   },
   {
     "id": 1957,
@@ -10981,53 +11120,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vouch.json"
   },
   {
-    "id": 12525,
-    "name": "Dex",
-    "slug": "dex",
-    "former_names": [
-      "Dana",
-      "Dex",
-      "Dex (was Dana)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ee93cea377a5b2116981214a65b65763a20f92d.png",
-    "website": "https://getdex.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Dex is a personal CRM that reminds you to keep in touch with the people you would otherwise forget.\r\n\r\nDex helps turn your acquaintances into your allies.  Going beyond the superficiality of social networks requires commitment.  If you remember to keep in touch thoughtfully, you can turn the interesting person you met at a networking event into a friend that has your back.  \r\n\r\nI built Dex after failing to keep up with the tools I tried (Airtable, Notion, etc) for relationship management. Installing an actual CRM like Hubspot felt like a wrong fit for my informal relationships -- these people were 'my team,' not customers.\r\n\r\nDex is a lightweight personal CRM that’s easy to stick with. Key to Dex is a Chrome extension that enables you to manage relationships while you’re in Facebook, Messenger, Twitter, and the social apps you already use. Dex can also send you actionable reminders (daily, or based on your calendar events) to log your interactions for next time. By using Dex, you can:\r\n\r\n- Build stronger relationships, by sending you a nudge to follow-up.\r\n- Be more thoughtful, by helping you remember where you left off.\r\n- Become a superconnector, by making connections you wouldn’t otherwise remember.\r\n",
-    "one_liner": "Dex is a personal CRM that reminds you to keep in touch with the…",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
-    "launched_at": 1555983373,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "CRM"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Home and Personal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dex",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/dex.json"
-  },
-  {
     "id": 12532,
     "name": "Apero Health",
     "slug": "apero-health",
@@ -13068,51 +13160,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/benepass",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/benepass.json"
-  },
-  {
-    "id": 13179,
-    "name": "Signadot",
-    "slug": "signadot",
-    "former_names": [
-      "blipbox",
-      "signadot"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/768c0b0d1a92b7adab11c2cc4c95cefa19ffdf27.png",
-    "website": "https://www.signadot.com/",
-    "all_locations": "San Mateo, CA, USA; Remote",
-    "long_description": "Signadot is a Kubernetes-native platform that accelerates the development of microservices based applications. Using Signadot developers test and preview their code changes early in the development lifecycle and iterate 10x faster.",
-    "one_liner": "Shift Left Testing for Microservices",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1614132625,
-    "tags": [
-      "Developer Tools",
-      "Kubernetes"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/signadot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/signadot.json"
   },
   {
     "id": 13208,
@@ -15362,7 +15409,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBest MDM: https://cybersecuritynews.com/best-linux-mobile-device-management-software-in-2026/\r\n\r\nIntro:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBest MDM: https://cybersecuritynews.com/best-linux-mobile-device-management-software-in-2026/\r\nBest Linux MDM: https://linuxsecurity.com/news/desktop-security/linux-device-management\r\n\r\nIntro:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
     "one_liner": "The guardrail for AI on every device",
     "team_size": 20,
     "industry": "B2B",
@@ -18532,7 +18579,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20617,47 +20664,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rethoric",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/rethoric.json"
-  },
-  {
-    "id": 23429,
-    "name": "UPchieve",
-    "slug": "upchieve",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb3330791457fb73115f10b2b4141634154715a6.png",
-    "website": "https://www.upchieve.org",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "UPchieve is an edtech nonprofit that provides free, 24/7 online tutoring to low-income HS students. Using our app, students can request and get paired with a live volunteer in under 5 minutes. We’ve matched 100,000+ requests so far.\r\n\r\nRight now in the US, there are 8 million low-income HS students who don’t have anyone in their home who can help them with schoolwork. UPchieve is working to change that. Our vision is simple: we want to democratize access to academic support, so that every student has an equal opportunity to attend college and achieve upward mobility.",
-    "one_liner": "Connecting low-income HS students with free, 24/7 online tutoring",
-    "team_size": 15,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1613154543,
-    "tags": [
-      "Education",
-      "Nonprofit"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": true,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upchieve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/upchieve.json"
   },
   {
     "id": 23440,
@@ -26827,6 +26833,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/kaso.json"
   },
   {
+    "id": 25447,
+    "name": "Myria",
+    "slug": "myria",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ead23204732cf71066d05d95b633fe5109de70e7.png",
+    "website": "https://myria.us",
+    "all_locations": "Los Angeles, CA, USA; Remote",
+    "long_description": "Myria is a private community and concierge for off-market goods & services — the things you can't Google. \r\n\r\nUltra-high net worth individuals spend $390 billion per year ($1.3 million each) on lifestyle, but they still struggle to find everything they want. Why?\r\n\r\nBecause the best of any category — homes, boats, restaurant reservations — the best stuff is never listed online. Likewise, the best people don’t need the internet to find a new client or job. \r\n\r\nThe best is always off-market.  Myria is the Off-Marketplace. \r\n\r\nMyria helps off-market sellers reach the nicest and wealthiest buyers. In turn, we help the world’s most successful people access the best of everything, give back, and get the most out of life. \r\n\r\nIf it’s off-market, it’s on Myria! ",
+    "one_liner": "A marketplace of luxury services for the ultra-wealthy",
+    "team_size": 7,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1647814152,
+    "tags": [
+      "Marketplace",
+      "Consumer",
+      "Community"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/myria",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/myria.json"
+  },
+  {
     "id": 25476,
     "name": "Shuttle Central",
     "slug": "shuttle-central",
@@ -30314,12 +30362,12 @@
     "former_names": [
       "StreamD"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f42f37fbf9cfcc260b859200cbb3a37baa67c05.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed1abcaa2a964bf97b774958baa4648406f9c9ca.png",
     "website": "https://givechariot.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Chariot is building financial products for nonprofits, starting with the first ever online payment system connecting Donor Advised Funds (DAFs) with nonprofits. DAF’s have $250 billion in assets and grant out over $52 billion per year to nonprofits. It’s the fastest growing segment of philanthropy, by far.\r\n\r\nChariot now powers seamless DAF giving for tens of thousands of nonprofits, including some of the most well-known nonprofits in the country, like Memorial Sloan Kettering Cancer Center, Central Park Conservancy, Boys & Girls Club of America, Pan-Mass Challenge, and March of Dimes. \r\n\r\nDAFpay is also now a primary payment option on leading fundraising platforms like GoFundMe, Givebutter, DonorDrive, Springboard by Jackson River, Engaging Networks, and dozens more. We are already driving tens of millions in new online DAF Giving by thousands of donors, and we’re only getting started.",
-    "one_liner": "A payment network connecting nonprofits to the $250B in DAFs",
-    "team_size": 18,
+    "long_description": "Chariot is building the financial infrastructure for the $326 billion donor-advised fund (DAF) market, the fastest-growing segment of philanthropy. Our gift processing platform is an end-to-end solution for managing DAF payments, making it easier for grantmakers to send grant payments and nonprofits to receive, reconcile, and enrich their donation data.\r\n\r\nChariot also powers DAFpay, the industry’s first integrated DAF payment option and a TIME’s Best Invention of 2025. It is embedded on over 100,000 nonprofits’ donation forms—including American Cancer Society, Memorial Sloan Kettering Cancer Center, and University of Pennsylvania—and is a primary payment option on leading fundraising platforms like GoFundMe and GiveButter.\r\n\r\nHundreds of millions are already moving through Chariot’s platform, and we’re just getting started.",
+    "one_liner": "A payment network connecting nonprofits to the $326B in DAFs",
+    "team_size": 24,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1656346176,
@@ -30344,7 +30392,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30482,6 +30530,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/cerrion.json"
   },
   {
+    "id": 26720,
+    "name": "TrueBiz",
+    "slug": "truebiz",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/744ba21703836aacf20f93a8ea2eaf05fdb4ad3f.png",
+    "website": "https://truebiz.io/",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "TrueBiz helps financial service providers reduce manual review during business onboarding.\r\n\r\nWe add color to the company's background with 250+ data points on the company from around the web (such as industry and address), and summarize key risk indicators.\r\n\r\nThe process takes seconds – not days, so financial service providers can efficiently meet risk requirements and onboard new businesses faster.",
+    "one_liner": "Instant Background Checks for Businesses",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1653081454,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Identity",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truebiz",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/truebiz.json"
+  },
+  {
     "id": 26741,
     "name": "Paragon AI",
     "slug": "paragon-ai",
@@ -30566,7 +30658,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35420,7 +35512,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41531,6 +41623,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/greptile",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/greptile.json"
+  },
+  {
+    "id": 29231,
+    "name": "Ubicloud",
+    "slug": "ubicloud",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/621ac44e76ec8f002f47c567b4533df1d318abcc.png",
+    "website": "https://www.ubicloud.com",
+    "all_locations": "",
+    "long_description": "Ubicloud is an open source cloud that can run anywhere.\r\n\r\nOur cloud services include elastic compute, block storage, virtual networking, managed Postgres, K8s, AI inference, and powerful IAM. Ubicloud provides these services on bare metal providers, such as Hetzner, Leaseweb, or AWS Bare Metal.\r\n\r\nYou can self-host our software or use our managed service to reduce your cloud costs by 3-10x.",
+    "one_liner": "Open source alternative to AWS",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1700481295,
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ubicloud",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/ubicloud.json"
   },
   {
     "id": 29238,
@@ -50106,16 +50240,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes more than $1B in medical claim charges annually.\r\n",
+    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
     "one_liner": "AI chart review for speciality medical clinics.",
     "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
-      "Artificial Intelligence",
       "Healthcare IT",
-      "Billing"
+      "Billing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50851,6 +50985,42 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
+    "id": 30062,
+    "name": "Karmen",
+    "slug": "karmen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa668d5cbf2cf7fdadb1d8847e54392cbd356305.png",
+    "website": "https://www.karmenai.com",
+    "all_locations": "",
+    "long_description": "Karmen is an AI scheduling assistant for construction. Karmen builds your baseline schedules from project documents, and updates them as your project evolves, saving you time and potential delays.\r\n\r\n",
+    "one_liner": "Your AI scheduling assistant for construction",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1731024115,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/karmen",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/karmen.json"
+  },
+  {
     "id": 30066,
     "name": "Unusual",
     "slug": "unusual",
@@ -51054,6 +51224,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/curo",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/curo.json"
+  },
+  {
+    "id": 30086,
+    "name": "Autumn",
+    "slug": "autumn",
+    "former_names": [
+      "Recase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
+    "website": "https://useautumn.com",
+    "all_locations": "",
+    "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
+    "one_liner": "Billing infrastructure for AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730430835,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autumn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/autumn.json"
   },
   {
     "id": 30089,
@@ -51463,46 +51670,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/careforce",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/careforce.json"
-  },
-  {
-    "id": 30125,
-    "name": "Synth",
-    "slug": "synth-3",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
-    "website": "https://www.usesynth.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Choose a coding agent harness, model, and task dataset and optimize context and prompts to get the best performance for long-horizon tasks",
-    "one_liner": "Prompt and Context Optimization for Coding Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1729021221,
-    "tags": [
-      "Reinforcement Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synth-3",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/synth-3.json"
   },
   {
     "id": 30129,
@@ -53513,8 +53680,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31bcea60ffb3d8a33af2866a492802486933e372.png",
     "website": "https://tryfuse.ai/",
     "all_locations": "",
-    "long_description": "We're building a new agentic operating system to enable startups to automate their entire outbound sales motion with vertical AI agents. You can think of the platform as a consolidation of every tool your sales reps would need to close customers. We enable you to run your entire sales deal cycle through a simple AI-powered interface - enrich B2B contacts, find high-intent leads, and engage with clients in seconds.",
-    "one_liner": "The only outbound sales software you will ever need. ",
+    "long_description": "FuseAI is the sales superintelligence platform for modern revenue teams.\r\n\r\nBuilt for high-performance outbound, FuseAI consolidates your entire GTM stack - data, enrichment, multi-channel automation, real-time buying signals, and AI-driven execution  into one seamless system.\r\n\r\nWith powerful integrations and intelligent workflows, FuseAI doesn’t just help you run campaigns. It turns every signal into pipeline, and every rep into a top performer.",
+    "one_liner": "The only sales software you will ever need. ",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -59091,7 +59258,7 @@
     "all_locations": "Detroit, MI, USA",
     "long_description": "Nox Metals is an AI-powered metals supplier powering modern American manufacturing at scale. We are building automated factories that turn raw metal into production-ready material faster, cheaper, and more reliably than legacy service centers.",
     "one_liner": "Supplying America's Industrial Base",
-    "team_size": 8,
+    "team_size": 11,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1751751667,

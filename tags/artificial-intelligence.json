@@ -7484,7 +7484,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10507,7 +10507,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21314,6 +21314,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/lumen-payments.json"
   },
   {
+    "id": 29266,
+    "name": "nCompass Technologies",
+    "slug": "ncompass-technologies",
+    "former_names": [
+      "nCompass"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec22cfec2eb1602e4ae48a85862a05e4be149771.png",
+    "website": "https://www.ncompass.tech",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Identifying performance bottlenecks and strategizing ways to solve them takes 4-8x longer than actually writing the code to fix them. We're building an agent that is an expert at analyzing the performance GPU systems like inference engines at all levels of the stack - from CPU-GPU interactions down to GPU kernels. \r\n\r\nPairing our agent with Cursor / Claude Code allows you to automate both the reasoning and code implementation steps of performance optimization. What used to take weeks can now be done in days. \r\n\r\nAlong with our AI agent, we have features such as running diffs on system traces as well as sharing and collaboration features that make our VSCode extension the most powerful way to work on performance optimization. ",
+    "one_liner": "Optimize performance on GPUs - 10x faster",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1708296726,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ncompass-technologies",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/ncompass-technologies.json"
+  },
+  {
     "id": 29275,
     "name": "Agentic Labs",
     "slug": "agentic-labs-2",
@@ -22135,53 +22181,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pandasai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/pandasai.json"
-  },
-  {
-    "id": 29347,
-    "name": "Vibrant Labs",
-    "slug": "vibrant-labs",
-    "former_names": [
-      "Exploding Gradients",
-      "Ragas"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b03fadf62fa443c473d34c31148c9785ea34dceb.png",
-    "website": "https://vibrantlabs.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ",
-    "one_liner": "RL environments for long horizon AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1709606147,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vibrant-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/vibrant-labs.json"
   },
   {
     "id": 29348,
@@ -28172,51 +28171,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
   },
   {
-    "id": 29987,
-    "name": "Syntra",
-    "slug": "syntra",
-    "former_names": [
-      "Lightning Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
-    "website": "https://www.syntra.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes more than $1B in medical claim charges annually.\r\n",
-    "one_liner": "AI chart review for speciality medical clinics.",
-    "team_size": 9,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1723733582,
-    "tags": [
-      "Artificial Intelligence",
-      "Healthcare IT",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntra",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
-  },
-  {
     "id": 29989,
     "name": "Conductor",
     "slug": "conductor",
@@ -28625,8 +28579,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage built for YC founders and venture-backed startups. We simplify the complex U.S. insurance landscape—D&O, Cyber, E&O, General Liability, and more—with digital transparency and plain-English policy breakdowns.\r\n\r\nNeed insurance for enterprise contracts? We provide multiple quotes from top-rated (AM Best A-rated) carriers, so you can meet vendor requirements and get certificates of insurance fast. Whether you're a Delaware C Corp getting your first policy, scaling a global team, or closing enterprise deals, we give you side-by-side comparisons, fair pricing benchmarks, and the right coverage—without overpaying or guesswork.",
-    "one_liner": "AI-native insurance firm for startups.",
+    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage built for venture-backed startups and small-to-medium businesses (SMBs). We simplify the complex U.S. insurance landscape—D&O, Cyber, E&O, General Liability, and more—with digital transparency and plain-English policy breakdowns.\r\n\r\nNeed insurance to close contracts? We provide multiple quotes from top-rated (AM Best A-rated) carriers, so you can meet vendor requirements and get certificates of insurance fast. Whether you're a Delaware C Corp getting your first policy, scaling a global team, or closing enterprise deals, we give you side-by-side comparisons, fair pricing benchmarks, and the right coverage—without overpaying or guesswork.",
+    "one_liner": "AI-native commercial insurance broker",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -32642,6 +32596,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/throxy",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/throxy.json"
+  },
+  {
+    "id": 30485,
+    "name": "Cleon",
+    "slug": "cleon",
+    "former_names": [
+      "DMV-EZ",
+      "cleon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f45e72de8a958a28fb7ae53a3b51322bb3d582a8.png",
+    "website": "https://getcleon.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "AI agents that understand your hotel brand's DNA, operational procedures, and the importance of guest experience across your properties. From the first touchpoint to post-checkout feedback, Cleon is built for the full arc of the guest journey, capturing signals that can be turned into actions. ",
+    "one_liner": "AI agents for hotels & resorts",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1748491833,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cleon",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cleon.json"
   },
   {
     "id": 30487,
@@ -38404,49 +38400,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
   },
   {
-    "id": 31092,
-    "name": "Axis",
-    "slug": "axis-2",
-    "former_names": [
-      "Sweep"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
-    "website": "https://axisanalysis.com",
-    "all_locations": "",
-    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trading desk to deploy models for monitoring strategies. \r\n\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. \r\n\r\nAxis is building an AI driven analytical layer for these markets.\r\n",
-    "one_liner": "An AI Trading System for Commodities Markets",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1769120993,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Analytics",
-      "Market Research",
-      "Trading"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/axis-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/axis-2.json"
-  },
-  {
     "id": 31094,
     "name": "Lexius",
     "slug": "lexius",
@@ -38579,6 +38532,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
   },
   {
+    "id": 31104,
+    "name": "Cofia",
+    "slug": "cofia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eaa13d214b16fc810b36ff373668440c966f1b5.png",
+    "website": "https://cofia.ai",
+    "all_locations": "",
+    "long_description": "We learn how you work, and proactively create tailor-made automations you can deploy without you ever writing a prompt or relying on X for automation inspo.",
+    "one_liner": "AI automations that write themselves",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772226189,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cofia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cofia.json"
+  },
+  {
     "id": 31108,
     "name": "Strand AI",
     "slug": "strand-ai",
@@ -38618,6 +38612,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/strand-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/strand-ai.json"
+  },
+  {
+    "id": 31112,
+    "name": "Burt",
+    "slug": "burt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
+    "website": "https://www.trainburt.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building for the people that keep the world moving. \r\n\r\nFreight brokers and forwarders operate on razor-thin margins in a relationship-driven business — yet most of their teams spend the majority of their day on manual, repetitive work.\r\n\r\nWe help freight brokers and forwarders build AI teammates that handle their repetitive, manual tasks so teams have time to focus on customers, carriers, and growing the business.",
+    "one_liner": "AI teammates for logistics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1766971540,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/burt",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
   },
   {
     "id": 31113,
@@ -38706,6 +38742,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tepali",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/tepali.json"
+  },
+  {
+    "id": 31129,
+    "name": "Verdex",
+    "slug": "verdex",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
+    "website": "https://www.verdexai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Verdex replaces manual inspections in insurance with real-time digital audits. We use high-resolution satellite imagery to help insurers verify and settle claims without ever leaving their desks, starting with crop insurance. We are currently helping to insure over 11% of all American farmland.\r\n",
+    "one_liner": "Satellite Imagery Verification for Insurance",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1768239774,
+    "tags": [
+      "Artificial Intelligence",
+      "Insurance",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verdex",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/verdex.json"
   },
   {
     "id": 31132,
@@ -38958,47 +39035,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eigenpal",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/eigenpal.json"
-  },
-  {
-    "id": 31152,
-    "name": "Ishiki Labs",
-    "slug": "ishiki-labs",
-    "former_names": [
-      "ProactiveAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "https://www.ishikilabs.ai/",
-    "all_locations": "",
-    "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
-    "one_liner": "Building the Future of Multimodal AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768297786,
-    "tags": [
-      "Artificial Intelligence",
-      "Deep Learning",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ishiki-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
   },
   {
     "id": 31153,

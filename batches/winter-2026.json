@@ -609,7 +609,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
     "website": "https://voltairlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nWith fewer than 1000 pads, we can service the entire U.S. After power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nAfter power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
     "one_liner": "Self Charging Drones",
     "team_size": 5,
     "industry": "Industrials",
@@ -1652,18 +1652,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
     "website": "https://axisanalysis.com",
     "all_locations": "",
-    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trading desk to deploy models for monitoring strategies. \r\n\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. \r\n\r\nAxis is building an AI driven analytical layer for these markets.\r\n",
+    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trading desk to deploy models for monitoring strategies. \r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. \r\nAxis is building an AI driven analytical layer for these markets.\r\n",
     "one_liner": "An AI Trading System for Commodities Markets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1769120993,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Analytics",
       "Market Research",
-      "Trading"
+      "Trading",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1992,6 +1992,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
   },
   {
+    "id": 31104,
+    "name": "Cofia",
+    "slug": "cofia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eaa13d214b16fc810b36ff373668440c966f1b5.png",
+    "website": "https://cofia.ai",
+    "all_locations": "",
+    "long_description": "We learn how you work, and proactively create tailor-made automations you can deploy without you ever writing a prompt or relying on X for automation inspo.",
+    "one_liner": "AI automations that write themselves",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772226189,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cofia",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cofia.json"
+  },
+  {
     "id": 31106,
     "name": "Protent",
     "slug": "protent",
@@ -2209,16 +2250,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
     "website": "https://www.trainburt.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help teams train and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models are impressive and have their place but at production scale and usage you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.\r\n\r\nWe've helped teams build small, specialized LLMs/VLMs that outperform SOTA models like gemini-3-flash/pro while being 10x faster and cheaper. ",
-    "one_liner": "Easily fine tune and deploy specialized models",
+    "long_description": "We're building for the people that keep the world moving. \r\n\r\nFreight brokers and forwarders operate on razor-thin margins in a relationship-driven business — yet most of their teams spend the majority of their day on manual, repetitive work.\r\n\r\nWe help freight brokers and forwarders build AI teammates that handle their repetitive, manual tasks so teams have time to focus on customers, carriers, and growing the business.",
+    "one_liner": "AI teammates for logistics",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1766971540,
     "tags": [
-      "Machine Learning",
-      "Reinforcement Learning",
-      "AI"
+      "Artificial Intelligence",
+      "B2B",
+      "Logistics",
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2227,7 +2269,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -2647,16 +2690,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
     "website": "https://www.verdexai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Verdex is building the infrastructure to modernize agricultural risk. We fuse high-resolution satellite imagery and weather models to monitor fields 24/7, allowing insurers to settle claims without ever leaving their desks. We are currently helping to insure over 11% of all American farmland.\r\n",
-    "one_liner": "Helping insurers settle claims without leaving their desks.",
+    "long_description": "Verdex replaces manual inspections in insurance with real-time digital audits. We use high-resolution satellite imagery to help insurers verify and settle claims without ever leaving their desks, starting with crop insurance. We are currently helping to insure over 11% of all American farmland.\r\n",
+    "one_liner": "Satellite Imagery Verification for Insurance",
     "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Agriculture",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "launched_at": 1768239774,
     "tags": [
+      "Artificial Intelligence",
       "Insurance",
-      "Agriculture",
-      "AI"
+      "Agriculture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2665,8 +2708,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Agriculture"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
       "United States of America",
@@ -3402,24 +3445,25 @@
   },
   {
     "id": 31152,
-    "name": "Ishiki Labs",
-    "slug": "ishiki-labs",
+    "name": "Fern (Formerly Ishiki Labs)",
+    "slug": "ishikilabs",
     "former_names": [
-      "ProactiveAI"
+      "ProactiveAI",
+      "Ishiki Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
     "website": "https://www.ishikilabs.ai/",
     "all_locations": "",
     "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
-    "one_liner": "Building the Future of Multimodal AI",
+    "one_liner": "Realtime AI starting with sales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3438,8 +3482,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ishiki-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
+    "url": "https://www.ycombinator.com/companies/ishikilabs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishikilabs.json"
   },
   {
     "id": 31153,
@@ -3649,6 +3693,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sponge",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sponge.json"
+  },
+  {
+    "id": 31160,
+    "name": "Mango Medical",
+    "slug": "mango-medical-inc",
+    "former_names": [
+      "Mango Medical Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84022beba7ccfa3668cb9f2f7cb672ffd0b53ebc.png",
+    "website": "https://mangomedical.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mango Medical builds agentic surgical planning AI for orthopedic surgery. We deliver surgeon-ready 3D plans in minutes instead of days. $10M ARR LOI from a top orthopedic company. Pursuing FDA 510(k) clearance. We're building a future where every surgery follows a personalized plan.",
+    "one_liner": "We simulate orthopedic surgeries based on CT scans",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1772177133,
+    "tags": [
+      "Robotic Surgery",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mango-medical-inc",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mango-medical-inc.json"
   },
   {
     "id": 31162,
@@ -4586,7 +4673,7 @@
     "name": "End Close",
     "slug": "end-close",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf9a301d6c80de3972ebd650a41ad29595cbd28.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/279a5e1db7ab902c4dc8461deba461bb63afecb4.png",
     "website": "https://endclose.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "End Close builds automatic reconciliation for payments companies like fintechs, marketplaces, banks and payroll companies. Reconciliation helps companies track every dollar and resolve every exception, ensuring they have no money loss, can report audit ready financials, and stay compliant.\r\n\r\nSean (CEO) spent the last 6 years building the reconciliation org at Modern Treasury (S18), processing a trillion dollars in payments across 40 banks with 99.995% automation. Fast growing companies like Modern Treasury are forced to build a solution in-house or buy a legacy solution. End Close provides a modern reconciliation system that works with a company's existing stack and is managed by AI agents.\r\n\r\nException handling is where 99% of the manual work happens today, payment ops teams spend hours gathering context across various data sources to investigate each ticket. End Close provides an AI ops agent that connects to a company's data warehouse, invoicing platform and payment processors to triage and resolve issues without human intervention.\r\n\r\nLegacy providers only provide reconciliation for month end close applications. End Close continuously reconciles with developer friendly APIs, allowing teams to integrate real time payments data within their products to create product experiences for customers like faster balance top-ups, instant trading etc. \r\n\r\nNew payment rails and agent-to-agent payments are increasing online transaction volumes, making reconciliation a growing challenge for companies. David (CTO and 2nd time YC founder) most recently built these kinds of high-scale ingestion pipelines when starting and leading error tracking at PostHog (W20), the fastest growing product in the company's history.",

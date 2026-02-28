@@ -223,6 +223,54 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/keeling-labs.json"
   },
   {
+    "id": 29347,
+    "name": "Vibrant Labs",
+    "slug": "vibrant-labs",
+    "former_names": [
+      "Exploding Gradients",
+      "Ragas"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b03fadf62fa443c473d34c31148c9785ea34dceb.png",
+    "website": "https://vibrantlabs.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ",
+    "one_liner": "RL environments for long horizon AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1709606147,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Reinforcement Learning",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibrant-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/vibrant-labs.json"
+  },
+  {
     "id": 29353,
     "name": "Resonance",
     "slug": "resonance",
@@ -378,7 +426,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -1129,46 +1177,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haladir",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
-  },
-  {
-    "id": 31112,
-    "name": "Burt",
-    "slug": "burt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
-    "website": "https://www.trainburt.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help teams train and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models are impressive and have their place but at production scale and usage you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.\r\n\r\nWe've helped teams build small, specialized LLMs/VLMs that outperform SOTA models like gemini-3-flash/pro while being 10x faster and cheaper. ",
-    "one_liner": "Easily fine tune and deploy specialized models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1766971540,
-    "tags": [
-      "Machine Learning",
-      "Reinforcement Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/burt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
   },
   {
     "id": 31174,

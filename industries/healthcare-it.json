@@ -5125,16 +5125,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes more than $1B in medical claim charges annually.\r\n",
+    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
     "one_liner": "AI chart review for speciality medical clinics.",
     "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
-      "Artificial Intelligence",
       "Healthcare IT",
-      "Billing"
+      "Billing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5937,6 +5937,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 31160,
+    "name": "Mango Medical",
+    "slug": "mango-medical-inc",
+    "former_names": [
+      "Mango Medical Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84022beba7ccfa3668cb9f2f7cb672ffd0b53ebc.png",
+    "website": "https://mangomedical.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mango Medical builds agentic surgical planning AI for orthopedic surgery. We deliver surgeon-ready 3D plans in minutes instead of days. $10M ARR LOI from a top orthopedic company. Pursuing FDA 510(k) clearance. We're building a future where every surgery follows a personalized plan.",
+    "one_liner": "We simulate orthopedic surgeries based on CT scans",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1772177133,
+    "tags": [
+      "Robotic Surgery",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mango-medical-inc",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mango-medical-inc.json"
   },
   {
     "id": 31183,
