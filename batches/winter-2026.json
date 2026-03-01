@@ -622,7 +622,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -1024,6 +1024,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/valgo",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/valgo.json"
+  },
+  {
+    "id": 31058,
+    "name": "Eos AI",
+    "slug": "eos-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
+    "website": "https://www.helloeos.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Eos acts as an intelligent hub that helps healthcare systems collate all their data across fragmented sources, and make intelligent predictions on top of it. \r\n\r\nWe harmonize data across all platforms to create a unified and standardized patient data distributions and timelines, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of data stay where they are yet allows us to search and reason across it as one system.",
+    "one_liner": "The autonomous operating system for healthcare",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1772312996,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Healthcare",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/eos-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/eos-ai.json"
   },
   {
     "id": 31062,
@@ -1494,11 +1536,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "IoT",
       "Open Source",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2241,6 +2283,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cascade",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cascade.json"
+  },
+  {
+    "id": 31111,
+    "name": "Envariant",
+    "slug": "envariant",
+    "former_names": [
+      "Facture"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
+    "website": "https://envariant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Envariant is an AI interpretability SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
+    "one_liner": "Interpretability and reasoning infra for foundation models.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772291164,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/envariant",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
   },
   {
     "id": 31112,
@@ -3242,16 +3326,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Windows + Mac + Browser + Desktop) super-duper fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-    "one_liner": "Super fast computer-use agents to automate complex workflows.",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "Super fast computer-use agents to build AI employees.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767663208,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Computer Vision",
-      "AI"
+      "Computer Vision"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3593,7 +3677,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -4766,15 +4850,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
     "one_liner": "AI for M&A",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6096,9 +6180,9 @@
     "name": "Fort",
     "slug": "fort",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ceb9d2604899970735943a3433bb4f01caee05e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d9dd9102b9fef3579d0744c11a1afd6e01de3.png",
     "website": "https://fort.cx",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Fort is a wearable that tracks strength training for people who care about longevity.\r\n\r\nOther wearables make you manually log every rep, set, and exercise, then provide unhelpful feedback or underestimate strength-related fatigue. We use heart rate and motion data to track your strength workouts for you, then provide thoughtful, actionable feedback that helps you achieve your goals.",
     "one_liner": "Strength Tracking Wearable",
     "team_size": 3,
@@ -6122,7 +6206,8 @@
       "Consumer Electronics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6518,12 +6603,12 @@
     "one_liner": "Payments for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770422490,
     "tags": [
       "Developer Tools",
       "Fintech",
-      "SaaS",
+      "Payments",
       "Infrastructure",
       "Conversational AI"
     ],
@@ -6534,7 +6619,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -6547,6 +6633,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maven",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
+  },
+  {
+    "id": 31254,
+    "name": "Sila",
+    "slug": "sila",
+    "former_names": [
+      "saiera",
+      "sila"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cfb84c0a1025ef7c3c5f0e7582a5fe3d7c4bdcf.png",
+    "website": "https://silahq.com",
+    "all_locations": "",
+    "long_description": "Sila is an agentic workplace messaging & collaboration platform for teams and companies that move fast\r\n",
+    "one_liner": "Agent & Team Communication Workspace",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772231466,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sila",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sila.json"
   },
   {
     "id": 31255,
@@ -6651,8 +6779,8 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768253497,
     "tags": [
-      "Fintech",
-      "AI"
+      "Artificial Intelligence",
+      "Fintech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6767,18 +6895,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
     "website": "https://www.mochacare.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "MochaCare is an AI-powered, human-in-the-loop scheduling and hiring service for home care agencies. We give agencies their time back and turn their operations data into growth.",
-    "one_liner": "AI-powered scheduling and hiring service for home care agencies.",
+    "long_description": "MochaCare unlocks home care agency growth with human virtual assistants supercharged by AI. We take hiring, scheduling, or both off agencies' plates so they can spend less time drowning in ops and more time building relationships in their communities. \r\n\r\nEverything we do generates data insights that surface growth opportunities, from referral leads to sales enablement during intake calls.",
+    "one_liner": "AI-Supercharged Humans for Home Care Agency Growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1771654500,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "Home Services",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

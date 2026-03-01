@@ -15043,7 +15043,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24913,47 +24913,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
   },
   {
-    "id": 30033,
-    "name": "OpenFunnel",
-    "slug": "openfunnel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
-    "website": "https://openfunnel.dev",
-    "all_locations": "",
-    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
-    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1728361776,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openfunnel",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
-  },
-  {
     "id": 30034,
     "name": "HealthSpark",
     "slug": "healthspark",
@@ -28511,6 +28470,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
   },
   {
+    "id": 30455,
+    "name": "The LLM Data Company",
+    "slug": "the-llm-data-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
+    "website": "https://www.llmdata.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The LLM Data Company is training models in data scarce verticals",
+    "one_liner": "Frontier models for critical domains",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747787326,
+    "tags": [
+      "AIOps",
+      "Generative AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-llm-data-company",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/the-llm-data-company.json"
+  },
+  {
     "id": 30462,
     "name": "Clado",
     "slug": "clado",
@@ -29196,51 +29195,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nimbic-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
-  },
-  {
-    "id": 30542,
-    "name": "LineWise",
-    "slug": "linewise",
-    "former_names": [
-      "Comply Genie",
-      "Vision Nexus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
-    "website": "https://www.linewise.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "LineWise captures expert knowledge from videos and deliver AI-guided training on the floor.",
-    "one_liner": "Closing the Frontline Skills Gap with AI",
-    "team_size": 6,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1743036496,
-    "tags": [
-      "Robotics",
-      "Manufacturing",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/linewise",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
   },
   {
     "id": 30545,
@@ -30499,10 +30453,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6adb7f41be65aa21db82cf58680bb6b24b1fdaa.png",
     "website": "https://www.gofinto.com/",
-    "all_locations": "",
+    "all_locations": "Munich, BY, Germany",
     "long_description": "Finto builds AI accounting software for enterprise finance teams. We automate the invoice-to-pay process from their email inbox to their ERP. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.",
     "one_liner": "AI accounting for enterprise finance teams",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1751218179,
@@ -30524,7 +30478,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -33439,6 +33394,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
   },
   {
+    "id": 31088,
+    "name": "RunAnywhere",
+    "slug": "runanywhere",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
+    "website": "https://www.runanywhere.ai/",
+    "all_locations": "",
+    "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
+    "one_liner": "The default way of running On-Device AI at Scale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767296079,
+    "tags": [
+      "Developer Tools",
+      "IoT",
+      "Open Source",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runanywhere",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
+  },
+  {
     "id": 31092,
     "name": "Axis",
     "slug": "axis-2",
@@ -33738,6 +33735,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cascade.json"
   },
   {
+    "id": 31111,
+    "name": "Envariant",
+    "slug": "envariant",
+    "former_names": [
+      "Facture"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
+    "website": "https://envariant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Envariant is an AI interpretability SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
+    "one_liner": "Interpretability and reasoning infra for foundation models.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772291164,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/envariant",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
+  },
+  {
     "id": 31114,
     "name": "Piris Labs",
     "slug": "pirislabs",
@@ -33962,50 +34001,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/codewisp.json"
   },
   {
-    "id": 31145,
-    "name": "RamAIn",
-    "slug": "ramain",
-    "former_names": [
-      "Ramain"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
-    "website": "https://ramain.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Windows + Mac + Browser + Desktop) super-duper fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-    "one_liner": "Super fast computer-use agents to automate complex workflows.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767663208,
-    "tags": [
-      "Machine Learning",
-      "Computer Vision",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ramain",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
-  },
-  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -34115,7 +34110,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -34516,50 +34511,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fenrock-ai-yc-w26",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai-yc-w26.json"
-  },
-  {
-    "id": 31188,
-    "name": "Maywood",
-    "slug": "maywood",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25766f301c649782f67a8e41bd075b4e72544918.png",
-    "website": "https://maywoodai.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
-    "one_liner": "AI for M&A",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1770247865,
-    "tags": [
-      "Fintech",
-      "Finance",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maywood",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
   },
   {
     "id": 31189,
@@ -35151,25 +35102,26 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
   },
   {
-    "id": 31260,
-    "name": "Copperlane",
-    "slug": "copperlane",
+    "id": 31269,
+    "name": "MochaCare",
+    "slug": "mochacare",
     "former_names": [
-      "Sevenfold",
-      "Rhombal",
-      "Coevolved"
+      "HelpingHome"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
-    "website": "https://www.copperlane.ai",
-    "all_locations": "",
-    "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
-    "one_liner": "Agents for Mortgage Origination",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
+    "website": "https://www.mochacare.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "MochaCare unlocks home care agency growth with human virtual assistants supercharged by AI. We take hiring, scheduling, or both off agencies' plates so they can spend less time drowning in ops and more time building relationships in their communities. \r\n\r\nEverything we do generates data insights that surface growth opportunities, from referral leads to sales enablement during intake calls.",
+    "one_liner": "AI-Supercharged Humans for Home Care Agency Growth",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1768253497,
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1771654500,
     "tags": [
-      "Fintech",
+      "Health Tech",
+      "Healthcare",
+      "Home Services",
+      "Operations",
       "AI"
     ],
     "tags_highlighted": [],
@@ -35180,18 +35132,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/copperlane",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/copperlane.json"
+    "url": "https://www.ycombinator.com/companies/mochacare",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
   },
   {
     "id": 31271,

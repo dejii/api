@@ -5237,52 +5237,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/magicflow.json"
   },
   {
-    "id": 27935,
-    "name": "compliant-llm",
-    "slug": "compliant-llm",
-    "former_names": [
-      "ZKomm",
-      "Devpod",
-      "FiddleCube",
-      "compliant-llm",
-      "compliant-llm (fka FiddleCube)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e836589affa3183241d8a3c3f2914bb8dc44d2a8.png",
-    "website": "https://www.compliantllm.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CompliantLLM detects every data leak into third-party GenAI tools used in your company by monitoring employee interactions.\r\n\r\nSecurity and tech leaders get visibiliity and control over the data flowing into various Gen AI apps used in their organizations.",
-    "one_liner": "Detect every data leak into third-party GenAI tools",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1690346092,
-    "tags": [
-      "Generative AI",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/compliant-llm",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/compliant-llm.json"
-  },
-  {
     "id": 27938,
     "name": "Boundary",
     "slug": "boundary",
@@ -10806,16 +10760,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
     "website": "https://www.llmdata.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The LLM Data Company is a research lab studying post-training data.\r\n\r\nWe work with frontier AI teams to create bespoke tasks, rewards, and environments for models to play and learn at scale.",
-    "one_liner": "Post-training Data Research",
+    "long_description": "The LLM Data Company is training models in data scarce verticals",
+    "one_liner": "Frontier models for critical domains",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747787326,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

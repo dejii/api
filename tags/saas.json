@@ -10505,7 +10505,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -32423,7 +32423,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39196,7 +39196,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42564,7 +42564,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -44507,14 +44507,14 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1728361776,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Sales Enablement",
-      "AI"
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -49477,7 +49477,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -50040,50 +50040,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
-  },
-  {
-    "id": 31253,
-    "name": "Maven",
-    "slug": "maven",
-    "former_names": [
-      "Lattice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
-    "website": "https://trymaven.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
-    "one_liner": "Payments for Voice Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770422490,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "SaaS",
-      "Infrastructure",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maven",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
     "id": 31256,

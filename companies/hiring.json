@@ -3112,6 +3112,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2015/human-interest.json"
   },
   {
+    "id": 972,
+    "name": "Mux",
+    "slug": "mux",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3a9eb63a2c18f13705cd10ff1859e90dbff5bb.png",
+    "website": "http://mux.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mux is an API-first video platform designed by experts to make world-class video streaming and analytics possible for every development team. Self-optimizing videos take the guesswork out of encodings, delivery, and renditions. Mux makes your video look beautiful on every device, every time.\r\n\r\nWe offer two products, Mux Video and Mux Data.\r\n\r\nMux Video is a simple API to advanced video streaming. Powered by data and designed by video experts, Mux Video makes beautiful video possible for every development team. Post a video or live stream with a single API call, and watch it within seconds. Mux Video handles the encoding, storage, and delivery. QoE and performance analytics provided by Mux Data is included by default for every Mux video stream.This real-time data is used to create the right renditions for every device and title, resulting in greater reliability and better viewer experiences.\r\n\r\nMux Data is a Quality of Experience analytics platform that measures the performance metrics that actually matter to viewers: rebuffering, startup time, video quality, and errors. Our intuitive dashboard quickly gives users the insight to find issues and make improvements through features like A/B testing, industry-wide scores, alerts, and detailed information about every single video view. The product works out of the box on HTML5, iOS, Android, and major OTT platforms. All data is available via exports and APIs, making it easy to integrate Mux Data into other systems.",
+    "one_liner": "Video infrastructure for developers",
+    "team_size": 95,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1447199414,
+    "tags": [
+      "Developer Tools",
+      "Video",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2016",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mux",
+    "api": "https://yc-oss.github.io/api/batches/winter-2016/mux.json"
+  },
+  {
     "id": 973,
     "name": "Lattice",
     "slug": "lattice",
@@ -11118,6 +11161,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vouch",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/vouch.json"
+  },
+  {
+    "id": 12525,
+    "name": "Dex",
+    "slug": "dex",
+    "former_names": [
+      "Dana",
+      "Dex",
+      "Dex (was Dana)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ee93cea377a5b2116981214a65b65763a20f92d.png",
+    "website": "https://getdex.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Dex is a personal CRM that reminds you to keep in touch with the people you would otherwise forget.\r\n\r\nDex helps turn your acquaintances into your allies.  Going beyond the superficiality of social networks requires commitment.  If you remember to keep in touch thoughtfully, you can turn the interesting person you met at a networking event into a friend that has your back.  \r\n\r\nI built Dex after failing to keep up with the tools I tried (Airtable, Notion, etc) for relationship management. Installing an actual CRM like Hubspot felt like a wrong fit for my informal relationships -- these people were 'my team,' not customers.\r\n\r\nDex is a lightweight personal CRM that’s easy to stick with. Key to Dex is a Chrome extension that enables you to manage relationships while you’re in Facebook, Messenger, Twitter, and the social apps you already use. Dex can also send you actionable reminders (daily, or based on your calendar events) to log your interactions for next time. By using Dex, you can:\r\n\r\n- Build stronger relationships, by sending you a nudge to follow-up.\r\n- Be more thoughtful, by helping you remember where you left off.\r\n- Become a superconnector, by making connections you wouldn’t otherwise remember.\r\n",
+    "one_liner": "Dex is a personal CRM that reminds you to keep in touch with the…",
+    "team_size": 7,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Home and Personal",
+    "launched_at": 1555983373,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "CRM"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dex",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/dex.json"
   },
   {
     "id": 12532,
@@ -30392,7 +30482,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37480,7 +37570,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46954,6 +47044,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/wordware.json"
   },
   {
+    "id": 29651,
+    "name": "FirstWork",
+    "slug": "firstwork",
+    "former_names": [
+      "Migrant.ai",
+      "firstwork.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d263d80a559ff3f8f00a1086c466c45905a09911.png",
+    "website": "https://firstwork.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Firstwork is a next-generation HR platform designed specifically for companies with dynamic workforce needs. Our mission is to streamline and automate key HR processes to help businesses operate more efficiently and effectively.\r\n\r\nWhat We Do (for now):\r\n\r\n(1) Smart Onboarding 📋: Our platform simplifies the onboarding process by automating the collection and verification of credentials, such as right-to-work documents, insurance forms and driver’s licenses. This reduces administrative burden and accelerates the time-to-productivity for new hires.\r\n\r\n(2) AI-Assisted Activation 🤖: Leveraging AI, we enhance communication and messaging for new hires, ensuring they receive timely and relevant information. This helps in better engagement and faster integration into their roles.\r\n\r\n(3) Perpetual Compliance ✅: Our system uses AI and OCR technology to continuously monitor and ensure compliance with various regulatory requirements. This includes tracking expirations of critical documents, updating records, and generating compliance reports, thus reducing the risk of penalties and legal issues.\r\n\r\n",
+    "one_liner": "Rippling for seasonal workers",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1721851005,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Human Resources",
+      "Workflow Automation",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/firstwork",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/firstwork.json"
+  },
+  {
     "id": 29654,
     "name": "Stardrift",
     "slug": "stardrift",
@@ -50598,47 +50736,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/candle",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
-  },
-  {
-    "id": 30033,
-    "name": "OpenFunnel",
-    "slug": "openfunnel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
-    "website": "https://openfunnel.dev",
-    "all_locations": "",
-    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
-    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1728361776,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openfunnel",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
   },
   {
     "id": 30037,
@@ -55339,16 +55436,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
     "website": "https://www.llmdata.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The LLM Data Company is a research lab studying post-training data.\r\n\r\nWe work with frontier AI teams to create bespoke tasks, rewards, and environments for models to play and learn at scale.",
-    "one_liner": "Post-training Data Research",
+    "long_description": "The LLM Data Company is training models in data scarce verticals",
+    "one_liner": "Frontier models for critical domains",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747787326,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58285,10 +58382,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6adb7f41be65aa21db82cf58680bb6b24b1fdaa.png",
     "website": "https://www.gofinto.com/",
-    "all_locations": "",
+    "all_locations": "Munich, BY, Germany",
     "long_description": "Finto builds AI accounting software for enterprise finance teams. We automate the invoice-to-pay process from their email inbox to their ERP. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.",
     "one_liner": "AI accounting for enterprise finance teams",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1751218179,
@@ -58310,7 +58407,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -60687,6 +60785,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
   },
   {
+    "id": 31003,
+    "name": "Voltair",
+    "slug": "voltair",
+    "former_names": [
+      "Voltair Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2db854f12f1670a05167eb2e203b850f745f6a72.png",
+    "website": "https://voltairlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Voltair is a drone data provider. We are building a network of autonomous vertical take-off fixed wing drones and charging pads. For the first time, this allows for drones with infinite range. Removing battery swaps is the last step to deploy UAVs autonomously at scale. \r\n\r\nPower utilities are the perfect first customer. Extreme weather creates catastrophic wildfire liability, bankrupting utilities and making them uninsurable. Voltair's drone inspections identify critical maintenance concerns before they spark fires. Automated drones are 10x faster and 1/2 the cost of manual drone operators. Following extreme weather, Voltair's forward deployed drones can rapidly patrol neighborhoods for electrical hazards.\r\n\r\nSince June, we’ve validated our core charging tech, built 6x flying prototypes, and inspected ~2000 poles.\r\n\r\nAfter power companies, we will service rail, road, telecom, real estate, and other inspection markets. At scale we are a new infrastructure layer for data on the physical world.",
+    "one_liner": "Self Charging Drones",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1766190509,
+    "tags": [
+      "Drones",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voltair",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/voltair.json"
+  },
+  {
     "id": 31004,
     "name": "Dome",
     "slug": "dome",
@@ -60978,15 +61119,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
     "one_liner": "AI for M&A",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -1644,7 +1644,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2016",
     "status": "Active",
@@ -18380,10 +18380,10 @@
     "slug": "manaflow",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
-    "website": "https://www.manaflow.com",
+    "website": "https://www.cmux.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow is building new interfaces and tools for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Human software engineers will become software engineering managers with AI software engineering teams behind them. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux at https://www.cmux.dev/.",
-    "one_liner": "Building interfaces for managing AI coding agents to do good work",
+    "long_description": "Manaflow is an open-source applied AI lab building AI dev tools. We're the creators of cmux, the open source terminal for coding agents.",
+    "one_liner": "Building the open-source terminal for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -23130,11 +23130,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "IoT",
       "Open Source",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23282,6 +23282,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sentrial",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
+  },
+  {
+    "id": 31111,
+    "name": "Envariant",
+    "slug": "envariant",
+    "former_names": [
+      "Facture"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
+    "website": "https://envariant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Envariant is an AI interpretability SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
+    "one_liner": "Interpretability and reasoning infra for foundation models.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772291164,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/envariant",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
   },
   {
     "id": 31119,
@@ -23861,12 +23903,12 @@
     "one_liner": "Payments for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770422490,
     "tags": [
       "Developer Tools",
       "Fintech",
-      "SaaS",
+      "Payments",
       "Infrastructure",
       "Conversational AI"
     ],
@@ -23877,7 +23919,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",

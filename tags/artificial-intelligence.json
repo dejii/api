@@ -25121,7 +25121,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -26163,10 +26163,10 @@
     "slug": "manaflow",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
-    "website": "https://www.manaflow.com",
+    "website": "https://www.cmux.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow is building new interfaces and tools for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Human software engineers will become software engineering managers with AI software engineering teams behind them. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux at https://www.cmux.dev/.",
-    "one_liner": "Building interfaces for managing AI coding agents to do good work",
+    "long_description": "Manaflow is an open-source applied AI lab building AI dev tools. We're the creators of cmux, the open source terminal for coding agents.",
+    "one_liner": "Building the open-source terminal for coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -28482,6 +28482,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/darkgrade",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/darkgrade.json"
+  },
+  {
+    "id": 30033,
+    "name": "OpenFunnel",
+    "slug": "openfunnel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
+    "website": "https://openfunnel.dev",
+    "all_locations": "",
+    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1728361776,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openfunnel",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
   },
   {
     "id": 30039,
@@ -32213,46 +32254,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
   },
   {
-    "id": 30455,
-    "name": "The LLM Data Company",
-    "slug": "the-llm-data-company",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
-    "website": "https://www.llmdata.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The LLM Data Company is a research lab studying post-training data.\r\n\r\nWe work with frontier AI teams to create bespoke tasks, rewards, and environments for models to play and learn at scale.",
-    "one_liner": "Post-training Data Research",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747787326,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/the-llm-data-company",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/the-llm-data-company.json"
-  },
-  {
     "id": 30456,
     "name": "Tinfoil",
     "slug": "tinfoil",
@@ -33317,6 +33318,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/code-four",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
+  },
+  {
+    "id": 30542,
+    "name": "LineWise",
+    "slug": "linewise",
+    "former_names": [
+      "Comply Genie",
+      "Vision Nexus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
+    "website": "https://www.linewise.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "LineWise captures expert knowledge from videos and deliver AI-guided training on the manufacturing floor.",
+    "one_liner": "Closing the Frontline Skills Gap with AI",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1743036496,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Manufacturing",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/linewise",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
   },
   {
     "id": 30543,
@@ -35150,10 +35196,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6adb7f41be65aa21db82cf58680bb6b24b1fdaa.png",
     "website": "https://www.gofinto.com/",
-    "all_locations": "",
+    "all_locations": "Munich, BY, Germany",
     "long_description": "Finto builds AI accounting software for enterprise finance teams. We automate the invoice-to-pay process from their email inbox to their ERP. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.",
     "one_liner": "AI accounting for enterprise finance teams",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1751218179,
@@ -35175,7 +35221,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -38230,6 +38277,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
   },
   {
+    "id": 31058,
+    "name": "Eos AI",
+    "slug": "eos-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
+    "website": "https://www.helloeos.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Eos acts as an intelligent hub that helps healthcare systems collate all their data across fragmented sources, and make intelligent predictions on top of it. \r\n\r\nWe harmonize data across all platforms to create a unified and standardized patient data distributions and timelines, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of data stay where they are yet allows us to search and reason across it as one system.",
+    "one_liner": "The autonomous operating system for healthcare",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1772312996,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Healthcare",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/eos-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/eos-ai.json"
+  },
+  {
     "id": 31062,
     "name": "Hlabs",
     "slug": "hlabs",
@@ -38356,48 +38445,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/didit",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
-  },
-  {
-    "id": 31088,
-    "name": "RunAnywhere",
-    "slug": "runanywhere",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
-    "website": "https://www.runanywhere.ai/",
-    "all_locations": "",
-    "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-    "one_liner": "The default way of running On-Device AI at Scale",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1767296079,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "IoT",
-      "Open Source",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runanywhere",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
   },
   {
     "id": 31094,
@@ -38994,6 +39041,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codewisp",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/codewisp.json"
+  },
+  {
+    "id": 31145,
+    "name": "RamAIn",
+    "slug": "ramain",
+    "former_names": [
+      "Ramain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
+    "website": "https://ramain.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "Super fast computer-use agents to build AI employees.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767663208,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ramain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
   },
   {
     "id": 31149,
@@ -39681,6 +39772,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai-yc-w26.json"
   },
   {
+    "id": 31188,
+    "name": "Maywood",
+    "slug": "maywood",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25766f301c649782f67a8e41bd075b4e72544918.png",
+    "website": "https://maywoodai.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
+    "one_liner": "AI for M&A",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1770247865,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maywood",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
+  },
+  {
     "id": 31191,
     "name": "Traverse",
     "slug": "traverse",
@@ -40273,6 +40408,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
   },
   {
+    "id": 31254,
+    "name": "Sila",
+    "slug": "sila",
+    "former_names": [
+      "saiera",
+      "sila"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cfb84c0a1025ef7c3c5f0e7582a5fe3d7c4bdcf.png",
+    "website": "https://silahq.com",
+    "all_locations": "",
+    "long_description": "Sila is an agentic workplace messaging & collaboration platform for teams and companies that move fast\r\n",
+    "one_liner": "Agent & Team Communication Workspace",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772231466,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sila",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sila.json"
+  },
+  {
     "id": 31256,
     "name": "Canary",
     "slug": "canary",
@@ -40356,6 +40533,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },
   {
+    "id": 31260,
+    "name": "Copperlane",
+    "slug": "copperlane",
+    "former_names": [
+      "Sevenfold",
+      "Rhombal",
+      "Coevolved"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
+    "website": "https://www.copperlane.ai",
+    "all_locations": "",
+    "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
+    "one_liner": "Agents for Mortgage Origination",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768253497,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copperlane",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/copperlane.json"
+  },
+  {
     "id": 31264,
     "name": "Vela",
     "slug": "vela",
@@ -40396,51 +40616,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vela",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
-  },
-  {
-    "id": 31269,
-    "name": "MochaCare",
-    "slug": "mochacare",
-    "former_names": [
-      "HelpingHome"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
-    "website": "https://www.mochacare.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "MochaCare is an AI-powered, human-in-the-loop scheduling and hiring service for home care agencies. We give agencies their time back and turn their operations data into growth.",
-    "one_liner": "AI-powered scheduling and hiring service for home care agencies.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1771654500,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Healthcare",
-      "Home Services",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mochacare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
   },
   {
     "id": 31274,
