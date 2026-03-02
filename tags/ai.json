@@ -10629,6 +10629,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/customeros.json"
   },
   {
+    "id": 26730,
+    "name": "Mocke",
+    "slug": "mocke",
+    "former_names": [
+      "Paigo",
+      "Champ",
+      "Mocke",
+      "Champ"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e139b92e8bc60907f4d34db4e4a35641c4f569d9.png",
+    "website": "https://mocke.co/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Cold Email AI Agent. ",
+    "one_liner": "Cursor for cold email, with lead research and personalization at scale",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1654798414,
+    "tags": [
+      "B2B",
+      "Sales",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mocke",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/mocke.json"
+  },
+  {
     "id": 26733,
     "name": "trebu",
     "slug": "trebu",
@@ -23956,53 +24004,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rastro.json"
   },
   {
-    "id": 29835,
-    "name": "Voker",
-    "slug": "voker",
-    "former_names": [
-      "Invoke AI",
-      "Invoke Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e097d283f408c0a5e7db6a2bef1bf267b298465c.png",
-    "website": "https://voker.ai",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Voker is the analytics platform for monitoring and improving your AI agents. Companies like Lull.com and Dutch.com use our SDK to build better AI.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.",
-    "one_liner": "Analytics for AI Agents",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722887304,
-    "tags": [
-      "Developer Tools",
-      "Analytics",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voker",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/voker.json"
-  },
-  {
     "id": 29836,
     "name": "TradeFlow",
     "slug": "tradeflow",
@@ -27151,45 +27152,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
   },
   {
-    "id": 30291,
-    "name": "Outlit",
-    "slug": "outlit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955d29f6fe86baf7c724d6dcd2933cef074c1171.png",
-    "website": "https://outlit.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Understand how customers find you, use your product, and convert to paid.",
-    "one_liner": "Account-level Customer Journey",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736658447,
-    "tags": [
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/outlit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/outlit.json"
-  },
-  {
     "id": 30292,
     "name": "Mesh",
     "slug": "mesh-2",
@@ -28595,6 +28557,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nomi",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nomi.json"
+  },
+  {
+    "id": 30484,
+    "name": "throxy",
+    "slug": "throxy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5384c6c535d7bcbaf2c4cee7af212ec06f70e79d.png",
+    "website": "https://throxy.com/",
+    "all_locations": "",
+    "long_description": "throxy builds vertical AI agents that book meetings for software companies selling into traditional industries: manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken. Generic automation gets ignored, and decision-makers in legacy sectors are hard to reach. Most of your TAM isn't even on LinkedIn, and tools like Clay, Apollo, and ZoomInfo only cover about 65% of the market. throxy fixes this by running bespoke, fully managed outbound systems for software sales teams trying to crack these industries. We use proprietary scraping tools to map your entire addressable market, then combine AI agents with human experts to deliver hyper-personalised email campaigns and human cold calling that is consistently generating six-figure qualified pipelines.\r\n\r\nSince 2023, throxy has powered outbound for B2B software companies, from industrial SaaS to fintech providers, replacing the need for internal SDR teams or stacks of tools with a solution that outperforms on both speed and quality. Today, we have a team of 55 across London and Cape Town, booking on average 8 to 12 qualified meetings per month per client, with some clients seeing 20+ in their first weeks after we doubled down on human-led cold calling.\r\n\r\nAI handles the data: building custom databases, scoring leads against your ICP, and personalising outreach at scale. Humans handle the conversations: real cold calls, real emails, real relationships. That's the difference between us and every AI SDR on the market.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We're not just automating outbound, we're redefining what sales execution looks like for software companies selling into traditional industries.\r\n\r\nthroxy is the AI SDR purpose-built for the sectors software forgot.",
+    "one_liner": "Vertical AI agents that run the sales funnel on autopilot",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1745521572,
+    "tags": [
+      "B2B",
+      "Sales",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/throxy",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/throxy.json"
   },
   {
     "id": 30488,
@@ -30055,6 +30058,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tryjanet",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
+  },
+  {
+    "id": 30653,
+    "name": "Skope",
+    "slug": "skope",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e403e5ebfb77935a44bb057a8a646c4ae90d54f2.png",
+    "website": "https://useskope.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Skope builds AI for core legal workflows. We will save your boutique law firm time and help you make more money, with AI.",
+    "one_liner": "AI Agents for SMB Law Firms.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750879126,
+    "tags": [
+      "B2B",
+      "Legal",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skope",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
   },
   {
     "id": 30659,
@@ -33192,6 +33235,94 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rivet-design.json"
   },
   {
+    "id": 31036,
+    "name": "Mantis Biotechnology",
+    "slug": "mantis-biotechnology",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
+    "website": "https://mantisbiotech.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Mantis is a digital twin company that combines LLMs with high-fidelity physics simulations in order to convert rare and difficult-to-access human behavior data into predictive models. ",
+    "one_liner": "Physics-Enhanced Datasets for Low-Resource Machine Learning",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1766166166,
+    "tags": [
+      "Sports Tech",
+      "Biotech",
+      "AI",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mantis-biotechnology",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis-biotechnology.json"
+  },
+  {
+    "id": 31051,
+    "name": "Corvera",
+    "slug": "corvera",
+    "former_names": [
+      "Sarah.AI",
+      "Sarah AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+    "website": "https://www.corvera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corvera (YC W26) is the last ops hire CPG brands will ever make. We help brands increase profits by up to 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
+    "one_liner": "AI agents for CPG brands",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1763141207,
+    "tags": [
+      "AIOps",
+      "SaaS",
+      "B2B",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corvera",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
+  },
+  {
     "id": 31054,
     "name": "ARC Prize Foundation",
     "slug": "arc-prize-foundation",
@@ -34214,47 +34345,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/confluence-labs.json"
   },
   {
-    "id": 31167,
-    "name": "Stilta",
-    "slug": "stilta",
-    "former_names": [
-      "Patrona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
-    "website": "https://stilta.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stilta is the AI-native software for patent attorneys, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and analyzing patents, practitioners can reduce manual work by up to ~60% while unlocking new revenue opportunities. \r\n\r\nInnovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.\r\n\r\nWe’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. Now we are building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with leading firms in both Europe and the US. ",
-    "one_liner": "Cursor for patent attorneys",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769876849,
-    "tags": [
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stilta",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
-  },
-  {
     "id": 31170,
     "name": "Cajal",
     "slug": "cajal-technologies",
@@ -34890,23 +34980,25 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
   },
   {
-    "id": 31227,
-    "name": "Sequence Markets",
-    "slug": "sequence-markets",
+    "id": 31230,
+    "name": "o11",
+    "slug": "o11",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32de69f69c1154a1195504543e1a4fc2eed3dbfc.png",
-    "website": "https://sequencemkts.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
-    "one_liner": "Smarter and faster trade execution for digital assets",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1767826402,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
+    "website": "https://o11.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "o11 integrates directly inside of Microsoft PowerPoint, Excel, and Word, along with Google Slides, Sheets, and Docs. We enable you to automate any workflow directly within these apps from crafting templated presentations to building full financial models. Hundreds of companies across the globe use o11 currently.\r\n\r\nOur vision doesn't stop there though. We're building the AI plugin inside of every app. Every platform deserves to be automated through chat. o11 brings enterprises and users this potential.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "one_liner": "The AI Agent Inside Every App",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1765258468,
     "tags": [
-      "Fintech",
-      "AI",
-      "Cryptocurrency"
+      "Generative AI",
+      "B2B",
+      "Workflow Automation",
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34915,7 +35007,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -34926,8 +35019,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sequence-markets",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
+    "url": "https://www.ycombinator.com/companies/o11",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
   },
   {
     "id": 31236,

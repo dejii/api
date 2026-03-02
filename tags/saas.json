@@ -33878,7 +33878,7 @@
     "all_locations": "Seattle, WA, USA; Remote",
     "long_description": "The platform powering human like phone calls at AI speed",
     "one_liner": "Voice AI",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1656542977,
@@ -48993,18 +48993,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://www.corvera.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) is the last ops hire CPG brands will ever make. We help retail brands increase profits by 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
-    "one_liner": "Fully autonomous operations for CPG brands",
+    "long_description": "Corvera (YC W26) is the last ops hire CPG brands will ever make. We help brands increase profits by up to 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
+    "one_liner": "AI agents for CPG brands",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1763141207,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49832,49 +49832,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
   },
   {
-    "id": 31230,
-    "name": "o11",
-    "slug": "o11",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
-    "website": "https://o11.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "o11 brings extreme operational efficiency to teams of any size. Seamlessly integrated into every Microsoft 365 tool, o11 transforms your documents, decks, spreadsheets, and files into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision. We're the first company to build a full-featured AI native execution layer within the entire Microsoft 365 suite.\r\n\r\no11's services are available to financial firms, enterprise organizations, and Office 365 power users.\r\n\r\n",
-    "one_liner": "The Most Integrated M365 AI Suite",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1765258468,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/o11",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
-  },
-  {
     "id": 31233,
     "name": "Chasi",
     "slug": "chasi",
@@ -50040,6 +49997,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
+  },
+  {
+    "id": 31253,
+    "name": "Maven",
+    "slug": "maven",
+    "former_names": [
+      "Lattice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
+    "website": "https://trymaven.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
+    "one_liner": "Payments for Voice Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770422490,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Payments",
+      "B2B",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maven",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
     "id": 31256,

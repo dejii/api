@@ -29415,7 +29415,7 @@
     "all_locations": "",
     "long_description": "BlindPay is a stablecoin API that enables companies to send and receive money worldwide using fiat money, stablecoins and multiple blockchains. We handle all the complex compliance and regulatory requirements, so companies can focus on their core business.",
     "one_liner": "Stablecoin API for global payments",
-    "team_size": 4,
+    "team_size": 9,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1737430094,
@@ -30751,7 +30751,7 @@
     "name": "Sequence Markets",
     "slug": "sequence-markets",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32de69f69c1154a1195504543e1a4fc2eed3dbfc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
@@ -30761,8 +30761,8 @@
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],
@@ -30785,49 +30785,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
-  },
-  {
-    "id": 31230,
-    "name": "o11",
-    "slug": "o11",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
-    "website": "https://o11.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "o11 brings extreme operational efficiency to teams of any size. Seamlessly integrated into every Microsoft 365 tool, o11 transforms your documents, decks, spreadsheets, and files into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision. We're the first company to build a full-featured AI native execution layer within the entire Microsoft 365 suite.\r\n\r\no11's services are available to financial firms, enterprise organizations, and Office 365 power users.\r\n\r\n",
-    "one_liner": "The Most Integrated M365 AI Suite",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1765258468,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/o11",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
   },
   {
     "id": 31236,
@@ -30889,10 +30846,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770422490,
     "tags": [
-      "Developer Tools",
       "Fintech",
+      "SaaS",
       "Payments",
-      "Infrastructure",
+      "B2B",
       "Conversational AI"
     ],
     "tags_highlighted": [],
