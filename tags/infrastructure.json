@@ -1718,10 +1718,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "ParadeDB is an open source, ACID-compliant search and analytics database. Built on Postgres for update-heavy workloads.",
-    "one_liner": "The transactional Elasticsearch alternative built on Postgres",
-    "team_size": 8,
+    "one_liner": "Simple, Elastic-quality search for Postgres",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -3529,17 +3529,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
     "website": "https://getlilac.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper compute while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
-    "one_liner": "Spot GPUs that use idle GPUs from enterprises",
-    "team_size": 2,
+    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper inference while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
+    "one_liner": "We automatically monetize idle GPUs",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754345371,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4719,5 +4719,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
+  },
+  {
+    "id": 31280,
+    "name": "Rubric AI",
+    "slug": "rubric-ai",
+    "former_names": [
+      "Bazaar AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76cd968796cb7fcfbf591c0c9f9bb7cdf5683449.png",
+    "website": "https://therubric.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rubric AI is a post-training research lab (backed by Y Combinator) building the human and computational layer that turns expert judgment into training signals for frontier models and agents. We believe that shaping the world's most consequential AI systems requires both purpose-built training environments and exceptional judgment.",
+    "one_liner": "Post-training research and product lab",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772427101,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rubric-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/rubric-ai.json"
   }
 ]

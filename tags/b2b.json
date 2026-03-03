@@ -23257,7 +23257,7 @@
     "all_locations": "CA, USA; Remote",
     "long_description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\r\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
     "one_liner": "Team-based authentication for B2B SaaS",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1642107038,
@@ -41241,7 +41241,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -42176,8 +42176,8 @@
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Asteroid builds and hosts AI browser agents for back-office tasks. With guardrails, evaluations, and human oversight, we deliver enterprise-grade reliability across millions of operations, even in regulated industries. Companies can build agents themselves or rely on us to deliver and maintain them.",
-    "one_liner": "AI Browser Agents for the Back-Office",
-    "team_size": 4,
+    "one_liner": "AI Browser Workforce for Operation Teams",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734639467,
@@ -47655,14 +47655,16 @@
   },
   {
     "id": 31022,
-    "name": "JSX Tool",
-    "slug": "jsx-tool",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336184b5090a4103bd3801bd555ccb2323dee7f4.png",
-    "website": "https://jsxtool.com",
+    "name": "Coasts",
+    "slug": "coasts",
+    "former_names": [
+      "JSX Tool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14423e406f790420f115f8958c1af6eb85b97201.png",
+    "website": "https://coasts.dev",
     "all_locations": "",
-    "long_description": "JSX Tool is a browser extension that hooks into your React project, so you can easily locate any React component and file with just a click. This gives developers the ability to articulate visual requests to LLMs that without JSX Tool, are either vague or cumbersome to communicate in English and code snippets. On top of that JSX Tool is a full featured IDE tailored specifically for React Development, so users never have to leave the context of their browser when developing React code.",
-    "one_liner": "AI-First In-Browser IDE for React Development",
+    "long_description": "A Coast (containerized host) is a local development runtime. Coasts let you run multiple isolated environments for the same project on one machine. As AI coding agents increasingly work in parallel across git worktrees, developers hit painful conflicts — clashing ports, duplicated databases, and fragile per-branch setup. Coasts solve this by giving each worktree its own fully isolated runtime, so multiple agents can build and test side by side without stepping on each other.",
+    "one_liner": "Localhost service isolation and orchestration for git worktrees",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -47692,8 +47694,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jsx-tool",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
+    "url": "https://www.ycombinator.com/companies/coasts",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
   },
   {
     "id": 31051,
@@ -49704,5 +49706,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/qomplement",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
+  },
+  {
+    "id": 31454,
+    "name": "Datost",
+    "slug": "datost",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7a36530e9bfa96520dc57d94e0caba5e843fd40.png",
+    "website": "https://www.datost.com",
+    "all_locations": "",
+    "long_description": "The first AI data analyst that has its own computer. It sees and understands your docs, Slack, databases, data lakes, and codebase. Query, debug, and analyze right where your team works.",
+    "one_liner": "AI data analyst in Slack. Democratize data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1772488469,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datost",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
   }
 ]

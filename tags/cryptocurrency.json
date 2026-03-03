@@ -435,6 +435,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
   },
   {
+    "id": 31194,
+    "name": "Valence",
+    "slug": "valence",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/355e8c5b3746af19fb0b6ef6149b2028474fbf0a.png",
+    "website": "https://valence.trade",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Valence is a unified trading platform for prediction markets. We aggregate and execute contracts across Kalshi, Polymarket, and other platforms, surface arbitrage and mispricing opportunities in real time, and give systematic traders the API and backtesting tools they need to build and execute data-driven strategies on anything.",
+    "one_liner": "Unified prediction markets trading platform",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1772497537,
+    "tags": [
+      "Finance",
+      "Consumer Finance",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/valence",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/valence.json"
+  },
+  {
     "id": 31227,
     "name": "Sequence Markets",
     "slug": "sequence-markets",
@@ -442,15 +483,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
-    "one_liner": "Smarter and faster trade execution for digital assets",
+    "long_description": "Sequence Markets is building the execution layer for digital assets.\r\n\r\nDigital-asset liquidity is fragmented across centralized and decentralized venues. This creates inconsistent execution outcomes and operational complexity for active traders.\r\n\r\nWe are building execution infrastructure focused on routing quality and reliability across fragmented market structure.\r\n\r\nRollout policy:\r\n- controlled rollouts\r\n- quality over quantity\r\n- open to retail and institutional traders",
+    "one_liner": "Execution layer for fragmented digital-asset markets.",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
+      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],

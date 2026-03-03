@@ -7484,7 +7484,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14185,7 +14185,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
     "website": "https://www.landeed.com/",
     "all_locations": "Hyderabad, Telangana, India",
-    "long_description": "Landeed is the digital infrastructure for property intelligence, verification, and transactions in India. We provide read/write rails that turn fragmented property and regulatory records into verified data for managing compliance and completing transactions. Landeed uses AI-powered document intelligence and proprietary language models to convert messy records into queryable data that powers title search, legal-grade due diligence, collateral verification, title transfers and property payments. With coverage across 24 states, enterprises go live nationally from day one. We are trusted by Fortune India 500 companies across BFSI, real estate, and retail.\r\n\r\nLandeed is the blue tick for property.",
+    "long_description": "Landeed is the AI-native digital infrastructure for property intelligence, verification, and transactions in India. We provide read/write rails that transform fragmented property and regulatory systems into continuously verified, machine-interpretable state. Powered by Terra, our proprietary property intelligence engine, Landeed converts messy, multi-source records into structured, queryable knowledge that supports legal-grade due diligence, collateral verification, title search, transfers, and property payments. With coverage across 24 states, enterprises go live nationally from day one. We are trusted by Fortune India 500 companies across BFSI, real estate, and retail.\r\n\r\nLandeed is the blue tick for property.",
     "one_liner": "Landeed is India’s digital infrastructure for property intelligence,…",
     "team_size": 35,
     "industry": "Fintech",
@@ -14995,6 +14995,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pair-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pair-ai.json"
+  },
+  {
+    "id": 27762,
+    "name": "Ohm",
+    "slug": "ohm-2",
+    "former_names": [
+      "Byterat"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png",
+    "website": "https://www.ohm.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ohm is transforming how physical products are developed, using AI. We support major tech enterprises across batteries, automotive and consumer electronics to reimagine how they develop, test and validate their products. Ohm is used by leading engineering teams to launch new hardware products faster, optimize engineer productivity and reduce the cost of engineering test programs.",
+    "one_liner": "Ohm helps engineering labs develop better products faster, with AI.",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1676603508,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ohm-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/ohm-2.json"
   },
   {
     "id": 27763,
@@ -18703,7 +18745,7 @@
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
-    "one_liner": "Your tests pass. But standards slip.",
+    "one_liner": "Quality control for your software factory",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20411,11 +20453,11 @@
     "name": "jo",
     "slug": "jo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d59e9a1921dfc78172d95012858383bf0901aac8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c7f687c3a57d8f3b931f1e760657237991cb95.png",
     "website": "https://askjo.ai",
     "all_locations": "Menlo Park, CA, USA; Remote",
-    "long_description": "jo is a voice-first digital personality that works alongside you every day – a smart and efficient new friend who saves you time and money while improving your quality of life.\r\nAs of now, jo runs only on macOS desktop, and only on Apple Silicon.",
-    "one_liner": "jo is a voice-first digital personality that works alongside you…",
+    "long_description": "jo is a personal AI that runs on your Mac and a private cloud machine we host for you. It knows your life, improves itself autonomously, chats via Telegram and WhatsApp, and never shares your data. \r\n\r\nLess \"chatbot\" and more \"a second brain that does things.\"",
+    "one_liner": "A new personal AI that actually knows you.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -30605,8 +30647,8 @@
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Asteroid builds and hosts AI browser agents for back-office tasks. With guardrails, evaluations, and human oversight, we deliver enterprise-grade reliability across millions of operations, even in regulated industries. Companies can build agents themselves or rely on us to deliver and maintain them.",
-    "one_liner": "AI Browser Agents for the Back-Office",
-    "team_size": 4,
+    "one_liner": "AI Browser Workforce for Operation Teams",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734639467,
@@ -34092,6 +34134,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json"
   },
   {
+    "id": 30641,
+    "name": "Overdrive Health",
+    "slug": "overdrive-health",
+    "former_names": [
+      "Overdrive Health",
+      "Overdrive"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f6d5714c40148baca15996e7bc186b870ee0af4.png",
+    "website": "https://overdrive.health",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
+    "one_liner": "AI Powered Medical Billing",
+    "team_size": 1,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1761922527,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overdrive-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/overdrive-health.json"
+  },
+  {
     "id": 30643,
     "name": "Nuntius",
     "slug": "nuntius",
@@ -34130,6 +34217,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuntius",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
+  },
+  {
+    "id": 30644,
+    "name": "Wafer",
+    "slug": "wafer",
+    "former_names": [
+      "Herdora",
+      "wafer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
+    "website": "https://www.wafer.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI that optimizes AI",
+    "one_liner": "AI that makes AI fast",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751530242,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wafer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
   },
   {
     "id": 30645,
@@ -34214,49 +34343,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cyberdesk",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
-  },
-  {
-    "id": 30649,
-    "name": "Lilac",
-    "slug": "lilac",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
-    "website": "https://getlilac.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper compute while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
-    "one_liner": "Spot GPUs that use idle GPUs from enterprises",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1754345371,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lilac",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lilac.json"
   },
   {
     "id": 30651,
@@ -36857,49 +36943,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
   },
   {
-    "id": 30896,
-    "name": "Multifactor",
-    "slug": "multifactor",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png",
-    "website": "https://multifactor.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The agentic era is here, but its foundation is dangerously insecure. A growing number of high-profile \"AI agent gone rogue\" security incidents make headlines each week.\r\n\r\nAs enterprise adoption of agentic software has far outpaced the development of applicable cybersecurity solutions, CISOs have loudly voiced a growing need for verifiable, fine-grained security controls on complex multi-agent systems. That's why we built Multifactor.\r\n\r\nMultifactor offers best-in-class authentication, authorization, and auditing technologies for agentic systems, allowing users to securely and revocably share online accounts with agents while maintaining fine-grained permissions and a detailed event history. We are doing for AI security what Cloudflare did for web security, Okta did for identity security, and Wiz did for cloud security: defining the category.\r\n\r\nA world-class \"account manager\" that allows agents to securely use online accounts on your behalf is just the start—our early enterprise partners include companies using AI agents to manage $7.5+ billion manufacturing supply chains, where the consequences for lapses in security are severe. Our patented AI security technology seamlessly integrates with existing agentic software to thwart attacks like prompt injection, so CISOs and end users alike can breathe a sigh of relief, without slowing the pace of AI adoption.",
-    "one_liner": "Zero-trust authentication, authorization, and auditing for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1758318085,
-    "tags": [
-      "Artificial Intelligence",
-      "Security",
-      "Cryptography",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/multifactor",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
-  },
-  {
     "id": 30905,
     "name": "Travo",
     "slug": "travo",
@@ -38024,44 +38067,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
   },
   {
-    "id": 31002,
-    "name": "Clicks",
-    "slug": "clicks",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5305c55b4b60ebbe6d4f336c1c814b90415438cb.png",
-    "website": "https://goclicks.ai/",
-    "all_locations": "",
-    "long_description": "Clicks automates your back-office using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as your back-office worker that can handle any repetitive task. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% outcome based: you only pay for the work outputs we complete (e.g., candidates added to CRM, reports generate, etc.). Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
-    "one_liner": "Computer use agents to automate all back-office work",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1759173987,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clicks",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
-  },
-  {
     "id": 31010,
     "name": "Fixpoint",
     "slug": "fixpoint",
@@ -38529,6 +38534,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cofia",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cofia.json"
+  },
+  {
+    "id": 31107,
+    "name": "Clam (formerly Baseframe)",
+    "slug": "clam",
+    "former_names": [
+      "BaseFrame",
+      "Clam"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5a9e3c752f35fdf71eba1c872ab536a75ec4db4.png",
+    "website": "https://tryclam.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI frameworks like OpenClaw have a major issue: data security. \r\n\r\nWhether you're an enterprise or an individual exploring AI, your data should stay protected.\r\n\r\nClam brings enterprise-grade security through their “Semantic Firewall”, a security checkpoint that sits around the AI's environment at the network level. \r\n\r\nOur system runs a series of scans on anything your AI sends out into the world and everything that comes in to catch inconsistencies before they turn into problems. Each message is scanned for personal info leaks (SSNs, credit cards, private keys), prompt injection attempts (jailbreaks, instruction overrides), and malicious code (reverse shells, encoded execution). \r\n\r\nTo keep your data even safer, API keys and secrets are injected at the network level so the AI never sees or stores your credentials. \r\n\r\nDeploy and set up broad-access AI agents built on security with Clam. \r\n",
+    "one_liner": "Enterprise-grade security for broad-access AI Agents like OpenClaw",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768518655,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Security",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clam",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/clam.json"
   },
   {
     "id": 31108,
@@ -39436,7 +39485,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
     "website": "https://stilta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stilta is agentic AI software for patents. It runs search and analysis at a scale and depth that existing methods can't match - in minutes rather than weeks, finding evidence others miss where the stakes are the highest. \r\n\r\nInnovation is key to solving the world's most important challenges, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable.\r\n\r\nWe're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the patent practitioners working with the world's most valuable ideas with tools that match the stakes. Our customers include leading firms in both Europe and the US.",
+    "long_description": "Stilta builds agentic AI software for patents. It runs search and analysis at a scale and depth that existing methods can't match - in minutes rather than weeks, finding evidence others miss where the stakes are the highest. \r\n\r\nInnovation is key to solving the world's most important challenges, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable. This has not been technically possible until a few months ago. \r\n\r\nWe're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the patent practitioners working with the world's most valuable ideas with tools that match the stakes. Our customers include leading firms in both Europe and the US.",
     "one_liner": "Agentic AI for patent attorneys",
     "team_size": 4,
     "industry": "B2B",
@@ -40145,46 +40194,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
   },
   {
-    "id": 31227,
-    "name": "Sequence Markets",
-    "slug": "sequence-markets",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
-    "website": "https://sequencemkts.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
-    "one_liner": "Smarter and faster trade execution for digital assets",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1767826402,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sequence-markets",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
-  },
-  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -40610,6 +40619,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pollinate.json"
   },
   {
+    "id": 31280,
+    "name": "Rubric AI",
+    "slug": "rubric-ai",
+    "former_names": [
+      "Bazaar AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76cd968796cb7fcfbf591c0c9f9bb7cdf5683449.png",
+    "website": "https://therubric.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rubric AI is a post-training research lab (backed by Y Combinator) building the human and computational layer that turns expert judgment into training signals for frontier models and agents. We believe that shaping the world's most consequential AI systems requires both purpose-built training environments and exceptional judgment.",
+    "one_liner": "Post-training research and product lab",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772427101,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rubric-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/rubric-ai.json"
+  },
+  {
     "id": 31283,
     "name": "Librar Labs",
     "slug": "librar-labs",
@@ -40689,48 +40744,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/origami-robotics",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/origami-robotics.json"
-  },
-  {
-    "id": 31300,
-    "name": "Shofo",
-    "slug": "shofo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
-    "website": "https://shofo.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We maintain the world’s largest index of short-form videos and run a human-in-the-loop pipeline to clean, segment, and label this data for AI labs. For example, if a lab needs 50k cooking videos featuring hand-object interactions, we query our index, run the results through our labeling pipeline, and deliver a clean, annotated dataset.",
-    "one_liner": "Common Crawl for Video",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768432806,
-    "tags": [
-      "Artificial Intelligence",
-      "Video",
-      "Data Labeling",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shofo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
   },
   {
     "id": 31307,

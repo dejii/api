@@ -13252,6 +13252,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/benepass.json"
   },
   {
+    "id": 13179,
+    "name": "Signadot",
+    "slug": "signadot",
+    "former_names": [
+      "blipbox",
+      "signadot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/768c0b0d1a92b7adab11c2cc4c95cefa19ffdf27.png",
+    "website": "https://www.signadot.com/",
+    "all_locations": "San Mateo, CA, USA; Remote",
+    "long_description": "Signadot is a Kubernetes-native platform that accelerates the development of microservices based applications. Using Signadot developers test and preview their code changes early in the development lifecycle and iterate 10x faster.",
+    "one_liner": "Shift Left Testing for Microservices",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1614132625,
+    "tags": [
+      "Developer Tools",
+      "Kubernetes"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/signadot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/signadot.json"
+  },
+  {
     "id": 13208,
     "name": "Whatnot",
     "slug": "whatnot",
@@ -17564,49 +17609,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/medme-health.json"
   },
   {
-    "id": 22667,
-    "name": "Finley",
-    "slug": "finley",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8f7eafbaed6e4784352f8ba9e3f4c19615d784e.png",
-    "website": "https://www.finleycms.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finley simplifies debt capital raise and management. Our software helps companies like Ramp, Arc and Parafin automate due diligence, ensure compliance, and streamline ongoing reporting with their capital providers. Our team brings experience from Goldman Sachs, Nova Credit, and Palantir Technologies, and is backed by Y Combinator and Bain Capital Ventures.",
-    "one_liner": "Streamline your debt capital raise and management",
-    "team_size": 32,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1613622206,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/finley",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/finley.json"
-  },
-  {
     "id": 22668,
     "name": "Hapi",
     "slug": "hapi",
@@ -18669,7 +18671,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28779,7 +28781,7 @@
     "all_locations": "CA, USA; Remote",
     "long_description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\r\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
     "one_liner": "Team-based authentication for B2B SaaS",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1642107038,
@@ -31917,6 +31919,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/diversion.json"
   },
   {
+    "id": 26912,
+    "name": "iollo",
+    "slug": "iollo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
+    "website": "https://iollo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
+    "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1656567327,
+    "tags": [
+      "Generative AI",
+      "Biotech",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/iollo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
+  },
+  {
     "id": 26913,
     "name": "Aurelian",
     "slug": "aurelian",
@@ -32906,7 +32952,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee27828a872551486a5a61cefdc3f0f73dca1b91.png",
     "website": "https://algotest.in",
     "all_locations": "Delhi, DL, India",
-    "long_description": "AlgoTest is an algorithmic options trading platform for Indian retail traders. For the first time ever, day traders will be able to trade using the same technology as the top hedge funds and high-frequency trading firms of the world.\r\n\r\nThe company is founded by Raghav Malik (Financial Engineering @ Columbia Univ), an HFT technologist and former options market-maker in the US; and Rajat Jaiswal (IIT Delhi CSE), who built their scalable algorithmic testing platform while still in college. ",
+    "long_description": "AlgoTest is an algorithmic options trading platform for Indian retail traders. For the first time ever, day traders will be able to trade using the same technology as the top hedge funds and high-frequency trading firms of the world.\r\n\r\nThe company is founded by Raghav Malik (Financial Engineering @ Columbia Univ), an HFT technologist and former options market-maker in the US.",
     "one_liner": "Ecosystem for options trading in India",
     "team_size": 28,
     "industry": "Fintech",
@@ -33125,7 +33171,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
     "website": "https://www.landeed.com/",
     "all_locations": "Hyderabad, Telangana, India",
-    "long_description": "Landeed is the digital infrastructure for property intelligence, verification, and transactions in India. We provide read/write rails that turn fragmented property and regulatory records into verified data for managing compliance and completing transactions. Landeed uses AI-powered document intelligence and proprietary language models to convert messy records into queryable data that powers title search, legal-grade due diligence, collateral verification, title transfers and property payments. With coverage across 24 states, enterprises go live nationally from day one. We are trusted by Fortune India 500 companies across BFSI, real estate, and retail.\r\n\r\nLandeed is the blue tick for property.",
+    "long_description": "Landeed is the AI-native digital infrastructure for property intelligence, verification, and transactions in India. We provide read/write rails that transform fragmented property and regulatory systems into continuously verified, machine-interpretable state. Powered by Terra, our proprietary property intelligence engine, Landeed converts messy, multi-source records into structured, queryable knowledge that supports legal-grade due diligence, collateral verification, title search, transfers, and property payments. With coverage across 24 states, enterprises go live nationally from day one. We are trusted by Fortune India 500 companies across BFSI, real estate, and retail.\r\n\r\nLandeed is the blue tick for property.",
     "one_liner": "Landeed is India’s digital infrastructure for property intelligence,…",
     "team_size": 35,
     "industry": "Fintech",
@@ -34306,13 +34352,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png",
     "website": "https://www.ohm.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ohm supports battery design & manufacturing teams globally. Our customers include battery manufacturers (traditional and next-generation chemistries) and Fortune 100 technology companies that use batteries in their products.",
-    "one_liner": "AI \"co-scientists\" for battery design & manufacturing",
+    "long_description": "Ohm is transforming how physical products are developed, using AI. We support major tech enterprises across batteries, automotive and consumer electronics to reimagine how they develop, test and validate their products. Ohm is used by leading engineering teams to launch new hardware products faster, optimize engineer productivity and reduce the cost of engineering test programs.",
+    "one_liner": "Ohm helps engineering labs develop better products faster, with AI.",
     "team_size": 6,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "subindustry": "Industrials",
     "launched_at": 1676603508,
     "tags": [
+      "Artificial Intelligence",
       "Data Engineering",
       "AI"
     ],
@@ -34323,8 +34370,7 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -38816,7 +38862,7 @@
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "Summer 2023",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -38832,7 +38878,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/menza",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/menza.json"
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/menza.json"
   },
   {
     "id": 28880,
@@ -39618,7 +39664,7 @@
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
-    "one_liner": "Your tests pass. But standards slip.",
+    "one_liner": "Quality control for your software factory",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -40473,10 +40519,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "ParadeDB is an open source, ACID-compliant search and analytics database. Built on Postgres for update-heavy workloads.",
-    "one_liner": "The transactional Elasticsearch alternative built on Postgres",
-    "team_size": 8,
+    "one_liner": "Simple, Elastic-quality search for Postgres",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -51278,48 +51324,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/crustdata.json"
   },
   {
-    "id": 30080,
-    "name": "Dexter",
-    "slug": "dexter",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc1d327c6dd1df139ea6177767194e0a1289d32b.png",
-    "website": "https://www.getdexter.co/",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "AI procurement agents built for European enterprises. Automate intake, supplier onboarding, contracts, order tracking, and 4-way match.",
-    "one_liner": "AI-powered Procure-to-Pay",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1727913374,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Workflow Automation",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dexter",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/dexter.json"
-  },
-  {
     "id": 30083,
     "name": "Curo",
     "slug": "curo",
@@ -55873,7 +55877,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png",
     "website": "https://withnixo.com/",
     "all_locations": "",
-    "long_description": "FDE teams manage some of the most complex customer engagements: enterprise onboarding, custom integrations, and high-stakes deployments where precision matters. Nixo defines the new standard of FDEOps -- bringing clarity, automation, and operational precision to every customer engagement. With Nixo, forward-deployed services can finally scale with SaaS-level efficiency and margins.",
+    "long_description": "​Nixo is the platform FDE teams use to unlock SaaS-level margins from services work. Connect customer conversations, engineering todos, and project delivery in one place to turn your custom work into repeatable leverage.",
     "one_liner": "The first ops platform for forward deployed engineers",
     "team_size": 4,
     "industry": "B2B",
@@ -57468,14 +57472,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
     "website": "https://www.wafer.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Profile, optimize, and ship GPU kernels at speed of light",
+    "long_description": "AI that optimizes AI",
     "one_liner": "AI that makes AI fast",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58452,44 +58456,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/iron-grid",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/iron-grid.json"
-  },
-  {
-    "id": 30725,
-    "name": "Minimal AI",
-    "slug": "minimal-ai",
-    "former_names": [
-      "Minimal AI",
-      "Minimal AI, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c63bc96cffb87cb2d06890455f91a39acb01d02d.png",
-    "website": "https://gominimal.ai/",
-    "all_locations": "",
-    "long_description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 90%+ of tickets while increasing revenue.",
-    "one_liner": "AI Agents for E-commerce Customer Support",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1755048998,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/minimal-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/minimal-ai.json"
   },
   {
     "id": 30726,
@@ -60052,6 +60018,42 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
   },
   {
+    "id": 30896,
+    "name": "Multifactor",
+    "slug": "multifactor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png",
+    "website": "https://multifactor.com",
+    "all_locations": "",
+    "long_description": "The agentic era is here, but its foundation is dangerously insecure. A growing number of high-profile \"AI agent gone rogue\" security incidents make headlines each week.\r\n\r\nAs enterprise adoption of agentic software has far outpaced the development of applicable cybersecurity solutions, CISOs have loudly voiced a growing need for verifiable, fine-grained security controls on complex multi-agent systems. That's why we built Multifactor.\r\n\r\nMultifactor offers best-in-class authentication, authorization, and auditing technologies for agentic systems, allowing users to securely and revocably share online accounts with agents while maintaining fine-grained permissions and a detailed event history. We are doing for AI security what Cloudflare did for web security, Okta did for identity security, and Wiz did for cloud security: defining the category.\r\n\r\nA world-class \"account manager\" that allows agents to securely use online accounts on your behalf is just the start—our early enterprise partners include companies using AI agents to manage $7.5+ billion manufacturing supply chains, where the consequences for lapses in security are severe. Our patented AI security technology seamlessly integrates with existing agentic software to thwart attacks like prompt injection, so CISOs and end users alike can breathe a sigh of relief, without slowing the pace of AI adoption.",
+    "one_liner": "Zero-trust authentication, authorization, and auditing for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1758318085,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/multifactor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
+  },
+  {
     "id": 30914,
     "name": "Sunflower",
     "slug": "sunflower",
@@ -60752,15 +60754,15 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5305c55b4b60ebbe6d4f336c1c814b90415438cb.png",
     "website": "https://goclicks.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Clicks automates your back-office using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as your back-office worker that can handle any repetitive task. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% outcome based: you only pay for the work outputs we complete (e.g., candidates added to CRM, reports generate, etc.). Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
     "one_liner": "Computer use agents to automate all back-office work",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1759173987,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60773,7 +60775,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -61029,6 +61032,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bujo",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/bujo.json"
+  },
+  {
+    "id": 31146,
+    "name": "Arcline",
+    "slug": "arcline",
+    "former_names": [
+      "https://www.arcline-ai.com/",
+      "Arcline AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
+    "website": "https://www.arcline-ai.com/",
+    "all_locations": "",
+    "long_description": "Arcline provides AI-native legal services for startups, with same-day turnaround & elite lawyers in the loop. Our AI does 80% of the work, so startups pay elite lawyers only for the final 20%.\r\n\r\nArcline’s founder Pamir, ex-outside counsel to OpenAI, saw the same issues on repeat when lawyers were serving startups: simple legal work took weeks, pricing was opaque, and lawyers kept starting from scratch instead of using AI.\r\n\r\nWe’ve built a bench of top-tier startup lawyers to change that - folks from top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). \r\n\r\nArcline’s lawyers start with first drafts generated with AI, and then do final revisions. This ends up reducing the work by up to 80% - so startups pay elite lawyers only for the final 20%.\r\n\r\nMore importantly, your legal matters can often be handled same-day. No other law firm today offers this kind of speed.\r\n\r\nWe’ve scaled to helping several Y-companies and 50+ venture-backed startups across the US and Nordics. \r\n\r\nDiscover Arcline: arcline-ai.com",
+    "one_liner": "Startup legal work handled by elite lawyers & same-day turnaround",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1767976988,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcline",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
     "id": 31175,
@@ -61329,10 +61372,10 @@
     "slug": "pocket",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7b4a695b429eabb8374b32ddca5ea66043822a7.png",
-    "website": "https://heypocket.com/",
+    "website": "https://heypocket.com/now",
     "all_locations": "",
-    "long_description": "Pocket is a tiny AI device that lives on your phone and turns everything you say and hear into clear notes, action items, and search. We combine custom hardware, AI, and software to build the best note-taking experience for people who talk and move fast",
-    "one_liner": "The world's best AI note-taking device and app",
+    "long_description": "Pocket is a small AI device that turns everything you say and hear into clear notes, action items, and search. We combine custom hardware, AI, and software to build the best note-taking experience for people who talk and move fast",
+    "one_liner": "Take Notes in the Real World",
     "team_size": 6,
     "industry": "Consumer",
     "subindustry": "Consumer",

@@ -3259,7 +3259,7 @@
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "Summer 2023",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "B2B",
@@ -3275,7 +3275,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/menza",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/menza.json"
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/menza.json"
   },
   {
     "id": 28978,
@@ -3634,11 +3634,11 @@
     "name": "jo",
     "slug": "jo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d59e9a1921dfc78172d95012858383bf0901aac8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c7f687c3a57d8f3b931f1e760657237991cb95.png",
     "website": "https://askjo.ai",
     "all_locations": "Menlo Park, CA, USA; Remote",
-    "long_description": "jo is a voice-first digital personality that works alongside you every day – a smart and efficient new friend who saves you time and money while improving your quality of life.\r\nAs of now, jo runs only on macOS desktop, and only on Apple Silicon.",
-    "one_liner": "jo is a voice-first digital personality that works alongside you…",
+    "long_description": "jo is a personal AI that runs on your Mac and a private cloud machine we host for you. It knows your life, improves itself autonomously, chats via Telegram and WhatsApp, and never shares your data. \r\n\r\nLess \"chatbot\" and more \"a second brain that does things.\"",
+    "one_liner": "A new personal AI that actually knows you.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -6940,10 +6940,11 @@
   },
   {
     "id": 31107,
-    "name": "Clam",
+    "name": "Clam (formerly Baseframe)",
     "slug": "clam",
     "former_names": [
-      "BaseFrame"
+      "BaseFrame",
+      "Clam"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5a9e3c752f35fdf71eba1c872ab536a75ec4db4.png",
     "website": "https://tryclam.com",
@@ -6955,9 +6956,9 @@
     "subindustry": "B2B",
     "launched_at": 1768518655,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
       "Security",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -7235,5 +7236,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vela",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
+  },
+  {
+    "id": 31454,
+    "name": "Datost",
+    "slug": "datost",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7a36530e9bfa96520dc57d94e0caba5e843fd40.png",
+    "website": "https://www.datost.com",
+    "all_locations": "",
+    "long_description": "The first AI data analyst that has its own computer. It sees and understands your docs, Slack, databases, data lakes, and codebase. Query, debug, and analyze right where your team works.",
+    "one_liner": "AI data analyst in Slack. Democratize data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1772488469,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datost",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
   }
 ]
