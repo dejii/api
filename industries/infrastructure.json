@@ -3532,7 +3532,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/768c0b0d1a92b7adab11c2cc4c95cefa19ffdf27.png",
     "website": "https://www.signadot.com/",
     "all_locations": "San Mateo, CA, USA; Remote",
-    "long_description": "Signadot is a Kubernetes-native platform that accelerates the development of microservices based applications. Using Signadot developers test and preview their code changes early in the development lifecycle and iterate 10x faster.",
+    "long_description": "Signadot is a K8s-native platform for agentic validation. As AI accelerates code generation, verification is the new bottleneck. We provide ephemeral environments and a validation framework for microservices, ensuring high-velocity generation results in safely merged production code.",
     "one_liner": "Shift Left Testing for Microservices",
     "team_size": 8,
     "industry": "B2B",
@@ -6872,11 +6872,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1674447011,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Web Development",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10332,10 +10332,12 @@
   },
   {
     "id": 30762,
-    "name": "Kernel",
+    "name": "KERNEL",
     "slug": "kernel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png",
+    "former_names": [
+      "Kernel"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b651ae4215e55c6eec3b366c18c9dcdd7838a97.png",
     "website": "https://www.kernel.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kernel is crazy fast, open source infra for AI agents to access the internet 🧠🕸️\r\n- Built on unikernels for crazy fast cold starts and low resource usage\r\n- Sub-150ms cold starts on managed headful browsers\r\n- Built-in stealth mode with residential proxies and automatic CAPTCHA solving\r\n- Full observability: session recording, live view, and full logs\r\n- Persistent sessions that maintain cookies and auth across invocations\r\n- Native support for all browser and computer use frameworks\r\n- SOC 2 compliant and HIPAA-ready\r\n\r\nTrusted by Cash App, Rye, and 1000+ others. Backed by Accel & Y Combinator (S25).",
@@ -10366,7 +10368,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10767,7 +10769,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -10828,9 +10830,11 @@
   },
   {
     "id": 31036,
-    "name": "Mantis Biotechnology",
-    "slug": "mantis-biotechnology",
-    "former_names": [],
+    "name": "Mantis",
+    "slug": "mantis",
+    "former_names": [
+      "Mantis Biotechnology"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
     "website": "https://mantisbiotech.com/",
     "all_locations": "New York, NY, USA",
@@ -10841,9 +10845,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1766166166,
     "tags": [
+      "Artificial Intelligence",
       "Sports Tech",
       "Biotech",
-      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -10865,8 +10869,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mantis-biotechnology",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis-biotechnology.json"
+    "url": "https://www.ycombinator.com/companies/mantis",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis.json"
   },
   {
     "id": 31078,
@@ -11520,6 +11524,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/oximy.json"
   },
   {
+    "id": 31250,
+    "name": "The Token Company",
+    "slug": "the-token-company",
+    "former_names": [
+      "Otsofy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6d23e94e331354b9f326725df83ff557b97c1a.png",
+    "website": "https://thetokencompany.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Compression middleware that removes context bloat in milliseconds, lowering costs and improving end-to-end latency.\r\n\r\nCompression is especially effective across natural language workloads. In a blind LLM arena case study with one of our customers, compressed requests increased user preference, lowered costs, and lifted purchase volume by 5%.",
+    "one_liner": "Compression middleware that improves LLM outputs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772525778,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/the-token-company",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
+  },
+  {
     "id": 31252,
     "name": "Moda",
     "slug": "moda",
@@ -11527,8 +11578,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
     "website": "https://usemoda.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moda is the monitoring & analytics layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
-    "one_liner": "The monitoring & analytics layer your AI agents need.",
+    "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
+    "one_liner": "The reliability & monitoring layer your AI agents need.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11614,17 +11665,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the world's largest index of videos by combining two sources: public video collected and cleaned from the open web, and private video aggregated from hundreds of smaller companies that can't sell directly to labs. Both feed into a single, continuously updating index of billions of videos that we clean, segment, and label to build custom datasets for AI teams. For example, if a lab needs 50K cooking videos featuring hand-object interactions, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
+    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions in Spanish, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
     "one_liner": "Common Crawl for Video",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
     "tags": [
+      "Artificial Intelligence",
       "Video",
       "Data Labeling",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,

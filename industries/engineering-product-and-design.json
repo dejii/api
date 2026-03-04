@@ -8637,7 +8637,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10789,10 +10789,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628647063,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Robotic Process Automation",
       "SaaS",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -10800,7 +10800,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -19880,10 +19880,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23664,9 +23664,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755546681,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
-      "Consumer",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24812,16 +24812,16 @@
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
-    "one_liner": "Production Monitoring for AI Products",
+    "one_liner": "Production Monitoring for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24847,16 +24847,17 @@
   },
   {
     "id": 31123,
-    "name": "1code (21st.dev)",
-    "slug": "1code-21stdev",
+    "name": "21st.dev",
+    "slug": "21stdev",
     "former_names": [
       "21st",
       "1code by 21st.dev",
       "1code (21st.dev)",
-      "1code (ex: 21st.dev)"
+      "1code (ex: 21st.dev)",
+      "1code (21st.dev)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
-    "website": "https://21st.dev/agents",
+    "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
     "one_liner": "Orchestration layer for coding agents",
@@ -24888,8 +24889,48 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/1code-21stdev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/1code-21stdev.json"
+    "url": "https://www.ycombinator.com/companies/21stdev",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21stdev.json"
+  },
+  {
+    "id": 31131,
+    "name": "Zatanna",
+    "slug": "zatanna",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
+    "website": "https://www.zatanna.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Request Based Scraping Infrastructure",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1770919305,
+    "tags": [
+      "Developer Tools",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zatanna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
   },
   {
     "id": 31151,
@@ -25016,6 +25057,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/visibl-semiconductors",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/visibl-semiconductors.json"
+  },
+  {
+    "id": 31192,
+    "name": "Approxima",
+    "slug": "approxima",
+    "former_names": [
+      "Sidekit",
+      "SideKit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6e6d183a6369dfc8a86aad778e45ad07d16406f.png",
+    "website": "https://approxima.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Human-assisted development should be for novel ideation, not routine maintenance, bug fixes or incremental updates. Approxima is bringing you that future with agents that can scope work, code, validate their fixes end-to-end in sandbox environments and merge to production. Book a demo: https://calendly.com/ashish-selvaraj/approxima",
+    "one_liner": "Your software should build itself.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767593677,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/approxima",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
   },
   {
     "id": 31215,

@@ -4553,17 +4553,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png",
     "website": "https://avoice.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Avoice brings your studio’s work together on one intelligent platform that automates the parts of practice that drain time from design. It understands your sheets, specs, schedules, materials, codes, and past projects, allowing precise automation across documentation, coordination, QA/QC, and research. Avoice also transforms your firm’s design knowledge and material libraries into a connected and searchable system that preserves standards and elevates consistency. With every document, workflow, and insight in one place, tasks that once took hours now take moments, giving your team more clarity, more momentum, and more room for meaningful architectural work.",
-    "one_liner": "The AI Workspace For Architects",
+    "long_description": "Avoice is an AI-native workspace for architecture firms that automates the operational work that takes time away from design. The platform uses AI agents that understand drawings, specifications, schedules, materials, codes, and past projects to automate documentation, coordination, QA/QC, and research. Today, firms using Avoice manage over $300M in active projects on the platform.\r\n\r\nArchitecture is a massive market ($300B+) but a deeply underserved one: highly fragmented, dominated by small firms, and reliant on legacy tools that require heavy customization. AI creates a unique opportunity to deliver firm-specific automation at scale, and Avoice brings these workflows into become the operating system for architectural practice.",
+    "one_liner": "Harvey for Architecture",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1763995110,
     "tags": [
+      "Artificial Intelligence",
       "Construction",
       "Enterprise Software",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4766,22 +4766,23 @@
   },
   {
     "id": 31192,
-    "name": "SideKit",
-    "slug": "sidekit",
+    "name": "Approxima",
+    "slug": "approxima",
     "former_names": [
-      "Sidekit"
+      "Sidekit",
+      "SideKit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/923f7727ac47ca154e697215a6b4b67fabe575b0.png",
-    "website": "https://appsidekit.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6e6d183a6369dfc8a86aad778e45ad07d16406f.png",
+    "website": "https://approxima.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "It's never been easier to turn ideas into apps, it should be just as easy to take those apps to production. SideKit provides one SDK to manage app versions, set feature flags and install privacy-first analytics to track usage.\r\n\r\nUpdate broke your paywall? One click to block the version. Made a breaking change and don't want users on your old version? One click to set a minimum version. Version gating is also completely free regardless of how many users you have.",
-    "one_liner": "One package to take your mobile app to production. ",
+    "long_description": "Human-assisted development should be for novel ideation, not routine maintenance, bug fixes or incremental updates. Approxima is bringing you that future with agents that can scope work, code, validate their fixes end-to-end in sandbox environments and merge to production. Book a demo: https://calendly.com/ashish-selvaraj/approxima",
+    "one_liner": "Your software should build itself.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767593677,
     "tags": [
-      "API",
+      "Artificial Intelligence",
       "Enterprise Software",
       "Infrastructure"
     ],
@@ -4793,7 +4794,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -4804,8 +4805,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sidekit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sidekit.json"
+    "url": "https://www.ycombinator.com/companies/approxima",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
   },
   {
     "id": 31208,

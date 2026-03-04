@@ -311,11 +311,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c6d34be502792f6dd14717502e2286fd5399a8b.png",
     "website": "https://n0labs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide defense companies with simulation infrastructure train and validate autonomous systems.\r\n",
+    "long_description": "We provide defense companies with simulation infrastructure to train and validate autonomous systems.\r\n",
     "one_liner": "End-to-end Simulation for Defense Autonomy",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials",
+    "subindustry": "Industrials -> Defense",
     "launched_at": 1763086396,
     "tags": [
       "Robotics",
@@ -328,7 +328,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "Industrials"
+      "Industrials",
+      "Defense"
     ],
     "regions": [
       "United States of America",
@@ -401,7 +402,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
     "website": "https://www.fernstone.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Fernstone is a a full-stack insurance brokerage for complex risk. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and security companies use Fernstone to obtain coverage to close contracts and obtain licenses. ",
+    "long_description": "Fernstone is a full stack insurance brokerage: we combine AI with licensed brokers to obtain complex insurance faster, and at better terms. Today, we manage risk for 100+ businesses in construction, security, and logistics. ",
     "one_liner": "Full-stack insurance brokerage for businesses. ",
     "team_size": 2,
     "industry": "Fintech",
@@ -2822,7 +2823,7 @@
     "subindustry": "Consumer",
     "launched_at": 1761373763,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5669,7 +5670,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",

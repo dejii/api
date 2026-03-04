@@ -2118,10 +2118,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628647063,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Robotic Process Automation",
       "SaaS",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2129,7 +2129,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -7079,15 +7079,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Flint is the leading personalized learning platform proven to increase student engagement, performance, and collaboration. With AI-native student analytics, instant feedback, and interactive activities, Flint is there for teachers who want to provide individualized attention, students who want a 24/7 tutor that's perfectly attuned to their needs, and admins who want proper AI guardrails and responsible AI use in their school community.",
     "one_liner": "Personalized learning built for schools",
-    "team_size": 14,
+    "team_size": 18,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1686701426,
     "tags": [
+      "Artificial Intelligence",
       "Education",
       "Generative AI",
-      "Edtech",
-      "AI"
+      "Edtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7104,7 +7104,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11563,6 +11563,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bear.json"
   },
   {
+    "id": 31082,
+    "name": "Syntropy",
+    "slug": "syntropy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
+    "website": "https://syntropy.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntropy is an agentic coding app for spec-driven autonomous development on complex long-horizon tasks, optimized for enterprise-scale projects. Just describe the feature you want, go out for lunch, and come back to a fully tested PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integration.",
+    "one_liner": "Ship code like a power user from day one.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772518250,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Workflow Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntropy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/syntropy.json"
+  },
+  {
     "id": 31091,
     "name": "Sonarly",
     "slug": "sonarly",
@@ -11695,18 +11738,18 @@
       "Ishiki Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "https://www.ishikilabs.ai/",
+    "website": "http://getfern.ai",
     "all_locations": "",
-    "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
+    "long_description": "We're building a sales intelligence platform that's centered on a realtime meeting copilot, which proactively surfaces up answers to any of the prospects product questions live during the call.",
     "one_liner": "Realtime AI starting with sales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI",
-      "AI"
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

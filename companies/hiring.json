@@ -5016,10 +5016,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a948f29975bf2b196b795d5f07b1c3693862d66e.png",
     "website": "https://www.clipboardhealth.com/careers",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives by letting professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects workplaces and professionals, allowing professionals to book on-demand shifts and workplaces to access on-demand talent.",
     "one_liner": "Connects workplaces with professionals nearby.",
-    "team_size": 800,
+    "team_size": 1000,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1478221234,
@@ -5042,9 +5042,9 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8854,51 +8854,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/prodigal.json"
   },
   {
-    "id": 1994,
-    "name": "Bot MD",
-    "slug": "bot-md",
-    "former_names": [
-      "Doc Bot",
-      "Bot",
-      "M.D.",
-      "5 Health",
-      "Bot M.D."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f1e609dbf04a24cdb56fcd4771c47aa0ce6074.png",
-    "website": "https://www.botmd.io",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "Bot MD is an A.I assistant for doctors. Our company's mission is to Empower Doctors around the world. Bot MD can be trained on any type of hospital content to provide instant answers to clinical questions.",
-    "one_liner": "AI Clinical Assistant for Doctors",
-    "team_size": 15,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1525748781,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bot-md",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/bot-md.json"
-  },
-  {
     "id": 1995,
     "name": "ZiffyHomes",
     "slug": "ziffyhomes",
@@ -11712,49 +11667,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2019/yummy-future.json"
   },
   {
-    "id": 12625,
-    "name": "UpEquity",
-    "slug": "upequity",
-    "former_names": [
-      "LnderLab",
-      "UpEquity (formerly LnderLab)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5870e54989fa2ad2924601c8cdded8fa7e18963.png",
-    "website": "http://www.upequity.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "UpEquity is removing contingencies for home buyers so that they have more negotiating leverage when purchasing their next home. ",
-    "one_liner": "UpEquity gives homebuyers more certainty and power. ",
-    "team_size": 90,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1600817277,
-    "tags": [
-      "Fintech",
-      "Real Estate"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upequity",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/upequity.json"
-  },
-  {
     "id": 12639,
     "name": "Banner",
     "slug": "banner",
@@ -13262,7 +13174,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/768c0b0d1a92b7adab11c2cc4c95cefa19ffdf27.png",
     "website": "https://www.signadot.com/",
     "all_locations": "San Mateo, CA, USA; Remote",
-    "long_description": "Signadot is a Kubernetes-native platform that accelerates the development of microservices based applications. Using Signadot developers test and preview their code changes early in the development lifecycle and iterate 10x faster.",
+    "long_description": "Signadot is a K8s-native platform for agentic validation. As AI accelerates code generation, verification is the new bottleneck. We provide ephemeral environments and a validation framework for microservices, ensuring high-velocity generation results in safely merged production code.",
     "one_liner": "Shift Left Testing for Microservices",
     "team_size": 8,
     "industry": "B2B",
@@ -18671,7 +18583,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22539,49 +22451,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/lago.json"
   },
   {
-    "id": 24158,
-    "name": "Forage",
-    "slug": "forage-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23991b3eac1d06368b01c2f9ce5b893ba315f039.png",
-    "website": "http://www.joinforage.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Forage is a mission-driven payments company that helps businesses accept government benefits through a single, unified API. Today, over 42 million Americans receive government assistance (ex: Supplemental Nutrition Assistance Program, or SNAP) to buy groceries. Starting with enabling EBT SNAP online, Forage builds the financial infrastructure empowering businesses to serve these shoppers online.",
-    "one_liner": "Payments infrastructure for government benefits",
-    "team_size": 43,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1624983119,
-    "tags": [
-      "Fintech",
-      "GovTech",
-      "Payments"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/forage-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/forage-2.json"
-  },
-  {
     "id": 24159,
     "name": "Patterns",
     "slug": "patterns",
@@ -25538,7 +25407,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.",
     "one_liner": "Web search rebuilt for LLMs",
-    "team_size": 22,
+    "team_size": 75,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1628280127,
@@ -25560,7 +25429,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33736,11 +33605,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1674447011,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Web Development",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35387,52 +35256,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/storyboarder.json"
   },
   {
-    "id": 27919,
-    "name": "Helicone",
-    "slug": "helicone",
-    "former_names": [
-      "Prompt Zero",
-      "TableTalk",
-      "Valyr"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fd0f837e64cef0930fd804e4345c0342b9a2827.png",
-    "website": "https://www.helicone.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helicone.ai is creating an advanced observability platform tailored for developers working with Large Language Models (LLMs). Our goal is to simplify and enhance the operational side of deploying these models, making it easier for developers to monitor, manage, and optimize their AI applications at scale. Helicone provides a unified view of performance, cost, and user interaction metrics for various LLM providers, like OpenAI, Anthropic, and LangChain, empowering developers to make their LLM deployments more efficient, reliable, and cost-effective.\r\n\r\n### Key Features\r\n\r\n1. **Centralized Observability**: Our platform captures and visualizes detailed logs and metrics across all LLM deployments. With tools for prompt management, performance tracing, and debugging, Helicone provides real-time insights into the inner workings of your LLMs.\r\n\r\n2. **LLM Performance Optimization**: Helicone supports prompt experimentation, success rate tracking, and fine-tuning, allowing you to continuously improve response quality and efficiency. This level of insight makes it easier to deliver high-performing, cost-effective AI applications.\r\n\r\n3. **Flexible Data Management**: We understand that data privacy is critical. Helicone supports deployment options for dedicated instances, hybrid cloud integrations, or self-hosted environments, allowing clients to maintain control over their data and ensuring compliance with privacy standards.\r\n\r\n### Built for Developers and Data Scientists\r\n\r\nHelicone is designed to meet the needs of engineers and data scientists who require transparency and control over their LLMs. From chatbots to document processing systems, Helicone equips you with the insights needed to track costs, understand user interactions, and optimize outputs—all from one intuitive platform.\r\n\r\nBy combining observability with LLM-specific insights, Helicone is redefining AI monitoring, empowering developers to deploy and scale their AI models with confidence.",
-    "one_liner": "LLM Observability for Developers",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1675832219,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Analytics",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helicone",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/helicone.json"
-  },
-  {
     "id": 27925,
     "name": "222",
     "slug": "222",
@@ -35827,6 +35650,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vitalize",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vitalize.json"
+  },
+  {
+    "id": 27961,
+    "name": "Hona",
+    "slug": "hona",
+    "former_names": [
+      "Milestones",
+      "Hona (formerly Milestones)",
+      "Hona 🚀"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3c9f60cb1b588e41fbba65990acd0b8578f152.png",
+    "website": "https://hona.com",
+    "all_locations": "Orem, UT, USA",
+    "long_description": "Hona is a client experience platform built for law firms to simplify and strengthen communication with their clients. Legal work can be complex and difficult for clients to follow, which is why Hona helps firms proactively keep clients informed at every stage of their case. Through automated updates and a clean, user-friendly dashboard, clients can easily track progress, understand key milestones, and know what to expect next.\r\n\r\nIn addition to status updates, Hona allows clients to upload documents, securely message their legal team, and share feedback—all in one place. Hona integrates seamlessly with the law firm's existing case management systems, making it easy to implement without disrupting day-to-day operations.\r\n\r\nHona's long-term vision is to transform client communication across the legal industry by making clarity and transparency the standard. ",
+    "one_liner": "The Domino's Pizza Tracker for lawyers and their clients.",
+    "team_size": 64,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1669140082,
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hona",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hona.json"
   },
   {
     "id": 27968,
@@ -38847,15 +38716,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
     "website": "https://menza.ai/",
     "all_locations": "Remote",
-    "long_description": "Menza connects to all your data, answers any questions you have and emails you when something needs attention, before it becomes a problem.",
+    "long_description": "Menza is the always-on AI data team for fast-growing brands. We connect your Shopify, Klaviyo, ads, and 650+ other tools so anyone on your team can get instant answers, automated reports, and insights they'd never find manually.\r\n\r\nMenza replaces hours of spreadsheet wrangling and dashboard building with automated reporting, plain-English questions, and around-the-clock monitoring that catches revenue leaks and opportunities before you miss them. For insights in minutes, not meetings.\r\n\r\nEvolve Beauty saves 60+ hours per month on reporting and found £18k in misattributed revenue hiding in their GA4 setup. yhangry made 90% of their team data-driven without writing a single line of SQL, scaling their US expansion with a lean team. The Keto Shop found 10% of their revenue leaking monthly from stockouts, then built a custom reorder system to fix it.\r\n\r\nUsed and loved by DTC brands from beauty to food and beverage.\r\n\r\nRequest a demo today: https://menza.ai/",
     "one_liner": "Your 24/7 Data Analyst",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1691019522,
     "tags": [
+      "Artificial Intelligence",
       "Data Visualization",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -47594,51 +47463,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/tivara.json"
   },
   {
-    "id": 29691,
-    "name": "Tandem",
-    "slug": "tandem-2",
-    "former_names": [
-      "Tandem Space",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0375efe2659827ada4255426aac1e4a4f979b63.png",
-    "website": "https://tandem.space/",
-    "all_locations": "",
-    "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-native office leasing platform. We’re using technology to unlock flexible agreements in quality spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving two primary markets — NY & SF.  We’ve helped match more than 350 companies find great office space and have seen double-digit month-over-month growth.",
-    "one_liner": "AI-native office leasing agent",
-    "team_size": 22,
-    "industry": "B2B",
-    "subindustry": "B2B -> Office Management",
-    "launched_at": 1717027194,
-    "tags": [
-      "Marketplace",
-      "Real Estate",
-      "B2B",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Office Management"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tandem-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/tandem-2.json"
-  },
-  {
     "id": 29692,
     "name": "Weave Robotics",
     "slug": "weave-robotics",
@@ -50751,7 +50575,7 @@
     "website": "https://streamable.run",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "https://streamable.run\r\n",
-    "one_liner": "Never IRL stream with issues again.",
+    "one_liner": "Enabling IRL streamers to do what they love.",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -54359,7 +54183,9 @@
     "subindustry": "B2B",
     "launched_at": 1734712888,
     "tags": [
+      "Artificial Intelligence",
       "Open Source",
+      "API",
       "Automation"
     ],
     "tags_highlighted": [],
@@ -56162,15 +55988,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cba02ac15ac9267a0f2f43edeca70bbd326e30c.png",
     "website": "https://relixir.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Relixir is the GEO-native CMS. Deploy agents to generate, update, and host content that gets cited by LLMs. Backed by Y Combinator.\r\n\r\nCustomers include 200+ fastest growing B2B companies like Rippling, Airwallex, Retell AI, HackerRank, and more.",
-    "one_liner": "GEO-Native CMS",
+    "long_description": "Relixir builds autonomous agent runtimes (employees) with recursive self-improvement. \r\n\r\nOur first agent, Rex, is an autonomous GEO employee that gets brands recommended by AI search engines and compounds results over time by improving how it learns.\r\n\r\n400+ customers including Rippling, Airwallex, and HackerRank. \r\n\r\nBacked by YC, DEEPCORE (SoftBank), Founder of Turing.",
+    "one_liner": "Recursive Self-Improvement (RSI) for Autonomous Employees",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
+      "B2B",
       "Marketing",
-      "SEO",
       "Infrastructure",
       "AI"
     ],
@@ -58377,6 +58203,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manufact",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/manufact.json"
+  },
+  {
+    "id": 30713,
+    "name": "Motives",
+    "slug": "motives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png",
+    "website": "https://motives.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
+    "one_liner": "Consumer focus groups run by AI",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1752263741,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/motives",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
   },
   {
     "id": 30716,
@@ -60830,42 +60698,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/voltair.json"
   },
   {
-    "id": 31004,
-    "name": "Dome",
-    "slug": "dome",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dc9ddeb09c634cfdedc5563ec8d3c525a7e8189.png",
-    "website": "https://domeapi.io",
-    "all_locations": "",
-    "long_description": "Dome makes it easy to build on prediction markets like Polymarket and Kalshi. We provide the developer infrastructure to access, analyze, and build on prediction markets. \r\n\r\nWith our unified API, developers can access live and historical data, including granular datasets not available natively, across multiple platforms at once. Dome makes it simple to trade, embed market data into products, and deploy strategies across multiple platforms through one interface.\r\n",
-    "one_liner": "A unified API for prediction markets, like Kalshi and Polymarket",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1759389556,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dome",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/dome.json"
-  },
-  {
     "id": 31018,
     "name": "item",
     "slug": "item",
@@ -61194,51 +61026,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maywood",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
-  },
-  {
-    "id": 31193,
-    "name": "9 Mothers",
-    "slug": "9-mothers-corporation",
-    "former_names": [
-      "9 Mothers Corporation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84622897534f7613d85e63267d30b56cc2f7e6df.png",
-    "website": "https://9mothers.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "We are making AI weapon systems for the modern battlefield.\r\n\r\nOur first product EDDA is a small, low power, low cost fully autonomous-capable counter drone system. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones.",
-    "one_liner": "AI weapon systems",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1772383071,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Drones",
-      "GovTech",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/9-mothers-corporation",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
   },
   {
     "id": 31205,

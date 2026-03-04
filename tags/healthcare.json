@@ -1124,10 +1124,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a948f29975bf2b196b795d5f07b1c3693862d66e.png",
     "website": "https://www.clipboardhealth.com/careers",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives by letting professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects workplaces and professionals, allowing professionals to book on-demand shifts and workplaces to access on-demand talent.",
     "one_liner": "Connects workplaces with professionals nearby.",
-    "team_size": 800,
+    "team_size": 1000,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1478221234,
@@ -1150,9 +1150,9 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8657,6 +8657,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
   },
   {
+    "id": 31025,
+    "name": "ClaimGlide",
+    "slug": "claimglide",
+    "former_names": [
+      "Oak AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48782eb0f481328aac8f4b278b2ce32986e4a61b.png",
+    "website": "https://claimglide.com/",
+    "all_locations": "",
+    "long_description": "We automate the entire end-to-end prior-authorization process for private practices for cheaper, and more accurately than they're doing today.",
+    "one_liner": "AI automated prior-auths for private medical practices",
+    "team_size": 1,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1772521820,
+    "tags": [
+      "Digital Health",
+      "Healthcare",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claimglide",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
+  },
+  {
     "id": 31058,
     "name": "Eos AI",
     "slug": "eos-ai",
@@ -8779,49 +8822,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tepali",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/tepali.json"
-  },
-  {
-    "id": 31131,
-    "name": "Zatanna",
-    "slug": "zatanna",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
-    "website": "https://www.zatanna.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building continuously learning infrastructure for healthcare. Where insurance friction explodes admin overhead, our platform institutionalizes tribal knowledge into everyday AI agents that allows providers to focus on patients. Starting with dental.",
-    "one_liner": "Adaptive Healthcare Admin Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Office Management",
-    "launched_at": 1770919305,
-    "tags": [
-      "Healthcare",
-      "Dental",
-      "Billing",
-      "Infrastructure",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Office Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zatanna",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
   },
   {
     "id": 31163,

@@ -9,15 +9,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
     "website": "https://menza.ai/",
     "all_locations": "Remote",
-    "long_description": "Menza connects to all your data, answers any questions you have and emails you when something needs attention, before it becomes a problem.",
+    "long_description": "Menza is the always-on AI data team for fast-growing brands. We connect your Shopify, Klaviyo, ads, and 650+ other tools so anyone on your team can get instant answers, automated reports, and insights they'd never find manually.\r\n\r\nMenza replaces hours of spreadsheet wrangling and dashboard building with automated reporting, plain-English questions, and around-the-clock monitoring that catches revenue leaks and opportunities before you miss them. For insights in minutes, not meetings.\r\n\r\nEvolve Beauty saves 60+ hours per month on reporting and found £18k in misattributed revenue hiding in their GA4 setup. yhangry made 90% of their team data-driven without writing a single line of SQL, scaling their US expansion with a lean team. The Keto Shop found 10% of their revenue leaking monthly from stockouts, then built a custom reorder system to fix it.\r\n\r\nUsed and loved by DTC brands from beauty to food and beverage.\r\n\r\nRequest a demo today: https://menza.ai/",
     "one_liner": "Your 24/7 Data Analyst",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1691019522,
     "tags": [
+      "Artificial Intelligence",
       "Data Visualization",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -324,9 +324,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755546681,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
-      "Consumer",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -774,6 +774,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/inviscid-ai.json"
   },
   {
+    "id": 31025,
+    "name": "ClaimGlide",
+    "slug": "claimglide",
+    "former_names": [
+      "Oak AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48782eb0f481328aac8f4b278b2ce32986e4a61b.png",
+    "website": "https://claimglide.com/",
+    "all_locations": "",
+    "long_description": "We automate the entire end-to-end prior-authorization process for private practices for cheaper, and more accurately than they're doing today.",
+    "one_liner": "AI automated prior-auths for private medical practices",
+    "team_size": 1,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1772521820,
+    "tags": [
+      "Digital Health",
+      "Healthcare",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claimglide",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
+  },
+  {
     "id": 31030,
     "name": "Haladir",
     "slug": "haladir",
@@ -815,9 +858,11 @@
   },
   {
     "id": 31036,
-    "name": "Mantis Biotechnology",
-    "slug": "mantis-biotechnology",
-    "former_names": [],
+    "name": "Mantis",
+    "slug": "mantis",
+    "former_names": [
+      "Mantis Biotechnology"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
     "website": "https://mantisbiotech.com/",
     "all_locations": "New York, NY, USA",
@@ -828,9 +873,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1766166166,
     "tags": [
+      "Artificial Intelligence",
       "Sports Tech",
       "Biotech",
-      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -852,8 +897,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mantis-biotechnology",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis-biotechnology.json"
+    "url": "https://www.ycombinator.com/companies/mantis",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis.json"
   },
   {
     "id": 31040,
@@ -1404,6 +1449,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/one-robot",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/one-robot.json"
+  },
+  {
+    "id": 31082,
+    "name": "Syntropy",
+    "slug": "syntropy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
+    "website": "https://syntropy.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntropy is an agentic coding app for spec-driven autonomous development on complex long-horizon tasks, optimized for enterprise-scale projects. Just describe the feature you want, go out for lunch, and come back to a fully tested PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integration.",
+    "one_liner": "Ship code like a power user from day one.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772518250,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Workflow Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntropy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/syntropy.json"
   },
   {
     "id": 31083,
@@ -1998,16 +2086,16 @@
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
-    "one_liner": "Production Monitoring for AI Products",
+    "one_liner": "Production Monitoring for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2556,7 +2644,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
     "website": "https://zerosettle.io",
     "all_locations": "",
-    "long_description": "Ever since Epic v Apple, developers are now allowed to support direct billing in their app and avoid the App Store fee. We help developers keep more of their revenue with \"Switch & Save\" Campaigns, Smart Cancellation Flows, and Web Checkout Paywalls.",
+    "long_description": "ZeroSettle helps mobile devs boost their margins by 15pp with just 15 minutes of engineering work. We quit our jobs at Apple to help developers bypass the Apple Tax by migrating loyal users to Stripe billing via targeted “Switch & Save” campaigns. Beyond billing, ZeroSettle also manages entitlement provisioning and syncing while maximizing LTV through custom cancellation flows, \"saving the sale\" by using intelligent discounts and subscription pauses.",
     "one_liner": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
     "team_size": 2,
     "industry": "Fintech",
@@ -2640,17 +2728,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png",
     "website": "https://avoice.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Avoice brings your studio’s work together on one intelligent platform that automates the parts of practice that drain time from design. It understands your sheets, specs, schedules, materials, codes, and past projects, allowing precise automation across documentation, coordination, QA/QC, and research. Avoice also transforms your firm’s design knowledge and material libraries into a connected and searchable system that preserves standards and elevates consistency. With every document, workflow, and insight in one place, tasks that once took hours now take moments, giving your team more clarity, more momentum, and more room for meaningful architectural work.",
-    "one_liner": "The AI Workspace For Architects",
+    "long_description": "Avoice is an AI-native workspace for architecture firms that automates the operational work that takes time away from design. The platform uses AI agents that understand drawings, specifications, schedules, materials, codes, and past projects to automate documentation, coordination, QA/QC, and research. Today, firms using Avoice manage over $300M in active projects on the platform.\r\n\r\nArchitecture is a massive market ($300B+) but a deeply underserved one: highly fragmented, dominated by small firms, and reliant on legacy tools that require heavy customization. AI creates a unique opportunity to deliver firm-specific automation at scale, and Avoice brings these workflows into become the operating system for architectural practice.",
+    "one_liner": "Harvey for Architecture",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1763995110,
     "tags": [
+      "Artificial Intelligence",
       "Construction",
       "Enterprise Software",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2677,16 +2765,17 @@
   },
   {
     "id": 31123,
-    "name": "1code (21st.dev)",
-    "slug": "1code-21stdev",
+    "name": "21st.dev",
+    "slug": "21stdev",
     "former_names": [
       "21st",
       "1code by 21st.dev",
       "1code (21st.dev)",
-      "1code (ex: 21st.dev)"
+      "1code (ex: 21st.dev)",
+      "1code (21st.dev)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
-    "website": "https://21st.dev/agents",
+    "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
     "one_liner": "Orchestration layer for coding agents",
@@ -2718,8 +2807,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/1code-21stdev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/1code-21stdev.json"
+    "url": "https://www.ycombinator.com/companies/21stdev",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21stdev.json"
   },
   {
     "id": 31127,
@@ -2902,18 +2991,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
     "website": "https://www.zatanna.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building continuously learning infrastructure for healthcare. Where insurance friction explodes admin overhead, our platform institutionalizes tribal knowledge into everyday AI agents that allows providers to focus on patients. Starting with dental.",
-    "one_liner": "Adaptive Healthcare Admin Agents",
+    "long_description": "",
+    "one_liner": "Request Based Scraping Infrastructure",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Office Management",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770919305,
     "tags": [
-      "Healthcare",
-      "Dental",
-      "Billing",
-      "Infrastructure",
-      "Conversational AI"
+      "Developer Tools",
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2923,7 +3009,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Office Management"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -3580,18 +3666,18 @@
       "Ishiki Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "https://www.ishikilabs.ai/",
+    "website": "http://getfern.ai",
     "all_locations": "",
-    "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
+    "long_description": "We're building a sales intelligence platform that's centered on a realtime meeting copilot, which proactively surfaces up answers to any of the prospects product questions live during the call.",
     "one_liner": "Realtime AI starting with sales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI",
-      "AI"
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5010,22 +5096,23 @@
   },
   {
     "id": 31192,
-    "name": "SideKit",
-    "slug": "sidekit",
+    "name": "Approxima",
+    "slug": "approxima",
     "former_names": [
-      "Sidekit"
+      "Sidekit",
+      "SideKit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/923f7727ac47ca154e697215a6b4b67fabe575b0.png",
-    "website": "https://appsidekit.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6e6d183a6369dfc8a86aad778e45ad07d16406f.png",
+    "website": "https://approxima.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "It's never been easier to turn ideas into apps, it should be just as easy to take those apps to production. SideKit provides one SDK to manage app versions, set feature flags and install privacy-first analytics to track usage.\r\n\r\nUpdate broke your paywall? One click to block the version. Made a breaking change and don't want users on your old version? One click to set a minimum version. Version gating is also completely free regardless of how many users you have.",
-    "one_liner": "One package to take your mobile app to production. ",
+    "long_description": "Human-assisted development should be for novel ideation, not routine maintenance, bug fixes or incremental updates. Approxima is bringing you that future with agents that can scope work, code, validate their fixes end-to-end in sandbox environments and merge to production. Book a demo: https://calendly.com/ashish-selvaraj/approxima",
+    "one_liner": "Your software should build itself.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767593677,
     "tags": [
-      "API",
+      "Artificial Intelligence",
       "Enterprise Software",
       "Infrastructure"
     ],
@@ -5037,7 +5124,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -5048,8 +5135,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sidekit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sidekit.json"
+    "url": "https://www.ycombinator.com/companies/approxima",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
   },
   {
     "id": 31194,
@@ -5059,7 +5146,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/355e8c5b3746af19fb0b6ef6149b2028474fbf0a.png",
     "website": "https://valence.trade",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Valence is a unified trading platform for prediction markets. We aggregate and execute contracts across Kalshi, Polymarket, and other platforms, surface arbitrage and mispricing opportunities in real time, and give systematic traders the API and backtesting tools they need to build and execute data-driven strategies on anything.",
+    "long_description": "Valence is a unified trading platform for prediction markets. We provide infrastructure to aggregate and execute contracts across Kalshi, Polymarket, and other platforms, surface arbitrage and mispricing opportunities in real time, and give systematic traders the API and backtesting tools they need to build and execute data-driven strategies on anything.",
     "one_liner": "Unified prediction markets trading platform",
     "team_size": 3,
     "industry": "Fintech",
@@ -5102,7 +5189,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf91d138b76358671fb6075cfe46848aa81bd6cc.png",
     "website": "http://usereframe.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reframe deploys AI agents to manage overseas hardware manufacturing. Our Agents can understand your build matrix, coordinate waterfall schedules with supplies, and negotiate pricing, ensuring that your parts won't miss the next build.",
+    "long_description": "Reframe automates hardware procurement. Our AI can understand your build matrix, coordinate waterfall schedules with supplies, and negotiate pricing, ensuring that your parts won't miss the next build.",
     "one_liner": "AI agents to automate hardware procurement",
     "team_size": 2,
     "industry": "B2B",
@@ -6633,6 +6720,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/beesafe-ai.json"
   },
   {
+    "id": 31250,
+    "name": "The Token Company",
+    "slug": "the-token-company",
+    "former_names": [
+      "Otsofy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6d23e94e331354b9f326725df83ff557b97c1a.png",
+    "website": "https://thetokencompany.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Compression middleware that removes context bloat in milliseconds, lowering costs and improving end-to-end latency.\r\n\r\nCompression is especially effective across natural language workloads. In a blind LLM arena case study with one of our customers, compressed requests increased user preference, lowered costs, and lifted purchase volume by 5%.",
+    "one_liner": "Compression middleware that improves LLM outputs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772525778,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/the-token-company",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
+  },
+  {
     "id": 31252,
     "name": "Moda",
     "slug": "moda",
@@ -6640,8 +6774,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
     "website": "https://usemoda.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moda is the monitoring & analytics layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
-    "one_liner": "The monitoring & analytics layer your AI agents need.",
+    "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
+    "one_liner": "The reliability & monitoring layer your AI agents need.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -6727,18 +6861,18 @@
       "saiera",
       "sila"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cfb84c0a1025ef7c3c5f0e7582a5fe3d7c4bdcf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f100254a99493d2280f4072952f3d2a6e031aa7.png",
     "website": "https://silahq.com",
     "all_locations": "",
-    "long_description": "Sila is an agentic workplace messaging & collaboration platform for teams and companies that move fast\r\n",
+    "long_description": "Every great company in history was built on one thing: communication. Sila is an agentic workplace messaging & collaboration platform for teams and companies. Our mission is to lead the future where team-AI communication is the standard for work.",
     "one_liner": "Agent & Team Communication Workspace",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1772231466,
     "tags": [
-      "Artificial Intelligence",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6889,6 +7023,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/copperlane.json"
   },
   {
+    "id": 31262,
+    "name": "Talking Computers",
+    "slug": "talking-computers",
+    "former_names": [
+      "Standard Agent Labs",
+      "Analytical Engine",
+      "Speedtrain",
+      "Also"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62657d9f0d3d442104fb93260cb13db62452c906.png",
+    "website": "https://talkingcomputers.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building Facility, The Workplace for AI.",
+    "one_liner": "AI Communication Lab",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772563423,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/talking-computers",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/talking-computers.json"
+  },
+  {
     "id": 31263,
     "name": "Veriad",
     "slug": "veriad",
@@ -7023,18 +7200,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png",
     "website": "https://voygr.tech",
     "all_locations": "",
-    "long_description": "VOYGR helps AI apps and agents understand and act in the real world with comprehensive place data. Unlike static mapping APIs, VOYGR combines accurate place intelligence with fresh web context – news, articles, and events.\r\n\r\nReal-world interactions rely on maps: 10M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nSeveral customers already run VOYGR to continuously validate places data accuracy at scale, and we outperform on accuracy and coverage.\r\n\r\nMaps were built for humans browsing pins; agents need continuously updated place ground truth they can act on – from copilots and in-car assistants to delivery robots and AR. As agents become the interface to commerce and services, VOYGR aims to be the default ground-truth layer.",
+    "long_description": "VOYGR helps AI apps and agents understand and act in the real world with comprehensive place data. Unlike static mapping APIs, VOYGR combines accurate place intelligence with fresh web context – news, articles, and events.\r\n\r\nReal-world interactions rely on maps: 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nSeveral customers already run VOYGR to continuously validate places data accuracy at scale, and we outperform on accuracy and coverage.\r\n\r\nMaps were built for humans browsing pins; agents need continuously updated place ground truth they can act on – from copilots and in-car assistants to delivery robots and AR. As agents become the interface to commerce and services, VOYGR aims to be the default ground-truth layer.",
     "one_liner": "Real-world place intelligence for AI apps and agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769793909,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Geographic Information System",
       "API",
-      "Search",
-      "AI"
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7529,6 +7706,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
   },
   {
+    "id": 31295,
+    "name": "Carrot Labs",
+    "slug": "carrot-labs",
+    "former_names": [
+      "Anyware"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9d56ba5bab1fb6c9a7734a1a8aab7b6fbc48ed.png",
+    "website": "https://carrotlabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build specialized LLMs for your business’s specific workflows and use cases, then continuously hone them against your success metrics, capturing your proprietary know-how in the model so it gets more valuable and harder to copy as you grow.",
+    "one_liner": "Continuous Learning Platform for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772517831,
+    "tags": [
+      "Reinforcement Learning",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carrot-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
+  },
+  {
     "id": 31296,
     "name": "Unifold",
     "slug": "unifold",
@@ -7620,17 +7839,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the world's largest index of videos by combining two sources: public video collected and cleaned from the open web, and private video aggregated from hundreds of smaller companies that can't sell directly to labs. Both feed into a single, continuously updating index of billions of videos that we clean, segment, and label to build custom datasets for AI teams. For example, if a lab needs 50K cooking videos featuring hand-object interactions, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
+    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions in Spanish, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
     "one_liner": "Common Crawl for Video",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
     "tags": [
+      "Artificial Intelligence",
       "Video",
       "Data Labeling",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,

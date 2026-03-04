@@ -821,9 +821,11 @@
   },
   {
     "id": 31036,
-    "name": "Mantis Biotechnology",
-    "slug": "mantis-biotechnology",
-    "former_names": [],
+    "name": "Mantis",
+    "slug": "mantis",
+    "former_names": [
+      "Mantis Biotechnology"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
     "website": "https://mantisbiotech.com/",
     "all_locations": "New York, NY, USA",
@@ -834,9 +836,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1766166166,
     "tags": [
+      "Artificial Intelligence",
       "Sports Tech",
       "Biotech",
-      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -858,7 +860,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mantis-biotechnology",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis-biotechnology.json"
+    "url": "https://www.ycombinator.com/companies/mantis",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis.json"
   }
 ]

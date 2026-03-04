@@ -1370,10 +1370,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628647063,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Robotic Process Automation",
       "SaaS",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1381,7 +1381,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -3244,15 +3244,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
     "website": "https://menza.ai/",
     "all_locations": "Remote",
-    "long_description": "Menza connects to all your data, answers any questions you have and emails you when something needs attention, before it becomes a problem.",
+    "long_description": "Menza is the always-on AI data team for fast-growing brands. We connect your Shopify, Klaviyo, ads, and 650+ other tools so anyone on your team can get instant answers, automated reports, and insights they'd never find manually.\r\n\r\nMenza replaces hours of spreadsheet wrangling and dashboard building with automated reporting, plain-English questions, and around-the-clock monitoring that catches revenue leaks and opportunities before you miss them. For insights in minutes, not meetings.\r\n\r\nEvolve Beauty saves 60+ hours per month on reporting and found £18k in misattributed revenue hiding in their GA4 setup. yhangry made 90% of their team data-driven without writing a single line of SQL, scaling their US expansion with a lean team. The Keto Shop found 10% of their revenue leaking monthly from stockouts, then built a custom reorder system to fix it.\r\n\r\nUsed and loved by DTC brands from beauty to food and beverage.\r\n\r\nRequest a demo today: https://menza.ai/",
     "one_liner": "Your 24/7 Data Analyst",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1691019522,
     "tags": [
+      "Artificial Intelligence",
       "Data Visualization",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6896,6 +6896,92 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/item",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/item.json"
+  },
+  {
+    "id": 31025,
+    "name": "ClaimGlide",
+    "slug": "claimglide",
+    "former_names": [
+      "Oak AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48782eb0f481328aac8f4b278b2ce32986e4a61b.png",
+    "website": "https://claimglide.com/",
+    "all_locations": "",
+    "long_description": "We automate the entire end-to-end prior-authorization process for private practices for cheaper, and more accurately than they're doing today.",
+    "one_liner": "AI automated prior-auths for private medical practices",
+    "team_size": 1,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1772521820,
+    "tags": [
+      "Digital Health",
+      "Healthcare",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claimglide",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
+  },
+  {
+    "id": 31082,
+    "name": "Syntropy",
+    "slug": "syntropy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
+    "website": "https://syntropy.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntropy is an agentic coding app for spec-driven autonomous development on complex long-horizon tasks, optimized for enterprise-scale projects. Just describe the feature you want, go out for lunch, and come back to a fully tested PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integration.",
+    "one_liner": "Ship code like a power user from day one.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772518250,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Workflow Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntropy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/syntropy.json"
   },
   {
     "id": 31104,
