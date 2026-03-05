@@ -16430,51 +16430,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/tempo-2.json"
   },
   {
-    "id": 29152,
-    "name": "Taylor AI",
-    "slug": "taylor-ai",
-    "former_names": [
-      "Taylor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef294d8a3e99ae5f533ac21df5e5886e8713a73f.png",
-    "website": "https://trytaylor.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Taylor is the control panel for enriching unstructured text in real-time. Business leaders and developers use Taylor to label and build products around their free text without the infrastructure and maintenance overhead. \r\n\r\nWhy Taylor? Our customers previously relied on LLMs for tagging, extracting, and enriching data. They soon hit rate limits, high latency, and accuracy issues (LLMs are optimized for generative tasks, not structured high-accuracy workflows). With Taylor, teams get access to our proprietary models purpose-built for text classification and entity extraction. ",
-    "one_liner": "Unified Platform for Text Enrichment",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1687991939,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Data Labeling",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/taylor-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/taylor-ai.json"
-  },
-  {
     "id": 29156,
     "name": "CodeStory",
     "slug": "codestory",
@@ -20177,15 +20132,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Design",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20199,7 +20154,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24126,7 +24083,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We derive training data from the world's brightest minds, enabling LLMs to achieve state-of-the-art model performance.",
     "one_liner": "The world's first human superintelligence community",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759385382,
@@ -24135,7 +24092,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -24682,8 +24639,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
     "website": "https://sonarly.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’d like to automate monitoring. To advance that mission, we’re building Sonarly.\r\n\r\nSoftware has two phases: build time and run time. Coding agents are getting great at build time, but production is still a mess of charts, logs, and noisy alerts. Sonarly triages production alerts, deduping - prioritizing, and attaching the missing context - so teams can trust what pages them and fix the right issue fast. As you deploy new code, Sonarly keeps alerts and investigations up to date automatically.",
-    "one_liner": "AI engineer to triage and fix your production alerts",
+    "long_description": "We want software to improve itself.\r\n\r\nSonarly connects to your monitoring stack - tools like Sentry, Datadog, and Grafana - and triages every alert to remove noise and duplicates. It then investigates logs, traces, metrics, and code to build a living map of your production system and find root cause. The result is either a ready-to-merge fix PR or a recommendation to update your alerting rules so the noise never comes back.",
+    "one_liner": "The AI that fixes production",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

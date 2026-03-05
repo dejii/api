@@ -5044,7 +5044,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7692,6 +7692,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replit",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/replit.json"
+  },
+  {
+    "id": 1884,
+    "name": "Curebase",
+    "slug": "curebase",
+    "former_names": [
+      "tlemberg"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743d6b742bf525fbb43068b05726fc770af763b7.png",
+    "website": "https://www.curebase.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Curebase is the modern eClinical platform built for flexibility, usability, and full-study oversight. We empower sponsors, CROs, and sites to launch studies faster, deliver better participant experiences, and seamlessly capture data with next-gen, AI-powered ePRO, eConsent, engagement tools, and integrated EDC.",
+    "one_liner": "Modern, AI-powered clinical trial software platform.",
+    "team_size": 27,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1524535493,
+    "tags": [
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/curebase",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/curebase.json"
   },
   {
     "id": 1889,
@@ -11020,7 +11063,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15456,7 +15499,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBest MDM: https://cybersecuritynews.com/best-linux-mobile-device-management-software-in-2026/\r\nBest Linux MDM: https://linuxsecurity.com/news/desktop-security/linux-device-management\r\n\r\nIntro:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n\r\nProduct:\r\nBest MDM in 2026: https://cybersecuritynews.com/best-linux-mobile-device-management-software-in-2026/\r\nBest Linux MDM in 2026: https://linuxsecurity.com/news/desktop-security/linux-device-management\r\nBest Linux MDM Software in 2026: https://www.opus.pro/blog/linux-mdm-software\r\n\r\nIntro:\r\nBrowser extension: https://www.ycombinator.com/verify/qcevgcdkljtatq4b\r\nShadow IT visibility and control: https://www.ycombinator.com/verify/sw1ibjjvvvnfreyt\r\nNVIDIA DRIVE OS: https://www.ycombinator.com/verify/l3t1czjxb7nnyrgb\r\nAndroid MDM: https://www.ycombinator.com/verify/woqnqh3rthffqmbx\r\nLinux MDM: https://www.ycombinator.com/verify/9agdwvvykayp5b1b\r\nWindows MDM: https://www.ycombinator.com/verify/a4yio3xgdkzsmx9t\r\nMac MDM: https://www.ycombinator.com/verify/leou6zsbef0haiwc\r\niOS MDM: https://www.ycombinator.com/verify/vylqbbiavpmbgszm\r\nApple MDM: https://www.ycombinator.com/verify/lqtmir4nw2vedlje\r\nDevice CVE Report: https://www.ycombinator.com/verify/ahvwm91gapho25zf\r\nUnified MDM: https://www.ycombinator.com/verify/aforcignwhchkmhg",
     "one_liner": "The guardrail for AI on every device",
     "team_size": 20,
     "industry": "B2B",
@@ -15547,7 +15590,7 @@
     "all_locations": "Denver, CO, USA",
     "long_description": "",
     "one_liner": "The tolling industry’s prime tech infrastructure",
-    "team_size": 20,
+    "team_size": 22,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1597711066,
@@ -16204,6 +16247,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dataland",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/dataland.json"
+  },
+  {
+    "id": 22077,
+    "name": "Akiflow",
+    "slug": "akiflow",
+    "former_names": [
+      "Akido"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711701aab43e1cf32d5d6f30ef959de45cbc80c1.png",
+    "website": "https://akiflow.com",
+    "all_locations": "Padua, Veneto, Italy; Remote",
+    "long_description": "Akiflow is an AI-powered productivity app, integrating tasks + calendars and an AI executive assistant",
+    "one_liner": "All your tasks and calendars into an AI-powered productivity app",
+    "team_size": 18,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1597668620,
+    "tags": [
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Italy",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/akiflow",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/akiflow.json"
   },
   {
     "id": 22082,
@@ -22413,9 +22499,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29939f1cfbd3fe315d3ded8f43c33775de6b9c89.png",
     "website": "https://www.getlago.com/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Lago is the open-source alternative to Stripe, with a laser focus on transparency, metering, developer experience, and composability: addressing complex pricing grids and business workflows.\r\n\r\nTheir team previously built and scaled the home-grown billing system of Qonto (a $5B Fintech in Europe), from pre-launch to the tens of millions of MRR. \r\n\r\nLago is the leading open-source repository and community in this space.",
-    "one_liner": "Open Source Metering and Usage Based Billing",
-    "team_size": 32,
+    "long_description": "At Lago, we're on a mission to make billing simpler, more transparent, and more adaptable for SaaS companies.\r\n\r\nAs the leading open-source billing platform, we empower businesses to build flexible pricing models and scale with confidence. We've raised over $22 million in funding from top-tier investors including Y Combinator and FirstMark, reflecting strong confidence in our vision and growth.\r\n\r\nOur platform has garnered over 9,000 stars on GitHub, a testament to our active and growing developer community. Companies such as PayPal, Synthesia and Mistral.ai choose Lago for their billing.\r\n\r\nWe're a team of ambitious, focused individuals who work together to solve hard problems with excellence and accountability. At Lago, we value reliability and proactivity - we trust each other to own tasks, drive them to completion, and adapt quickly. While we encourage you to try fast and \"fail fast\", we also expect you to learn fast: make mistakes, but don't make the same one twice.\r\n\r\nIf you're excited by challenges and want to grow alongside a high-performing, supportive team, this is the place for you.",
+    "one_liner": "The AI Native Billing Platform",
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1629092704,
@@ -22442,7 +22528,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25429,7 +25515,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25535,12 +25621,12 @@
       "Ameelio Emerge",
       "Emerge"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1c65c785bffb3e80816038f1fe03d66e2d6055d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e401a97dde3f7f88aeada95e5e8968168ae0390.png",
     "website": "https://www.emergecareer.com/",
-    "all_locations": "Remote",
+    "all_locations": "New York, NY, USA",
     "long_description": "Vocational training programs and workforce management software for government agencies looking to create high-paying jobs and up-skill their low-income and justice-involved citizens out of poverty.",
     "one_liner": "All-in-one re-entry & workforce development training platform",
-    "team_size": 3,
+    "team_size": 8,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1657112954,
@@ -25558,8 +25644,8 @@
       "Education"
     ],
     "regions": [
-      "Remote",
-      "Fully Remote"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26792,48 +26878,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kaso",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/kaso.json"
-  },
-  {
-    "id": 25447,
-    "name": "Myria",
-    "slug": "myria",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ead23204732cf71066d05d95b633fe5109de70e7.png",
-    "website": "https://myria.us",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Myria is a private community and concierge for off-market goods & services — the things you can't Google. \r\n\r\nUltra-high net worth individuals spend $390 billion per year ($1.3 million each) on lifestyle, but they still struggle to find everything they want. Why?\r\n\r\nBecause the best of any category — homes, boats, restaurant reservations — the best stuff is never listed online. Likewise, the best people don’t need the internet to find a new client or job. \r\n\r\nThe best is always off-market.  Myria is the Off-Marketplace. \r\n\r\nMyria helps off-market sellers reach the nicest and wealthiest buyers. In turn, we help the world’s most successful people access the best of everything, give back, and get the most out of life. \r\n\r\nIf it’s off-market, it’s on Myria! ",
-    "one_liner": "A marketplace of luxury services for the ultra-wealthy",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1647814152,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "Community"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/myria",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/myria.json"
   },
   {
     "id": 25476,
@@ -31346,9 +31390,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
-    "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
-    "one_liner": "We transform public web data into live signals that power search,…",
-    "team_size": 25,
+    "long_description": "CatchAll by NewsCatcher is a recall-first web search API built for queries where the results are spread across hundreds or thousands of pages on the web. Instead of returning the top ranked links like traditional search engines, CatchAll retrieves a large candidate set from the web, validates which pages actually match the query, and extracts structured records of real-world events.\r\n\r\nDevelopers and data teams use CatchAll to answer “long-list” questions such as tracking regulatory actions, funding rounds, product launches, corporate expansions, or cybersecurity incidents. The output is not just links but clean, deduplicated datasets that can power AI agents, monitoring systems, analytics pipelines, and market intelligence workflows.\r\n\r\nCatchAll runs on the data infrastructure developed by NewsCatcher, which continuously indexes millions of articles and public web pages across a global network of sources.",
+    "one_liner": "Turning the web into a structured database of real world events.",
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1659698356,
@@ -32995,18 +33039,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "Axle is Plaid for insurance - a universal API for insurance data. With Axle, companies can instantly verify insurance and monitor ongoing coverage, helping them reduce operational cost while creating a frictionless experience for users. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
+    "long_description": "Axle is Plaid for insurance - an AI-native clearinghouse for insurance. With Axle, companies can instantly verify insurance, monitor ongoing coverage, and update policy items, helping them reduce operational cost and financial risk. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
     "one_liner": "Universal API for insurance",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1658084084,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33020,9 +33064,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -34078,6 +34120,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trackstar",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/trackstar.json"
+  },
+  {
+    "id": 27710,
+    "name": "Hammr",
+    "slug": "hammr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38636c8d557c876f06607c37cab2b5419c77fbb5.png",
+    "website": "https://www.hammr.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Generic payroll providers weren't built for construction - Hammr is. Our modern tools simplify construction payroll, HR and operations. We help construction companies boost profits, not paperwork. ",
+    "one_liner": "Rippling for the Construction Industry",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1677616888,
+    "tags": [
+      "HR Tech",
+      "Payroll"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hammr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hammr.json"
   },
   {
     "id": 27735,
@@ -39027,7 +39111,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search. I grew up working at my family's 9 figure SEO agency and learned how to automate everything. That's what we do for people now.",
     "one_liner": "Scale SEO and AI SEO from one platform.",
-    "team_size": 11,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690571664,
@@ -41122,47 +41206,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/healthtech-1",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/healthtech-1.json"
-  },
-  {
-    "id": 29160,
-    "name": "Martin",
-    "slug": "martin",
-    "former_names": [
-      "Usher"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119d7a60f36724b2c8e50e07a148e97dcac4f648.png",
-    "website": "https://www.trymartin.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Call, text, or email Martin. He manages your calendar, inbox, phone calls, to-dos, reminders, notes, and more. It is the most advanced AI personal assistant, light years ahead of Siri, Alexa, and CoPilot.",
-    "one_liner": "AI Personal Assistant like Jarvis",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1689104591,
-    "tags": [
-      "Artificial Intelligence",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/martin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/martin.json"
   },
   {
     "id": 29162,
@@ -44488,7 +44531,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Team:\r\nChaz: Founder of Fat Llama YC S17 - Acquired by Hygglo. Responsible for Business and Sales \r\nArns: Founder of Fancy S20 - Acquired by Gopuff, Responsible for tech and product. ",
     "one_liner": "AI Workspace for Financial Services.",
-    "team_size": 50,
+    "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1700480676,
@@ -44511,7 +44554,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -49106,14 +49149,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a22f1efd256331a2e5ea299a5c6ecd931817254.png",
     "website": "https://www.you-shift.com/",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "YouShift uses AI to automate hospital shift scheduling, replacing legacy software and eliminating the need for full-time schedulers. And scheduling is just the beginning — we're building the future of healthcare workforce management.",
     "one_liner": "The OS for hospital workforce management",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1738883676,
-    "tags": [],
+    "tags": [
+      "Health Tech",
+      "Healthcare",
+      "HR Tech",
+      "Operations",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -49125,7 +49174,10 @@
       "Human Resources"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -50418,15 +50470,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Design",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50440,7 +50492,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -59691,6 +59745,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/wardstone.json"
   },
   {
+    "id": 30883,
+    "name": "hillclimb",
+    "slug": "hillclimb",
+    "former_names": [
+      "Plun",
+      "Hillclimb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png",
+    "website": "https://hillclimb.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We derive training data from the world's brightest minds, enabling LLMs to achieve state-of-the-art model performance.",
+    "one_liner": "The world's first human superintelligence community",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759385382,
+    "tags": [
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hillclimb",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hillclimb.json"
+  },
+  {
     "id": 30884,
     "name": "Flick",
     "slug": "flick",
@@ -60307,7 +60403,7 @@
     "all_locations": "",
     "long_description": "Karumi is an AI agent that joins a live video call with your prospects to deliver personalized product demos, 24/7, in any language.\r\n\r\nIt bridges the gap between your landing page and your sales team by engaging visitors at the peak of their interest, turning curiosity into conversion. For those not ready to talk to sales but eager to explore, Karumi offers the next generation of interactive, self-guided demos.",
     "one_liner": "The Waymo of Personalized demos",
-    "team_size": 6,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1761723346,
@@ -60737,6 +60833,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/item",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/item.json"
+  },
+  {
+    "id": 31019,
+    "name": "Ndea",
+    "slug": "ndea-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a1310dd1344aa031a62430dad084db50b7229d.png",
+    "website": "https://ndea.com",
+    "all_locations": "Remote",
+    "long_description": "Ndea is building frontier AI systems that blend intuitive pattern recognition and formal reasoning into a unified architecture.\r\n\r\n# AI for Scientific Advancement\r\n\r\nUnlike all life before us, humanity's ascent is a story of ingenuity, not just biological evolution. Our progress has been driven by the curiosity to acquire knowledge, the ability to pass it on, and an intrinsic drive to innovate. We build technology which gives us leverage beyond our biology.\r\n\r\nWe stand at the top of a knowledge and technology colossus that we collectively created over the past ten thousand generations. Scientific progress has helped us overcome burdens that long defined human life — famines, plagues, and widespread illiteracy. Science will continue to redefine the boundaries of the human condition.\r\n\r\nToday, the acceleration of scientific progress hinges on one factor: AI capable of independent invention and discovery. This capacity is the gateway to advancements beyond our wildest imagination.\r\n\r\n# A New Research Lab\r\n\r\nWe're starting Ndea — an AI research and science lab. The name - like 'idea' with an 'n' - is inspired by the Greek concepts ennoia (intuitive understanding) and dianoia (logical reasoning), capturing our first goal to merge deep learning with program synthesis.\r\n\r\nNdea is entirely focused on developing and operationalizing AGI to realize unprecedented scientific progress in our lifetime for the benefit of all current and future generations.\r\n\r\nBuilding AGI alone is a monumental undertaking, but our mission is even bigger. We're creating a factory for rapid scientific advancement — a factory capable of inventing and commercializing N ideas.\r\n\r\nFrom our vantage point today, we see many 'known' frontiers like self-driving vehicles, drug discovery, sustainable energy, robotics, and space exploration. While AGI will benefit all of these, the most exciting adventure lies in the 'unknown'. AGI promises discoveries and progress we cannot imagine today.",
+    "one_liner": "Building AGI that can innovate.",
+    "team_size": 15,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1772669917,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Hard Tech",
+      "Remote Work",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ndea-com",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
   },
   {
     "id": 31066,

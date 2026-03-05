@@ -2096,20 +2096,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1c89152097cbf044ee5d77ec6f1484a241a4ad3.png",
     "website": "https://www.asklio.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "askLio builds AI Copilots to help procurement teams at enterprises.\r\n\r\nWhen an employee wants to procure something, the process used to take weeks. askLio turns it into hours. \r\nThe company is founded by AI engineers and procurement experts that have built an AI Startup together before. \r\n\r\nThink of Lio as an additional assistant for every procurement manager - saving enterprises on average millions per year and reducing manual work of procurement managers by 80%.\r\n\r\nSome of the most renowned companies in the world are already using our AI-Copilot. ",
     "one_liner": "AI-Copilot for procurement teams at large enterprises",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690091194,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Procurement",
-      "Enterprise Software",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2120,8 +2114,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3443,11 +3436,11 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1690927737,
     "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Computer Vision",
+      "Health Tech",
       "Digital Health",
-      "Healthcare"
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4114,7 +4107,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search. I grew up working at my family's 9 figure SEO agency and learned how to automate everything. That's what we do for people now.",
     "one_liner": "Scale SEO and AI SEO from one platform.",
-    "team_size": 11,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690571664,
@@ -5825,7 +5818,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9124,26 +9117,26 @@
   },
   {
     "id": 29152,
-    "name": "Taylor AI",
-    "slug": "taylor-ai",
+    "name": "Cembla",
+    "slug": "cembla",
     "former_names": [
-      "Taylor"
+      "Taylor",
+      "Taylor AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef294d8a3e99ae5f533ac21df5e5886e8713a73f.png",
-    "website": "https://trytaylor.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dca80a1694db3fa6a34446a3c366384928eb7695.png",
+    "website": "https://cembla.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Taylor is the control panel for enriching unstructured text in real-time. Business leaders and developers use Taylor to label and build products around their free text without the infrastructure and maintenance overhead. \r\n\r\nWhy Taylor? Our customers previously relied on LLMs for tagging, extracting, and enriching data. They soon hit rate limits, high latency, and accuracy issues (LLMs are optimized for generative tasks, not structured high-accuracy workflows). With Taylor, teams get access to our proprietary models purpose-built for text classification and entity extraction. ",
-    "one_liner": "Unified Platform for Text Enrichment",
+    "long_description": "",
+    "one_liner": "AI for legal & government",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1687991939,
     "tags": [
-      "Developer Tools",
       "SaaS",
+      "GovTech",
       "B2B",
-      "Data Labeling",
-      "Big Data"
+      "Legal"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9153,7 +9146,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -9164,8 +9157,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/taylor-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/taylor-ai.json"
+    "url": "https://www.ycombinator.com/companies/cembla",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cembla.json"
   },
   {
     "id": 29153,
@@ -9441,12 +9434,12 @@
     "subindustry": "Consumer",
     "launched_at": 1689104591,
     "tags": [
-      "Artificial Intelligence",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",

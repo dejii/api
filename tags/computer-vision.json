@@ -2251,49 +2251,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/micsi.json"
   },
   {
-    "id": 28867,
-    "name": "Shasta Health",
-    "slug": "shasta-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
-    "website": "https://www.shasta.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
-    "one_liner": "AI calling & browser agents for healthcare",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1690927737,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Computer Vision",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shasta-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
-  },
-  {
     "id": 28891,
     "name": "Cleancard",
     "slug": "cleancard",
@@ -3507,17 +3464,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
     "website": "https://www.librarlabs.com",
-    "all_locations": "",
-    "long_description": "At Librar Labs we are building the next generation of intelligence layer for the physical world.\r\n\r\nOur first commercial product Librar makes it easy to set up and manage a library with or without a librarian.\r\n\r\nFastest growing library tech company in the world.",
-    "one_liner": "The next generation of the intelligence layer for the physical world",
-    "team_size": 4,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Librar Labs is about turning unstructured data into actionable and useable insights.\r\n\r\nWe're working to solve the biggest bottleneck for the AI singularity: the world is full of massive amounts of unstructured data that is hard for computers and AI to navigate. \r\n\r\nIn our core, we're a data company that catalog information for enterprises that needs to make their big data useful.\r\n\r\nOur first commercial product is for the publishing industry with a focus on school libraries. It captures and analyze unstructured (and pre-Librar unattainable) data using it to more than double reading rates at schools. Fastest growing library tech company in ever backed by founders of google maps, kahoot etc.\r\n\r\nMoving into the private equity market.\r\n",
+    "one_liner": "Makes sense of unstructured data for enterprises.",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769303203,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Computer Vision"
+      "Computer Vision",
+      "Data Labeling",
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3529,7 +3488,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

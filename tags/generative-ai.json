@@ -6443,51 +6443,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/mandel-ai.json"
   },
   {
-    "id": 28824,
-    "name": "askLio",
-    "slug": "asklio",
-    "former_names": [
-      "Trado",
-      "ask Lio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1c89152097cbf044ee5d77ec6f1484a241a4ad3.png",
-    "website": "https://www.asklio.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "askLio builds AI Copilots to help procurement teams at enterprises.\r\n\r\nWhen an employee wants to procure something, the process used to take weeks. askLio turns it into hours. \r\nThe company is founded by AI engineers and procurement experts that have built an AI Startup together before. \r\n\r\nThink of Lio as an additional assistant for every procurement manager - saving enterprises on average millions per year and reducing manual work of procurement managers by 80%.\r\n\r\nSome of the most renowned companies in the world are already using our AI-Copilot. ",
-    "one_liner": "AI-Copilot for procurement teams at large enterprises",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1690091194,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Procurement",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asklio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/asklio.json"
-  },
-  {
     "id": 28835,
     "name": "Synch",
     "slug": "synch",
@@ -6759,49 +6714,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arcimus",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/arcimus.json"
-  },
-  {
-    "id": 28867,
-    "name": "Shasta Health",
-    "slug": "shasta-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
-    "website": "https://www.shasta.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
-    "one_liner": "AI calling & browser agents for healthcare",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1690927737,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Computer Vision",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shasta-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
   },
   {
     "id": 28893,
@@ -7104,7 +7016,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11570,7 +11482,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
     "website": "https://syntropy.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntropy is an agentic coding app for spec-driven autonomous development on complex long-horizon tasks, optimized for enterprise-scale projects. Just describe the feature you want, go out for lunch, and come back to a fully tested PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integration.",
+    "long_description": "Syntropy is an autonomous coding agent built for complex long-horizon tasks, that turns a feature description into a fully tested implementation. Instead of babysitting a terminal for hours writing prompts and managing context, just describe what you want, go out for lunch, and come back to a production-ready PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integrations.",
     "one_liner": "Ship code like a power user from day one.",
     "team_size": 2,
     "industry": "B2B",
@@ -11613,8 +11525,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
     "website": "https://sonarly.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’d like to automate monitoring. To advance that mission, we’re building Sonarly.\r\n\r\nSoftware has two phases: build time and run time. Coding agents are getting great at build time, but production is still a mess of charts, logs, and noisy alerts. Sonarly triages production alerts, deduping - prioritizing, and attaching the missing context - so teams can trust what pages them and fix the right issue fast. As you deploy new code, Sonarly keeps alerts and investigations up to date automatically.",
-    "one_liner": "AI engineer to triage and fix your production alerts",
+    "long_description": "We want software to improve itself.\r\n\r\nSonarly connects to your monitoring stack - tools like Sentry, Datadog, and Grafana - and triages every alert to remove noise and duplicates. It then investigates logs, traces, metrics, and code to build a living map of your production system and find root cause. The result is either a ready-to-merge fix PR or a recommendation to update your alerting rules so the noise never comes back.",
+    "one_liner": "The AI that fixes production",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -11697,7 +11609,7 @@
     "website": "https://autositu.com/",
     "all_locations": "",
     "long_description": "At AutoSitu, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. AutoSitu provides expert-level guidance and catch issues in minutes, helping cities and design firms/developers navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
-    "one_liner": "AI-native workspace for municipal development review",
+    "one_liner": "Regulatory infrastructure for the built world",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -11738,7 +11650,7 @@
       "Ishiki Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "http://getfern.ai",
+    "website": "http://ishikilabs.ai",
     "all_locations": "",
     "long_description": "We're building a sales intelligence platform that's centered on a realtime meeting copilot, which proactively surfaces up answers to any of the prospects product questions live during the call.",
     "one_liner": "Realtime AI starting with sales",
@@ -11747,9 +11659,9 @@
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

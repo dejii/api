@@ -730,6 +730,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/crosslayer-labs.json"
   },
   {
+    "id": 31019,
+    "name": "Ndea",
+    "slug": "ndea-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a1310dd1344aa031a62430dad084db50b7229d.png",
+    "website": "https://ndea.com",
+    "all_locations": "Remote",
+    "long_description": "Ndea is building frontier AI systems that blend intuitive pattern recognition and formal reasoning into a unified architecture.\r\n\r\n# AI for Scientific Advancement\r\n\r\nUnlike all life before us, humanity's ascent is a story of ingenuity, not just biological evolution. Our progress has been driven by the curiosity to acquire knowledge, the ability to pass it on, and an intrinsic drive to innovate. We build technology which gives us leverage beyond our biology.\r\n\r\nWe stand at the top of a knowledge and technology colossus that we collectively created over the past ten thousand generations. Scientific progress has helped us overcome burdens that long defined human life — famines, plagues, and widespread illiteracy. Science will continue to redefine the boundaries of the human condition.\r\n\r\nToday, the acceleration of scientific progress hinges on one factor: AI capable of independent invention and discovery. This capacity is the gateway to advancements beyond our wildest imagination.\r\n\r\n# A New Research Lab\r\n\r\nWe're starting Ndea — an AI research and science lab. The name - like 'idea' with an 'n' - is inspired by the Greek concepts ennoia (intuitive understanding) and dianoia (logical reasoning), capturing our first goal to merge deep learning with program synthesis.\r\n\r\nNdea is entirely focused on developing and operationalizing AGI to realize unprecedented scientific progress in our lifetime for the benefit of all current and future generations.\r\n\r\nBuilding AGI alone is a monumental undertaking, but our mission is even bigger. We're creating a factory for rapid scientific advancement — a factory capable of inventing and commercializing N ideas.\r\n\r\nFrom our vantage point today, we see many 'known' frontiers like self-driving vehicles, drug discovery, sustainable energy, robotics, and space exploration. While AGI will benefit all of these, the most exciting adventure lies in the 'unknown'. AGI promises discoveries and progress we cannot imagine today.",
+    "one_liner": "Building AGI that can innovate.",
+    "team_size": 15,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1772669917,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Hard Tech",
+      "Remote Work",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ndea-com",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
+  },
+  {
     "id": 31023,
     "name": "Inviscid AI",
     "slug": "inviscid-ai",
@@ -1458,7 +1500,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
     "website": "https://syntropy.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntropy is an agentic coding app for spec-driven autonomous development on complex long-horizon tasks, optimized for enterprise-scale projects. Just describe the feature you want, go out for lunch, and come back to a fully tested PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integration.",
+    "long_description": "Syntropy is an autonomous coding agent built for complex long-horizon tasks, that turns a feature description into a fully tested implementation. Instead of babysitting a terminal for hours writing prompts and managing context, just describe what you want, go out for lunch, and come back to a production-ready PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integrations.",
     "one_liner": "Ship code like a power user from day one.",
     "team_size": 2,
     "industry": "B2B",
@@ -1783,8 +1825,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
     "website": "https://sonarly.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’d like to automate monitoring. To advance that mission, we’re building Sonarly.\r\n\r\nSoftware has two phases: build time and run time. Coding agents are getting great at build time, but production is still a mess of charts, logs, and noisy alerts. Sonarly triages production alerts, deduping - prioritizing, and attaching the missing context - so teams can trust what pages them and fix the right issue fast. As you deploy new code, Sonarly keeps alerts and investigations up to date automatically.",
-    "one_liner": "AI engineer to triage and fix your production alerts",
+    "long_description": "We want software to improve itself.\r\n\r\nSonarly connects to your monitoring stack - tools like Sentry, Datadog, and Grafana - and triages every alert to remove noise and duplicates. It then investigates logs, traces, metrics, and code to build a living map of your production system and find root cause. The result is either a ready-to-merge fix PR or a recommendation to update your alerting rules so the noise never comes back.",
+    "one_liner": "The AI that fixes production",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1825,8 +1867,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
     "website": "https://axisanalysis.com",
     "all_locations": "",
-    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trading desk to deploy models for monitoring strategies. \r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. \r\nAxis is building an AI driven analytical layer for these markets.\r\n",
-    "one_liner": "An AI Trading System for Commodities Markets",
+    "long_description": "Axis is building an AI Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market.\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.\r\n",
+    "one_liner": "An AI System for Institutional Trading Desks",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -2557,16 +2599,16 @@
     "website": "https://pirislabs.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
-    "one_liner": "Inference at Light Speed",
+    "one_liner": "Cerebras-speed inference but scalable",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770857008,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "B2B",
       "Cloud Computing",
-      "AI",
       "Networks"
     ],
     "tags_highlighted": [],
@@ -2687,7 +2729,7 @@
     "website": "https://kytentech.com",
     "all_locations": "Seattle, WA, USA",
     "long_description": "Kyten Technologies is building a factory to manufacture custom aerospace-grade battery packs. \r\n100,000+ drones, submarines, and satellites are being built in the US, but the legacy supply chain can't keep up. \r\nDuring our six years at Starlink, we put 5,000+ battery packs into space. Now, we're bringing rapid development and volume production of aerospace-grade battery packs to the entire industry.",
-    "one_liner": "Custom aerospace-grade battery pack factory",
+    "one_liner": "American battery pack factory",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -2951,7 +2993,7 @@
     "website": "https://autositu.com/",
     "all_locations": "",
     "long_description": "At AutoSitu, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. AutoSitu provides expert-level guidance and catch issues in minutes, helping cities and design firms/developers navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
-    "one_liner": "AI-native workspace for municipal development review",
+    "one_liner": "Regulatory infrastructure for the built world",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -3666,7 +3708,7 @@
       "Ishiki Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "http://getfern.ai",
+    "website": "http://ishikilabs.ai",
     "all_locations": "",
     "long_description": "We're building a sales intelligence platform that's centered on a realtime meeting copilot, which proactively surfaces up answers to any of the prospects product questions live during the call.",
     "one_liner": "Realtime AI starting with sales",
@@ -3675,9 +3717,9 @@
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4927,12 +4969,13 @@
   },
   {
     "id": 31187,
-    "name": "Fenrock AI (YC W26)",
-    "slug": "fenrock-ai-yc-w26",
+    "name": "Fenrock AI",
+    "slug": "fenrock-ai",
     "former_names": [
       "new co",
       "Fenrock.AI",
-      "Fenrock AI"
+      "Fenrock AI",
+      "Fenrock AI (YC W26)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
@@ -4967,8 +5010,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fenrock-ai-yc-w26",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai-yc-w26.json"
+    "url": "https://www.ycombinator.com/companies/fenrock-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai.json"
   },
   {
     "id": 31188,
@@ -5064,7 +5107,7 @@
     "website": "https://www.traverse.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Data research company building RL envs for non-deterministic work",
+    "one_liner": "Data research lab for the non-verifiable",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6102,18 +6145,20 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets is building the execution layer for digital assets.\r\n\r\nDigital-asset liquidity is fragmented across centralized and decentralized venues. This creates inconsistent execution outcomes and operational complexity for active traders.\r\n\r\nWe are building execution infrastructure focused on routing quality and reliability across fragmented market structure.\r\n\r\nRollout policy:\r\n- controlled rollouts\r\n- quality over quantity\r\n- open to retail and institutional traders",
-    "one_liner": "Execution layer for fragmented digital-asset markets.",
+    "long_description": "Sequence Markets helps crypto traders save millions in hidden slippage by sourcing liquidity across CEX and DEX venues in one workflow.\r\n\r\nDigital asset liquidity is fragmented across hundreds of venues. Teams are forced into manual venue-by-venue workflows, stitching order books in spreadsheets, with zero visibility into execution quality. The result? Inconsistent fills and millions in hidden slippage.\r\n\r\nWe built ultra-low-latency execution infrastructure (colocated servers, hardware accelerated networking, compiled code speed) with sub 12 microsecond internal latency (faster than NYSE). Our stack enables strategies that weren't possible before.\r\n\r\nSave millions by eliminating hidden slippage. Make billions by trading faster and smarter",
+    "one_liner": "Low latency infrastructure for fragmented crypto markets",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "AI",
-      "Cryptocurrency"
+      "Crypto / Web3"
     ],
-    "tags_highlighted": [],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -6864,14 +6909,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f100254a99493d2280f4072952f3d2a6e031aa7.png",
     "website": "https://silahq.com",
     "all_locations": "",
-    "long_description": "Every great company in history was built on one thing: communication. Sila is an agentic workplace messaging & collaboration platform for teams and companies. Our mission is to lead the future where team-AI communication is the standard for work.",
-    "one_liner": "Agent & Team Communication Workspace",
+    "long_description": "Every great company in history was built on one thing: communication. Sila is an agentic workspace messaging & collaboration platform for teams and companies. Our mission is to lead the future where human-AI communication is the standard for work.",
+    "one_liner": "Agentic Workspace Messaging ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1772231466,
     "tags": [
       "Productivity",
+      "Messaging",
       "AI"
     ],
     "tags_highlighted": [],
@@ -7500,17 +7546,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
     "website": "https://www.librarlabs.com",
-    "all_locations": "",
-    "long_description": "At Librar Labs we are building the next generation of intelligence layer for the physical world.\r\n\r\nOur first commercial product Librar makes it easy to set up and manage a library with or without a librarian.\r\n\r\nFastest growing library tech company in the world.",
-    "one_liner": "The next generation of the intelligence layer for the physical world",
-    "team_size": 4,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Librar Labs is about turning unstructured data into actionable and useable insights.\r\n\r\nWe're working to solve the biggest bottleneck for the AI singularity: the world is full of massive amounts of unstructured data that is hard for computers and AI to navigate. \r\n\r\nIn our core, we're a data company that catalog information for enterprises that needs to make their big data useful.\r\n\r\nOur first commercial product is for the publishing industry with a focus on school libraries. It captures and analyze unstructured (and pre-Librar unattainable) data using it to more than double reading rates at schools. Fastest growing library tech company in ever backed by founders of google maps, kahoot etc.\r\n\r\nMoving into the private equity market.\r\n",
+    "one_liner": "Makes sense of unstructured data for enterprises.",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769303203,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Computer Vision"
+      "Computer Vision",
+      "Data Labeling",
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7522,7 +7570,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7839,7 +7888,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions in Spanish, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
+    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions with no scene changes, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
     "one_liner": "Common Crawl for Video",
     "team_size": 4,
     "industry": "B2B",
@@ -8010,8 +8059,8 @@
     "subindustry": "B2B",
     "launched_at": 1771307851,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

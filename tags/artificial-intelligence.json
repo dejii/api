@@ -10370,7 +10370,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13095,9 +13095,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e6df1d33e5151e6b36a83a91e94b8bb2550c930.png",
     "website": "https://newscatcherapi.com/",
     "all_locations": "Kyiv, Ukraine; Remote",
-    "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
-    "one_liner": "We transform public web data into live signals that power search,…",
-    "team_size": 25,
+    "long_description": "CatchAll by NewsCatcher is a recall-first web search API built for queries where the results are spread across hundreds or thousands of pages on the web. Instead of returning the top ranked links like traditional search engines, CatchAll retrieves a large candidate set from the web, validates which pages actually match the query, and extracts structured records of real-world events.\r\n\r\nDevelopers and data teams use CatchAll to answer “long-list” questions such as tracking regulatory actions, funding rounds, product launches, corporate expansions, or cybersecurity incidents. The output is not just links but clean, deduplicated datasets that can power AI agents, monitoring systems, analytics pipelines, and market intelligence workflows.\r\n\r\nCatchAll runs on the data infrastructure developed by NewsCatcher, which continuously indexes millions of articles and public web pages across a global network of sources.",
+    "one_liner": "Turning the web into a structured database of real world events.",
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1659698356,
@@ -14079,54 +14079,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cambio-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/cambio-2.json"
-  },
-  {
-    "id": 27250,
-    "name": "Axle",
-    "slug": "axle",
-    "former_names": [
-      "Axle (Axle Labs",
-      "Inc.)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
-    "website": "https://axle.insure",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Axle is Plaid for insurance - a universal API for insurance data. With Axle, companies can instantly verify insurance and monitor ongoing coverage, helping them reduce operational cost while creating a frictionless experience for users. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
-    "one_liner": "Universal API for insurance",
-    "team_size": 10,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1658084084,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Fintech",
-      "B2B",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axle",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/axle.json"
   },
   {
     "id": 27252,
@@ -18193,49 +18145,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/serra.json"
   },
   {
-    "id": 28867,
-    "name": "Shasta Health",
-    "slug": "shasta-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
-    "website": "https://www.shasta.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
-    "one_liner": "AI calling & browser agents for healthcare",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1690927737,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Computer Vision",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shasta-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
-  },
-  {
     "id": 28879,
     "name": "Menza",
     "slug": "menza",
@@ -19079,7 +18988,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20615,47 +20524,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orbio-earth",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/orbio-earth.json"
-  },
-  {
-    "id": 29160,
-    "name": "Martin",
-    "slug": "martin",
-    "former_names": [
-      "Usher"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119d7a60f36724b2c8e50e07a148e97dcac4f648.png",
-    "website": "https://www.trymartin.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Call, text, or email Martin. He manages your calendar, inbox, phone calls, to-dos, reminders, notes, and more. It is the most advanced AI personal assistant, light years ahead of Siri, Alexa, and CoPilot.",
-    "one_liner": "AI Personal Assistant like Jarvis",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1689104591,
-    "tags": [
-      "Artificial Intelligence",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/martin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/martin.json"
   },
   {
     "id": 29178,
@@ -23292,7 +23160,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Team:\r\nChaz: Founder of Fat Llama YC S17 - Acquired by Hygglo. Responsible for Business and Sales \r\nArns: Founder of Fancy S20 - Acquired by Gopuff, Responsible for tech and product. ",
     "one_liner": "AI Workspace for Financial Services.",
-    "team_size": 50,
+    "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1700480676,
@@ -23315,7 +23183,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28333,6 +28201,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dreamrp.json"
   },
   {
+    "id": 29999,
+    "name": "Onlook",
+    "slug": "onlook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c023f9010fb3a7f3e550c56a9283c477e6ca096.png",
+    "website": "https://onlook.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+    "one_liner": "Cursor for Designers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737572736,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Design",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/onlook",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/onlook.json"
+  },
+  {
     "id": 30016,
     "name": "Zeroframe",
     "slug": "zeroframe",
@@ -30894,51 +30806,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cenote.json"
   },
   {
-    "id": 30267,
-    "name": "Lopus AI",
-    "slug": "lopus-ai",
-    "former_names": [
-      "Levo UI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bf383d00d833f8ead69445747af5777b0e0a0a6.png",
-    "website": "https://lopus.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GTM teams are drowning in disconnected data—Salesforce, Stripe, Mixpanel, Gong, Slack, and email. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus Probe, an AI-powered GTM research platform that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins CRM + billing + product + transcripts safely, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth.\r\n\r\nEngineered by Lopus AI, the GTM weapons lab.",
-    "one_liner": "Data Unification for GTM Analytics ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1740443352,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Analytics",
-      "Market Research",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lopus-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lopus-ai.json"
-  },
-  {
     "id": 30269,
     "name": "Pluto",
     "slug": "pluto",
@@ -32241,11 +32108,11 @@
       "GradeAssist",
       "VibeGrade"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c364ff42f5f49e73855b938d253d14065fd07cb2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27388bac39ab071f08477907bbcc754dc45c3267.png",
     "website": "https://TypeOS.com",
     "all_locations": "",
     "long_description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
-    "one_liner": "AI writing you control with your taste.",
+    "one_liner": "AI that sounds like you, where you work.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -38272,6 +38139,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rivet-design.json"
   },
   {
+    "id": 31019,
+    "name": "Ndea",
+    "slug": "ndea-com",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51a1310dd1344aa031a62430dad084db50b7229d.png",
+    "website": "https://ndea.com",
+    "all_locations": "Remote",
+    "long_description": "Ndea is building frontier AI systems that blend intuitive pattern recognition and formal reasoning into a unified architecture.\r\n\r\n# AI for Scientific Advancement\r\n\r\nUnlike all life before us, humanity's ascent is a story of ingenuity, not just biological evolution. Our progress has been driven by the curiosity to acquire knowledge, the ability to pass it on, and an intrinsic drive to innovate. We build technology which gives us leverage beyond our biology.\r\n\r\nWe stand at the top of a knowledge and technology colossus that we collectively created over the past ten thousand generations. Scientific progress has helped us overcome burdens that long defined human life — famines, plagues, and widespread illiteracy. Science will continue to redefine the boundaries of the human condition.\r\n\r\nToday, the acceleration of scientific progress hinges on one factor: AI capable of independent invention and discovery. This capacity is the gateway to advancements beyond our wildest imagination.\r\n\r\n# A New Research Lab\r\n\r\nWe're starting Ndea — an AI research and science lab. The name - like 'idea' with an 'n' - is inspired by the Greek concepts ennoia (intuitive understanding) and dianoia (logical reasoning), capturing our first goal to merge deep learning with program synthesis.\r\n\r\nNdea is entirely focused on developing and operationalizing AGI to realize unprecedented scientific progress in our lifetime for the benefit of all current and future generations.\r\n\r\nBuilding AGI alone is a monumental undertaking, but our mission is even bigger. We're creating a factory for rapid scientific advancement — a factory capable of inventing and commercializing N ideas.\r\n\r\nFrom our vantage point today, we see many 'known' frontiers like self-driving vehicles, drug discovery, sustainable energy, robotics, and space exploration. While AGI will benefit all of these, the most exciting adventure lies in the 'unknown'. AGI promises discoveries and progress we cannot imagine today.",
+    "one_liner": "Building AGI that can innovate.",
+    "team_size": 15,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1772669917,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Hard Tech",
+      "Remote Work",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ndea-com",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
+  },
+  {
     "id": 31036,
     "name": "Mantis",
     "slug": "mantis",
@@ -38829,6 +38738,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/celltype.json"
   },
   {
+    "id": 31114,
+    "name": "Piris Labs",
+    "slug": "pirislabs",
+    "former_names": [
+      "Piris Inc.",
+      "Pirislabs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea5995dddc2a36468464b3121f1bfa42107a258.png",
+    "website": "https://pirislabs.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
+    "one_liner": "Cerebras-speed inference but scalable",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770857008,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "B2B",
+      "Cloud Computing",
+      "Networks"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pirislabs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
+  },
+  {
     "id": 31121,
     "name": "Avoice",
     "slug": "avoice",
@@ -39252,48 +39207,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eigenpal",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/eigenpal.json"
-  },
-  {
-    "id": 31152,
-    "name": "Fern (Formerly Ishiki Labs)",
-    "slug": "ishikilabs",
-    "former_names": [
-      "ProactiveAI",
-      "Ishiki Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "http://getfern.ai",
-    "all_locations": "",
-    "long_description": "We're building a sales intelligence platform that's centered on a realtime meeting copilot, which proactively surfaces up answers to any of the prospects product questions live during the call.",
-    "one_liner": "Realtime AI starting with sales",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768297786,
-    "tags": [
-      "Artificial Intelligence",
-      "Deep Learning",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ishikilabs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishikilabs.json"
   },
   {
     "id": 31153,
@@ -39937,12 +39850,13 @@
   },
   {
     "id": 31187,
-    "name": "Fenrock AI (YC W26)",
-    "slug": "fenrock-ai-yc-w26",
+    "name": "Fenrock AI",
+    "slug": "fenrock-ai",
     "former_names": [
       "new co",
       "Fenrock.AI",
-      "Fenrock AI"
+      "Fenrock AI",
+      "Fenrock AI (YC W26)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
@@ -39977,8 +39891,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fenrock-ai-yc-w26",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai-yc-w26.json"
+    "url": "https://www.ycombinator.com/companies/fenrock-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai.json"
   },
   {
     "id": 31188,
@@ -40036,7 +39950,7 @@
     "website": "https://www.traverse.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Data research company building RL envs for non-deterministic work",
+    "one_liner": "Data research lab for the non-verifiable",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -40444,6 +40358,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/servo7",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
+  },
+  {
+    "id": 31227,
+    "name": "Sequence Markets",
+    "slug": "sequence-markets",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
+    "website": "https://sequencemkts.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Sequence Markets helps crypto traders save millions in hidden slippage by sourcing liquidity across CEX and DEX venues in one workflow.\r\n\r\nDigital asset liquidity is fragmented across hundreds of venues. Teams are forced into manual venue-by-venue workflows, stitching order books in spreadsheets, with zero visibility into execution quality. The result? Inconsistent fills and millions in hidden slippage.\r\n\r\nWe built ultra-low-latency execution infrastructure (colocated servers, hardware accelerated networking, compiled code speed) with sub 12 microsecond internal latency (faster than NYSE). Our stack enables strategies that weren't possible before.\r\n\r\nSave millions by eliminating hidden slippage. Make billions by trading faster and smarter",
+    "one_liner": "Low latency infrastructure for fragmented crypto markets",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1767826402,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sequence-markets",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
   },
   {
     "id": 31241,
@@ -41006,47 +40962,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/rubric-ai.json"
   },
   {
-    "id": 31283,
-    "name": "Librar Labs",
-    "slug": "librar-labs",
-    "former_names": [
-      "Librar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
-    "all_locations": "",
-    "long_description": "At Librar Labs we are building the next generation of intelligence layer for the physical world.\r\n\r\nOur first commercial product Librar makes it easy to set up and manage a library with or without a librarian.\r\n\r\nFastest growing library tech company in the world.",
-    "one_liner": "The next generation of the intelligence layer for the physical world",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769303203,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Computer Vision"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
-  },
-  {
     "id": 31284,
     "name": "Origami Robotics",
     "slug": "origami-robotics",
@@ -41094,7 +41009,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions in Spanish, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
+    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions with no scene changes, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
     "one_liner": "Common Crawl for Video",
     "team_size": 4,
     "industry": "B2B",
@@ -41127,47 +41042,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
-  },
-  {
-    "id": 31307,
-    "name": "Wideframe",
-    "slug": "wideframe",
-    "former_names": [
-      "Supaframe",
-      "Creative Agent Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac76dee0327c5cb2c65651f17b9930ac8eb3c1e.png",
-    "website": "https://wideframe.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Wideframe is an AI agent that speeds up the 75% of video work that happens outside the Non-Linear Editor. It helps teams save time and do more with their videos.\r\n\r\nUsers link their video libraries to Wideframe and then work with our context-aware agent to tackle search, editing, and generative tasks. Our high-performance desktop app works across the filesystem and can even natively handle Adobe Premiere Pro (.prproj) files in and out.\r\n\r\nIn our first 75 days since launch, we onboarded more than 50 brands and agencies. Many of them make tens or hundreds of videos per week for ads or organic social. What we discovered while building for them: 75% of their video work happens outside of the Non-Linear Editor.\r\n\r\nMost of our clients prefer to finish videos in Adobe Premiere Pro or DaVinci Resolve. They don’t want an “agentic NLE”. And they really don’t spend a lot of time in the NLE in the first place. \r\n\r\nThey spend 4-5x more time each week doing research, writing briefs, searching for videos, scrubbing within videos, organizing sequences of a-roll and b-roll, producing rough drafts, getting feedback from their team and/or clients, and now generating content to augment their footage as well.\r\n\r\nWe’re early into providing real value within this work. Our ambition is to become the default workspace where people and agents collaborate to get the most out of their video.\r\n\r\nQuotes from Early Users:\r\n\r\n“Wideframe will save each of our editors 2 hours per day. They will have more time to focus on the quality of their work and doing more without the stress.” - Matthew Gattozzi, Founder at Goodo Studios\r\n\r\n“OH MY GOD YOU ARE A FREAKING GENIUS” - A user after Wideframe automatically watched, renamed and organized 24 of his videos in 3 minutes",
-    "one_liner": "AI agent for video work outside the NLE",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771307851,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wideframe",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/wideframe.json"
   }
 ]

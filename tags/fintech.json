@@ -7085,7 +7085,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11958,7 +11958,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14963,7 +14963,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15636,9 +15636,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29939f1cfbd3fe315d3ded8f43c33775de6b9c89.png",
     "website": "https://www.getlago.com/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Lago is the open-source alternative to Stripe, with a laser focus on transparency, metering, developer experience, and composability: addressing complex pricing grids and business workflows.\r\n\r\nTheir team previously built and scaled the home-grown billing system of Qonto (a $5B Fintech in Europe), from pre-launch to the tens of millions of MRR. \r\n\r\nLago is the leading open-source repository and community in this space.",
-    "one_liner": "Open Source Metering and Usage Based Billing",
-    "team_size": 32,
+    "long_description": "At Lago, we're on a mission to make billing simpler, more transparent, and more adaptable for SaaS companies.\r\n\r\nAs the leading open-source billing platform, we empower businesses to build flexible pricing models and scale with confidence. We've raised over $22 million in funding from top-tier investors including Y Combinator and FirstMark, reflecting strong confidence in our vision and growth.\r\n\r\nOur platform has garnered over 9,000 stars on GitHub, a testament to our active and growing developer community. Companies such as PayPal, Synthesia and Mistral.ai choose Lago for their billing.\r\n\r\nWe're a team of ambitious, focused individuals who work together to solve hard problems with excellence and accountability. At Lago, we value reliability and proactivity - we trust each other to own tasks, drive them to completion, and adapt quickly. While we encourage you to try fast and \"fail fast\", we also expect you to learn fast: make mistakes, but don't make the same one twice.\r\n\r\nIf you're excited by challenges and want to grow alongside a high-performing, supportive team, this is the place for you.",
+    "one_liner": "The AI Native Billing Platform",
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1629092704,
@@ -15665,7 +15665,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24366,18 +24366,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "Axle is Plaid for insurance - a universal API for insurance data. With Axle, companies can instantly verify insurance and monitor ongoing coverage, helping them reduce operational cost while creating a frictionless experience for users. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
+    "long_description": "Axle is Plaid for insurance - an AI-native clearinghouse for insurance. With Axle, companies can instantly verify insurance, monitor ongoing coverage, and update policy items, helping them reduce operational cost and financial risk. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
     "one_liner": "Universal API for insurance",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1658084084,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24391,9 +24391,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -30328,8 +30326,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
     "website": "https://axisanalysis.com",
     "all_locations": "",
-    "long_description": "Axis is building an AI research platform for the commodities trading industry, allowing a trading desk to deploy models for monitoring strategies. \r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. \r\nAxis is building an AI driven analytical layer for these markets.\r\n",
-    "one_liner": "An AI Trading System for Commodities Markets",
+    "long_description": "Axis is building an AI Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market.\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.\r\n",
+    "one_liner": "An AI System for Institutional Trading Desks",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -30661,12 +30659,13 @@
   },
   {
     "id": 31187,
-    "name": "Fenrock AI (YC W26)",
-    "slug": "fenrock-ai-yc-w26",
+    "name": "Fenrock AI",
+    "slug": "fenrock-ai",
     "former_names": [
       "new co",
       "Fenrock.AI",
-      "Fenrock AI"
+      "Fenrock AI",
+      "Fenrock AI (YC W26)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
@@ -30701,8 +30700,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fenrock-ai-yc-w26",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai-yc-w26.json"
+    "url": "https://www.ycombinator.com/companies/fenrock-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai.json"
   },
   {
     "id": 31188,
@@ -30756,18 +30755,20 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets is building the execution layer for digital assets.\r\n\r\nDigital-asset liquidity is fragmented across centralized and decentralized venues. This creates inconsistent execution outcomes and operational complexity for active traders.\r\n\r\nWe are building execution infrastructure focused on routing quality and reliability across fragmented market structure.\r\n\r\nRollout policy:\r\n- controlled rollouts\r\n- quality over quantity\r\n- open to retail and institutional traders",
-    "one_liner": "Execution layer for fragmented digital-asset markets.",
+    "long_description": "Sequence Markets helps crypto traders save millions in hidden slippage by sourcing liquidity across CEX and DEX venues in one workflow.\r\n\r\nDigital asset liquidity is fragmented across hundreds of venues. Teams are forced into manual venue-by-venue workflows, stitching order books in spreadsheets, with zero visibility into execution quality. The result? Inconsistent fills and millions in hidden slippage.\r\n\r\nWe built ultra-low-latency execution infrastructure (colocated servers, hardware accelerated networking, compiled code speed) with sub 12 microsecond internal latency (faster than NYSE). Our stack enables strategies that weren't possible before.\r\n\r\nSave millions by eliminating hidden slippage. Make billions by trading faster and smarter",
+    "one_liner": "Low latency infrastructure for fragmented crypto markets",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "AI",
-      "Cryptocurrency"
+      "Crypto / Web3"
     ],
-    "tags_highlighted": [],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
