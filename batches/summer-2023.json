@@ -2088,18 +2088,19 @@
   },
   {
     "id": 28824,
-    "name": "askLio",
-    "slug": "asklio",
+    "name": "Lio (formerly askLio)",
+    "slug": "lio",
     "former_names": [
       "Trado",
-      "ask Lio"
+      "ask Lio",
+      "askLio"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1c89152097cbf044ee5d77ec6f1484a241a4ad3.png",
-    "website": "https://www.asklio.ai",
-    "all_locations": "",
-    "long_description": "askLio builds AI Copilots to help procurement teams at enterprises.\r\n\r\nWhen an employee wants to procure something, the process used to take weeks. askLio turns it into hours. \r\nThe company is founded by AI engineers and procurement experts that have built an AI Startup together before. \r\n\r\nThink of Lio as an additional assistant for every procurement manager - saving enterprises on average millions per year and reducing manual work of procurement managers by 80%.\r\n\r\nSome of the most renowned companies in the world are already using our AI-Copilot. ",
-    "one_liner": "AI-Copilot for procurement teams at large enterprises",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8204e1af97e71eaee05a775d2cae5a0c21867fd1.png",
+    "website": "https://www.lio.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Lio (formerly known as askLio) builds the world's most advanced AI procurement workforce for enterprise companies worldwide. Every purchase request is managed by specialized agents working in parallel - researching vendors, negotiating terms, managing approvals, and tracking deliveries simultaneously. What once consumed your team's hours is now executed by a coordinated network of AI Agents.\r\n\r\nThe most renowned Fortune 500 and Global 2000 companies in the world are already using Lio.",
+    "one_liner": "The World's First Multi-Agent System for Procurement",
+    "team_size": 80,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690091194,
@@ -2114,15 +2115,16 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asklio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/asklio.json"
+    "url": "https://www.ycombinator.com/companies/lio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/lio.json"
   },
   {
     "id": 28825,
@@ -9419,23 +9421,25 @@
   },
   {
     "id": 29160,
-    "name": "Martin",
-    "slug": "martin",
+    "name": "Letterbook",
+    "slug": "letterbook",
     "former_names": [
-      "Usher"
+      "Usher",
+      "Martin"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119d7a60f36724b2c8e50e07a148e97dcac4f648.png",
-    "website": "https://www.trymartin.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6c57e5c710ca16dd9d6aada5b18cbe7dbed8be8.png",
+    "website": "https://www.letterbook.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Call, text, or email Martin. He manages your calendar, inbox, phone calls, to-dos, reminders, notes, and more. It is the most advanced AI personal assistant, light years ahead of Siri, Alexa, and CoPilot.",
-    "one_liner": "AI Personal Assistant like Jarvis",
+    "long_description": "Letterbook is the AI-native alternative to Zendesk, Freshdesk, Zohodesk, and Intercom. We help B2C companies manage and resolve customer support tickets across email, in-app feedback, and website forms.\r\n\r\nLetterbook's AI can triage your tickets, write replies, and build your knowledge base.",
+    "one_liner": "AI customer support platform for B2C",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1689104591,
     "tags": [
-      "AI",
-      "AI Assistant"
+      "Artificial Intelligence",
+      "Customer Service",
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9455,8 +9459,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/martin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/martin.json"
+    "url": "https://www.ycombinator.com/companies/letterbook",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/letterbook.json"
   },
   {
     "id": 29162,

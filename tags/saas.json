@@ -19894,16 +19894,16 @@
     "website": "https://tractian.com",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Tractian transforms machine data into uptime, captures shop-floor know-how, and accelerates manufacturing throughput.",
-    "one_liner": "Fine tuning heavy machinery via AI",
+    "one_liner": "Physical AI for asset-heavy industries",
     "team_size": 530,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1613167873,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22686,11 +22686,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1627617699,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23115,49 +23115,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/bite-ninja.json"
   },
   {
-    "id": 24141,
-    "name": "Anakin",
-    "slug": "anakin",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91a2527875c81ede160e36ea318e02945c2b588d.png",
-    "website": "https://anakin.company",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anakin is building a fully automated pricing engine for eCommerce and on-demand service companies. We help them increase their revenue by upto 12% by optimizing the pricing, products and trends data of their competitors.\r\n\r\nWe do that by collecting data and generating actionable insights. Our pricing engine automatically changes the prices of hundreds of millions of products across 30+ countries in real-time. Anakin is profitable and growing every month with 15+ multi-billion-dollar companies as clients.",
-    "one_liner": "We automate pricing for eCommerce and on-demand service companies",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1625292827,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anakin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/anakin.json"
-  },
-  {
     "id": 24147,
     "name": "Abbot",
     "slug": "abbot",
@@ -23283,7 +23240,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41949,7 +41906,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -47920,15 +47877,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
     "one_liner": "AI Referral Automation for Primary Care Clinics",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1753486430,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49420,10 +49377,10 @@
     "website": "https://ashr.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ashr is a fully contained test and evals platform that improves AI agents by ensuring accuracy and quality across a wide range of user journeys through your product.\r\n\r\nAshr generates user journeys through your agents’ tool calls, results, and questions. We don’t generate one off tests, we generate large amounts of authentic user stories through your product, and pick up on errors, inconsistencies, and failures that would otherwise take hours of manual testing or get caught by a customer. We also work to ensure agent response quality in line with your business goals by offering custom evaluation metrics.\r\n\r\nAshr works with voice, text, automated website generation, image, file generation, and multimodal. We’re also willing to generate custom input types or make modifications for anyone interested. Currently, we integrate as an SDK, and are proactively working to make our documentation and resources as accessible and easy to use as possible.",
-    "one_liner": "Mimic Users in Your Production Environment to Catch Agent Fails",
+    "one_liner": "Automated Multi-Modal Testing for Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1771535371,
     "tags": [
       "Artificial Intelligence",
@@ -49440,7 +49397,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Human Resources"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -49801,16 +49758,16 @@
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships. It continuously monitors the SaaS ecosystem to identify high-impact revenue opportunities across integrations, distribution, co-marketing, and technology alliances.\r\n\r\nBeyond discovery, Arzule structures and manages your entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.\r\n\r\nInstead of static lists and manual processes, Arzule turns partnerships into a predictable, scalable revenue channel and the foundation for identifying and optimizing all ecosystem-driven growth.",
-    "one_liner": "AI-native revenue engine, starting with B2B partnerships",
+    "one_liner": "AI native platform to find, track, and grow revenue from partnerships",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767154035,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50011,7 +49968,7 @@
     "website": "https://trymaven.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
-    "one_liner": "Payments for Voice Agents",
+    "one_liner": "Payments Infrastructure for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

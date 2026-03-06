@@ -10796,7 +10796,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "website": "https://www.haladir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haladir is an AI product lab for verifiable domains, enabling RL & models to scale to economically-complex tasks via operations research & formal methods.",
+    "long_description": "Haladir is an applied AI product lab for verifiable domains, enabling reinforcement learning & model harnesses to scale to economically-complex tasks via the formalization of the informal. We apply solver-based methods, SMT/SAT solvers, operations research, and formal verification to make RLVR and agent deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chain, ERPs and beyond.",
     "one_liner": "Building Operational Superintelligence.",
     "team_size": 4,
     "industry": "B2B",
@@ -11046,7 +11046,7 @@
     "name": "Cascade",
     "slug": "cascade",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d44862b96a82afa074ef25dfec87a6b186e7241.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc110e9433eb8ebeb8edd42c08cec81dca5f15c.png",
     "website": "https://runcascade.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cascade builds software infrastructure for autonomous intelligence with self-improving safety and reliability models that continuously maintain, update, and prevent threats and failures at scale.",
@@ -11056,11 +11056,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770726393,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Infrastructure",
-      "Trust & Safety",
-      "AI"
+      "Trust & Safety"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11092,7 +11092,7 @@
       "Piris Inc.",
       "Pirislabs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea5995dddc2a36468464b3121f1bfa42107a258.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
     "website": "https://pirislabs.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
@@ -11102,10 +11102,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770857008,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "B2B",
       "Cloud Computing",
+      "AI",
       "Networks"
     ],
     "tags_highlighted": [],
@@ -11623,7 +11623,7 @@
     "website": "https://trymaven.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
-    "one_liner": "Payments for Voice Agents",
+    "one_liner": "Payments Infrastructure for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11666,16 +11666,16 @@
     "website": "https://shofo.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions with no scene changes, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
-    "one_liner": "Common Crawl for Video",
+    "one_liner": "The World's Largest Video Library",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
     "tags": [
-      "Artificial Intelligence",
       "Video",
       "Data Labeling",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11698,5 +11698,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
+  },
+  {
+    "id": 31453,
+    "name": "Minicor",
+    "slug": "minicor",
+    "former_names": [
+      "Laminar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
+    "website": "https://minicor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
+    "one_liner": "Run self-healing desktop automations at scale",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772756028,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minicor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/minicor.json"
   }
 ]

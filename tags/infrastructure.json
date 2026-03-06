@@ -4140,11 +4140,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1772312996,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Healthcare",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4214,7 +4214,7 @@
     "name": "Cascade",
     "slug": "cascade",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d44862b96a82afa074ef25dfec87a6b186e7241.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc110e9433eb8ebeb8edd42c08cec81dca5f15c.png",
     "website": "https://runcascade.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cascade builds software infrastructure for autonomous intelligence with self-improving safety and reliability models that continuously maintain, update, and prevent threats and failures at scale.",
@@ -4224,11 +4224,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770726393,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Infrastructure",
-      "Trust & Safety",
-      "AI"
+      "Trust & Safety"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4772,5 +4772,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rubric-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/rubric-ai.json"
+  },
+  {
+    "id": 31453,
+    "name": "Minicor",
+    "slug": "minicor",
+    "former_names": [
+      "Laminar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
+    "website": "https://minicor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
+    "one_liner": "Run self-healing desktop automations at scale",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772756028,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minicor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/minicor.json"
   }
 ]

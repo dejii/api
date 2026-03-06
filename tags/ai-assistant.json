@@ -59,7 +59,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2015",
     "status": "Active",
@@ -2135,9 +2135,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Alphawatch AI generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
-    "one_liner": "AI Employees for Finance",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Alphawatch AI offers a secure document agent that allows you to manipulate and convert PDF and Word files, along with your internal knowledge in your knowledge base.",
+    "one_liner": "Secure Document Agent",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -2162,7 +2162,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3671,47 +3671,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jo",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/jo.json"
-  },
-  {
-    "id": 29160,
-    "name": "Martin",
-    "slug": "martin",
-    "former_names": [
-      "Usher"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119d7a60f36724b2c8e50e07a148e97dcac4f648.png",
-    "website": "https://www.trymartin.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Call, text, or email Martin. He manages your calendar, inbox, phone calls, to-dos, reminders, notes, and more. It is the most advanced AI personal assistant, light years ahead of Siri, Alexa, and CoPilot.",
-    "one_liner": "AI Personal Assistant like Jarvis",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1689104591,
-    "tags": [
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/martin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/martin.json"
   },
   {
     "id": 29189,
@@ -6359,9 +6318,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1754475903,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

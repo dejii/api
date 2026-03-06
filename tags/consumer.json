@@ -8175,9 +8175,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69545faa0fc0f7ee6b89313f1c320d59486f1802.png",
     "website": "https://paasa.com",
     "all_locations": "Gurugram, HR, India",
-    "long_description": "Paasa helps wealthy Indians invest in global equities - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade worldwide, invest passively, and automate every cross-border tax filing.",
+    "long_description": "Paasa helps wealthy Indians invest in global equities - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade worldwide, invest via advisory, and automate every cross-border tax filing.",
     "one_liner": "Invest in Global Equities from India",
-    "team_size": 5,
+    "team_size": 9,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1723926494,
@@ -10668,6 +10668,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
   },
   {
+    "id": 31230,
+    "name": "o11",
+    "slug": "o11",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
+    "website": "https://o11.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "o11 integrates directly inside of Microsoft PowerPoint, Excel, and Word, along with Google Slides, Sheets, and Docs. We enable you to automate any workflow directly within these apps from crafting templated presentations to building full financial models. Hundreds of companies across the globe use o11 currently.\r\n\r\nOur vision doesn't stop there though. We're building the AI plugin inside of every app. Every platform deserves to be automated through chat. o11 brings enterprises and users this potential.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "one_liner": "The AI Agent Inside Every App",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1765258468,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "B2B",
+      "Workflow Automation",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/o11",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
+  },
+  {
     "id": 31239,
     "name": "Fort",
     "slug": "fort",
@@ -10724,10 +10767,10 @@
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10746,7 +10789,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/tsenta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   }

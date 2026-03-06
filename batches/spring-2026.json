@@ -88,6 +88,44 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
   },
   {
+    "id": 31222,
+    "name": "Superset",
+    "slug": "superset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
+    "website": "https://www.superset.sh/",
+    "all_locations": "",
+    "long_description": "Run an army of Claude Code, Codex, etc. on your machine",
+    "one_liner": "IDE for the AI Agents Era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772696752,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superset",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+  },
+  {
     "id": 31396,
     "name": "qomplement",
     "slug": "qomplement",
@@ -103,7 +141,8 @@
     "launched_at": 1771907564,
     "tags": [
       "Documents",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -165,6 +204,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arga-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
+  },
+  {
+    "id": 31453,
+    "name": "Minicor",
+    "slug": "minicor",
+    "former_names": [
+      "Laminar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
+    "website": "https://minicor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
+    "one_liner": "Run self-healing desktop automations at scale",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772756028,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minicor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/minicor.json"
   },
   {
     "id": 31454,

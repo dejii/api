@@ -8726,6 +8726,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/mobileboost.json"
   },
   {
+    "id": 24141,
+    "name": "Anakin",
+    "slug": "anakin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91a2527875c81ede160e36ea318e02945c2b588d.png",
+    "website": "https://anakin.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Anakin is building a fully automated pricing engine for eCommerce and on-demand service companies. We help them increase their revenue by upto 12% by optimizing the pricing, products and trends data of their competitors.\r\n\r\nWe do that by collecting data and generating actionable insights. Our pricing engine automatically changes the prices of hundreds of millions of products across 30+ countries in real-time. Anakin is profitable and growing every month with 15+ multi-billion-dollar companies as clients.",
+    "one_liner": "We automate pricing for eCommerce and on-demand service companies",
+    "team_size": 70,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1625292827,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anakin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/anakin.json"
+  },
+  {
     "id": 24147,
     "name": "Abbot",
     "slug": "abbot",
@@ -23092,9 +23135,9 @@
     "subindustry": "B2B",
     "launched_at": 1770303004,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23248,7 +23291,7 @@
     "former_names": [
       "Realm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b7bb4a4c603e5aceea61b58a68a6d3b7156a9d9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/956fdffad84d5a7ebfd35aeb95f159f91959bc37.png",
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
@@ -23259,9 +23302,9 @@
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23328,6 +23371,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
   },
   {
+    "id": 31116,
+    "name": "OpenSpec",
+    "slug": "openspec",
+    "former_names": [
+      "FISSION",
+      "OpenSpec",
+      "openspec"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c411bb6889813a0a977496d80f091ebb000aac.png",
+    "website": "http://openspec.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenSpec is an open-source, spec-driven framework. We help developers plan complex features by creating lightweight spec documents that serve as durable context for their coding agents.\r\n\r\nWith 20k+ GitHub stars, we’re one of the leading spec-driven frameworks, used by thousands of developers and teams to plan and ship with the coding agent of their choice.\r\n\r\nOur philosophy is simple: keep planning lightweight and iterative, and match how software actually gets built, messy, evolving, and real, without dragging teams into rigid, bureaucratic workflows.",
+    "one_liner": "Plan mode for complex features",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772742267,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openspec",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/openspec.json"
+  },
+  {
     "id": 31119,
     "name": "ZeroSettle",
     "slug": "zerosettle",
@@ -23383,16 +23471,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
-    "one_liner": "Orchestration layer for coding agents",
+    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
+    "one_liner": "The platform for AI-powered applications",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Design Tools"
+      "Open Source",
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23425,7 +23515,7 @@
     "website": "https://www.zatanna.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Request Based Scraping Infrastructure",
+    "one_liner": "Agentic data layer for software without APIs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23465,10 +23555,10 @@
     "website": "https://ashr.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ashr is a fully contained test and evals platform that improves AI agents by ensuring accuracy and quality across a wide range of user journeys through your product.\r\n\r\nAshr generates user journeys through your agents’ tool calls, results, and questions. We don’t generate one off tests, we generate large amounts of authentic user stories through your product, and pick up on errors, inconsistencies, and failures that would otherwise take hours of manual testing or get caught by a customer. We also work to ensure agent response quality in line with your business goals by offering custom evaluation metrics.\r\n\r\nAshr works with voice, text, automated website generation, image, file generation, and multimodal. We’re also willing to generate custom input types or make modifications for anyone interested. Currently, we integrate as an SDK, and are proactively working to make our documentation and resources as accessible and easy to use as possible.",
-    "one_liner": "Mimic Users in Your Production Environment to Catch Agent Fails",
+    "one_liner": "Automated Multi-Modal Testing for Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1771535371,
     "tags": [
       "Artificial Intelligence",
@@ -23485,7 +23575,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Human Resources"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -23727,7 +23817,7 @@
     "website": "https://syntheticsciences.ai/",
     "all_locations": "",
     "long_description": "We’re building the infrastructure for a future AI co-scientist, starting with computational research domains. Our thesis is that capable AI scientists require two things built in tandem: (1) a human-centric product suite that generates high-quality process data, and (2) the research infrastructure to turn that data into increasingly autonomous systems. We’re creating the product and training infrastructure needed for research agents that can execute the full scientific loop.\r\n\r\nSynthetic Sciences Web is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading → hypotheses → methods → experimentation → results → drafting, even while they sleep. In parallel, we develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows.",
-    "one_liner": "AI co-scientists that run research end-to-end",
+    "one_liner": "Synthetic Sciences is Claude Code for Science",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24029,18 +24119,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png",
     "website": "https://voygr.tech",
     "all_locations": "",
-    "long_description": "VOYGR helps AI apps and agents understand and act in the real world with comprehensive place data. Unlike static mapping APIs, VOYGR combines accurate place intelligence with fresh web context – news, articles, and events.\r\n\r\nReal-world interactions rely on maps: 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nSeveral customers already run VOYGR to continuously validate places data accuracy at scale, and we outperform on accuracy and coverage.\r\n\r\nMaps were built for humans browsing pins; agents need continuously updated place ground truth they can act on – from copilots and in-car assistants to delivery robots and AR. As agents become the interface to commerce and services, VOYGR aims to be the default ground-truth layer.",
+    "long_description": "VOYGR is a better maps API every agent and AI app will need. Google says '4.2 stars, open till 10 – VOYGR knows the chef left, wait times doubled, and locals moved on. Our intelligent local search combines accurate place data with fresh web context – news, articles, and events – expanding beyond 15 attributes into an infinite, queryable place profile.\r\n\r\nReal-world interactions rely on maps: 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nGoogle Maps is a $XXB/Yr monopoly. Agents searching and shopping expand this 10X. VOYGR aims to be the default ground-truth layer.",
     "one_liner": "Real-world place intelligence for AI apps and agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769793909,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Geographic Information System",
       "API",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -3534,9 +3534,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5142d0a3656cea04017d1b306be0d076b4873877.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Alphawatch AI generates investor-ready decks, CIMs, and board materials in minutes instead of days.",
-    "one_liner": "AI Employees for Finance",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Alphawatch AI offers a secure document agent that allows you to manipulate and convert PDF and Word files, along with your internal knowledge in your knowledge base.",
+    "one_liner": "Secure Document Agent",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -3561,7 +3561,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10685,7 +10685,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -10924,15 +10924,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/487ac0ad9f618f937dd875c80053d719f8a25d07.png",
     "website": "https://www.returnsignals.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Return Signals, we are building an AI-powered luxury concierge that proactively checks in with customers via SMS when their items are delivered. This high-touch experience drives 5–10% absolute margin uplift while improving CSAT and LTV.\r\n\r\nWe improve e-commerce margins by intelligently recommending appropriate exchanges when customers are unsatisfied. Our texts achieve very high response rates (over 80% of eventual returns), and convert 70% of return intents into exchanges. All this without increasing the combined exchange and return rate. Because exchanges preserve revenue, our customers retain most of the original sale value. We achieve over 95% positive sentiment in our interactions (and almost no negative interactions), with many customers spending multiple messages thanking our bot and developing a personal relationship.\r\n\r\n",
-    "one_liner": "AI luxury concierge for E-commerce brands",
+    "long_description": "We help brands build relationships with their customers by sending texts that have 4x more engagement than the next-best competitor. For e-comm brands, this high-touch experience drives 5–10% absolute margin uplift while improving CSAT and LTV.\r\n",
+    "one_liner": "AI customer support that proactively engages high-value users",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B",
     "launched_at": 1771009461,
     "tags": [
       "Generative AI",
-      "E-commerce",
+      "Customer Success",
+      "Customer Support",
       "SMS"
     ],
     "tags_highlighted": [],
@@ -10942,8 +10943,7 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Retail"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -11609,7 +11609,7 @@
     "website": "https://autositu.com/",
     "all_locations": "",
     "long_description": "At AutoSitu, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. AutoSitu provides expert-level guidance and catch issues in minutes, helping cities and design firms/developers navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
-    "one_liner": "Regulatory infrastructure for the built world",
+    "one_liner": "AI-native workspace for development plan reviews",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -11650,18 +11650,19 @@
       "Ishiki Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "http://ishikilabs.ai",
+    "website": "https://getfern.ai",
     "all_locations": "",
-    "long_description": "We're building a sales intelligence platform that's centered on a realtime meeting copilot, which proactively surfaces up answers to any of the prospects product questions live during the call.",
-    "one_liner": "Realtime AI starting with sales",
+    "long_description": "Fern is a real time AI that runs sales playbooks live in a sales call so any person can function as a top sales person. During the call, Fern will listen to the conversation and provide realtime coaching and help the sales person with questions about product, competitors and discovery. It’s like having a senior AE on every call giving suggestions in the background.\r\n",
+    "one_liner": "Realtime AI meeting assistant starting with sales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
       "Generative AI",
-      "AI"
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11725,49 +11726,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sitefire",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
-  },
-  {
-    "id": 31230,
-    "name": "o11",
-    "slug": "o11",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
-    "website": "https://o11.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "o11 integrates directly inside of Microsoft PowerPoint, Excel, and Word, along with Google Slides, Sheets, and Docs. We enable you to automate any workflow directly within these apps from crafting templated presentations to building full financial models. Hundreds of companies across the globe use o11 currently.\r\n\r\nOur vision doesn't stop there though. We're building the AI plugin inside of every app. Every platform deserves to be automated through chat. o11 brings enterprises and users this potential.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "one_liner": "The AI Agent Inside Every App",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1765258468,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Workflow Automation",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/o11",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
   },
   {
     "id": 31244,
@@ -11901,5 +11859,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/martini",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/martini.json"
+  },
+  {
+    "id": 31453,
+    "name": "Minicor",
+    "slug": "minicor",
+    "former_names": [
+      "Laminar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
+    "website": "https://minicor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
+    "one_liner": "Run self-healing desktop automations at scale",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772756028,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minicor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/minicor.json"
   }
 ]

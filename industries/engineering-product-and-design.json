@@ -24596,16 +24596,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
     "website": "https://valgo.dev",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "As autonomy moves into complex safety-critical domains (e.g., aviation), failures become more costly and companies must devote significant in-house effort to validate their system before real-world deployment. Valgo accelerates autonomous systems development and certification by providing tooling to perform algorithmic safety validation at scale. We are building a platform to efficiently find rare and realistic failure events in simulation at a fraction of the compute cost required by existing approaches. Our tools are agnostic to models/simulators (i.e., black box) and can be applied across industries such as autonomous vehicles, aviation, robotics, space, defense, energy, and finance.\r\n\r\nValgo was founded by Stanford PhDs who wrote the textbook and taught the course at Stanford on algorithmic safety validation. We also have significant industry experience working on an FAA-certified collision avoidance system at MIT Lincoln Laboratory, validating autonomous aircraft at Xwing, and collaborating with industry sponsors across transportation, aviation, and energy.",
-    "one_liner": "Algorithmic safety validation tools for autonomy.",
-    "team_size": 2,
+    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We build probabilistic models of routes, tasks, and environments from the bottom up. Through our API, autonomy companies plug in their aggregate statistics from simulations they're already running. The output is a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+    "one_liner": "Risk quantification platform to insure physical AI",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1763584142,
     "tags": [
       "Robotics",
       "B2B",
-      "Aerospace",
+      "Insurance",
       "Trust & Safety",
       "Self-Driving Vehicles"
     ],
@@ -24765,7 +24765,7 @@
     "former_names": [
       "Realm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b7bb4a4c603e5aceea61b58a68a6d3b7156a9d9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/956fdffad84d5a7ebfd35aeb95f159f91959bc37.png",
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
@@ -24776,9 +24776,9 @@
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24816,16 +24816,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
-    "one_liner": "Orchestration layer for coding agents",
+    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
+    "one_liner": "The platform for AI-powered applications",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Design Tools"
+      "Open Source",
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24858,7 +24860,7 @@
     "website": "https://www.zatanna.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Request Based Scraping Infrastructure",
+    "one_liner": "Agentic data layer for software without APIs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24888,6 +24890,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zatanna",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
+  },
+  {
+    "id": 31139,
+    "name": "Ashr",
+    "slug": "ashr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
+    "website": "https://ashr.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ashr is a fully contained test and evals platform that improves AI agents by ensuring accuracy and quality across a wide range of user journeys through your product.\r\n\r\nAshr generates user journeys through your agents’ tool calls, results, and questions. We don’t generate one off tests, we generate large amounts of authentic user stories through your product, and pick up on errors, inconsistencies, and failures that would otherwise take hours of manual testing or get caught by a customer. We also work to ensure agent response quality in line with your business goals by offering custom evaluation metrics.\r\n\r\nAshr works with voice, text, automated website generation, image, file generation, and multimodal. We’re also willing to generate custom input types or make modifications for anyone interested. Currently, we integrate as an SDK, and are proactively working to make our documentation and resources as accessible and easy to use as possible.",
+    "one_liner": "Automated Multi-Modal Testing for Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1771535371,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Data Engineering",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ashr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   },
   {
     "id": 31151,
@@ -24943,7 +24988,7 @@
     "website": "https://syntheticsciences.ai/",
     "all_locations": "",
     "long_description": "We’re building the infrastructure for a future AI co-scientist, starting with computational research domains. Our thesis is that capable AI scientists require two things built in tandem: (1) a human-centric product suite that generates high-quality process data, and (2) the research infrastructure to turn that data into increasingly autonomous systems. We’re creating the product and training infrastructure needed for research agents that can execute the full scientific loop.\r\n\r\nSynthetic Sciences Web is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading → hypotheses → methods → experimentation → results → drafting, even while they sleep. In parallel, we develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows.",
-    "one_liner": "AI co-scientists that run research end-to-end",
+    "one_liner": "Synthetic Sciences is Claude Code for Science",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25099,6 +25144,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bubble-lab",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
+  },
+  {
+    "id": 31222,
+    "name": "Superset",
+    "slug": "superset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
+    "website": "https://www.superset.sh/",
+    "all_locations": "",
+    "long_description": "Run an army of Claude Code, Codex, etc. on your machine",
+    "one_liner": "IDE for the AI Agents Era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772696752,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superset",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
     "id": 31241,

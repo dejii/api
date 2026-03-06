@@ -2388,6 +2388,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/serif-health.json"
   },
   {
+    "id": 24141,
+    "name": "Anakin",
+    "slug": "anakin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91a2527875c81ede160e36ea318e02945c2b588d.png",
+    "website": "https://anakin.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Anakin is building a fully automated pricing engine for eCommerce and on-demand service companies. We help them increase their revenue by upto 12% by optimizing the pricing, products and trends data of their competitors.\r\n\r\nWe do that by collecting data and generating actionable insights. Our pricing engine automatically changes the prices of hundreds of millions of products across 30+ countries in real-time. Anakin is profitable and growing every month with 15+ multi-billion-dollar companies as clients.",
+    "one_liner": "We automate pricing for eCommerce and on-demand service companies",
+    "team_size": 70,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1625292827,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anakin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/anakin.json"
+  },
+  {
     "id": 24253,
     "name": "Pluggy",
     "slug": "pluggy",
@@ -6124,6 +6167,55 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
   },
   {
+    "id": 31123,
+    "name": "21st.dev",
+    "slug": "21stdev",
+    "former_names": [
+      "21st",
+      "1code by 21st.dev",
+      "1code (21st.dev)",
+      "1code (ex: 21st.dev)",
+      "1code (21st.dev)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
+    "website": "https://21st.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
+    "one_liner": "The platform for AI-powered applications",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1765422527,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/21stdev",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21stdev.json"
+  },
+  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -6218,18 +6310,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png",
     "website": "https://voygr.tech",
     "all_locations": "",
-    "long_description": "VOYGR helps AI apps and agents understand and act in the real world with comprehensive place data. Unlike static mapping APIs, VOYGR combines accurate place intelligence with fresh web context – news, articles, and events.\r\n\r\nReal-world interactions rely on maps: 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nSeveral customers already run VOYGR to continuously validate places data accuracy at scale, and we outperform on accuracy and coverage.\r\n\r\nMaps were built for humans browsing pins; agents need continuously updated place ground truth they can act on – from copilots and in-car assistants to delivery robots and AR. As agents become the interface to commerce and services, VOYGR aims to be the default ground-truth layer.",
+    "long_description": "VOYGR is a better maps API every agent and AI app will need. Google says '4.2 stars, open till 10 – VOYGR knows the chef left, wait times doubled, and locals moved on. Our intelligent local search combines accurate place data with fresh web context – news, articles, and events – expanding beyond 15 attributes into an infinite, queryable place profile.\r\n\r\nReal-world interactions rely on maps: 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. Yet a restaurant recommendation can fail because the place is closed, menus aren’t searchable, or delivery goes to the wrong entrance. AI pushes expectations further – answering semantic prompts like “specialty coffee shops in SF with Wi-Fi and YC founders\", and taking actions like making reservations or placing orders.\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nGoogle Maps is a $XXB/Yr monopoly. Agents searching and shopping expand this 10X. VOYGR aims to be the default ground-truth layer.",
     "one_liner": "Real-world place intelligence for AI apps and agents",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769793909,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Geographic Information System",
       "API",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

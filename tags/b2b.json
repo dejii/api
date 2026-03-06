@@ -1479,11 +1479,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4871a9dcb74ef8a41b1532167a4c54c5ba5b7354.png",
     "website": "https://www.usergems.com",
     "all_locations": "Austria; Remote",
-    "long_description": "UserGems is an AI-driven prospecting solution for revenue teams to drive bigger pipelines, faster sales cycles, and larger deals.\r\n\r\nWhenever your customers change their jobs, UserGems automatically surfaces them as new leads to your sales reps directly in Salesforce. This enables reps to close more deals, faster.\r\n\r\nLeveraging machine learning, UserGems automatically identifies other prospects that match your best customers. That means you get a complete, up-to-date list of leads that match your ICP, persona and other key criteria so that reps spend less time sourcing leads, and more time selling.",
-    "one_liner": "AI-powered sales solution based on your best customers",
-    "team_size": 60,
+    "long_description": "UserGems is the AI command center for go-to-market teams. Powered by best-in-class contact data, its AI agents automatically surface high-intent buyers, prioritize them, and deploy personalized outbound and ABM to drive more pipeline.",
+    "one_liner": "The AI Command Center for outbound and ABM",
+    "team_size": 100,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1398907983,
     "tags": [
       "B2B",
@@ -1497,7 +1497,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Recruiting and Talent"
+      "Sales"
     ],
     "regions": [
       "Austria",
@@ -1505,7 +1505,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1621,7 +1621,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2015",
     "status": "Active",
@@ -13476,16 +13476,16 @@
     "website": "https://tractian.com",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Tractian transforms machine data into uptime, captures shop-floor know-how, and accelerates manufacturing throughput.",
-    "one_liner": "Fine tuning heavy machinery via AI",
+    "one_liner": "Physical AI for asset-heavy industries",
     "team_size": 530,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1613167873,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15935,11 +15935,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1627617699,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16320,49 +16320,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doublehq",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/doublehq.json"
-  },
-  {
-    "id": 24141,
-    "name": "Anakin",
-    "slug": "anakin",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91a2527875c81ede160e36ea318e02945c2b588d.png",
-    "website": "https://anakin.company",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anakin is building a fully automated pricing engine for eCommerce and on-demand service companies. We help them increase their revenue by upto 12% by optimizing the pricing, products and trends data of their competitors.\r\n\r\nWe do that by collecting data and generating actionable insights. Our pricing engine automatically changes the prices of hundreds of millions of products across 30+ countries in real-time. Anakin is profitable and growing every month with 15+ multi-billion-dollar companies as clients.",
-    "one_liner": "We automate pricing for eCommerce and on-demand service companies",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1625292827,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anakin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/anakin.json"
   },
   {
     "id": 24149,
@@ -36939,7 +36896,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42217,15 +42174,15 @@
     "website": "https://lopus.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "GTM teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, Gong, Slack, and email. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered GTM analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
-    "one_liner": "Data Unification for GTM Analytics ",
+    "one_liner": "Analytics built for Growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1740443352,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44607,16 +44564,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ca14064cb81ecebe2c5dd03339d7a44f1e9320f.png",
     "website": "https://monarcha.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Monarcha is an AI-powered geospatial platform built for logistics, real estate, urban planning, and environmental teams. It turns natural language into powerful spatial analysis, styling, and workflows with no GIS expertise required.\r\n\r\nWorking with geospatial data today is slow, fragmented, and deeply technical. Simple tasks often require desktop based software and coding expertise. Most platforms rely on outdated desktop software, steep learning curves, and disconnected tools. Even simple tasks like uploading data, running a buffer, or visualizing zones can take hours and require specialists.\r\n\r\nMonarcha changes that.\r\nWe connect directly to your data, enrich it with public datasets, understand spatial context, and let you run 50+ spatial tools instantly on the map. Upload vector or raster files, run PostGIS SQL queries, generate heatmaps, clip zones, and more all with a simple prompt. We're giving everyone the power of advanced spatial analysis to help save time, money and unlock siloed geospatial data across entire organizations. \r\n\r\nWant to learn more? Check out monarcha.ai",
-    "one_liner": "An expert for your spatial data",
+    "long_description": "Monarcha is an AI-powered georeferencing platform built for mining, infrastructure, and land intelligence teams. It turns scanned maps, plats, and land documents into accurate, queryable spatial data in seconds.\r\n\r\nAligning historical maps, plats, and survey drawings to real-world coordinates is tedious work. Most teams either hire specialists or skip it entirely, leaving critical spatial data locked in documents.\r\n\r\nMonarcha lets users upload any document and get a fully georeferenced, queryable GIS layer in 90 seconds or less.\r\n\r\nWant to learn more? Check out monarcha.ai",
+    "one_liner": "Turn maps into data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753222195,
     "tags": [
+      "Artificial Intelligence",
       "Geographic Information System",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45552,15 +45509,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
     "one_liner": "AI Referral Automation for Primary Care Clinics",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1753486430,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45814,9 +45771,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1754475903,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -47747,16 +47704,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
     "website": "https://valgo.dev",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "As autonomy moves into complex safety-critical domains (e.g., aviation), failures become more costly and companies must devote significant in-house effort to validate their system before real-world deployment. Valgo accelerates autonomous systems development and certification by providing tooling to perform algorithmic safety validation at scale. We are building a platform to efficiently find rare and realistic failure events in simulation at a fraction of the compute cost required by existing approaches. Our tools are agnostic to models/simulators (i.e., black box) and can be applied across industries such as autonomous vehicles, aviation, robotics, space, defense, energy, and finance.\r\n\r\nValgo was founded by Stanford PhDs who wrote the textbook and taught the course at Stanford on algorithmic safety validation. We also have significant industry experience working on an FAA-certified collision avoidance system at MIT Lincoln Laboratory, validating autonomous aircraft at Xwing, and collaborating with industry sponsors across transportation, aviation, and energy.",
-    "one_liner": "Algorithmic safety validation tools for autonomy.",
-    "team_size": 2,
+    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We build probabilistic models of routes, tasks, and environments from the bottom up. Through our API, autonomy companies plug in their aggregate statistics from simulations they're already running. The output is a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+    "one_liner": "Risk quantification platform to insure physical AI",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1763584142,
     "tags": [
       "Robotics",
       "B2B",
-      "Aerospace",
+      "Insurance",
       "Trust & Safety",
       "Self-Driving Vehicles"
     ],
@@ -47797,11 +47754,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1772312996,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Healthcare",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47924,9 +47881,9 @@
     "subindustry": "B2B",
     "launched_at": 1770303004,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48041,7 +47998,7 @@
     "former_names": [
       "Realm"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b7bb4a4c603e5aceea61b58a68a6d3b7156a9d9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/956fdffad84d5a7ebfd35aeb95f159f91959bc37.png",
     "website": "https://sentrial.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
@@ -48052,9 +48009,9 @@
     "launched_at": 1770083112,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48128,7 +48085,7 @@
     "name": "Cascade",
     "slug": "cascade",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d44862b96a82afa074ef25dfec87a6b186e7241.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc110e9433eb8ebeb8edd42c08cec81dca5f15c.png",
     "website": "https://runcascade.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cascade builds software infrastructure for autonomous intelligence with self-improving safety and reliability models that continuously maintain, update, and prevent threats and failures at scale.",
@@ -48138,11 +48095,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770726393,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Security",
       "Infrastructure",
-      "Trust & Safety",
-      "AI"
+      "Trust & Safety"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48258,7 +48215,7 @@
       "Piris Inc.",
       "Pirislabs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ea5995dddc2a36468464b3121f1bfa42107a258.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
     "website": "https://pirislabs.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
@@ -48268,10 +48225,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770857008,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "B2B",
       "Cloud Computing",
+      "AI",
       "Networks"
     ],
     "tags_highlighted": [],
@@ -48295,6 +48252,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pirislabs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
+  },
+  {
+    "id": 31116,
+    "name": "OpenSpec",
+    "slug": "openspec",
+    "former_names": [
+      "FISSION",
+      "OpenSpec",
+      "openspec"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c411bb6889813a0a977496d80f091ebb000aac.png",
+    "website": "http://openspec.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenSpec is an open-source, spec-driven framework. We help developers plan complex features by creating lightweight spec documents that serve as durable context for their coding agents.\r\n\r\nWith 20k+ GitHub stars, we’re one of the leading spec-driven frameworks, used by thousands of developers and teams to plan and ship with the coding agent of their choice.\r\n\r\nOur philosophy is simple: keep planning lightweight and iterative, and match how software actually gets built, messy, evolving, and real, without dragging teams into rigid, bureaucratic workflows.",
+    "one_liner": "Plan mode for complex features",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772742267,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openspec",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/openspec.json"
   },
   {
     "id": 31119,
@@ -48352,16 +48354,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A control panel for your AI coding agents. Run Claude Codes in parallel locally or in remote sandboxes, automate Linear tasks, PR reviews for teams that ship fast",
-    "one_liner": "Orchestration layer for coding agents",
+    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
+    "one_liner": "The platform for AI-powered applications",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Design Tools"
+      "Open Source",
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48525,15 +48529,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3865c0d771194942bdee5eff869a97c2df94f0c.png",
     "website": "https://aemon.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aemon is the first autonomous R&D engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
-    "one_liner": "The AI R&D Engineer ",
+    "long_description": "Aemon is the first autonomous research engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
+    "one_liner": "The AI Research Engineer ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772053698,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49124,16 +49128,16 @@
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships. It continuously monitors the SaaS ecosystem to identify high-impact revenue opportunities across integrations, distribution, co-marketing, and technology alliances.\r\n\r\nBeyond discovery, Arzule structures and manages your entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.\r\n\r\nInstead of static lists and manual processes, Arzule turns partnerships into a predictable, scalable revenue channel and the foundation for identifying and optimizing all ecosystem-driven growth.",
-    "one_liner": "AI-native revenue engine, starting with B2B partnerships",
+    "one_liner": "AI native platform to find, track, and grow revenue from partnerships",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767154035,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49171,11 +49175,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1765258468,
     "tags": [
-      "Generative AI",
+      "Artificial Intelligence",
+      "Consumer",
       "B2B",
       "Workflow Automation",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49386,7 +49390,7 @@
     "website": "https://trymaven.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
-    "one_liner": "Payments for Voice Agents",
+    "one_liner": "Payments Infrastructure for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -49431,14 +49435,16 @@
     "website": "https://usegrade.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Payroll for performance",
+    "one_liner": "Payroll for performance-based work",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1768947933,
     "tags": [
       "Fintech",
-      "B2B"
+      "Payments",
+      "B2B",
+      "Payroll"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49512,7 +49518,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a713774c85daa51c5353d80d0b599eae5069e05.png",
     "website": "https://veriad.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Veriad is building AI compliance officers for enterprises. Our agent analyze documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies.\r\n",
+    "long_description": "Veriad is building AI compliance officers for marketing. Our agents replace human content reviewers to ensure ads are on brand and legally compliant. Rohan and Anton previously built and sold internal compliance tools to F500s and met on the founding team of a YC-backed startup.",
     "one_liner": "AI compliance officers",
     "team_size": 2,
     "industry": "B2B",
@@ -49710,6 +49716,91 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/condor-energy",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/condor-energy.json"
+  },
+  {
+    "id": 31396,
+    "name": "qomplement",
+    "slug": "qomplement",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
+    "website": "https://qomplement.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "qomplement builds the most accurate AI agents for document filling. We take messy data and fill internal pdfs forms and spreadsheets templates teams actually use.\r\n\r\nToday 90% of enterprise data lives in documents. Extracting it is only half the job. In real workflows, that data has to be filled back into other documents. ",
+    "one_liner": "AI Agents for Document Filling",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771907564,
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qomplement",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
+  },
+  {
+    "id": 31453,
+    "name": "Minicor",
+    "slug": "minicor",
+    "former_names": [
+      "Laminar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
+    "website": "https://minicor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
+    "one_liner": "Run self-healing desktop automations at scale",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772756028,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minicor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/minicor.json"
   },
   {
     "id": 31454,

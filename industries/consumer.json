@@ -31533,23 +31533,25 @@
   },
   {
     "id": 29160,
-    "name": "Martin",
-    "slug": "martin",
+    "name": "Letterbook",
+    "slug": "letterbook",
     "former_names": [
-      "Usher"
+      "Usher",
+      "Martin"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/119d7a60f36724b2c8e50e07a148e97dcac4f648.png",
-    "website": "https://www.trymartin.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6c57e5c710ca16dd9d6aada5b18cbe7dbed8be8.png",
+    "website": "https://www.letterbook.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Call, text, or email Martin. He manages your calendar, inbox, phone calls, to-dos, reminders, notes, and more. It is the most advanced AI personal assistant, light years ahead of Siri, Alexa, and CoPilot.",
-    "one_liner": "AI Personal Assistant like Jarvis",
+    "long_description": "Letterbook is the AI-native alternative to Zendesk, Freshdesk, Zohodesk, and Intercom. We help B2C companies manage and resolve customer support tickets across email, in-app feedback, and website forms.\r\n\r\nLetterbook's AI can triage your tickets, write replies, and build your knowledge base.",
+    "one_liner": "AI customer support platform for B2C",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1689104591,
     "tags": [
-      "AI",
-      "AI Assistant"
+      "Artificial Intelligence",
+      "Customer Service",
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31569,8 +31571,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/martin",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/martin.json"
+    "url": "https://www.ycombinator.com/companies/letterbook",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/letterbook.json"
   },
   {
     "id": 29205,
@@ -36291,10 +36293,10 @@
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36313,7 +36315,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/tsenta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },

@@ -1912,6 +1912,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2015/qventus.json"
   },
   {
+    "id": 751,
+    "name": "Magic",
+    "slug": "magic",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/776561775e16de7555470b2a89bb97649da650c3.png",
+    "website": "https://getmagic.com/",
+    "all_locations": "Washington, DC, USA; San Francisco, CA, USA; Remote",
+    "long_description": "Magic is the most convenient way to access quality virtual assistants to scale your business.",
+    "one_liner": "Extremely talented assistants for busy people",
+    "team_size": 350,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1416218819,
+    "tags": [
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2015",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magic",
+    "api": "https://yc-oss.github.io/api/batches/winter-2015/magic.json"
+  },
+  {
     "id": 763,
     "name": "Bankjoy",
     "slug": "bankjoy",
@@ -11063,7 +11104,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19703,16 +19744,16 @@
     "website": "https://tractian.com",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Tractian transforms machine data into uptime, captures shop-floor know-how, and accelerates manufacturing throughput.",
-    "one_liner": "Fine tuning heavy machinery via AI",
+    "one_liner": "Physical AI for asset-heavy industries",
     "team_size": 530,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1613167873,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22031,11 +22072,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1627617699,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22454,18 +22495,18 @@
     "slug": "anakin",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91a2527875c81ede160e36ea318e02945c2b588d.png",
-    "website": "https://anakin.company",
+    "website": "https://anakin.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Anakin is building a fully automated pricing engine for eCommerce and on-demand service companies. We help them increase their revenue by upto 12% by optimizing the pricing, products and trends data of their competitors.\r\n\r\nWe do that by collecting data and generating actionable insights. Our pricing engine automatically changes the prices of hundreds of millions of products across 30+ countries in real-time. Anakin is profitable and growing every month with 15+ multi-billion-dollar companies as clients.",
     "one_liner": "We automate pricing for eCommerce and on-demand service companies",
-    "team_size": 60,
+    "team_size": 70,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1625292827,
     "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce"
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22528,7 +22569,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26420,6 +26461,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cozmo-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cozmo-ai.json"
+  },
+  {
+    "id": 25340,
+    "name": "Loops",
+    "slug": "loops",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef8d8c9b30ba22bdd91401d412f32c73551f5439.png",
+    "website": "https://loops.so",
+    "all_locations": "Washington, DC, USA; New York, NY, USA; Remote",
+    "long_description": "Loops is a simple and beautiful email sending platform for SaaS companies. We have a Notion-style block editor for email creation, excellent deliverability for transactional mail and pre-built loops for SaaS companies to snap-in to increase their revenue and user engagement.",
+    "one_liner": "Email sending for startups",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1643293654,
+    "tags": [
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/loops",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/loops.json"
   },
   {
     "id": 25348,
@@ -44554,7 +44636,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -45369,7 +45451,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Automate freight operations from quote to cash without replacing your trusted systems.",
     "one_liner": "Workflow automation. Built for logistics.",
-    "team_size": 11,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1706556384,
@@ -46891,9 +46973,9 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46909,7 +46991,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -49108,9 +49190,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69545faa0fc0f7ee6b89313f1c320d59486f1802.png",
     "website": "https://paasa.com",
     "all_locations": "Gurugram, HR, India",
-    "long_description": "Paasa helps wealthy Indians invest in global equities - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade worldwide, invest passively, and automate every cross-border tax filing.",
+    "long_description": "Paasa helps wealthy Indians invest in global equities - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade worldwide, invest via advisory, and automate every cross-border tax filing.",
     "one_liner": "Invest in Global Equities from India",
-    "team_size": 5,
+    "team_size": 9,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1723926494,
@@ -55079,42 +55161,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/claim-health.json"
   },
   {
-    "id": 30430,
-    "name": "Almond",
-    "slug": "almond-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
-    "website": "https://almond.bot/",
-    "all_locations": "",
-    "long_description": "Industrial grade 7 DoF robot arms designed and assembled (by robots) in California.",
-    "one_liner": "Robots designed for the era of AI",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1745432874,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/almond-2",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/almond-2.json"
-  },
-  {
     "id": 30440,
     "name": "Sim",
     "slug": "sim",
@@ -55310,46 +55356,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/better-auth",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/better-auth.json"
-  },
-  {
-    "id": 30455,
-    "name": "The LLM Data Company",
-    "slug": "the-llm-data-company",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
-    "website": "https://www.llmdata.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The LLM Data Company is training models in data scarce verticals",
-    "one_liner": "Frontier models for critical domains",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747787326,
-    "tags": [
-      "AIOps",
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/the-llm-data-company",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/the-llm-data-company.json"
   },
   {
     "id": 30458,
@@ -59991,7 +59997,7 @@
     "all_locations": "",
     "long_description": "The agentic era is here, but its foundation is dangerously insecure. A growing number of high-profile \"AI agent gone rogue\" security incidents make headlines each week.\r\n\r\nAs enterprise adoption of agentic software has far outpaced the development of applicable cybersecurity solutions, CISOs have loudly voiced a growing need for verifiable, fine-grained security controls on complex multi-agent systems. That's why we built Multifactor.\r\n\r\nMultifactor offers best-in-class authentication, authorization, and auditing technologies for agentic systems, allowing users to securely and revocably share online accounts with agents while maintaining fine-grained permissions and a detailed event history. We are doing for AI security what Cloudflare did for web security, Okta did for identity security, and Wiz did for cloud security: defining the category.\r\n\r\nA world-class \"account manager\" that allows agents to securely use online accounts on your behalf is just the start—our early enterprise partners include companies using AI agents to manage $7.5+ billion manufacturing supply chains, where the consequences for lapses in security are severe. Our patented AI security technology seamlessly integrates with existing agentic software to thwart attacks like prompt injection, so CISOs and end users alike can breathe a sigh of relief, without slowing the pace of AI adoption.",
     "one_liner": "Zero-trust authentication, authorization, and auditing for AI agents",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1758318085,
@@ -61328,6 +61334,44 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pocket.json"
   },
   {
+    "id": 31222,
+    "name": "Superset",
+    "slug": "superset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
+    "website": "https://www.superset.sh/",
+    "all_locations": "",
+    "long_description": "Run an army of Claude Code, Codex, etc. on your machine",
+    "one_liner": "IDE for the AI Agents Era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772696752,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superset",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+  },
+  {
     "id": 31243,
     "name": "Scout Out",
     "slug": "scout-out",
@@ -61335,9 +61379,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a3bd0b7bf890073bc7a6f793e377cb304145e60.png",
     "website": "https://scoutout.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scout Out helps residential contractors estimate jobs faster and submit clearer, more competitive proposals.\r\n\r\nToday, every contractor bidding a residential remodel or rebuild has to manually interpret plans, calculate material and labor quantities, and assemble a proposal from scratch. The process is slow, inconsistent, and expensive — and small differences in scope often decide who wins the job.\r\n\r\nScoutOut automates this workflow. We use computer vision trained on residential building plans to generate structured material and labor takeoffs, which contractors can review, customize, price, and turn into professional proposals. Instead of starting from zero on every bid, contractors start with a standardized, high-quality estimate they can trust.\r\n\r\nThe result: contractors bid faster, price more consistently, and submit clearer proposals — helping them win more residential remodeling and contracting jobs with less overhead.\r\n\r\nWe’re starting in Los Angeles, working closely with residential contractors on remodels and post-fire rebuilds following the Palisades and Eaton fires.",
-    "one_liner": "AI generated proposals for residential construction projects",
-    "team_size": 1,
+    "long_description": "Scout Out is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nScout Out replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Scout Out's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.\r\nWe're starting in Los Angeles, working closely with residential remodelers and contractors — including those managing post-fire rebuilds following the Palisades and Eaton fires.",
+    "one_liner": "Keeping contractors on the job site, not behind a desk.",
+    "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1768343791,
@@ -61383,10 +61427,10 @@
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1769729252,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -61405,7 +61449,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/tsenta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },
