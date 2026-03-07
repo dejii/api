@@ -2903,7 +2903,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
     "website": "https://www.foundation-industries.com/",
     "all_locations": "",
-    "long_description": "America once turned breakthroughs into abundant products with unmatched speed. Our edge wasn’t just invention; it was the ability to prototype, iterate, and scale production faster than anyone else.\r\n\r\nOver time, we kept inventing but lost production velocity. High-volume manufacturing moved offshore, and low-volume, high-mix production became slow, fragmented, and burdened by overhead, quoting, programming, scheduling, and coordination. For decades, fixing this wasn’t economical. The indirect workaround costs more than the production itself.\r\n\r\nThat constraint is no longer. \r\n\r\nNew tools now automate the cognitive layers that once slowed everything down, collapsing weeks into days and turning overhead into code. \r\n\r\nFor the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge by accelerating high-tech, low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\nfounders@foundation-industries.com",
+    "long_description": "America once turned breakthroughs into abundant products with unmatched speed. Our edge wasn’t just invention; it was the ability to prototype, iterate, and scale production faster than anyone else.\r\n\r\nOver time, we kept inventing but lost production velocity. High-volume manufacturing moved offshore, and low-volume, high-mix production became slow, fragmented, and burdened by overhead, quoting, programming, scheduling, and coordination. For decades, fixing this wasn’t economical. The indirect workaround costs more than the production itself.\r\n\r\nThat constraint is no longer. \r\n\r\nNew tools now automate the cognitive layers that once slowed everything down, collapsing weeks into days and turning overhead into code. \r\n\r\nFor the first time in decades, fast, flexible domestic production can be economically superior. We’re rebuilding America’s productive edge by accelerating high-tech, low-volume, high-mix manufacturing, helping hard-tech teams prototype faster, launch sooner, and build more here.\r\n\r\nIf you want to restore American productive power and ship real hardware, reach out.\r\n\r\njakob@foundation-industries.com",
     "one_liner": "We supply hard tech companies with critical components.",
     "team_size": 3,
     "industry": "Industrials",
@@ -2915,7 +2915,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -3190,46 +3190,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
   },
   {
-    "id": 30996,
-    "name": "Axial Composites Industries",
-    "slug": "axial-composites-industries",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png",
-    "website": "https://www.axialcomposite.com",
-    "all_locations": "",
-    "long_description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to manufacture carbon fiber parts at the speed of software for the upcoming autonomous age\r\n\r\nWe believe in the following:\r\n\r\n•\tAerospace and robotics manufacturing is going exponential\r\n•\tThermoplastic composites will be the foundational materials for such applications\r\n\r\nOur mission is to equip the West with novel composite manufacturing methods that will act as the backbone of the skyrocketing demand in autonomous systems.\r\n\r\nOur method prints stronger and lighter parts by leveraging fiber anisotropy to our advantage. We can manufacture large composite structures in a day rather than weeks. This not only allows for faster iteration cycles, but it unlocks new possibilities for composite manufacturing.",
-    "one_liner": "Carbon Fiber Manufacturing at the Speed of Software",
-    "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1757132336,
-    "tags": [
-      "Hard Tech",
-      "Manufacturing",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axial-composites-industries",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial-composites-industries.json"
-  },
-  {
     "id": 31097,
     "name": "REV1",
     "slug": "rev1",
@@ -3240,7 +3200,7 @@
     "website": "https://rev1.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
-    "one_liner": "Shortening hardware design cycles by automating post-CAD work",
+    "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

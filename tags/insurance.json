@@ -1904,11 +1904,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "Axle is Plaid for insurance - an AI-native clearinghouse for insurance. With Axle, companies can instantly verify insurance, monitor ongoing coverage, and update policy items, helping them reduce operational cost and financial risk. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
-    "one_liner": "Universal API for insurance",
+    "long_description": "[Axle](https://axle.insure/) is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experrian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
+    "one_liner": "AI-native clearinghouse for insurance",
     "team_size": 10,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
+    "subindustry": "Fintech",
     "launched_at": 1658084084,
     "tags": [
       "Developer Tools",
@@ -1924,8 +1924,7 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Insurance"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -2921,9 +2920,9 @@
     "slug": "valgo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
-    "website": "https://valgo.dev",
-    "all_locations": "San Mateo, CA, USA",
-    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We build probabilistic models of routes, tasks, and environments from the bottom up. Through our API, autonomy companies plug in their aggregate statistics from simulations they're already running. The output is a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+    "website": "https://valgo.ai",
+    "all_locations": "",
+    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
     "one_liner": "Risk quantification platform to insure physical AI",
     "team_size": 3,
     "industry": "B2B",
@@ -2947,8 +2946,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

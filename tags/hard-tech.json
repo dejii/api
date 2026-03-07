@@ -3797,46 +3797,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lightberry.json"
   },
   {
-    "id": 30996,
-    "name": "Axial Composites Industries",
-    "slug": "axial-composites-industries",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png",
-    "website": "https://www.axialcomposite.com",
-    "all_locations": "",
-    "long_description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to manufacture carbon fiber parts at the speed of software for the upcoming autonomous age\r\n\r\nWe believe in the following:\r\n\r\n•\tAerospace and robotics manufacturing is going exponential\r\n•\tThermoplastic composites will be the foundational materials for such applications\r\n\r\nOur mission is to equip the West with novel composite manufacturing methods that will act as the backbone of the skyrocketing demand in autonomous systems.\r\n\r\nOur method prints stronger and lighter parts by leveraging fiber anisotropy to our advantage. We can manufacture large composite structures in a day rather than weeks. This not only allows for faster iteration cycles, but it unlocks new possibilities for composite manufacturing.",
-    "one_liner": "Carbon Fiber Manufacturing at the Speed of Software",
-    "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1757132336,
-    "tags": [
-      "Hard Tech",
-      "Manufacturing",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axial-composites-industries",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial-composites-industries.json"
-  },
-  {
     "id": 31019,
     "name": "Ndea",
     "slug": "ndea-com",
@@ -3963,6 +3923,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/one-robot.json"
   },
   {
+    "id": 31088,
+    "name": "RunAnywhere",
+    "slug": "runanywhere",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
+    "website": "https://www.runanywhere.ai/",
+    "all_locations": "",
+    "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
+    "one_liner": "The default way of running On-Device AI at Scale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767296079,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hard Tech",
+      "IoT",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runanywhere",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
+  },
+  {
     "id": 31097,
     "name": "REV1",
     "slug": "rev1",
@@ -3973,7 +3975,7 @@
     "website": "https://rev1.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
-    "one_liner": "Shortening hardware design cycles by automating post-CAD work",
+    "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4229,7 +4231,7 @@
     "name": "DAIVIN!",
     "slug": "daivin",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/296158eb3d177c4c4d841962da8368230f473660.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88f15feafc1401a5c940397e2d93e236914265b4.png",
     "website": "https://www.daivin.tech/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DAIVIN! builds tankless dive gear that unlocks breath autonomy in extreme environments. Starting from underwater environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in space, air and on land and replace them with water!",

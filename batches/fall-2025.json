@@ -275,7 +275,7 @@
     "all_locations": "",
     "long_description": "Existing robots learn generic averages from massive datasets. Our robots learn from customer feedback.\r\n\r\nWe solve the RL feedback loop for robotics, allowing our robots to learn from your specific standards via an automated reward pipeline that combines customer feedback with an intelligent judge model. This is the only way to capture the multi-trillion dollar “long tail” of unique, high-aggregate-value business tasks. ",
     "one_liner": "Robots for frontline physical labor — starting with laundry",
-    "team_size": 2,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1754696414,
@@ -1782,7 +1782,7 @@
     "name": "Iris",
     "slug": "iriscal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab0621356dad2e93ac6c0e1b6a09ff4607f0968f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
     "website": "https://textiris.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Iris observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
@@ -2354,16 +2354,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
     "website": "https://getnivara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed copilot for Engineering Managers and empower every team to work intelligently with AI.",
-    "one_liner": "The intelligence layer for how your teams use AI",
+    "long_description": "Nivara is building a revenue intelligence and signals platform for companies selling to physical businesses like home services, restaurants and healthcare.",
+    "one_liner": "AI-powered market intelligence for the local economy",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1761077242,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
+      "B2B",
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2373,7 +2373,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -3059,10 +3059,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1138acf799ce629450bf7f2fb3d38a36aabb6d93.png",
     "website": "https://www.complydo.io/",
-    "all_locations": "",
+    "all_locations": "Berlin, Berlin, Germany",
     "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
     "one_liner": "Global Compliance for Enterprises",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1759460278,
@@ -3084,7 +3084,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5449,22 +5450,25 @@
   },
   {
     "id": 30996,
-    "name": "Axial Composites Industries",
-    "slug": "axial-composites-industries",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png",
-    "website": "https://www.axialcomposite.com",
+    "name": "Nerviom",
+    "slug": "nerviom",
+    "former_names": [
+      "Axial Composites Industries"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7466bfa4281b844c618118683dbd69f3e3cec258.png",
+    "website": "https://www.nerviom.com",
     "all_locations": "",
-    "long_description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to manufacture carbon fiber parts at the speed of software for the upcoming autonomous age\r\n\r\nWe believe in the following:\r\n\r\n•\tAerospace and robotics manufacturing is going exponential\r\n•\tThermoplastic composites will be the foundational materials for such applications\r\n\r\nOur mission is to equip the West with novel composite manufacturing methods that will act as the backbone of the skyrocketing demand in autonomous systems.\r\n\r\nOur method prints stronger and lighter parts by leveraging fiber anisotropy to our advantage. We can manufacture large composite structures in a day rather than weeks. This not only allows for faster iteration cycles, but it unlocks new possibilities for composite manufacturing.",
-    "one_liner": "Carbon Fiber Manufacturing at the Speed of Software",
+    "long_description": "Infrastructure projects like data centers, factories, and energy facilities require navigating hundreds of permits and regulatory approvals before construction can begin. \r\n\r\nToday this process is handled through consultants, spreadsheets, and thousands of pages of documentation, adding years to project timelines and millions in consulting costs.\r\n\r\nWe are building an AI autopilot to automate infrastructure permitting and regulatory compliance. \r\n\r\nOur goal is to significantly reduce the time and cost required to get infrastructure projects approved and built.",
+    "one_liner": "AI Autopilot for Infrastructure Permitting",
     "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
     "launched_at": 1757132336,
     "tags": [
-      "Hard Tech",
-      "Manufacturing",
-      "Aerospace"
+      "Real Estate",
+      "Legal",
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5473,8 +5477,7 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Aviation and Space"
+      "Real Estate and Construction"
     ],
     "regions": [
       "Unspecified"
@@ -5484,8 +5487,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axial-composites-industries",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial-composites-industries.json"
+    "url": "https://www.ycombinator.com/companies/nerviom",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nerviom.json"
   },
   {
     "id": 30997,

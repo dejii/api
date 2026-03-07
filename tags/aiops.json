@@ -2704,7 +2704,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
     "website": "https://www.argalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arga handles everything after the coding agent. Connect any platform (Slack, Grafana, Jira, etc.) and it validates AI code changes by running relevant tests. With Arga, anyone can ship, maintain, and fix production code reliably without manual testing.",
+    "long_description": "Arga allows you to confidently ship code to production. By aggregating context from sources like Grafana, Sentry, Jira, Slack, and others, our agents test your code in an isolated, remote sandbox by ensuring the correct code behaviour via running through user stories. These sandboxes reproduce the exact state of the program during testing via snapshots and full-stack replay, including stateful mocks of external services to truly mirror production.",
     "one_liner": "The validation framework for AI agents",
     "team_size": 3,
     "industry": "B2B",

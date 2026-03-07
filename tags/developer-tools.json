@@ -12267,11 +12267,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "Axle is Plaid for insurance - an AI-native clearinghouse for insurance. With Axle, companies can instantly verify insurance, monitor ongoing coverage, and update policy items, helping them reduce operational cost and financial risk. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
-    "one_liner": "Universal API for insurance",
+    "long_description": "[Axle](https://axle.insure/) is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experrian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
+    "one_liner": "AI-native clearinghouse for insurance",
     "team_size": 10,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
+    "subindustry": "Fintech",
     "launched_at": 1658084084,
     "tags": [
       "Developer Tools",
@@ -12287,8 +12287,7 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Insurance"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -19614,7 +19613,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Ryvn provides the devtools and infrastructure to easily deploy any workload, on any cloud, and on-prem. Run apps in your own cloud and offer Bring Your Own Cloud (BYOC) to your customers in minutes, with built-in observability designed for sensitive industries.",
     "one_liner": "Easy and secure customer cloud deployments",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730680026,
@@ -20476,10 +20475,10 @@
     "subindustry": "B2B",
     "launched_at": 1748454120,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20492,9 +20491,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23128,16 +23125,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b309a5cff7d85c233aaac20ea8209b1c0736a6e.png",
     "website": "https://lucenthq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lucent automatically watches your user sessions and alerts you when users hit bugs or UX issues. You're recording thousands of sessions but nobody's watching them. Lucent does - catching silent issues breaking your product that you'd otherwise never know about.",
-    "one_liner": "AI that automatically watches your session replays to detect bugs.",
+    "long_description": "Lucent is an AI product manager that automatically improves products based on how users behave. We use AI to watch and understand user sessions and detect bugs and UX issues. ",
+    "one_liner": "AI that automatically improves products from user behavior",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770303004,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23175,11 +23172,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "Hard Tech",
       "IoT",
-      "Open Source",
-      "Enterprise",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23459,30 +23456,31 @@
   },
   {
     "id": 31123,
-    "name": "21st.dev",
-    "slug": "21stdev",
+    "name": "21st",
+    "slug": "21st",
     "former_names": [
       "21st",
       "1code by 21st.dev",
       "1code (21st.dev)",
       "1code (ex: 21st.dev)",
-      "1code (21st.dev)"
+      "1code (21st.dev)",
+      "21st.dev"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
-    "one_liner": "The platform for AI-powered applications",
+    "long_description": "21st.dev is the largest React component registry for AI applications, used by 1.4M developers (200K MAU).\r\nWe provide the building blocks to create AI agents and agent-powered apps: UI components, agent templates, and an SDK with built-in UI, tools, memory, observability, and managed infrastructure.",
+    "one_liner": "Infrastructure and UI building blocks for the agentic internet",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23496,15 +23494,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/21stdev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/21stdev.json"
+    "url": "https://www.ycombinator.com/companies/21st",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
     "id": 31131,
@@ -23515,7 +23515,7 @@
     "website": "https://www.zatanna.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic data layer for software without APIs",
+    "one_liner": "Turn legacy software into agent-first APIs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23978,6 +23978,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mendral.json"
   },
   {
+    "id": 31231,
+    "name": "Glue",
+    "slug": "glue",
+    "former_names": [
+      "Willow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94793bf221bc6ce91588050e2c5778b8af1a1941.png",
+    "website": "https://buildwithglue.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Glue is an open source design editor for AI agents. It gives coding agents an infinite canvas to create new interfaces, iterate on existing ones, and turn those changes into production-ready code all in real time.\r\n\r\nThe rise of coding agents is collapsing EPD into one role: builders. This new paradigm means design and engineering can now converge to a single workflow. Builders no longer want static mockups in one tool, and implementation in another.\r\n\r\nGlue is a collaborative workspace where builders and agents can create new components, iterate on existing interfaces, and implement as code. The same tight feedback loop that once made Figma powerful for designers is now built for builders and their armies of agents. Being open source allows us to penetrate workflows at zero cost and build trust quickly.\r\n\r\nRight now there are no design tools with AI as the primary user. Existing tools bolt on copilots as an afterthought. Soon, every company will have AI agents building their interfaces. We are building the surface for this workflow.",
+    "one_liner": "The Interface Design Canvas for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772831162,
+    "tags": [
+      "Developer Tools",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/glue",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/glue.json"
+  },
+  {
     "id": 31241,
     "name": "Corelayer",
     "slug": "corelayer",
@@ -24160,7 +24202,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
     "website": "https://www.argalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arga handles everything after the coding agent. Connect any platform (Slack, Grafana, Jira, etc.) and it validates AI code changes by running relevant tests. With Arga, anyone can ship, maintain, and fix production code reliably without manual testing.",
+    "long_description": "Arga allows you to confidently ship code to production. By aggregating context from sources like Grafana, Sentry, Jira, Slack, and others, our agents test your code in an isolated, remote sandbox by ensuring the correct code behaviour via running through user stories. These sandboxes reproduce the exact state of the program during testing via snapshots and full-stack replay, including stateful mocks of external services to truly mirror production.",
     "one_liner": "The validation framework for AI agents",
     "team_size": 3,
     "industry": "B2B",

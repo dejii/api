@@ -9218,7 +9218,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Ryvn provides the devtools and infrastructure to easily deploy any workload, on any cloud, and on-prem. Run apps in your own cloud and offer Bring Your Own Cloud (BYOC) to your customers in minutes, with built-in observability designed for sensitive industries.",
     "one_liner": "Easy and secure customer cloud deployments",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730680026,
@@ -10549,49 +10549,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
   },
   {
-    "id": 30889,
-    "name": "Nivara",
-    "slug": "nivara",
-    "former_names": [
-      "Nivara AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
-    "website": "https://getnivara.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed copilot for Engineering Managers and empower every team to work intelligently with AI.",
-    "one_liner": "The intelligence layer for how your teams use AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1761077242,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nivara",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/nivara.json"
-  },
-  {
     "id": 30891,
     "name": "SF Tensor",
     "slug": "sf-tensor",
@@ -11014,11 +10971,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "Hard Tech",
       "IoT",
-      "Open Source",
-      "Enterprise",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,

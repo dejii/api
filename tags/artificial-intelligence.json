@@ -5752,7 +5752,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17304,6 +17304,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/kino-ai.json"
   },
   {
+    "id": 28744,
+    "name": "Reworkd",
+    "slug": "reworkd",
+    "former_names": [
+      "Reworkd",
+      "Reworkd AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0530c04819d4d4e9f06ad3bb6fed6b85f152baf.png",
+    "website": "https://reworkd.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Reworkd, we're working on multimodal LLM agents that serve as the simplest way to extract web data at scale. Customers come to us with lists of 100s to 1000s of websites along with a data schema. Our agents traverse these websites, understand their structure, and generate code to extract data from them.\r\n\r\nWe've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're interested in our pilot program, shoot us an email!",
+    "one_liner": "The simplest way to extract web data at scale",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1686444973,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reworkd",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/reworkd.json"
+  },
+  {
     "id": 28759,
     "name": "Branch AI",
     "slug": "branch-ai",
@@ -20669,8 +20713,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6c57e5c710ca16dd9d6aada5b18cbe7dbed8be8.png",
     "website": "https://www.letterbook.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Letterbook is the AI-native alternative to Zendesk, Freshdesk, Zohodesk, and Intercom. We help B2C companies manage and resolve customer support tickets across email, in-app feedback, and website forms.\r\n\r\nLetterbook's AI can triage your tickets, write replies, and build your knowledge base.",
-    "one_liner": "AI customer support platform for B2C",
+    "long_description": "Letterbook is the AI-native alternative to Zendesk, Freshdesk, Zohodesk, and Intercom. We help companies manage and resolve customer support tickets across email, in-app feedback, and website forms. Our AI will triage your tickets, write replies, and build your knowledge base.",
+    "one_liner": "AI-native customer support platform",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -26451,54 +26495,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/planbase.json"
   },
   {
-    "id": 29745,
-    "name": "Sharpe",
-    "slug": "sharpe",
-    "former_names": [
-      "January",
-      "Lumenary",
-      "Lumenary, Inc.",
-      "Lumenary"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a16f4a789dc478c2f72f7a8e219fdb5d33ec82.png",
-    "website": "https://sharpe.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sharpe is an AI data science agent purpose-built for quantitative finance, deployed on-premises at some of the world's most demanding trading firms and hedge funds. It absorbs your internal documentation, enforces your firm's methodology, and delivers completed, cited Jupyter notebooks at petabyte scale. Sharpe gives every analyst on your desk the institutional knowledge and output of your best.",
-    "one_liner": "Agents for quantitative research and financial data science.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1722638950,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "Analytics",
-      "Big Data",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sharpe",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
-  },
-  {
     "id": 29746,
     "name": "Drillbit",
     "slug": "drillbit",
@@ -29024,53 +29020,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moonshine",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/moonshine.json"
-  },
-  {
-    "id": 30087,
-    "name": "Gecko Security",
-    "slug": "gecko-security",
-    "former_names": [
-      "Gecko Security Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb5e156a2d833200fe0f915ffe682c440528c6a.png",
-    "website": "https://gecko.security",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
-    "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1729014786,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Security",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gecko-security",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json"
   },
   {
     "id": 30099,
@@ -31841,51 +31790,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/frekil",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
-  },
-  {
-    "id": 30402,
-    "name": "Kashikoi",
-    "slug": "kashikoi",
-    "former_names": [
-      "EigenAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bcf95c28a8d2140be9982bdbaf6aa05199441da7.png",
-    "website": "https://www.getkashikoi.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
-    "one_liner": "Simulation Engine for Benchmarking AI Products",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1748454120,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Machine Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kashikoi",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/kashikoi.json"
   },
   {
     "id": 30406,
@@ -35567,51 +35471,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
   },
   {
-    "id": 30731,
-    "name": "Palace",
-    "slug": "palace",
-    "former_names": [
-      "Lucid Spring"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
-    "website": "https://www.palace.so",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
-    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1755096535,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
-  },
-  {
     "id": 30732,
     "name": "Humoniq",
     "slug": "humoniq",
@@ -37151,49 +37010,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mod-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
-  },
-  {
-    "id": 30889,
-    "name": "Nivara",
-    "slug": "nivara",
-    "former_names": [
-      "Nivara AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
-    "website": "https://getnivara.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed copilot for Engineering Managers and empower every team to work intelligently with AI.",
-    "one_liner": "The intelligence layer for how your teams use AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1761077242,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nivara",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/nivara.json"
   },
   {
     "id": 30894,
@@ -38741,23 +38557,25 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   },
   {
-    "id": 31087,
-    "name": "Lucent",
-    "slug": "lucent",
+    "id": 31088,
+    "name": "RunAnywhere",
+    "slug": "runanywhere",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b309a5cff7d85c233aaac20ea8209b1c0736a6e.png",
-    "website": "https://lucenthq.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lucent automatically watches your user sessions and alerts you when users hit bugs or UX issues. You're recording thousands of sessions but nobody's watching them. Lucent does - catching silent issues breaking your product that you'd otherwise never know about.",
-    "one_liner": "AI that automatically watches your session replays to detect bugs.",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
+    "website": "https://www.runanywhere.ai/",
+    "all_locations": "",
+    "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
+    "one_liner": "The default way of running On-Device AI at Scale",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770303004,
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1767296079,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "Hard Tech",
+      "IoT",
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38766,19 +38584,62 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lucent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
+    "url": "https://www.ycombinator.com/companies/runanywhere",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
+  },
+  {
+    "id": 31092,
+    "name": "Axis",
+    "slug": "axis-2",
+    "former_names": [
+      "Sweep"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
+    "website": "https://axisanalysis.com",
+    "all_locations": "",
+    "long_description": "Axis is building an AI Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market.\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.\r\n",
+    "one_liner": "An AI System for Institutional Trading Desks",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1769120993,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Analytics",
+      "Market Research",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/axis-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/axis-2.json"
   },
   {
     "id": 31094,
@@ -39259,55 +39120,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
   },
   {
-    "id": 31123,
-    "name": "21st.dev",
-    "slug": "21stdev",
-    "former_names": [
-      "21st",
-      "1code by 21st.dev",
-      "1code (21st.dev)",
-      "1code (ex: 21st.dev)",
-      "1code (21st.dev)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
-    "website": "https://21st.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
-    "one_liner": "The platform for AI-powered applications",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1765422527,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Open Source",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/21stdev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/21stdev.json"
-  },
-  {
     "id": 31127,
     "name": "Tepali",
     "slug": "tepali",
@@ -39393,24 +39205,22 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json"
   },
   {
-    "id": 31133,
-    "name": "Skillsync",
-    "slug": "skillsync",
+    "id": 31138,
+    "name": "Aemon",
+    "slug": "aemon",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cbaacf18216a2c670dfe6e49d4332b592214780.png",
-    "website": "https://skillsync.wiki",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3865c0d771194942bdee5eff869a97c2df94f0c.png",
+    "website": "https://aemon.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Skillsync helps companies find engineers based on their code. It creates structured skill profiles of developers based on their open source contributions on GitHub. Using a Cursor-like interface, companies can search for specific capabilities like \"deployed custom neural nets on edge\" then qualify, shortlist and engage with engineers already building in their domain.",
-    "one_liner": "Find anyone in open source",
-    "team_size": 2,
+    "long_description": "Aemon is the first autonomous research engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
+    "one_liner": "The AI Research Engineer ",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1765356952,
+    "subindustry": "B2B",
+    "launched_at": 1772053698,
     "tags": [
       "Artificial Intelligence",
-      "Recruiting",
-      "Open Source",
-      "HR Tech"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39419,8 +39229,7 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Human Resources"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -39431,8 +39240,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/skillsync",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/skillsync.json"
+    "url": "https://www.ycombinator.com/companies/aemon",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/aemon.json"
   },
   {
     "id": 31139,
@@ -39830,7 +39639,7 @@
     "website": "https://confluence.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "While modern AI excels in any area you can collect a lot of data for, it struggles in areas where data is sparse or costly to attain. Designing new molecules, discovering new physics, and engineering new materials, and even developing more effective systems of governance are all domains where collecting data is extremely costly. \r\n\r\nWe dream of a world where AI accelerates research in all of these domains and creates a more abundant future for humanity, but the current technology is not there. That’s why we started Confluence Labs. \r\n\r\nWe are building AI that can design highly effective experiments in data-sparse domains and learn maximally from the data it already has.",
-    "one_liner": "We're an AI research lab focused on learning efficiency",
+    "one_liner": "foundation models optimized for learning efficiency",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -39992,92 +39801,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brownie",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/brownie.json"
-  },
-  {
-    "id": 31166,
-    "name": "Unisson",
-    "slug": "unisson",
-    "former_names": [
-      "InUnison",
-      "Unisson",
-      "unisson"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
-    "website": "https://www.unisson.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours. ",
-    "one_liner": "The AI product specialist for customer-facing teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1770359134,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unisson",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
-  },
-  {
-    "id": 31167,
-    "name": "Stilta",
-    "slug": "stilta",
-    "former_names": [
-      "Patrona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
-    "website": "https://stilta.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stilta builds agentic AI software for patents. It runs search and analysis at a scale and depth that existing methods can't match - in minutes rather than weeks, finding evidence others miss where the stakes are the highest. \r\n\r\nInnovation is key to solving the world's most important challenges, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable. This has not been technically possible until a few months ago. \r\n\r\nWe're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the patent practitioners working with the world's most valuable ideas with tools that match the stakes. Our customers include leading firms in both Europe and the US.",
-    "one_liner": "Agentic AI for patent attorneys",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769876849,
-    "tags": [
-      "Artificial Intelligence",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stilta",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
   },
   {
     "id": 31173,
@@ -40381,48 +40104,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
   },
   {
-    "id": 31191,
-    "name": "Traverse",
-    "slug": "traverse",
-    "former_names": [
-      "Clice AI",
-      "Clice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15b7b6ab2a29ad8ce788a73a92e36fd7733b6a.png",
-    "website": "https://www.traverse.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Data research lab for the non-verifiable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767260558,
-    "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/traverse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
-  },
-  {
     "id": 31192,
     "name": "Approxima",
     "slug": "approxima",
@@ -40591,6 +40272,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ressl-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
+  },
+  {
+    "id": 31205,
+    "name": "Human Archive",
+    "slug": "human-archive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
+    "website": "https://www.humanarchive.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
+    "one_liner": "Multimodal data provider for robotics and world modeling",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1767518366,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/human-archive",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/human-archive.json"
   },
   {
     "id": 31208,

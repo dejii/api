@@ -2859,25 +2859,26 @@
   },
   {
     "id": 1510,
-    "name": "Inboxbooster",
-    "slug": "inboxbooster",
+    "name": "FastJVM",
+    "slug": "fastjvm",
     "former_names": [
       "Manycore",
       "Manycore.io",
-      "Manycore"
+      "Manycore",
+      "Inboxbooster"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a361bc8a2a8917fe0098501c56cfd09f81f91bf.png",
-    "website": "https://www.inboxbooster.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We fix and monitor emails in spam. \r\n\r\nWe monitor automatically where your emails is going, we alert you when it's going in spam and we fix it with you.\r\n\r\nBest of all, the monitoring is free!",
-    "one_liner": "We Fix Email in Spam",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d20c1dd1d05527f51041212802e5e737587823ff.png",
+    "website": "https://fastjvm.com",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "FastJVM builds a deterministic optimizer that analyzes JVM bytecode and applies provably safe performance transformations such as automatic parallelization.",
+    "one_liner": "Making the JVM faster and cheaper to run.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1478578235,
     "tags": [
-      "Marketing",
-      "Email"
+      "DevOps",
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2893,15 +2894,15 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inboxbooster",
-    "api": "https://yc-oss.github.io/api/batches/winter-2017/inboxbooster.json"
+    "url": "https://www.ycombinator.com/companies/fastjvm",
+    "api": "https://yc-oss.github.io/api/batches/winter-2017/fastjvm.json"
   },
   {
     "id": 1511,

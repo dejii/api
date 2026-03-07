@@ -24545,58 +24545,14 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
   },
   {
-    "id": 31023,
-    "name": "Inviscid AI",
-    "slug": "inviscid-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/edd438978013e82ecd281b761baafad0dab9c68e.png",
-    "website": "https://inviscidai.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Inviscid AI builds physics-informed AI solutions that transform how buildings and data centers operate. By combining real-time IoT sensor data with computational fluid dynamics (CFD) modeling, we create digital twins that simulate building performance in real time and autonomously optimize operations.\r\n\r\nOur platform optimizes airflow patterns and ventilation strategies to eliminate dead zones, improve air distribution, and reduce the load on mechanical systems. On the energy side, we minimize HVAC power consumption, reduce cooling costs, and lower overall operational expenses while maintaining optimal thermal comfort and indoor air quality. Beyond immediate operational efficiency, we optimize equipment scheduling and maintenance cycles by predicting system behavior under different conditions, allowing facilities managers to proactively address issues before they become problems.\r\n\r\nOur physics first approach ensures that we're not just optimizing against historical patterns, but optimizing based on a deep understanding of how air, heat, and energy actually move through your building, enabling us to find solutions that traditional rule-based or purely data-driven systems would miss.",
-    "one_liner": "Real-time Building Simulations to Optimize Energy and Operational…",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1769244149,
-    "tags": [
-      "Warehouse Management Tech",
-      "IoT",
-      "Sustainability",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inviscid-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/inviscid-ai.json"
-  },
-  {
     "id": 31057,
     "name": "Valgo",
     "slug": "valgo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
-    "website": "https://valgo.dev",
-    "all_locations": "San Mateo, CA, USA",
-    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We build probabilistic models of routes, tasks, and environments from the bottom up. Through our API, autonomy companies plug in their aggregate statistics from simulations they're already running. The output is a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+    "website": "https://valgo.ai",
+    "all_locations": "",
+    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
     "one_liner": "Risk quantification platform to insure physical AI",
     "team_size": 3,
     "industry": "B2B",
@@ -24620,8 +24576,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24724,7 +24679,7 @@
     "website": "https://rev1.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
-    "one_liner": "Shortening hardware design cycles by automating post-CAD work",
+    "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24804,30 +24759,31 @@
   },
   {
     "id": 31123,
-    "name": "21st.dev",
-    "slug": "21stdev",
+    "name": "21st",
+    "slug": "21st",
     "former_names": [
       "21st",
       "1code by 21st.dev",
       "1code (21st.dev)",
       "1code (ex: 21st.dev)",
-      "1code (21st.dev)"
+      "1code (21st.dev)",
+      "21st.dev"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
-    "one_liner": "The platform for AI-powered applications",
+    "long_description": "21st.dev is the largest React component registry for AI applications, used by 1.4M developers (200K MAU).\r\nWe provide the building blocks to create AI agents and agent-powered apps: UI components, agent templates, and an SDK with built-in UI, tools, memory, observability, and managed infrastructure.",
+    "one_liner": "Infrastructure and UI building blocks for the agentic internet",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24841,15 +24797,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/21stdev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/21stdev.json"
+    "url": "https://www.ycombinator.com/companies/21st",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
     "id": 31131,
@@ -24860,7 +24818,7 @@
     "website": "https://www.zatanna.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic data layer for software without APIs",
+    "one_liner": "Turn legacy software into agent-first APIs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25182,6 +25140,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+  },
+  {
+    "id": 31231,
+    "name": "Glue",
+    "slug": "glue",
+    "former_names": [
+      "Willow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94793bf221bc6ce91588050e2c5778b8af1a1941.png",
+    "website": "https://buildwithglue.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Glue is an open source design editor for AI agents. It gives coding agents an infinite canvas to create new interfaces, iterate on existing ones, and turn those changes into production-ready code all in real time.\r\n\r\nThe rise of coding agents is collapsing EPD into one role: builders. This new paradigm means design and engineering can now converge to a single workflow. Builders no longer want static mockups in one tool, and implementation in another.\r\n\r\nGlue is a collaborative workspace where builders and agents can create new components, iterate on existing interfaces, and implement as code. The same tight feedback loop that once made Figma powerful for designers is now built for builders and their armies of agents. Being open source allows us to penetrate workflows at zero cost and build trust quickly.\r\n\r\nRight now there are no design tools with AI as the primary user. Existing tools bolt on copilots as an afterthought. Soon, every company will have AI agents building their interfaces. We are building the surface for this workflow.",
+    "one_liner": "The Interface Design Canvas for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772831162,
+    "tags": [
+      "Developer Tools",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/glue",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/glue.json"
   },
   {
     "id": 31241,

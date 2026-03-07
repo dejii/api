@@ -1505,7 +1505,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27840,11 +27840,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7d56236fe67577e1d51a8f6c48ef7c48d88c9a.png",
     "website": "https://axle.insure",
     "all_locations": "New York, NY, USA",
-    "long_description": "Axle is Plaid for insurance - an AI-native clearinghouse for insurance. With Axle, companies can instantly verify insurance, monitor ongoing coverage, and update policy items, helping them reduce operational cost and financial risk. Axle is backed by leading investors including Y Combinator and Gradient Ventures, Google's AI-focused venture fund, and angels from industry leaders like Plaid and Cox Automotive.",
-    "one_liner": "Universal API for insurance",
+    "long_description": "[Axle](https://axle.insure/) is the AI-native clearinghouse for property and casualty insurance. Our infrastructure and AI agents automate complex insurance workflows for third parties including verification, monitoring, and policy updates. We've helped Fortune 500 businesses like Rocket Mortgage, Avis, and Experrian speed up workflows by 95% while recovering over $220M in potential losses. Axle is backed by Gradient, Y Combinator, and the founding team of Plaid.",
+    "one_liner": "AI-native clearinghouse for insurance",
     "team_size": 10,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
+    "subindustry": "Fintech",
     "launched_at": 1658084084,
     "tags": [
       "Developer Tools",
@@ -27860,8 +27860,7 @@
     "batch": "Summer 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Insurance"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -29353,52 +29352,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pledge-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pledge-health.json"
-  },
-  {
-    "id": 27806,
-    "name": "Ruby Card",
-    "slug": "ruby-card",
-    "former_names": [
-      "Ruby Card, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cbe3ea3f22fe3582cf726551f2d874c197a6aa0.png",
-    "website": "https://www.spendruby.com",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Ruby is a neobank that offers e-commerce businesses a flexible spend management solution and direct integrations with commerce platforms. \r\n\r\nBy combining banking and commerce data, Ruby provides businesses with a real-time, unified view of their financial health and money movement, empowering them to make better financial decisions and scale their operations.",
-    "one_liner": "Neobank for e-commerce businesses",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1678731837,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "E-commerce",
-      "Neobank"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ruby-card",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/ruby-card.json"
   },
   {
     "id": 27808,
@@ -32782,15 +32735,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Reworkd, we're working on multimodal LLM agents that serve as the simplest way to extract web data at scale. Customers come to us with lists of 100s to 1000s of websites along with a data schema. Our agents traverse these websites, understand their structure, and generate code to extract data from them.\r\n\r\nWe've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're interested in our pilot program, shoot us an email!",
     "one_liner": "The simplest way to extract web data at scale",
-    "team_size": 6,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1686444973,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32803,9 +32756,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -34444,7 +34395,7 @@
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
     "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1687811406,
@@ -35082,7 +35033,7 @@
       "Taylor",
       "Taylor AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dca80a1694db3fa6a34446a3c366384928eb7695.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41b0a27e54d4ae8ccb5d6d44522528df85b7ed7a.png",
     "website": "https://cembla.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -41178,7 +41129,7 @@
     "former_names": [
       "Gecko Security Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb5e156a2d833200fe0f915ffe682c440528c6a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/475ae1459a273ef4827fe78aeed097961151b782.png",
     "website": "https://gecko.security",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
@@ -41188,11 +41139,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1729014786,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45319,51 +45270,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/knowlify.json"
   },
   {
-    "id": 30731,
-    "name": "Palace",
-    "slug": "palace",
-    "former_names": [
-      "Lucid Spring"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
-    "website": "https://www.palace.so",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
-    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1755096535,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
-  },
-  {
     "id": 30741,
     "name": "F4",
     "slug": "f4",
@@ -46327,16 +46233,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
     "website": "https://getnivara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed copilot for Engineering Managers and empower every team to work intelligently with AI.",
-    "one_liner": "The intelligence layer for how your teams use AI",
+    "long_description": "Nivara is building a revenue intelligence and signals platform for companies selling to physical businesses like home services, restaurants and healthcare.",
+    "one_liner": "AI-powered market intelligence for the local economy",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1761077242,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
+      "B2B",
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46346,7 +46252,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -46668,10 +46574,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1138acf799ce629450bf7f2fb3d38a36aabb6d93.png",
     "website": "https://www.complydo.io/",
-    "all_locations": "",
+    "all_locations": "Berlin, Berlin, Germany",
     "long_description": "The most flexible enterprise compliance engine that makes GRC teams 10x more efficient. Already trusted by global leaders and the largest EU enterprises.\r\n\r\nWhat it does:\r\n- Extracts requirements from any file\r\n- Maps them to controls and policies\r\n- Shows gaps and monitors changes\r\n- Advises on maturity and next steps",
     "one_liner": "Global Compliance for Enterprises",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1759460278,
@@ -46693,7 +46599,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47702,9 +47609,9 @@
     "slug": "valgo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
-    "website": "https://valgo.dev",
-    "all_locations": "San Mateo, CA, USA",
-    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We build probabilistic models of routes, tasks, and environments from the bottom up. Through our API, autonomy companies plug in their aggregate statistics from simulations they're already running. The output is a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+    "website": "https://valgo.ai",
+    "all_locations": "",
+    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
     "one_liner": "Risk quantification platform to insure physical AI",
     "team_size": 3,
     "industry": "B2B",
@@ -47728,8 +47635,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47874,16 +47780,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b309a5cff7d85c233aaac20ea8209b1c0736a6e.png",
     "website": "https://lucenthq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lucent automatically watches your user sessions and alerts you when users hit bugs or UX issues. You're recording thousands of sessions but nobody's watching them. Lucent does - catching silent issues breaking your product that you'd otherwise never know about.",
-    "one_liner": "AI that automatically watches your session replays to detect bugs.",
+    "long_description": "Lucent is an AI product manager that automatically improves products based on how users behave. We use AI to watch and understand user sessions and detect bugs and UX issues. ",
+    "one_liner": "AI that automatically improves products from user behavior",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770303004,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48342,30 +48248,31 @@
   },
   {
     "id": 31123,
-    "name": "21st.dev",
-    "slug": "21stdev",
+    "name": "21st",
+    "slug": "21st",
     "former_names": [
       "21st",
       "1code by 21st.dev",
       "1code (21st.dev)",
       "1code (ex: 21st.dev)",
-      "1code (21st.dev)"
+      "1code (21st.dev)",
+      "21st.dev"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
     "website": "https://21st.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1.4M developers used 21st.dev to build UIs for AI applications (200K MAU, one of the largest React component registries). \r\nThe #1 use case: agentic AI apps. \r\nNow shipping the fastest way to build them - agent SDK with built-in UI, tool execution, memory, spend limits, observability, and managed infrastructure. Define in code, deploy in one  command.",
-    "one_liner": "The platform for AI-powered applications",
+    "long_description": "21st.dev is the largest React component registry for AI applications, used by 1.4M developers (200K MAU).\r\nWe provide the building blocks to create AI agents and agent-powered apps: UI components, agent templates, and an SDK with built-in UI, tools, memory, observability, and managed infrastructure.",
+    "one_liner": "Infrastructure and UI building blocks for the agentic internet",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48379,15 +48286,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/21stdev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/21stdev.json"
+    "url": "https://www.ycombinator.com/companies/21st",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
     "id": 31127,
@@ -48536,8 +48445,8 @@
     "subindustry": "B2B",
     "launched_at": 1772053698,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
