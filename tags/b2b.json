@@ -20016,12 +20016,12 @@
     "name": "Rebill",
     "slug": "rebill",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fed433e0099b065a5b2cae314b93106b213fa52.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac317d3596d742abd3e551f40119a6ba9a7f3d40.png",
     "website": "https://www.rebill.com",
     "all_locations": "Buenos Aires, CABA, Argentina",
-    "long_description": "Go live in less than an hour. Accept local payments, subscriptions, and installments in LATAM with a checkout built to match your ambition.\r\n‍\r\nEngineered for companies that set the standard.\r\n\r\nWith our platform and API, companies can integrate over 100 local payment methods from the region, including cards, bank transfers, cash, and even wallets. In addition, they always receive the best human support with fair pricing and utmost transparency, enabling them to scale across the region 10 times faster.",
-    "one_liner": "Payment infrastructure designed for LATAM.",
-    "team_size": 12,
+    "long_description": "Rebill helps global companies process payments, payouts, and financial operations in LATAM and the US without local entities.\r\n‍\r\nWith one integration, companies can accept payments, subscriptions, and installments across markets without setting up fragmented payment stacks country by country. Rebill combines local acquiring, 100+ payment methods, smart routing, retries, recovery, unified settlement, and a developer-first product in one platform.\r\n\r\nWe help merchants launch faster, increase conversion, and operate across underserved markets with the simplicity global companies expect.",
+    "one_liner": "Global payments infrastructure in LATAM and US",
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1645553649,
@@ -20052,7 +20052,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/rebill",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/rebill.json"
   },
@@ -20927,7 +20927,7 @@
     "website": "https://www.firezone.dev",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Firezone connects your workforce to the computing resources they need, wherever they are, securely. Unlike traditional VPNs, Firezone uses a least-privileged approach to access control known as Zero Trust Access.\r\n\r\nConnect your identity provider and define granular policies in minutes, then rejoice in the IT support requests you won't receive due to our lightweight, WireGuard-powered clients which work great on all platforms.",
-    "one_liner": "Easiest, most secure way to set up Zero Trust Access for your team",
+    "one_liner": "Easiest way to set up Zero Trust Access for your team",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -24341,10 +24341,10 @@
       "Concert"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29418be152187b38ccc249652bf446728ba67bc.png",
-    "website": "https://designrails.com",
+    "website": "https://chordio.com",
     "all_locations": "Issaquah, WA, USA; Remote",
-    "long_description": "Chordio is building PRDKit, Design Rails, and Chordio to help product teams plan, prototype, and QA design work so they can ship polished interfaces with less overhead.\r\n\r\n",
-    "one_liner": "AI-powered design workflows",
+    "long_description": "Designers and product managers are often locked out of prototyping on top of their existing product. Security policies, large code base, and complex build setup all stand between the promise of code-first front-end design and reality.\r\n\r\nThe Chordio Workbench helps non-technical team members prototype new experiences on top of their existing products even when they don’t have access to the source code.\r\n\r\nThe full workflow runs in Claude Code on your local machine. It starts with cloning the front-end of the product into the workbench repository directly from the browser and compiling it into code a coding agent can work with. This means anyone can start prototyping in minutes without having to worry about a complex environment setup.\r\n\r\nThe Workbench includes agent skills to help ensure prototypes meet team standards, are backed by research, and presented to stakeholders with clarity.",
+    "one_liner": "Claude Code design workspace built for product teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -43050,11 +43050,11 @@
     "subindustry": "Consumer",
     "launched_at": 1745137302,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Consumer",
       "B2B",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47227,11 +47227,11 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1758933765,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Social Media",
       "Video",
-      "Marketing"
+      "Marketing",
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47254,51 +47254,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
-  },
-  {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvet.video",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The platform where frontier research labs buy data for world models.",
-    "one_liner": "Data for world models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761236237,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Video",
-      "Media",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
   },
   {
     "id": 31009,
@@ -47610,7 +47565,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
     "website": "https://valgo.ai",
-    "all_locations": "",
+    "all_locations": "San Mateo, CA, USA",
     "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
     "one_liner": "Risk quantification platform to insure physical AI",
     "team_size": 3,
@@ -47635,7 +47590,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -49467,22 +49423,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
     "website": "https://tryvela.ai/ps",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vela is the AI Scheduling Assistant built to handle the ambiguity that breaks scheduling. It has taste: it knows to prioritize a client over an internal catch-up, and it understands \"Let's do early next week\" without setting specific parameters. You just add Vela to the conversation, and it handles the white-glove negotiation as a member of your team, even at scale.\r\n\r\nToday, Vela is already used by professionals with the most complicated scheduling workflows. Enterprise recruiters are using Vela to schedule thousands of multi-party interviews and large sales teams rely on Vela to coordinate cross-functional calls.",
-    "one_liner": "The AI Scheduling Assistant that truly knows you.",
+    "long_description": "Vela is general intelligence for scheduling. We replace $100K+ coordinators by handling multi-stakeholder, cross-timezone scheduling with human-level nuance: knowing which meetings to prioritize, writing back with taste, and booking materially faster at scale.\r\n\r\nGobhanu and Saatvik are brothers who scaled a microfinance bank to 77 countries as kids. We previously built at AWS ML + SuperCompute and BCG AI.\r\n",
+    "one_liner": "AI Scheduling Coordinators for Staffing and Recruiting",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770142827,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Recruiting",
       "Calendar",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -49509,18 +49465,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "",
-    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel, then attribute conversions to learn what works.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal Security, and Nira Energy.",
-    "one_liner": "Personalized notifs & attribution for consumer and self-serve apps",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
+    "one_liner": "Personalized AI growth team for consumer apps",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771290879,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,

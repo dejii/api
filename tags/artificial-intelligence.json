@@ -3267,50 +3267,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/point-api.json"
   },
   {
-    "id": 1871,
-    "name": "Helloverify",
-    "slug": "helloverify",
-    "former_names": [
-      "HelloVerify",
-      "HelloVerify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f46eb8e86078dd58976b9e441b93909beda32196.png",
-    "website": "https://www.helloverify.com",
-    "all_locations": "Noida, UP, India",
-    "long_description": "With increasing fraud rates, the need for a credible background check system is more important than ever. Unlike other background check solutions that are manual, expensive and require a ton of documentation, HelloVerify creates a seamless experience through its technology platform that is cost effective and provides results instantly from trusted verification sources. It not only automates data collection and matching but streamlines the entire process from order requests, progress status to final report delivery.\r\n\r\nWe help prevent fraud by finding facts about individuals. The online service acts as a means of authenticating and objectively verifying an individual’s identity, court case status, educational check, credit score and employment history - thereby enabling commercial transactions and hiring decisions to take place between parties. Whether you are a corporate or a startup looking to hire new employees or a homeowner seeking to verify your driver's driving license or a landlord wanting to ascertain your tenant’s payment ability - we provide a wide range of checks at affordable rates & quick turnaround time. Sign up today!",
-    "one_liner": "Helloverify is a background screening platform (Checkr for India).  ",
-    "team_size": 600,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1513137770,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2018",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helloverify",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/helloverify.json"
-  },
-  {
     "id": 1888,
     "name": "Phiar",
     "slug": "phiar",
@@ -5752,7 +5708,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7881,7 +7837,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -18871,7 +18827,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI coding tools made your team ship faster. But standards are slipping through review. Continue runs source-controlled AI checks on every pull request, enforcing your team's conventions, security patterns, and architecture boundaries as native GitHub status checks. Each check is a markdown file in your repo, running as a full AI agent. It only enforces what you asked for and never misses it. Consistency over breadth. Standards as checks, enforced by AI, decided by humans.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
     "one_liner": "Quality control for your software factory",
-    "team_size": 9,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
@@ -31925,6 +31881,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json"
   },
   {
+    "id": 30413,
+    "name": "Serafis",
+    "slug": "serafis",
+    "former_names": [
+      "MetaSpark"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a815e7868c4a6d85c8b5fdb3324a29a6600f72.png",
+    "website": "https://serafis.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Serafis is building super-intelligence for financial markets. We mine petabytes of unstructured data to identify narrative inflections before they become consensus. Think building early conviction in Bitcoin (2014), Tesla (2018), or Nvidia (2022).\r\n\r\nWe are already live with 12 organizations managing over $70B in capital.",
+    "one_liner": "The AI knowledge graph for institutional investors",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755276267,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Finance",
+      "Investing",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/serafis",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/serafis.json"
+  },
+  {
     "id": 30426,
     "name": "Ralo",
     "slug": "ralo",
@@ -32221,50 +32221,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sim",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sim.json"
-  },
-  {
-    "id": 30443,
-    "name": "TypeOS",
-    "slug": "typeos",
-    "former_names": [
-      "GradeAssist",
-      "VibeGrade"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27388bac39ab071f08477907bbcc754dc45c3267.png",
-    "website": "https://TypeOS.com",
-    "all_locations": "",
-    "long_description": "Built to advance human taste to the frontier, TypeOS is the best way to write with AI.\r\n",
-    "one_liner": "AI that sounds like you, where you work.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1745137302,
-    "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
-      "Consumer",
-      "B2B",
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/typeos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/typeos.json"
   },
   {
     "id": 30444,
@@ -34715,49 +34671,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/slashy",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/slashy.json"
-  },
-  {
-    "id": 30673,
-    "name": "Nexa Labs",
-    "slug": "nexa-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/489fd97ad45ee1d6d874c7a99792bf1552ebddc2.png",
-    "website": "https://nexa.farm/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nexa is developing the solution for cattle monitoring, leveraging implantable microchips that collect more comprehensive biometrics than anything else on the market. Our accompanying AI-driven animal health engine empowers farmers with early disease detection, reproductive insights, GPS tracking, and more. \r\n\r\nWe're saving farmers time and money while collecting the world's largest cattle health dataset. We believe that cattle farming should be a science, not an art - this will secure the world's food supply and increase economic output that billions of people depend on.",
-    "one_liner": "Implantable microchips and AI for cattle monitoring",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Agriculture",
-    "launched_at": 1755009056,
-    "tags": [
-      "Artificial Intelligence",
-      "Livestock Health",
-      "Medical Devices",
-      "Agriculture",
-      "Biotechnology"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Agriculture"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/nexa-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nexa-labs.json"
   },
   {
     "id": 30676,
@@ -38001,49 +37914,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
   },
   {
-    "id": 30989,
-    "name": "Bluma",
-    "slug": "bluma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
-    "website": "https://www.getbluma.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bluma is the first AI short form content engine.\r\n\r\nIn a post-AI world, attention is the most valuable commodity. Social media is only growing faster and faster, and we're still early.\r\n\r\nWe automate your entire consumer marketing strategy by cloning your competitor's viral videos.\r\n\r\nEverything that a growth team would plan, script, produce, and edit, Bluma can clone end-to-end and at scale.",
-    "one_liner": "Canva for short-form video ads",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1758933765,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Social Media",
-      "Video",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bluma",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
-  },
-  {
     "id": 30993,
     "name": "DiligenceSquared",
     "slug": "diligencesquared-inc",
@@ -38085,51 +37955,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
-  },
-  {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvet.video",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The platform where frontier research labs buy data for world models.",
-    "one_liner": "Data for world models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761236237,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Video",
-      "Media",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
   },
   {
     "id": 30997,
@@ -41086,48 +40911,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/talking-computers.json"
   },
   {
-    "id": 31264,
-    "name": "Vela",
-    "slug": "vela",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
-    "website": "https://tryvela.ai/ps",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vela is the AI Scheduling Assistant built to handle the ambiguity that breaks scheduling. It has taste: it knows to prioritize a client over an internal catch-up, and it understands \"Let's do early next week\" without setting specific parameters. You just add Vela to the conversation, and it handles the white-glove negotiation as a member of your team, even at scale.\r\n\r\nToday, Vela is already used by professionals with the most complicated scheduling workflows. Enterprise recruiters are using Vela to schedule thousands of multi-party interviews and large sales teams rely on Vela to coordinate cross-functional calls.",
-    "one_liner": "The AI Scheduling Assistant that truly knows you.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770142827,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Recruiting",
-      "Calendar",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vela",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
-  },
-  {
     "id": 31274,
     "name": "Pollinate",
     "slug": "pollinate",
@@ -41169,6 +40952,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pollinate",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pollinate.json"
+  },
+  {
+    "id": 31275,
+    "name": "Polymorph",
+    "slug": "polymorph",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
+    "website": "https://usepolymorph.com/",
+    "all_locations": "",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
+    "one_liner": "Personalized AI growth team for consumer apps",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771290879,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polymorph",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymorph.json"
   },
   {
     "id": 31280,
@@ -41257,6 +41081,90 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/origami-robotics.json"
   },
   {
+    "id": 31295,
+    "name": "Carrot Labs",
+    "slug": "carrot-labs",
+    "former_names": [
+      "Anyware"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9d56ba5bab1fb6c9a7734a1a8aab7b6fbc48ed.png",
+    "website": "https://carrotlabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build specialized LLMs for your business’s specific workflows and use cases, then continuously hone them against your success metrics, capturing your proprietary know-how in the model so it gets more valuable and harder to copy as you grow.",
+    "one_liner": "Continuous Fine-Tuning for AI Models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772517831,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carrot-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
+  },
+  {
+    "id": 31307,
+    "name": "Wideframe",
+    "slug": "wideframe",
+    "former_names": [
+      "Supaframe",
+      "Creative Agent Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac76dee0327c5cb2c65651f17b9930ac8eb3c1e.png",
+    "website": "https://try.wideframe.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wideframe is an AI coworker for video editors. It helps them ship more videos by preparing footage for editing like an Assistant Editor.\r\n\r\nWhy is this important? Well, it turns out that editors spend 3x more time preparing footage than actually editing.\r\n\r\nOne agency said we will save their editors 10 hours per week. Another organized an entire documentary worth of footage in hours rather than weeks. He had 2,500+ videos, 500+ audio clips, across >2.5 TB of files and our agent handled them effortlessly.\r\n\r\nUsers link footage to Wideframe and then our Agent acts like an Assistant Editor to handle work like searching, labeling, organizing, and sequencing footage. Wideframe works with footage across local filesystems and cloud providers. We also supports Adobe Premiere Pro (.prproj) roundtrip. Our robust integrations are important so that Wideframe can work with source footage all the way through to delivering Premiere Pro projects to editors.",
+    "one_liner": "AI coworker for video editors",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771307851,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wideframe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/wideframe.json"
+  },
+  {
     "id": 31396,
     "name": "qomplement",
     "slug": "qomplement",
@@ -41295,5 +41203,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/qomplement",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
+  },
+  {
+    "id": 31523,
+    "name": "Indexable",
+    "slug": "indexable",
+    "former_names": [
+      "Indexable, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a292dff93672ea62c32dbeeb65592ec0f16c79c3.png",
+    "website": "https://ix.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sandbox infrastructure for AI agents, with full-environment forks and snapshots across files, processes, memory, and databases.",
+    "one_liner": "sandbox infrastructure for AI agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1772844728,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/indexable",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/indexable.json"
   }
 ]

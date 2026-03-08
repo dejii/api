@@ -870,10 +870,10 @@
     "one_liner": "Building Operational Superintelligence.",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1766374394,
     "tags": [
-      "Reinforcement Learning",
+      "Logistics",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -884,7 +884,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -1119,7 +1119,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
     "website": "https://valgo.ai",
-    "all_locations": "",
+    "all_locations": "San Mateo, CA, USA",
     "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
     "one_liner": "Risk quantification platform to insure physical AI",
     "team_size": 3,
@@ -1144,7 +1144,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4733,7 +4734,7 @@
     "all_locations": "",
     "long_description": "Jinba lets enterprise teams vibe-code AI workflows instead of drag and drop. Describe what you need in plain language, and your whole company can start using it immediately. No engineers required. Enterprise-grade permissions, audit logging, and on-prem deployment built in. We serve 40,000 enterprise users at major financial institutions.\r\n\r\nBuild something your colleagues want.",
     "one_liner": "Automate any enterprise workflow through chat",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768673344,
@@ -6743,7 +6744,7 @@
     "website": "https://squid.energy",
     "all_locations": "",
     "long_description": "We believe the electricity grid is the most important machine on Earth. If we want electrification to move fast, the teams planning and operating networks need software that is as modern as the challenge.\r\n\r\nOur thesis is simple. Better decisions come from one unified, trusted network model. When everyone works from the same model, planning becomes consistent, assumptions are visible, and progress stops getting lost in spreadsheets and static reports.\r\n\r\nSquid is AI powered grid planning in your browser. We have spent years inside National Grid, Octopus Energy, and AWS, building and learning what breaks. Now we are building what we wished existed.",
-    "one_liner": "AI agents for energy grid planning  🦑 (squid.energy)",
+    "one_liner": "AI agents for power grid planning  🦑 ",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -7254,22 +7255,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
     "website": "https://tryvela.ai/ps",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vela is the AI Scheduling Assistant built to handle the ambiguity that breaks scheduling. It has taste: it knows to prioritize a client over an internal catch-up, and it understands \"Let's do early next week\" without setting specific parameters. You just add Vela to the conversation, and it handles the white-glove negotiation as a member of your team, even at scale.\r\n\r\nToday, Vela is already used by professionals with the most complicated scheduling workflows. Enterprise recruiters are using Vela to schedule thousands of multi-party interviews and large sales teams rely on Vela to coordinate cross-functional calls.",
-    "one_liner": "The AI Scheduling Assistant that truly knows you.",
+    "long_description": "Vela is general intelligence for scheduling. We replace $100K+ coordinators by handling multi-stakeholder, cross-timezone scheduling with human-level nuance: knowing which meetings to prioritize, writing back with taste, and booking materially faster at scale.\r\n\r\nGobhanu and Saatvik are brothers who scaled a microfinance bank to 77 countries as kids. We previously built at AWS ML + SuperCompute and BCG AI.\r\n",
+    "one_liner": "AI Scheduling Coordinators for Staffing and Recruiting",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770142827,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Recruiting",
       "Calendar",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -7464,18 +7465,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "",
-    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel, then attribute conversions to learn what works.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal Security, and Nira Energy.",
-    "one_liner": "Personalized notifs & attribution for consumer and self-serve apps",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
+    "one_liner": "Personalized AI growth team for consumer apps",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771290879,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7644,7 +7645,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Librar Labs is about turning unstructured data into actionable and useable insights.\r\n\r\nWe're working to solve the biggest bottleneck for the AI singularity: the world is full of massive amounts of unstructured data that is hard for computers and AI to navigate. \r\n\r\nIn our core, we're a data company that catalog information for enterprises that needs to make their big data useful.\r\n\r\nOur first commercial product is for the publishing industry with a focus on school libraries. It captures and analyze unstructured (and pre-Librar unattainable) data using it to more than double reading rates at schools. Fastest growing library tech company in ever backed by founders of google maps, kahoot etc.\r\n\r\nMoving into the private equity market.\r\n",
     "one_liner": "Makes sense of unstructured data for enterprises.",
-    "team_size": 8,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769303203,
@@ -7860,15 +7861,15 @@
     "website": "https://carrotlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We build specialized LLMs for your business’s specific workflows and use cases, then continuously hone them against your success metrics, capturing your proprietary know-how in the model so it gets more valuable and harder to copy as you grow.",
-    "one_liner": "Continuous Learning Platform for AI Agents",
+    "one_liner": "Continuous Fine-Tuning for AI Models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772517831,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8145,17 +8146,17 @@
       "Creative Agent Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac76dee0327c5cb2c65651f17b9930ac8eb3c1e.png",
-    "website": "https://wideframe.com",
+    "website": "https://try.wideframe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Wideframe is an AI agent that speeds up the 75% of video work that happens outside the Non-Linear Editor. It helps teams save time and do more with their videos.\r\n\r\nUsers link their video libraries to Wideframe and then work with our context-aware agent to tackle search, editing, and generative tasks. Our high-performance desktop app works across the filesystem and can even natively handle Adobe Premiere Pro (.prproj) files in and out.\r\n\r\nIn our first 75 days since launch, we onboarded more than 50 brands and agencies. Many of them make tens or hundreds of videos per week for ads or organic social. What we discovered while building for them: 75% of their video work happens outside of the Non-Linear Editor.\r\n\r\nMost of our clients prefer to finish videos in Adobe Premiere Pro or DaVinci Resolve. They don’t want an “agentic NLE”. And they really don’t spend a lot of time in the NLE in the first place. \r\n\r\nThey spend 4-5x more time each week doing research, writing briefs, searching for videos, scrubbing within videos, organizing sequences of a-roll and b-roll, producing rough drafts, getting feedback from their team and/or clients, and now generating content to augment their footage as well.\r\n\r\nWe’re early into providing real value within this work. Our ambition is to become the default workspace where people and agents collaborate to get the most out of their video.\r\n\r\nQuotes from Early Users:\r\n\r\n“Wideframe will save each of our editors 2 hours per day. They will have more time to focus on the quality of their work and doing more without the stress.” - Matthew Gattozzi, Founder at Goodo Studios\r\n\r\n“OH MY GOD YOU ARE A FREAKING GENIUS” - A user after Wideframe automatically watched, renamed and organized 24 of his videos in 3 minutes",
-    "one_liner": "AI agent for video work outside the NLE",
+    "long_description": "Wideframe is an AI coworker for video editors. It helps them ship more videos by preparing footage for editing like an Assistant Editor.\r\n\r\nWhy is this important? Well, it turns out that editors spend 3x more time preparing footage than actually editing.\r\n\r\nOne agency said we will save their editors 10 hours per week. Another organized an entire documentary worth of footage in hours rather than weeks. He had 2,500+ videos, 500+ audio clips, across >2.5 TB of files and our agent handled them effortlessly.\r\n\r\nUsers link footage to Wideframe and then our Agent acts like an Assistant Editor to handle work like searching, labeling, organizing, and sequencing footage. Wideframe works with footage across local filesystems and cloud providers. We also supports Adobe Premiere Pro (.prproj) roundtrip. Our robust integrations are important so that Wideframe can work with source footage all the way through to delivering Premiere Pro projects to editors.",
+    "one_liner": "AI coworker for video editors",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771307851,
     "tags": [
-      "SaaS",
-      "AI"
+      "Artificial Intelligence",
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
