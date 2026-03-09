@@ -19851,53 +19851,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/overeasy.json"
   },
   {
-    "id": 29389,
-    "name": "Delve",
-    "slug": "delve",
-    "former_names": [
-      "Sunona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
-    "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve helps fast-growing teams get compliant with an AI-automated platform.\r\n\r\nServing hundreds of companies on frameworks like SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and more.",
-    "one_liner": "AI that makes compliance effortless",
-    "team_size": 33,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1704449902,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/delve.json"
-  },
-  {
     "id": 29395,
     "name": "Clarum",
     "slug": "clarum",
@@ -26741,6 +26694,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/gradewiz.json"
   },
   {
+    "id": 30254,
+    "name": "hud",
+    "slug": "hud",
+    "former_names": [
+      "Human Union Data",
+      "hud",
+      "HUD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
+    "website": "https://www.hud.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
+    "one_liner": "Platform for building RL environments and evals ",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740930546,
+    "tags": [
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hud",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json"
+  },
+  {
     "id": 30259,
     "name": "Asteroid",
     "slug": "asteroid",
@@ -28870,6 +28869,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cactus",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
+  },
+  {
+    "id": 30512,
+    "name": "MorphoAI",
+    "slug": "morphoai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d184a7985bf94fb06fe3645712c7af87070512.png",
+    "website": "https://morpho.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We're building an AI powered platform for engineers that are building new robots and machines. \r\n\r\nWe allow users to invent and modify machine designs in a matter of minutes, not years. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024 as their programs were wrapping up. We're commercializing 10+ years research done by our team at Harvard and MIT on this space. Our team wrote the very first papers on applying GenAI and optimization algorithms to compose robots from parts and applying computational design to fine tune machine designs. We're bringing in our deep knowledge of modifying equipment and integrating it into factories keenly understanding what makes hardware hard. \r\n\r\nWe take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces. \r\n\r\nWe are venture backed and supported by a GBP 2.5MM grant by ARIA, the UK Government's invention agency. ",
+    "one_liner": "Software tool for designing robots and machines ",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1746718035,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/morphoai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/morphoai.json"
   },
   {
     "id": 30513,
@@ -31073,6 +31115,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dscribe-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
+  },
+  {
+    "id": 30765,
+    "name": "Pollen",
+    "slug": "pollen",
+    "former_names": [
+      "Daymi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
+    "website": "https://www.pollen.cx/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents for Customer Success",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1754592638,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Customer Success",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pollen",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
   },
   {
     "id": 30768,
@@ -34111,6 +34198,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/codewisp.json"
   },
   {
+    "id": 31145,
+    "name": "RamAIn",
+    "slug": "ramain",
+    "former_names": [
+      "Ramain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
+    "website": "https://ramain.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "AI employees: Super-fast computer use agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767663208,
+    "tags": [
+      "Machine Learning",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ramain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
+  },
+  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -34593,11 +34724,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help highly regulated financial institutions and fintechs prevent financial crimes. With our AI agents, you can process 10X compliance workload per analyst, with bullet-proof audit logs for regulators!",
-    "one_liner": "The most powerful AI agents for Financial Crime Compliance",
+    "long_description": "Specialized AI agents for banks to 10x back office functions such as underwriting, compliance, fraud, and customer complaints.\r\n\r\nWith Fenrock AI, banks can:\r\n\r\n💰 Make a lot more money by processing loans in minutes, not months.  \r\n🤩  Offer a stellar customer experience by resolving complaints in seconds.  \r\n💪 Investigate 10X fraud and money-laundering cases with bulletproof audit logs, and pass every regulatory exam. ",
+    "one_liner": "The most powerful AI agents for back office at banks",
     "team_size": 2,
     "industry": "Fintech",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1769406704,
     "tags": [
       "Artificial Intelligence",
@@ -34612,7 +34743,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Banking and Exchange"
     ],
     "regions": [
       "United States of America",
@@ -34919,50 +35051,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
   },
   {
-    "id": 31217,
-    "name": "Polymath",
-    "slug": "polymath",
-    "former_names": [
-      "Palette AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
-    "website": "https://polymathlabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is building world generation models and systems to automate the creation of reinforcement learning environments.\r\n\r\nAs the demand for AI shifts from question-answering to autonomous agents that can operate over long horizons, models must be trained in environments that reflect the real world. Today, RL environment generation is bottlenecked by human labor. Companies hire contractors to hand-build artifacts one-by-one. This approach is expensive and doesn’t scale. Moreover, human data alone will never lead to superintelligence.\r\n\r\nWe’re building the core technology to enable automated environment generation using far less human effort than traditionally required, and eventually none. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nOur end goal is to create realistic, long-horizon environments from a text description alone. This will enable the creation of worlds of arbitrary complexity and scale, which is foundational for training & evaluating autonomous, superintelligent AI agents.\r\n\r\nWe’re a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large-scale data systems.",
-    "one_liner": "Automating RL environment generation",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769103780,
-    "tags": [
-      "Reinforcement Learning",
-      "B2B",
-      "Big Data",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polymath",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymath.json"
-  },
-  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -35128,6 +35216,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fed10",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
+  },
+  {
+    "id": 31254,
+    "name": "Sila",
+    "slug": "sila",
+    "former_names": [
+      "saiera",
+      "sila"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f100254a99493d2280f4072952f3d2a6e031aa7.png",
+    "website": "https://silahq.com",
+    "all_locations": "",
+    "long_description": "Every great company in history was built on one thing: communication. Sila is an agentic workspace messaging & collaboration platform for teams and companies. Our mission is to lead the future where human-AI communication is the standard for work.",
+    "one_liner": "Agentic Workspace Messaging ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1772231466,
+    "tags": [
+      "Productivity",
+      "Messaging",
+      "Team Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sila",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sila.json"
   },
   {
     "id": 31259,
@@ -35343,50 +35475,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rubric-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/rubric-ai.json"
-  },
-  {
-    "id": 31283,
-    "name": "Librar Labs",
-    "slug": "librar-labs",
-    "former_names": [
-      "Librar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Librar Labs is about turning unstructured data into actionable and useable insights.\r\n\r\nWe're working to solve the biggest bottleneck for the AI singularity: the world is full of massive amounts of unstructured data that is hard for computers and AI to navigate. \r\n\r\nIn our core, we're a data company that catalog information for enterprises that needs to make their big data useful.\r\n\r\nOur first commercial product is for the publishing industry with a focus on school libraries. It captures and analyze unstructured (and pre-Librar unattainable) data using it to more than double reading rates at schools. Fastest growing library tech company in ever backed by founders of google maps, kahoot etc.\r\n\r\nMoving into the private equity market.\r\n",
-    "one_liner": "Makes sense of unstructured data for enterprises.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769303203,
-    "tags": [
-      "Machine Learning",
-      "Computer Vision",
-      "Data Labeling",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   },
   {
     "id": 31292,

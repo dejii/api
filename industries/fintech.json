@@ -22654,17 +22654,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fa49eb2930eeded02c619636a22909358301f3b.png",
     "website": "https://www.edencaremedical.com/",
-    "all_locations": "Nairobi, Nairobi County, Kenya; Kigali, Kigali City, Rwanda",
-    "long_description": "Eden Care is building a digital health insurer for employers in Africa. \r\n\r\n\r\n\r\nToday, health insurance operation costs in Africa are 2.2x the global average. Eden Care is cutting this by 43% making health insurance cheaper. \r\n\r\n\r\n\r\nThe $11Bn African health insurance market is projected to grow to $72Bn in just  12 years. We are targeting 90 million uninsured African employees.",
-    "one_liner": "Digital health insurance for employers in Africa",
+    "all_locations": "Nairobi, Nairobi County, Kenya",
+    "long_description": "Eden Care is building the claims infrastructure for African health insurance ",
+    "one_liner": "Claims infrastructure for African health insurance",
     "team_size": 28,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1687277447,
     "tags": [
+      "Fintech",
       "Health Insurance",
-      "Insurance",
-      "Health & Wellness"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22678,7 +22678,6 @@
     ],
     "regions": [
       "Kenya",
-      "Rwanda",
       "Africa",
       "Remote",
       "Partly Remote"
@@ -22686,7 +22685,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eden-care",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/eden-care.json"
@@ -26024,8 +26023,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
     "website": "https://zerosettle.io",
     "all_locations": "",
-    "long_description": "ZeroSettle helps mobile devs boost their margins by 15pp with just 15 minutes of engineering work. We quit our jobs at Apple to help developers bypass the Apple Tax by migrating loyal users to Stripe billing via targeted “Switch & Save” campaigns. Beyond billing, ZeroSettle also manages entitlement provisioning and syncing while maximizing LTV through custom cancellation flows, \"saving the sale\" by using intelligent discounts and subscription pauses.",
-    "one_liner": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
+    "long_description": "ZeroSettle is a mobile SDK that switches customers from App Store billing to direct billing. It takes 15 minutes to set up and immediately unlocks zero App Store fees, higher retention/conversion, and instant payouts.",
+    "one_liner": "Keep 30% More of Your Mobile App Revenue with Direct Billing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -26106,8 +26105,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
     "website": "https://proximitty.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proximitty is the first truly AI-native loan management system. We build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nTrusted by publicly traded fintechs and banks globally.",
-    "one_liner": "Autonomous loan servicing and collections",
+    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 5 large banks and fintechs that process over >$1B of delinquent loans.",
+    "one_liner": "Autonomous business loan servicing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
@@ -26154,11 +26153,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help highly regulated financial institutions and fintechs prevent financial crimes. With our AI agents, you can process 10X compliance workload per analyst, with bullet-proof audit logs for regulators!",
-    "one_liner": "The most powerful AI agents for Financial Crime Compliance",
+    "long_description": "Specialized AI agents for banks to 10x back office functions such as underwriting, compliance, fraud, and customer complaints.\r\n\r\nWith Fenrock AI, banks can:\r\n\r\n💰 Make a lot more money by processing loans in minutes, not months.  \r\n🤩  Offer a stellar customer experience by resolving complaints in seconds.  \r\n💪 Investigate 10X fraud and money-laundering cases with bulletproof audit logs, and pass every regulatory exam. ",
+    "one_liner": "The most powerful AI agents for back office at banks",
     "team_size": 2,
     "industry": "Fintech",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1769406704,
     "tags": [
       "Artificial Intelligence",
@@ -26173,7 +26172,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Banking and Exchange"
     ],
     "regions": [
       "United States of America",
@@ -26364,8 +26364,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Payroll for performance-based work",
+    "long_description": "Grade is the API for performance-based payroll. We make hiring and paying contractors risk free.",
+    "one_liner": "API for performance-based payroll",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",

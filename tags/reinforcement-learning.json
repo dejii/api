@@ -551,13 +551,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
     "one_liner": "Platform for building RL environments and evals ",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1139,6 +1139,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
   },
   {
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Haladir is an applied AI product lab for verifiable domains, enabling reinforcement learning & model harnesses to scale to economically-complex tasks via the formalization of the informal. We apply solver-based methods, SMT/SAT solvers, operations research, and formal verification to make RLVR and agent deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chain, ERPs and beyond.",
+    "one_liner": "Building Operational Superintelligence.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1766374394,
+    "tags": [
+      "Reinforcement Learning",
+      "Logistics",
+      "Data Engineering",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
+  },
+  {
     "id": 31174,
     "name": "Hex Security",
     "slug": "hex-security",
@@ -1275,18 +1317,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is building world generation models and systems to automate the creation of reinforcement learning environments.\r\n\r\nAs the demand for AI shifts from question-answering to autonomous agents that can operate over long horizons, models must be trained in environments that reflect the real world. Today, RL environment generation is bottlenecked by human labor. Companies hire contractors to hand-build artifacts one-by-one. This approach is expensive and doesn’t scale. Moreover, human data alone will never lead to superintelligence.\r\n\r\nWe’re building the core technology to enable automated environment generation using far less human effort than traditionally required, and eventually none. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nOur end goal is to create realistic, long-horizon environments from a text description alone. This will enable the creation of worlds of arbitrary complexity and scale, which is foundational for training & evaluating autonomous, superintelligent AI agents.\r\n\r\nWe’re a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large-scale data systems.",
-    "one_liner": "Automating RL environment generation",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in any domain. We're building world generation models and environment factories to automate and align the creation of RL environments, with humans in the loop. This decreases the dependency of human data in environment generation, allowing for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Training grounds for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769103780,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
       "Big Data",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

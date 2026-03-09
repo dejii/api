@@ -1710,6 +1710,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/terracotta-ai.json"
   },
   {
+    "id": 29086,
+    "name": "Eden Care",
+    "slug": "eden-care",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fa49eb2930eeded02c619636a22909358301f3b.png",
+    "website": "https://www.edencaremedical.com/",
+    "all_locations": "Nairobi, Nairobi County, Kenya",
+    "long_description": "Eden Care is building the claims infrastructure for African health insurance ",
+    "one_liner": "Claims infrastructure for African health insurance",
+    "team_size": 28,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1687277447,
+    "tags": [
+      "Fintech",
+      "Health Insurance",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Kenya",
+      "Africa",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/eden-care",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/eden-care.json"
+  },
+  {
     "id": 29087,
     "name": "ParadeDB",
     "slug": "paradedb",
@@ -2785,7 +2828,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Ryvn provides the devtools and infrastructure to easily deploy any workload, on any cloud, and on-prem. Run apps in your own cloud and offer Bring Your Own Cloud (BYOC) to your customers in minutes, with built-in observability designed for sensitive industries.",
     "one_liner": "Easy and secure customer cloud deployments",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730680026,
@@ -4562,18 +4605,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is building world generation models and systems to automate the creation of reinforcement learning environments.\r\n\r\nAs the demand for AI shifts from question-answering to autonomous agents that can operate over long horizons, models must be trained in environments that reflect the real world. Today, RL environment generation is bottlenecked by human labor. Companies hire contractors to hand-build artifacts one-by-one. This approach is expensive and doesn’t scale. Moreover, human data alone will never lead to superintelligence.\r\n\r\nWe’re building the core technology to enable automated environment generation using far less human effort than traditionally required, and eventually none. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nOur end goal is to create realistic, long-horizon environments from a text description alone. This will enable the creation of worlds of arbitrary complexity and scale, which is foundational for training & evaluating autonomous, superintelligent AI agents.\r\n\r\nWe’re a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large-scale data systems.",
-    "one_liner": "Automating RL environment generation",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in any domain. We're building world generation models and environment factories to automate and align the creation of RL environments, with humans in the loop. This decreases the dependency of human data in environment generation, allowing for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Training grounds for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769103780,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
       "Big Data",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

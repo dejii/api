@@ -21243,10 +21243,11 @@
   },
   {
     "id": 25605,
-    "name": "Super Send",
-    "slug": "super-send",
+    "name": "SuperSend",
+    "slug": "supersend",
     "former_names": [
-      "EXO Freight"
+      "EXO Freight",
+      "Super Send"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30af84e0971fab8e280e8b2aa9d648d3cb85997b.png",
     "website": "https://supersend.io/",
@@ -21279,13 +21280,13 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/super-send",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/super-send.json"
+    "url": "https://www.ycombinator.com/companies/supersend",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/supersend.json"
   },
   {
     "id": 25607,
@@ -36410,18 +36411,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
     "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve helps fast-growing teams get compliant with an AI-automated platform.\r\n\r\nServing hundreds of companies on frameworks like SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and more.",
+    "long_description": "Delve helps 1500+ companies comply with SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and dozens more in 4x less time.",
     "one_liner": "AI that makes compliance effortless",
-    "team_size": 33,
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1704449902,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36439,7 +36440,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -45619,6 +45620,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
   },
   {
+    "id": 30765,
+    "name": "Pollen",
+    "slug": "pollen",
+    "former_names": [
+      "Daymi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
+    "website": "https://www.pollen.cx/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents for Customer Success",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1754592638,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Customer Success",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pollen",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
+  },
+  {
     "id": 30768,
     "name": "Okibi",
     "slug": "okibi",
@@ -47049,11 +47095,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
     "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcten enables companies to embed AI copilots directly into their applications so users can accomplish complex workflows through natural language. You can add AI copilots to your product in minutes, connect them to your company’s information, and track how they’re performing -- all in one place.",
-    "one_liner": "We make any product AI-native in an afternoon",
+    "long_description": "",
+    "one_liner": "Building the best coding agents.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761245566,
     "tags": [
       "Artificial Intelligence",
@@ -47069,7 +47115,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -48168,8 +48215,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
     "website": "https://zerosettle.io",
     "all_locations": "",
-    "long_description": "ZeroSettle helps mobile devs boost their margins by 15pp with just 15 minutes of engineering work. We quit our jobs at Apple to help developers bypass the Apple Tax by migrating loyal users to Stripe billing via targeted “Switch & Save” campaigns. Beyond billing, ZeroSettle also manages entitlement provisioning and syncing while maximizing LTV through custom cancellation flows, \"saving the sale\" by using intelligent discounts and subscription pauses.",
-    "one_liner": "Avoid the 30% App Store Tax by Supporting Direct Billing in your App",
+    "long_description": "ZeroSettle is a mobile SDK that switches customers from App Store billing to direct billing. It takes 15 minutes to set up and immediately unlocks zero App Store fees, higher retention/conversion, and instant payouts.",
+    "one_liner": "Keep 30% More of Your Mobile App Revenue with Direct Billing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -48511,6 +48558,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
+    "id": 31156,
+    "name": "Ventura",
+    "slug": "ventura",
+    "former_names": [
+      "Autola"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da34d67bc7bfb583fad0d2c587e602fbe787b210.png",
+    "website": "https://www.ventura.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ventura is the AI teammate for industrial distributors. Our agents handle quoting, order entry, and back-office work so sales teams can focus on winning deals.",
+    "one_liner": "AI Employees for Industrial Distributors",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1772945697,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ventura",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ventura.json"
+  },
+  {
     "id": 31164,
     "name": "Compresr",
     "slug": "compresr",
@@ -48563,8 +48652,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
     "website": "https://proximitty.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proximitty is the first truly AI-native loan management system. We build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nTrusted by publicly traded fintechs and banks globally.",
-    "one_liner": "Autonomous loan servicing and collections",
+    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 5 large banks and fintechs that process over >$1B of delinquent loans.",
+    "one_liner": "Autonomous business loan servicing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
@@ -48948,18 +49037,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is building world generation models and systems to automate the creation of reinforcement learning environments.\r\n\r\nAs the demand for AI shifts from question-answering to autonomous agents that can operate over long horizons, models must be trained in environments that reflect the real world. Today, RL environment generation is bottlenecked by human labor. Companies hire contractors to hand-build artifacts one-by-one. This approach is expensive and doesn’t scale. Moreover, human data alone will never lead to superintelligence.\r\n\r\nWe’re building the core technology to enable automated environment generation using far less human effort than traditionally required, and eventually none. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nOur end goal is to create realistic, long-horizon environments from a text description alone. This will enable the creation of worlds of arbitrary complexity and scale, which is foundational for training & evaluating autonomous, superintelligent AI agents.\r\n\r\nWe’re a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large-scale data systems.",
-    "one_liner": "Automating RL environment generation",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in any domain. We're building world generation models and environment factories to automate and align the creation of RL environments, with humans in the loop. This decreases the dependency of human data in environment generation, allowing for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Training grounds for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769103780,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
       "Big Data",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48992,7 +49081,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships. It continuously monitors the SaaS ecosystem to identify high-impact revenue opportunities across integrations, distribution, co-marketing, and technology alliances.\r\n\r\nBeyond discovery, Arzule structures and manages your entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.\r\n\r\nInstead of static lists and manual processes, Arzule turns partnerships into a predictable, scalable revenue channel and the foundation for identifying and optimizing all ecosystem-driven growth.",
+    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships. It continuously monitors the SaaS ecosystem to identify high-impact revenue opportunities across integrations, distribution, co-marketing, and technology alliances.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond discovery, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
     "one_liner": "AI native platform to find, track, and grow revenue from partnerships",
     "team_size": 2,
     "industry": "B2B",
@@ -49000,6 +49089,7 @@
     "launched_at": 1767154035,
     "tags": [
       "Artificial Intelligence",
+      "Machine Learning",
       "SaaS",
       "B2B",
       "Market Research"
@@ -49299,8 +49389,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Payroll for performance-based work",
+    "long_description": "Grade is the API for performance-based payroll. We make hiring and paying contractors risk free.",
+    "one_liner": "API for performance-based payroll",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -49672,7 +49762,7 @@
     "name": "Datost",
     "slug": "datost",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7a36530e9bfa96520dc57d94e0caba5e843fd40.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9389aed646cd08750efe3bb51f6299fcb3e2fdfa.png",
     "website": "https://www.datost.com",
     "all_locations": "",
     "long_description": "The first AI data analyst that has its own computer. It sees and understands your docs, Slack, databases, data lakes, and codebase. Query, debug, and analyze right where your team works.",

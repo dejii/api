@@ -21248,13 +21248,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
     "one_liner": "Platform for building RL environments and evals ",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24375,6 +24375,56 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
   },
   {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen",
+      "ArcTen, Inc.",
+      "Arcten, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Building the best coding agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761245566,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Customer Success",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
+  },
+  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -24596,7 +24646,7 @@
     "website": "https://sonarly.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We want software to improve itself.\r\n\r\nSonarly connects to your monitoring stack - tools like Sentry, Datadog, and Grafana - and triages every alert to remove noise and duplicates. It then investigates logs, traces, metrics, and code to build a living map of your production system and find root cause. The result is either a ready-to-merge fix PR or a recommendation to update your alerting rules so the noise never comes back.",
-    "one_liner": "The AI that fixes production",
+    "one_liner": "The AI that fixes prod autonomously",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
