@@ -6836,8 +6836,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7537c2ea53c825f90e7b66831754edaddd1f069b.png",
     "website": "https://www.cuanto.app",
     "all_locations": "Panama City, Panama, Panama; Remote",
-    "long_description": "We are building the operating system to allow Latin American creators to live from the internet. We started by helping them instantly launch online to monetize their audience and sell over social media.\r\n\r\nOnline creation is already mainstream in Latin America through the heavy use of social media and video streaming. We are building the platform to make online creation a viable career and social mobility option.",
-    "one_liner": "Building the operating system for Latin America's internet creators",
+    "long_description": "We are building the operating system to allow merchants in the developing world to sell online. We started by helping those in LatAm instantly launch online to monetize their audience and sell over social media.\r\n\r\nWe help merchants create a storefront, process payments, and manage fulfillment in one simple platform.\r\n",
+    "one_liner": "Building the operating system for developing world merchants",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -15738,7 +15738,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -25733,50 +25733,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/peeba.json"
   },
   {
-    "id": 28072,
-    "name": "Holacasa",
-    "slug": "holacasa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc19f43b45570416927b1af2d9854ae283c9ca39.png",
-    "website": "https://www.holacasa.mx/",
-    "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Holacasa helps real estate brokers with a end-end mortgage solutions to offers the customers, having instant quote, pre-qualify and apply to their mortgage fast and simple with a white-label solution, and Real Estate companies to have dashboards, real time status and a raking of their potential leads.",
-    "one_liner": "End-to-end mortgage solution in LatAm",
-    "team_size": 1,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1671041398,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/holacasa",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/holacasa.json"
-  },
-  {
     "id": 28079,
     "name": "Invopop",
     "slug": "invopop",
@@ -30084,7 +30040,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "Fintech"
@@ -30099,7 +30055,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alt-x",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/alt-x.json"
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/alt-x.json"
   },
   {
     "id": 30886,
@@ -30273,6 +30229,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fullseam.json"
   },
   {
+    "id": 31066,
+    "name": "Payna",
+    "slug": "payna",
+    "former_names": [
+      "Paena"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
+    "website": "",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Crypto/fintech compliance simplified.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1772054441,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "B2B",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/payna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
+  },
+  {
     "id": 31083,
     "name": "Kita",
     "slug": "kita",
@@ -30396,6 +30396,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zerosettle",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
+  },
+  {
+    "id": 31126,
+    "name": "Palus Finance",
+    "slug": "palus-finance",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/694baa578af4b9446cdb4f998165350919b93496.png",
+    "website": "https://palus.finance",
+    "all_locations": "",
+    "long_description": "Palus Finance gives startups and SMBs access to institutional-grade bond portfolios, earning 1–1.5% more than money market funds with comparable safety and near-immediate liquidity.\r\n\r\nAfter a fundraise, startups park 18–24 months of cash in a money market fund and draw it down gradually, paying for same-day liquidity on cash they won't touch for months. Every existing treasury product does the same thing: sweep into an MMF and charge a fee. \r\n\r\nPalus replaces that with a bond portfolio optimized for startup treasuries, targeting 4.5–5% vs. ~3.5% from money market. On a $10M allocation, that's an extra $100–150K per year in runway. Fortune 500 treasury teams use these kinds of portfolios all the time, but they've never been easily accessible to startups until now.\r\n\r\nWe're the only startup treasury product with a differentiated investment strategy. Everyone else is just a wrapper on a money market fund. \r\n\r\nInstead of replacing your bank, we plug into it via Plaid, so founders can spend five minutes optimizing their treasury strategy with Palus and get back to building their company.",
+    "one_liner": "Better yields on idle cash for startups and SMBs",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1773084349,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palus-finance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/palus-finance.json"
   },
   {
     "id": 31127,
@@ -30666,8 +30705,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Specialized AI agents for banks to 10x back office functions such as underwriting, compliance, fraud, and customer complaints.\r\n\r\nWith Fenrock AI, banks can:\r\n\r\n💰 Make a lot more money by processing loans in minutes, not months.  \r\n🤩  Offer a stellar customer experience by resolving complaints in seconds.  \r\n💪 Investigate 10X fraud and money-laundering cases with bulletproof audit logs, and pass every regulatory exam. ",
-    "one_liner": "The most powerful AI agents for back office at banks",
+    "long_description": "Specialized AI agents for banks to 10x back office functions.\r\n\r\n💰 Make a lot more money by processing loans in minutes, not months.  \r\n🤩  Offer stellar customer experiences by resolving complaints in seconds.  \r\n💪 Investigate 10X fraud and money-laundering cases with bulletproof audit logs, and pass every regulatory exam. ",
+    "one_liner": "The most powerful AI agents for back office at banks ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
@@ -30931,14 +30970,14 @@
     "website": "https://www.copperlane.ai",
     "all_locations": "",
     "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
-    "one_liner": "Agents for Mortgage Origination",
+    "one_liner": "AI Mortgage Loan Officer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768253497,
     "tags": [
-      "Artificial Intelligence",
-      "Fintech"
+      "Fintech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

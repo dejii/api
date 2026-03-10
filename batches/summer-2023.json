@@ -792,9 +792,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1688401921,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -811,7 +811,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2549,8 +2549,8 @@
   },
   {
     "id": 28841,
-    "name": "SuperCraft",
-    "slug": "supercraft",
+    "name": "Baud Labs",
+    "slug": "baud-labs",
     "former_names": [
       "Neuralyze",
       "Cerelyze",
@@ -2558,27 +2558,26 @@
       "Front",
       "Zener",
       "SuperCraft",
-      "Ponder"
+      "Ponder",
+      "SuperCraft"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b6e756502dc5f4b2e2648f538d38a846286de5a.png",
-    "website": "https://supercraft.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea89d0878c367c79b3a58c19eb1323a648e3f38.png",
+    "website": "https://baudlabs.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft is a generative AI software for teams building physical products\r\n\r\nWe help businesses securely use generative AI capabilities across their design departments for faster design exploration and visualization of physical products\r\n\r\nFortune 500 companies are using SuperCraft to create new product designs, and visualize how their product will look like in a real scenario, before actually building it, and treat the design boards as a shared source of truth that all teams involved can collaborate and provide feedback on - resulting in faster design reviews, more creative exploration, and faster time to market.",
-    "one_liner": "Figma for designing physical products",
+    "long_description": "Baud Labs is making AI inference instantaneous to the point that long reasoning sessions happen in milliseconds instead of minutes.\r\n\r\nWe are starting with vision language models first.",
+    "one_liner": "Making AI models reason instantaneously",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688534176,
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Design",
-      "Media"
+      "Hard Tech",
+      "Computer Vision",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -2594,8 +2593,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/supercraft",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/supercraft.json"
+    "url": "https://www.ycombinator.com/companies/baud-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/baud-labs.json"
   },
   {
     "id": 28842,

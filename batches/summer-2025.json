@@ -438,7 +438,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -1462,18 +1462,17 @@
       "Datafruit"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
-    "website": "https://datafruit.dev/",
+    "website": "https://datafruit.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack. \r\n\r\nReach out to us: founders@datafruit.dev",
-    "one_liner": "AI DevOps Engineer",
+    "long_description": "Datafruit helps enterprise delivery teams understand their customers deeply and deliver more profitably. We build AI agents capture every conversation, structure scope from day one, and use past projects to make every engagement sharper.",
+    "one_liner": "Agents for Enterprise Software Integration Teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755048308,
     "tags": [
-      "DevOps",
-      "Cloud Computing",
-      "Infrastructure"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2365,27 +2364,28 @@
   },
   {
     "id": 30660,
-    "name": "Sagekit",
-    "slug": "sagekit",
+    "name": "Magnitude",
+    "slug": "magnitude",
     "former_names": [
       "Magnitude",
-      "Sidekick"
+      "Sidekick",
+      "Sagekit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172ef6eb2756c4075d4f6b5ef99859af63b4926b.png",
-    "website": "https://sagekit.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c6e6b106f7e5cbaf44508142f95fc7935454466.png",
+    "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sagekit is the AI workspace for research and writing. Work side by side with AI as ideas and research become real, lasting documents.",
-    "one_liner": "AI workspace for research and writing",
+    "long_description": "Most coding agents are one long conversation that compacts and loses context. Magnitude is a multi-agent system that stays sharp over long horizon tasks. Install: npm i -g @magnitudedev/magnitude",
+    "one_liner": "Open source AI coding agent",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751905744,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "Productivity",
-      "Automation",
-      "AI Assistant"
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2395,7 +2395,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -2406,8 +2406,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagekit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/sagekit.json"
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
   },
   {
     "id": 30661,
@@ -6594,7 +6594,7 @@
     "name": "Luminal",
     "slug": "luminal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a913a7346d718d968cd73ae55003ff70433afe98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
     "all_locations": "",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
@@ -6605,9 +6605,9 @@
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

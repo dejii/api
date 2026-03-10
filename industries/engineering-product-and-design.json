@@ -12697,7 +12697,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -13511,7 +13511,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -19835,10 +19835,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22868,18 +22868,17 @@
       "Datafruit"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
-    "website": "https://datafruit.dev/",
+    "website": "https://datafruit.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack. \r\n\r\nReach out to us: founders@datafruit.dev",
-    "one_liner": "AI DevOps Engineer",
+    "long_description": "Datafruit helps enterprise delivery teams understand their customers deeply and deliver more profitably. We build AI agents capture every conversation, structure scope from day one, and use past projects to make every engagement sharper.",
+    "one_liner": "Agents for Enterprise Software Integration Teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1755048308,
     "tags": [
-      "DevOps",
-      "Cloud Computing",
-      "Infrastructure"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23199,6 +23198,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/proliferate",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/proliferate.json"
+  },
+  {
+    "id": 30660,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "former_names": [
+      "Magnitude",
+      "Sidekick",
+      "Sagekit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c6e6b106f7e5cbaf44508142f95fc7935454466.png",
+    "website": "https://magnitude.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most coding agents are one long conversation that compacts and loses context. Magnitude is a multi-agent system that stays sharp over long horizon tasks. Install: npm i -g @magnitudedev/magnitude",
+    "one_liner": "Open source AI coding agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
   },
   {
     "id": 30675,
@@ -25333,7 +25379,7 @@
     "website": "https://aurorincad.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
-    "one_liner": "We help hardware companies ship faster",
+    "one_liner": "Claude Code for Mechanical Engineering CAD",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

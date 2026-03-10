@@ -5538,12 +5538,12 @@
     "name": "Termii",
     "slug": "termii",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a54a2a9f21db0b647ce9e9aeb97ad44e0ab45105.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/679988819d9b4d75bd2aac2d345f34db0767f197.png",
     "website": "https://termii.com",
-    "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
-    "long_description": "Termii is a communications platform that allows businesses to make calls, access data on the go and send messages to anyone across sms, email, voice and instant messaging channels. With Termii businesses can;\r\n\r\n1. Verify customer identity & transactions\r\n2. Send product notifications to customers\r\n3. Make calls and offer dedicated call support to customers\r\n4. Purchase dedicated phone numbers\r\n5. Purchase eSims to make wifi calls and access data connectivity globally\r\n6. Generate personality and engagement insights from customer transactions",
-    "one_liner": "Termii is helps businesses communicate with customers globally.",
-    "team_size": 46,
+    "all_locations": "Lagos, LA, Nigeria",
+    "long_description": "Termii is building the reliability infrastructure layer for financial communications, ensuring delivery certainty for banks, fintechs, and regulated institutions operating in unstable telecom environments.\r\n\r\nReliability is the foundation of financial trust. \r\n\r\nIn emerging markets and other high-volatility digital economies, communication failure is not a UX inconvenience. It is a financial and regulatory risk\r\n\r\n—When OTPs fail, fraud risk rises.\r\n—When transaction alerts are delayed, trust erodes.\r\n—When compliance notifications are incomplete, institutions face regulatory exposure.\r\n\r\nTermii guarantees delivery certainty for financial institutions by controlling routing, redundancy, and traffic performance end-to-end. Our AI-native routing engine learns from every transaction, predicts failure before allocation, and ensures that authentication, transaction alerts, and compliance messages are delivered reliably — even in volatile networks.\t\t\t\t\t\t",
+    "one_liner": "Termii is an AI-native communications infrastructure company.",
+    "team_size": 63,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1584055442,
@@ -11716,10 +11716,10 @@
       "Visafrog",
       "visafrog"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734f23fb33f80da65ce064600fa3a268c7331e2b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fbe2f8faf8c91d41cd8099b3a53511fa45c4635.png",
     "website": "https://codecrafters.io",
     "all_locations": "Remote",
-    "long_description": "Build your own Git, Docker, Redis, SQLite — in Go, Rust, Python, etc.",
+    "long_description": "Build your own Git, Redis, SQLite — in Go, Rust, Python, etc.",
     "one_liner": "Programming courses for experienced engineers",
     "team_size": 10,
     "industry": "Consumer",
@@ -12867,7 +12867,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -14451,11 +14451,11 @@
       "Escape - GraphQL Security",
       "Escape - Modern Application Security"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f2dd64a7e6eed13a24457daafdaa5723f661a7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0210bbcb75b7ba7c4519705bd24c324666b9538b.png",
     "website": "https://escape.tech",
     "all_locations": "New York, NY, USA",
-    "long_description": "Escape fits right into your modern stack and helps teams secure modern applications— Document all your APIs & front-end applications in minutes and discover vulnerabilities even at a business logic level with our proprietary AI-powered algorithm. ",
-    "one_liner": "The only DAST that works with modern stack and tests business logic",
+    "long_description": "Replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows.",
+    "one_liner": "Offensive security for the teams that are 100x outnumbered",
     "team_size": 29,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -18917,10 +18917,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21841,6 +21841,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/proliferate.json"
   },
   {
+    "id": 30660,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "former_names": [
+      "Magnitude",
+      "Sidekick",
+      "Sagekit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c6e6b106f7e5cbaf44508142f95fc7935454466.png",
+    "website": "https://magnitude.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most coding agents are one long conversation that compacts and loses context. Magnitude is a multi-agent system that stays sharp over long horizon tasks. Install: npm i -g @magnitudedev/magnitude",
+    "one_liner": "Open source AI coding agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
+  },
+  {
     "id": 30664,
     "name": "Kestroll",
     "slug": "kestroll",
@@ -22270,7 +22317,7 @@
     "name": "Luminal",
     "slug": "luminal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a913a7346d718d968cd73ae55003ff70433afe98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
     "all_locations": "",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
@@ -22281,9 +22328,9 @@
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24081,11 +24128,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772525778,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

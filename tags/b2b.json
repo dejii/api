@@ -21280,7 +21280,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -31594,23 +31594,24 @@
   },
   {
     "id": 28072,
-    "name": "Holacasa",
-    "slug": "holacasa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc19f43b45570416927b1af2d9854ae283c9ca39.png",
-    "website": "https://www.holacasa.mx/",
+    "name": "Helios",
+    "slug": "helios",
+    "former_names": [
+      "Holacasa"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a19c2e4abf0702ea3bce9c8e6b7cffbae37f7d2.png",
+    "website": "https://www.usehelios.ai/",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Holacasa helps real estate brokers with a end-end mortgage solutions to offers the customers, having instant quote, pre-qualify and apply to their mortgage fast and simple with a white-label solution, and Real Estate companies to have dashboards, real time status and a raking of their potential leads.",
-    "one_liner": "End-to-end mortgage solution in LatAm",
-    "team_size": 1,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "long_description": "Helios builds AI-powered digital workers that automate B2B operations for companies.",
+    "one_liner": "Create your AI workforce",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1671041398,
     "tags": [
-      "Fintech",
       "SaaS",
       "B2B",
-      "Proptech"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31619,22 +31620,19 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
+      "B2B"
     ],
     "regions": [
       "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/holacasa",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/holacasa.json"
+    "url": "https://www.ycombinator.com/companies/helios",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/helios.json"
   },
   {
     "id": 28074,
@@ -32927,9 +32925,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1688401921,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -32946,7 +32944,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33263,56 +33261,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/subsets",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/subsets.json"
-  },
-  {
-    "id": 28841,
-    "name": "SuperCraft",
-    "slug": "supercraft",
-    "former_names": [
-      "Neuralyze",
-      "Cerelyze",
-      "Zener",
-      "Front",
-      "Zener",
-      "SuperCraft",
-      "Ponder"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b6e756502dc5f4b2e2648f538d38a846286de5a.png",
-    "website": "https://supercraft.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft is a generative AI software for teams building physical products\r\n\r\nWe help businesses securely use generative AI capabilities across their design departments for faster design exploration and visualization of physical products\r\n\r\nFortune 500 companies are using SuperCraft to create new product designs, and visualize how their product will look like in a real scenario, before actually building it, and treat the design boards as a shared source of truth that all teams involved can collaborate and provide feedback on - resulting in faster design reviews, more creative exploration, and faster time to market.",
-    "one_liner": "Figma for designing physical products",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688534176,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Design",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/supercraft",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/supercraft.json"
   },
   {
     "id": 28844,
@@ -36440,7 +36388,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40824,7 +40772,7 @@
     "name": "CTGT",
     "slug": "ctgt",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bcc702434416a96306d0394fd2a0226a38a87e98.png",
     "website": "https://www.ctgt.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprises are paralyzed by the risks of deploying generative AI. Traditional methods like RAG and fine-tuning are brittle, expensive, and fail to prevent costly hallucinations or guarantee compliance in high-stakes environments. This lack of trust stalls innovation and blocks ROI.\r\n\r\nCTGT ensures strict, auditable adherence to your policies on the fly. We deliver defensible audit trails and remediate noncompliant model behavior, so outputs become more aligned with company policies over time, combating data and model drift.\r\n\r\nCTGT is backed by Google's AI fund (Gradient), General Catalyst, and luminaries like Paul Graham. We provide the control and confidence necessary to unlock the full potential of enterprise AI.",
@@ -40834,11 +40782,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730040950,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Finance",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42125,16 +42073,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5463151bfe24c55a37e65a12d8f89b62dcef5c86.png",
     "website": "https://lopus.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GTM teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, Gong, Slack, and email. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered GTM analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
+    "long_description": "Growth and product teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, QuickBooks. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered grwith analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
     "one_liner": "Analytics built for Growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1740443352,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42780,17 +42728,17 @@
     "website": "https://runcopycat.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CopyCat analyzes your manual processes and builds custom AI automations to execute them. We use browser agents, reverse engineered APIs, document processing, and more, to go beyond traditional RPA and do the heavy lifting for you.",
-    "one_liner": "AI-Powered Automation to Transform Your Back Office",
+    "one_liner": "Agentic RPA for your back-office",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1734580429,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Logistics",
       "Healthcare",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47707,8 +47655,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1772054441,
     "tags": [
+      "Artificial Intelligence",
+      "Fintech",
       "Finance",
-      "B2B"
+      "B2B",
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48302,6 +48253,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
+    "id": 31126,
+    "name": "Palus Finance",
+    "slug": "palus-finance",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/694baa578af4b9446cdb4f998165350919b93496.png",
+    "website": "https://palus.finance",
+    "all_locations": "",
+    "long_description": "Palus Finance gives startups and SMBs access to institutional-grade bond portfolios, earning 1–1.5% more than money market funds with comparable safety and near-immediate liquidity.\r\n\r\nAfter a fundraise, startups park 18–24 months of cash in a money market fund and draw it down gradually, paying for same-day liquidity on cash they won't touch for months. Every existing treasury product does the same thing: sweep into an MMF and charge a fee. \r\n\r\nPalus replaces that with a bond portfolio optimized for startup treasuries, targeting 4.5–5% vs. ~3.5% from money market. On a $10M allocation, that's an extra $100–150K per year in runway. Fortune 500 treasury teams use these kinds of portfolios all the time, but they've never been easily accessible to startups until now.\r\n\r\nWe're the only startup treasury product with a differentiated investment strategy. Everyone else is just a wrapper on a money market fund. \r\n\r\nInstead of replacing your bank, we plug into it via Plaid, so founders can spend five minutes optimizing their treasury strategy with Palus and get back to building their company.",
+    "one_liner": "Better yields on idle cash for startups and SMBs",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1773084349,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palus-finance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/palus-finance.json"
+  },
+  {
     "id": 31127,
     "name": "Tepali",
     "slug": "tepali",
@@ -48442,14 +48432,14 @@
     "website": "https://aemon.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aemon is the first autonomous research engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
-    "one_liner": "The AI Research Engineer ",
+    "one_liner": "The Forward-Deployed AI Research Engineer ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772053698,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48568,7 +48558,7 @@
     "website": "https://www.ventura.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ventura is the AI teammate for industrial distributors. Our agents handle quoting, order entry, and back-office work so sales teams can focus on winning deals.",
-    "one_liner": "AI Employees for Industrial Distributors",
+    "one_liner": "AI Teammates for Industrial Distributors",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -49037,8 +49027,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in any domain. We're building world generation models and environment factories to automate and align the creation of RL environments, with humans in the loop. This decreases the dependency of human data in environment generation, allowing for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
-    "one_liner": "Training grounds for AI agents",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform economically valuable work. We're building world generation models and environment factories to automate and align the creation of environments, with humans in the loop. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Worlds for training & evaluating AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49081,8 +49071,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships. It continuously monitors the SaaS ecosystem to identify high-impact revenue opportunities across integrations, distribution, co-marketing, and technology alliances.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond discovery, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
-    "one_liner": "AI native platform to find, track, and grow revenue from partnerships",
+    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic regression models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond discovery, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
+    "one_liner": "ROI attribution to scale ecosystem driven growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49304,11 +49294,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772525778,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49600,7 +49590,7 @@
     "website": "https://aurorincad.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
-    "one_liner": "We help hardware companies ship faster",
+    "one_liner": "Claude Code for Mechanical Engineering CAD",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

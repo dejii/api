@@ -5045,6 +5045,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2017/mdalgorithms-inc.json"
   },
   {
+    "id": 1462,
+    "name": "Extern",
+    "slug": "extern",
+    "former_names": [
+      "Paragon One"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/580dd6a5c00e2c92b90e16d46f81b1a7844b8314.png",
+    "website": "http://www.extern.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "At Extern, we’re solving the experience gap.  Extern created the remote Externship, a skill-building work experience that is easier for students to access, and easier for companies to run, than an internship.  Our mission is to help anyone discover and launch their career through professional experiences available anywhere at any time.  Since 2020, we’ve created and powered Externships for over 50,000 students on behalf of companies from Fortune 500s to startups.  \r\n\r\nAfter spending $100K on average for a 4-year degree, graduates find that almost 40% of entry level jobs on Linkedin required 3+ years of work experience. Internships are how many college students get this kind of experience, but the demand for good internships outstrips the supply. Internship programs are difficult to scale, they favor students who already have social capital, and they’re time-consuming for employers to run.\r\n\r\nExternships are short, online, project-based work experiences that employers can offer to hundreds of students using less resource and employee time than it would take to support an intern.  Extern makes the complex process of running an Externship completely turnkey with software and industry experts which in turn makes professional experience more accessible to more students.\r\n\r\nBy making work experience more accessible, Extern is driving the rapid mobility and upskilling needed for a new economy.  We envision a world where anyone can access work experience as a form of education – no matter their background, experience, or socio-economic status.  Come join our movement to reshape work, education, and credentialing for future generations with the Externship.\r\n\r\nExtern was born out of a pivot from Paragon One (W17) which initially focused on providing students with a career center-as-a-service platform, connecting them with industry professionals to receive career coaching and guidance.  Backed by Y Combinator, Foundation Capital, Launch Fund, University Ventures, and Learn Capital.",
+    "one_liner": "Professional Experience Anytime, Anywhere.",
+    "team_size": 30,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Job and Career Services",
+    "launched_at": 1478145033,
+    "tags": [
+      "Education",
+      "Marketplace",
+      "eLearning",
+      "Recruiting",
+      "Remote Work"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2017",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Job and Career Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/extern",
+    "api": "https://yc-oss.github.io/api/batches/winter-2017/extern.json"
+  },
+  {
     "id": 1464,
     "name": "Ledger Investing",
     "slug": "ledger-investing",
@@ -22531,6 +22578,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/lago.json"
   },
   {
+    "id": 24158,
+    "name": "Forage",
+    "slug": "forage-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23991b3eac1d06368b01c2f9ce5b893ba315f039.png",
+    "website": "http://www.joinforage.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Forage is a mission-driven payments company that helps businesses accept government benefits through a single, unified API. Today, over 42 million Americans receive government assistance (ex: Supplemental Nutrition Assistance Program, or SNAP) to buy groceries. Starting with enabling EBT SNAP online, Forage builds the financial infrastructure empowering businesses to serve these shoppers online.",
+    "one_liner": "Payments infrastructure for government benefits",
+    "team_size": 43,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1624983119,
+    "tags": [
+      "Fintech",
+      "GovTech",
+      "Payments"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/forage-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/forage-2.json"
+  },
+  {
     "id": 24159,
     "name": "Patterns",
     "slug": "patterns",
@@ -30800,10 +30890,10 @@
       "Visafrog",
       "visafrog"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734f23fb33f80da65ce064600fa3a268c7331e2b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fbe2f8faf8c91d41cd8099b3a53511fa45c4635.png",
     "website": "https://codecrafters.io",
     "all_locations": "Remote",
-    "long_description": "Build your own Git, Docker, Redis, SQLite — in Go, Rust, Python, etc.",
+    "long_description": "Build your own Git, Redis, SQLite — in Go, Rust, Python, etc.",
     "one_liner": "Programming courses for experienced engineers",
     "team_size": 10,
     "industry": "Consumer",
@@ -31823,48 +31913,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aviaryai",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/aviaryai.json"
-  },
-  {
-    "id": 26898,
-    "name": "Diversion",
-    "slug": "diversion",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cca9dfc5d45583f86876ecd0b8110e7412ab6cd.png",
-    "website": "https://diversion.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Diversion is a modern alternative to Perforce and Git, designed for digital entertainment industries like games, virtual production, animation, and 3D/VR. It streamlines collaboration by providing GitHub-like version control for large files and complex projects, integrating seamlessly with tools like Unreal Engine. Built for studios handling massive assets, Diversion ensures efficient workflows, secure storage, and effortless tracking of project history, making it the go-to platform for creative teams managing evolving digital content.",
-    "one_liner": "A scalable, cloud-native Perforce and Git alternative",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1660930915,
-    "tags": [
-      "SaaS",
-      "Virtual Reality",
-      "Enterprise",
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/diversion",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/diversion.json"
   },
   {
     "id": 26912,
@@ -34196,6 +34244,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hammr",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/hammr.json"
+  },
+  {
+    "id": 27728,
+    "name": "Nango",
+    "slug": "nango",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c91c467d6826fc9888627093516dbe795e1a6f.png",
+    "website": "https://nango.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Customers expect your SaaS to integrate with all the software they use.\r\n\r\nWith Nango, you ship integrations your customers love, fast.\r\n\r\nLeverage hundreds of pre-built integrations and unlimited customization.",
+    "one_liner": "A single API for all your integrations",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1669371609,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nango",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/nango.json"
   },
   {
     "id": 27735,
@@ -36731,11 +36823,11 @@
       "Escape - GraphQL Security",
       "Escape - Modern Application Security"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f2dd64a7e6eed13a24457daafdaa5723f661a7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0210bbcb75b7ba7c4519705bd24c324666b9538b.png",
     "website": "https://escape.tech",
     "all_locations": "New York, NY, USA",
-    "long_description": "Escape fits right into your modern stack and helps teams secure modern applications— Document all your APIs & front-end applications in minutes and discover vulnerabilities even at a business logic level with our proprietary AI-powered algorithm. ",
-    "one_liner": "The only DAST that works with modern stack and tests business logic",
+    "long_description": "Replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows.",
+    "one_liner": "Offensive security for the teams that are 100x outnumbered",
     "team_size": 29,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -37584,9 +37676,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1688401921,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -37603,7 +37695,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38437,6 +38529,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/subsets",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/subsets.json"
+  },
+  {
+    "id": 28841,
+    "name": "Baud Labs",
+    "slug": "baud-labs",
+    "former_names": [
+      "Neuralyze",
+      "Cerelyze",
+      "Zener",
+      "Front",
+      "Zener",
+      "SuperCraft",
+      "Ponder",
+      "SuperCraft"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea89d0878c367c79b3a58c19eb1323a648e3f38.png",
+    "website": "https://baudlabs.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Baud Labs is making AI inference instantaneous to the point that long reasoning sessions happen in milliseconds instead of minutes.\r\n\r\nWe are starting with vision language models first.",
+    "one_liner": "Making AI models reason instantaneously",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1688534176,
+    "tags": [
+      "Hard Tech",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/baud-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/baud-labs.json"
   },
   {
     "id": 28842,
@@ -44064,7 +44205,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -47672,47 +47813,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/plume.json"
   },
   {
-    "id": 29702,
-    "name": "LedgerUp",
-    "slug": "ledgerup",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7300af84eef84e88a5fc2a972bbf576cb517a4cb.png",
-    "website": "https://ledgerup.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "LedgerUp is your AI billing teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics, allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your billing for you.",
-    "one_liner": "AI agents that handles complex billing and revenue",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1722618064,
-    "tags": [
-      "Finance",
-      "Billing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ledgerup",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/ledgerup.json"
-  },
-  {
     "id": 29705,
     "name": "Lighthouz AI",
     "slug": "lighthouz-ai",
@@ -48015,8 +48115,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
     "website": "https://overstandlabs.com",
     "all_locations": "",
-    "long_description": "Overstand is an on-demand data and insights team for customer communications. We unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
-    "one_liner": "We help companies find and leverage the needles in their data haystack",
+    "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\nFor enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nFor legal firms, we help them move through their discovery dumps with ease.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
+    "one_liner": "Navigate any set of data - no matter how large - in minutes.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -56587,6 +56687,42 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fifth-door.json"
   },
   {
+    "id": 30582,
+    "name": "Pingo AI",
+    "slug": "pingo-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c01715a01a6f73433d324a587d34bafc2adf824.png",
+    "website": "https://pingo.ai",
+    "all_locations": "",
+    "long_description": "Pingo AI is an AI language learning app that helps users build fluency through speaking. It immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo — a companion who understands your goals, remembers your progress, and keeps you motivated.",
+    "one_liner": "AI companion that helps you learn languages",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1753741789,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pingo-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pingo-ai.json"
+  },
+  {
     "id": 30591,
     "name": "Autonomous Technologies Group",
     "slug": "autonomous-technologies-group",
@@ -59108,7 +59244,7 @@
     "name": "Luminal",
     "slug": "luminal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a913a7346d718d968cd73ae55003ff70433afe98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200fe1fa3e40bd9aed419582490f17ed6cf00c37.png",
     "website": "https://luminal.com",
     "all_locations": "",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
@@ -59119,9 +59255,9 @@
     "launched_at": 1752295982,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59411,15 +59547,15 @@
     "all_locations": "",
     "long_description": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders.\r\n\r\n⚙️ Automates QA/QC across mechanical, electrical, structural and more\r\n🧩 Used by multi-disciplinary design firms to deliver projects faster with less risk\r\n🚀 Mission: Free engineers to focus on creative design, not repetitive admin",
     "one_liner": "AI workforce for Construction Engineering",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1759212406,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "Construction",
-      "Architecture"
+      "Architecture",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60889,8 +61025,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1772054441,
     "tags": [
+      "Artificial Intelligence",
+      "Fintech",
       "Finance",
-      "B2B"
+      "B2B",
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,

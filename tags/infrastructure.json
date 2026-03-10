@@ -3519,52 +3519,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/playgent.json"
   },
   {
-    "id": 30628,
-    "name": "datafruit",
-    "slug": "datafruit",
-    "former_names": [
-      "Lychee",
-      "DataFruit",
-      "datafruit",
-      "Datafruit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
-    "website": "https://datafruit.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack. \r\n\r\nReach out to us: founders@datafruit.dev",
-    "one_liner": "AI DevOps Engineer",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1755048308,
-    "tags": [
-      "DevOps",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/datafruit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
-  },
-  {
     "id": 30649,
     "name": "Lilac",
     "slug": "lilac",
@@ -3606,6 +3560,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lilac",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lilac.json"
+  },
+  {
+    "id": 30660,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "former_names": [
+      "Magnitude",
+      "Sidekick",
+      "Sagekit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c6e6b106f7e5cbaf44508142f95fc7935454466.png",
+    "website": "https://magnitude.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most coding agents are one long conversation that compacts and loses context. Magnitude is a multi-agent system that stays sharp over long horizon tasks. Install: npm i -g @magnitudedev/magnitude",
+    "one_liner": "Open source AI coding agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
   },
   {
     "id": 30662,
@@ -4605,8 +4606,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in any domain. We're building world generation models and environment factories to automate and align the creation of RL environments, with humans in the loop. This decreases the dependency of human data in environment generation, allowing for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
-    "one_liner": "Training grounds for AI agents",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform economically valuable work. We're building world generation models and environment factories to automate and align the creation of environments, with humans in the loop. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Worlds for training & evaluating AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4698,11 +4699,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772525778,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

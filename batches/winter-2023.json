@@ -2363,7 +2363,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -8776,23 +8776,24 @@
   },
   {
     "id": 28072,
-    "name": "Holacasa",
-    "slug": "holacasa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc19f43b45570416927b1af2d9854ae283c9ca39.png",
-    "website": "https://www.holacasa.mx/",
+    "name": "Helios",
+    "slug": "helios",
+    "former_names": [
+      "Holacasa"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a19c2e4abf0702ea3bce9c8e6b7cffbae37f7d2.png",
+    "website": "https://www.usehelios.ai/",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Holacasa helps real estate brokers with a end-end mortgage solutions to offers the customers, having instant quote, pre-qualify and apply to their mortgage fast and simple with a white-label solution, and Real Estate companies to have dashboards, real time status and a raking of their potential leads.",
-    "one_liner": "End-to-end mortgage solution in LatAm",
-    "team_size": 1,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "long_description": "Helios builds AI-powered digital workers that automate B2B operations for companies.",
+    "one_liner": "Create your AI workforce",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1671041398,
     "tags": [
-      "Fintech",
       "SaaS",
       "B2B",
-      "Proptech"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8801,22 +8802,19 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
+      "B2B"
     ],
     "regions": [
       "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/holacasa",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/holacasa.json"
+    "url": "https://www.ycombinator.com/companies/helios",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/helios.json"
   },
   {
     "id": 28073,
@@ -10986,11 +10984,11 @@
       "Escape - GraphQL Security",
       "Escape - Modern Application Security"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f2dd64a7e6eed13a24457daafdaa5723f661a7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0210bbcb75b7ba7c4519705bd24c324666b9538b.png",
     "website": "https://escape.tech",
     "all_locations": "New York, NY, USA",
-    "long_description": "Escape fits right into your modern stack and helps teams secure modern applications— Document all your APIs & front-end applications in minutes and discover vulnerabilities even at a business logic level with our proprietary AI-powered algorithm. ",
-    "one_liner": "The only DAST that works with modern stack and tests business logic",
+    "long_description": "Replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows.",
+    "one_liner": "Offensive security for the teams that are 100x outnumbered",
     "team_size": 29,
     "industry": "B2B",
     "subindustry": "B2B -> Security",

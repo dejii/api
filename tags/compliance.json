@@ -2287,7 +2287,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3273,6 +3273,95 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
   },
   {
+    "id": 31066,
+    "name": "Payna",
+    "slug": "payna",
+    "former_names": [
+      "Paena"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
+    "website": "",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Crypto/fintech compliance simplified.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1772054441,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "B2B",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/payna",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
+  },
+  {
+    "id": 31102,
+    "name": "noetic",
+    "slug": "noetic",
+    "former_names": [
+      "Human Oracle",
+      "noetic",
+      "Fable"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dba387168963852908436d537a074d4e2c1ba833.png",
+    "website": "https://getnoetic.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Noetic handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Noetic’s AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
+    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773017725,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/noetic",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/noetic.json"
+  },
+  {
     "id": 31187,
     "name": "Fenrock AI",
     "slug": "fenrock-ai",
@@ -3285,8 +3374,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Specialized AI agents for banks to 10x back office functions such as underwriting, compliance, fraud, and customer complaints.\r\n\r\nWith Fenrock AI, banks can:\r\n\r\n💰 Make a lot more money by processing loans in minutes, not months.  \r\n🤩  Offer a stellar customer experience by resolving complaints in seconds.  \r\n💪 Investigate 10X fraud and money-laundering cases with bulletproof audit logs, and pass every regulatory exam. ",
-    "one_liner": "The most powerful AI agents for back office at banks",
+    "long_description": "Specialized AI agents for banks to 10x back office functions.\r\n\r\n💰 Make a lot more money by processing loans in minutes, not months.  \r\n🤩  Offer stellar customer experiences by resolving complaints in seconds.  \r\n💪 Investigate 10X fraud and money-laundering cases with bulletproof audit logs, and pass every regulatory exam. ",
+    "one_liner": "The most powerful AI agents for back office at banks ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",

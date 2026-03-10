@@ -33622,7 +33622,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -35867,7 +35867,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -37681,23 +37681,24 @@
   },
   {
     "id": 28072,
-    "name": "Holacasa",
-    "slug": "holacasa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc19f43b45570416927b1af2d9854ae283c9ca39.png",
-    "website": "https://www.holacasa.mx/",
+    "name": "Helios",
+    "slug": "helios",
+    "former_names": [
+      "Holacasa"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a19c2e4abf0702ea3bce9c8e6b7cffbae37f7d2.png",
+    "website": "https://www.usehelios.ai/",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Holacasa helps real estate brokers with a end-end mortgage solutions to offers the customers, having instant quote, pre-qualify and apply to their mortgage fast and simple with a white-label solution, and Real Estate companies to have dashboards, real time status and a raking of their potential leads.",
-    "one_liner": "End-to-end mortgage solution in LatAm",
-    "team_size": 1,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "long_description": "Helios builds AI-powered digital workers that automate B2B operations for companies.",
+    "one_liner": "Create your AI workforce",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1671041398,
     "tags": [
-      "Fintech",
       "SaaS",
       "B2B",
-      "Proptech"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37706,22 +37707,19 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
+      "B2B"
     ],
     "regions": [
       "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/holacasa",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/holacasa.json"
+    "url": "https://www.ycombinator.com/companies/helios",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/helios.json"
   },
   {
     "id": 28074,
@@ -39088,9 +39086,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1688401921,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -39107,7 +39105,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41772,7 +41770,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44587,7 +44585,7 @@
     "name": "CTGT",
     "slug": "ctgt",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bcc702434416a96306d0394fd2a0226a38a87e98.png",
     "website": "https://www.ctgt.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprises are paralyzed by the risks of deploying generative AI. Traditional methods like RAG and fine-tuning are brittle, expensive, and fail to prevent costly hallucinations or guarantee compliance in high-stakes environments. This lack of trust stalls innovation and blocks ROI.\r\n\r\nCTGT ensures strict, auditable adherence to your policies on the fly. We deliver defensible audit trails and remediate noncompliant model behavior, so outputs become more aligned with company policies over time, combating data and model drift.\r\n\r\nCTGT is backed by Google's AI fund (Gradient), General Catalyst, and luminaries like Paul Graham. We provide the control and confidence necessary to unlock the full potential of enterprise AI.",
@@ -44597,11 +44595,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730040950,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Finance",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47302,52 +47300,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/proliferate.json"
   },
   {
-    "id": 30660,
-    "name": "Sagekit",
-    "slug": "sagekit",
-    "former_names": [
-      "Magnitude",
-      "Sidekick"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172ef6eb2756c4075d4f6b5ef99859af63b4926b.png",
-    "website": "https://sagekit.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sagekit is the AI workspace for research and writing. Work side by side with AI as ideas and research become real, lasting documents.",
-    "one_liner": "AI workspace for research and writing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1751905744,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Productivity",
-      "Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagekit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/sagekit.json"
-  },
-  {
     "id": 30661,
     "name": "Stockline",
     "slug": "stockline",
@@ -49626,8 +49578,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships. It continuously monitors the SaaS ecosystem to identify high-impact revenue opportunities across integrations, distribution, co-marketing, and technology alliances.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond discovery, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
-    "one_liner": "AI native platform to find, track, and grow revenue from partnerships",
+    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic regression models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond discovery, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
+    "one_liner": "ROI attribution to scale ecosystem driven growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49963,10 +49915,10 @@
       "Supaframe",
       "Creative Agent Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aac76dee0327c5cb2c65651f17b9930ac8eb3c1e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18022eca0289ec27600e4e7461ba17298b397ffa.png",
     "website": "https://try.wideframe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Wideframe is an AI coworker for video editors. It helps them ship more videos by preparing footage for editing like an Assistant Editor.\r\n\r\nWhy is this important? Well, it turns out that editors spend 3x more time preparing footage than actually editing.\r\n\r\nOne agency said we will save their editors 10 hours per week. Another organized an entire documentary worth of footage in hours rather than weeks. He had 2,500+ videos, 500+ audio clips, across >2.5 TB of files and our agent handled them effortlessly.\r\n\r\nUsers link footage to Wideframe and then our Agent acts like an Assistant Editor to handle work like searching, labeling, organizing, and sequencing footage. Wideframe works with footage across local filesystems and cloud providers. We also supports Adobe Premiere Pro (.prproj) roundtrip. Our robust integrations are important so that Wideframe can work with source footage all the way through to delivering Premiere Pro projects to editors.",
+    "long_description": "Wideframe is an AI coworker for video editors. It automates the searching, labeling, organizing, and sequencing of footage so editors can ship videos faster.\r\n\r\nWhy is this important? Well, it turns out that editors spend 3x more time preparing footage than actually editing.\r\n\r\nOne agency said we will save their editors 10 hours per week. Another organized an entire documentary worth of footage in hours rather than weeks. He had 2,500+ videos, 500+ audio clips, across >2.5 TB of files and our agent handled them effortlessly.\r\n\r\nUsers link footage to Wideframe and then our Agent acts like an Assistant Editor to handle work like searching, labeling, organizing, and sequencing footage. Wideframe works with footage across local filesystems and cloud providers. We also supports Adobe Premiere Pro (.prproj) roundtrip. Our robust integrations are important so that Wideframe can work with source footage all the way through to delivering Premiere Pro projects to editors.",
     "one_liner": "AI coworker for video editors",
     "team_size": 2,
     "industry": "B2B",
@@ -50036,5 +49988,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arga-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
+  },
+  {
+    "id": 31511,
+    "name": "Arzana",
+    "slug": "arzana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "website": "https://arzana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
+    "one_liner": "AI automation for the manufacturing office",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1773098013,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arzana",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   }
 ]
