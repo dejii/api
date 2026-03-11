@@ -633,17 +633,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dedalus Labs is building Vercel for AI Agents. We host MCP servers on our cloud and handle the boring stuff like autoscaling and load balancing so users can go from idea to production in a single click. Our OpenAI-compatible SDK lets users orchestrate complex agentic workflows through one clean API. Route between any LLM provider, connect any MCP tools from our hosted marketplace, and ship in minutes.",
-    "one_liner": "Connect any LLM to any MCP tools and create complex agents in minutes.",
-    "team_size": 9,
+    "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
+    "one_liner": "Connect any model(s) to any tool(s) and ship hosted agents in minutes.",
+    "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -652,7 +652,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -3621,8 +3622,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cbae55e86532c01c20d7392309f9280f190548.png",
     "website": "https://www.normalfactory.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Developing infrastructure to make robots useful in the real world",
-    "one_liner": "Deploying and integrating useful robots",
+    "long_description": "Testing and certifying the hardware of the future",
+    "one_liner": "Testing and certifying the hardware of the future",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -4697,16 +4698,19 @@
     "former_names": [
       "Lucid Spring"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0807345a48d245ca353b1ea731baf819bacfeb81.png",
     "website": "https://www.palace.so",
-    "all_locations": "",
-    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
-    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, commercial trucking fleets make planning and dispatch decisions on gut feel and legacy tooling. Palace lets planning and dispatch teams unify their driver, operations, and freight data so they can optimize their load plans in less time.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms that power Amazon’s distribution centers.",
+    "one_liner": "Palace lets commercial truck fleet optimize load plans in less time",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755096535,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4718,7 +4722,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

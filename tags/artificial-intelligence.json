@@ -17479,7 +17479,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24472,6 +24472,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/voxops-ai.json"
   },
   {
+    "id": 29498,
+    "name": "Integuru",
+    "slug": "integuru",
+    "former_names": [
+      "Taiki"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
+    "website": "https://www.integuru.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Integuru turns any website into a reliable, real-time, low-latency, and high-volume API. No RPA involved. We specialize in delivering the most robust integrations, processing millions of API calls monthly at 99.99%+ success rate.",
+    "one_liner": "Generate the most robust APIs with any website",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1709153976,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "API",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/integuru",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/integuru.json"
+  },
+  {
     "id": 29507,
     "name": "kater.ai",
     "slug": "kater-ai",
@@ -25365,8 +25410,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41aabc8daca51e7697f6edfa19e6601f54841485.png",
     "website": "https://www.decisional.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your spreadsheet operations, automated. Decisional deploys AI reasoning agents directly into your existing spreadsheets to handle complex long running workflows like quote generation, data extraction, invoicing, and collections at scale without the rigidity of no code tools.",
-    "one_liner": "Autonomous AI agents for spreadsheet based operations",
+    "long_description": "Decisional is the fastest way to build self healing automation agents that work with the apps you use.\r\nYou just ask for an agent in natural language, it builds and tests its own workflow that it runs constantly in the background.\r\n",
+    "one_liner": "Self healing automation agents that run in the background.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -26454,6 +26499,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontra-mobility",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ontra-mobility.json"
+  },
+  {
+    "id": 29727,
+    "name": "Overstand Labs",
+    "slug": "overstand-labs",
+    "former_names": [
+      "Overstand Labs",
+      "Overstand Labs Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
+    "website": "https://overstandlabs.com",
+    "all_locations": "",
+    "long_description": "Overstand is a data lab that allows our customers to navigate any set of data in just a few minutes.\r\n\r\n*Enterprise*: For enterprises, we we unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\n*Legal Firms*: For legal firms, we help them really quickly understand their entire discovery corpus (either before, or after document review), and quickly build out an initial case assessment and facts.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
+    "one_liner": "Navigate any set of data - no matter how large - in minutes.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1724369845,
+    "tags": [
+      "Artificial Intelligence",
+      "LegalTech",
+      "Data Science",
+      "Data Engineering",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overstand-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/overstand-labs.json"
   },
   {
     "id": 29729,
@@ -27859,53 +27949,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/quetzal.json"
   },
   {
-    "id": 29835,
-    "name": "Voker",
-    "slug": "voker",
-    "former_names": [
-      "Invoke AI",
-      "Invoke Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e097d283f408c0a5e7db6a2bef1bf267b298465c.png",
-    "website": "https://voker.ai",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Voker is the Agent Analytics Platform for monitoring and improving your AI agents. Companies like Dutch.com use our SDK to build better AI.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.",
-    "one_liner": "The Agent Analytics Platform",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722887304,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Analytics",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voker",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/voker.json"
-  },
-  {
     "id": 29844,
     "name": "Oway",
     "slug": "oway",
@@ -28120,6 +28163,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pipeshift.json"
   },
   {
+    "id": 29957,
+    "name": "Anglera",
+    "slug": "anglera",
+    "former_names": [
+      "Angler"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2dfb2adf611e11737fa14a1b9b4be581858cfc3.png",
+    "website": "https://www.anglera.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
+    "one_liner": "AI-Powered Product Data Enrichment",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1719875304,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anglera",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/anglera.json"
+  },
+  {
     "id": 29960,
     "name": "Void",
     "slug": "void",
@@ -28230,7 +28318,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -28974,7 +29062,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -30558,7 +30646,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/756ce7de62795d0a5985463eaff07dec98a3a6d4.png",
     "website": "https://www.getswerve.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Swerve is an AI character chat app that immerses users in rich stories and conversations. Users discover unique AI characters, choose their own persona, and dive into one-on-one or group chats that evolve naturally with no scripts and no limits. Our goal is to make Swerve the most entertaining part of your phone, a place where you step into any world, build stories with characters you connect with, and let every conversation go wherever it leads.",
     "one_liner": "Chat with AI Characters",
     "team_size": 2,
     "industry": "Consumer",
@@ -31065,6 +31153,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mundo-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mundo-ai.json"
+  },
+  {
+    "id": 30272,
+    "name": "Lucidic AI",
+    "slug": "lucidic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
+    "website": "https://lucidic.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
+    "one_liner": "AI Agent Training via Simulations",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736904770,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucidic-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/lucidic-ai.json"
   },
   {
     "id": 30273,
@@ -33791,6 +33921,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/closera.json"
   },
   {
+    "id": 30605,
+    "name": "Dedalus Labs",
+    "slug": "dedalus-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png",
+    "website": "https://www.dedaluslabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
+    "one_liner": "Connect any model(s) to any tool(s) and ship hosted agents in minutes.",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1756399069,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Workflow Automation",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dedalus-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/dedalus-labs.json"
+  },
+  {
     "id": 30608,
     "name": "MangoDesk",
     "slug": "mangodesk",
@@ -34905,8 +35077,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cbae55e86532c01c20d7392309f9280f190548.png",
     "website": "https://www.normalfactory.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Developing infrastructure to make robots useful in the real world",
-    "one_liner": "Deploying and integrating useful robots",
+    "long_description": "Testing and certifying the hardware of the future",
+    "one_liner": "Testing and certifying the hardware of the future",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -35355,6 +35527,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/floot",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
+  },
+  {
+    "id": 30731,
+    "name": "Palace",
+    "slug": "palace",
+    "former_names": [
+      "Lucid Spring"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0807345a48d245ca353b1ea731baf819bacfeb81.png",
+    "website": "https://www.palace.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today, commercial trucking fleets make planning and dispatch decisions on gut feel and legacy tooling. Palace lets planning and dispatch teams unify their driver, operations, and freight data so they can optimize their load plans in less time.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms that power Amazon’s distribution centers.",
+    "one_liner": "Palace lets commercial truck fleet optimize load plans in less time",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1755096535,
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palace",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
   },
   {
     "id": 30732,
@@ -36831,6 +37045,7 @@
     "tags": [
       "Artificial Intelligence",
       "Real Estate",
+      "B2B",
       "AI"
     ],
     "tags_highlighted": [],
@@ -37112,47 +37327,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compyle",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
-  },
-  {
-    "id": 30927,
-    "name": "Oxus",
-    "slug": "oxus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ece043321e153a7271fa8a0ce88ad2f409b18fe3.png",
-    "website": "https://oxus-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oxus automates internal audits for pre-IPO and public companies using AI. We turn hours of manual scoping, documentation, and control testing into review-ready outputs generated within minutes.\r\n \r\nWith Oxus, audit teams deliver more audits, faster.",
-    "one_liner": "AI-powered automation for internal audit workflows",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765688555,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Compliance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oxus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/oxus.json"
   },
   {
     "id": 30928,
@@ -39825,50 +39999,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
   },
   {
-    "id": 31192,
-    "name": "Approxima",
-    "slug": "approxima",
-    "former_names": [
-      "Sidekit",
-      "SideKit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6e6d183a6369dfc8a86aad778e45ad07d16406f.png",
-    "website": "https://approxima.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Human-assisted development should be for novel ideation, not routine maintenance, bug fixes or incremental updates. Approxima is bringing you that future with agents that can scope work, code, validate their fixes end-to-end in sandbox environments and merge to production. Book a demo: https://calendly.com/ashish-selvaraj/approxima",
-    "one_liner": "Your software should build itself.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1767593677,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/approxima",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
-  },
-  {
     "id": 31195,
     "name": "Reframe",
     "slug": "usereframe",
@@ -39952,47 +40082,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/emdash",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/emdash.json"
-  },
-  {
-    "id": 31200,
-    "name": "Ressl AI",
-    "slug": "ressl-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
-    "website": "https://ressl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI employees for home services and trades businesses. We automate the back office so field crews can focus on the actual work.\r\n\r\nTrades businesses (HVAC, plumbing, electrical, collision repair, roofing) run on legacy software and \"glue\" employees: people whose entire job is clicking through systems, copy-pasting between tools, and managing inbound volume across channels. A collision shop has one person generating estimates in CCCOne, another chasing parts vendors, another answering calls and Yelp messages, another doing invoices in QuickBooks. None of that requires a human.\r\n\r\nWe build proactive background agents that run these operations autonomously -- quoting, estimating, procurement, insurance coordination, scheduling, follow-ups -- on top of the software these businesses already own. \r\n\r\nWe started as an AI consulting firm talking to businesses across every industry. After a month, the pattern was obvious - trades and field services had the most \"glue work\" and the least tech sophistication to solve it themselves. Every shop we walked into had 2–4 people doing work that software should be delivering as an outcome, not just enabling.\r\n\r\nOur GTM is direct to operators and through PE-backed roll-ups, who are actively looking for margin improvements across their portfolio companies. If this is of interest, please reach out arushi@ressl.ai",
-    "one_liner": "AI Transformation for the Trades",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765975223,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Home Services",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ressl-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
     "id": 31205,
@@ -40673,6 +40762,89 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/canary",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/canary.json"
+  },
+  {
+    "id": 31264,
+    "name": "Vela",
+    "slug": "vela",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
+    "website": "https://tryvela.ai/ps",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building Vela, the AI scheduling assistant for the most complex interactions. Everyone assumes scheduling is a calendaring problem. It's not. It's a human nuance problem: knowing who to prioritize, how hard to push, and which dynamics to navigate. Vela understands these nuances, and every interaction deepens that understanding.\r\n\r\nInstead of manually calling, texting, and emailing hundreds of candidates across spreadsheets, today teams connect their system of record to Vela and it handles outreach, scheduling, and confirmation automatically with the nuances of industries and teams built in.\r\n\r\nGobhanu and Saatvik are brothers who scaled a microfinance bank to 77 countries as kids. We previously built at AWS ML + SuperCompute and BCG AI.",
+    "one_liner": " AI Scheduling Assistant for the Most Complex Interactions",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770142827,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Recruiting",
+      "Calendar",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vela",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
+  },
+  {
+    "id": 31271,
+    "name": "VOYGR",
+    "slug": "voygr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0f0bf8a667e6a150380872419b6209ced7f1423.png",
+    "website": "https://voygr.tech",
+    "all_locations": "",
+    "long_description": "VOYGR is a better maps API every agent and AI app will need. Google says '4.2 stars, open till 10 – VOYGR knows the chef left, wait times doubled, and locals moved on. Our intelligent local search combines accurate place data with fresh web context – news, articles, and events. We expand beyond 10-15 map attributes into infinite, queryable place profiles, enabling agents to reason and act in the real world.\r\n\r\nMaps are no longer browsed – LLMs/agents use them to reason and act. 20M+ apps/websites, up to 40% of search queries, and 20% of LLM prompts need local context. \r\n10-15 attributes per place are not enough for AI. Places change constantly - restaurants close, hours change, businesses move. LLMs struggle with semantic queries “Specialty coffee shops in SF with Wi-Fi, popular with YC founders”. Agents cannot reliably “parse half the internet” - they need real-world ontology\r\n\r\nWe’re experienced builders in maps, search, and ML to solve this. Vlad knows this space inside and out – he worked on the Google Maps APIs GTM, plus firsthand customer experience from building in ridesharing and travel. Yarik has spent over a decade leading ML/search teams at Apple, Google, and Meta. \r\n\r\nGoogle Places alone is a $XXB/Yr monopoly. Agents turn it into a transactional layer opportunity for local commerce and ads.",
+    "one_liner": "Real-world place intelligence for AI apps and agents",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769793909,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Geographic Information System",
+      "API",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voygr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/voygr.json"
   },
   {
     "id": 31274,

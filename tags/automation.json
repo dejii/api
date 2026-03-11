@@ -2106,18 +2106,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru turns any website into a reliable, real-time, and low-latency API. No RPA required. Our services include authentication management and integration maintenance.",
-    "one_liner": "Integrate with any website via network requests",
+    "long_description": "Integuru turns any website into a reliable, real-time, low-latency, and high-volume API. No RPA involved. We specialize in delivering the most robust integrations, processing millions of API calls monthly at 99.99%+ success rate.",
+    "one_liner": "Generate the most robust APIs with any website",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709153976,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2327,8 +2327,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41aabc8daca51e7697f6edfa19e6601f54841485.png",
     "website": "https://www.decisional.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Your spreadsheet operations, automated. Decisional deploys AI reasoning agents directly into your existing spreadsheets to handle complex long running workflows like quote generation, data extraction, invoicing, and collections at scale without the rigidity of no code tools.",
-    "one_liner": "Autonomous AI agents for spreadsheet based operations",
+    "long_description": "Decisional is the fastest way to build self healing automation agents that work with the apps you use.\r\nYou just ask for an agent in natural language, it builds and tests its own workflow that it runs constantly in the background.\r\n",
+    "one_liner": "Self healing automation agents that run in the background.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2948,16 +2948,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
     "one_liner": "AI Agent Training via Simulations",
-    "team_size": 4,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3740,5 +3740,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carrot-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
+  },
+  {
+    "id": 31329,
+    "name": "primitive",
+    "slug": "primitive",
+    "former_names": [
+      "MyMX"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68d79963abcea30afcb5624fb54adb42544a50ed.png",
+    "website": "https://primitive.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building the communication infrastructure needed for fully autonomous agents",
+    "one_liner": "Communication for agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773121787,
+    "tags": [
+      "Developer Tools",
+      "Automation",
+      "Email",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/primitive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
   }
 ]
