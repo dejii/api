@@ -2986,9 +2986,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1deabbfcad920bb32556ad82eec40dd53ecb4f4.png",
     "website": "https://www.legalist.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Asset management firm that specializes in esoteric private credit assets in litigation and bankruptcy",
-    "one_liner": "Tech-enabled asset management firm",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Investment firm specializing in alternative investments involving legal and regulatory risk. ",
+    "one_liner": "Legal investment firm",
     "team_size": 40,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
@@ -3011,7 +3011,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11340,7 +11340,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12902,53 +12902,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/akudo",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/akudo.json"
-  },
-  {
-    "id": 24135,
-    "name": "Sleek",
-    "slug": "sleek",
-    "former_names": [
-      "Avery",
-      "HeyAvery",
-      "TBA"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d66df5c1e4eac0579c54f345375ef14714c7b02b.png",
-    "website": "https://www.onsleek.com/",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "Sleek provides B2C businesses with a custom browser extension that works on both mobile and desktop. With the extension, you can:\r\n- Auto-complete checkout for users with an Apple-pay-like experience tied specifically to your brand.\r\n- Offer Honey-like couponing to help your users save money.\r\n- Grant users extra cashback at 1000's of online stores, funded by Sleek.\r\n\r\nYour users spend time and money in the browser. With Sleek, you can be there for them.",
-    "one_liner": "1-click checkout from every store on the internet + cashback rewards.",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1629234147,
-    "tags": [
-      "Fintech",
-      "Machine Learning",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Acquired",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sleek",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/sleek.json"
   },
   {
     "id": 24143,
@@ -20415,7 +20368,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -26366,9 +26319,10 @@
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Crypto / Web3"
+      "Crypto / Web3",
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"

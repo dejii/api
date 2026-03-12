@@ -221,8 +221,8 @@
     "subindustry": "Consumer",
     "launched_at": 1740162817,
     "tags": [
-      "Artificial Intelligence",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2415,16 +2415,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building RL environments for coding and computer use. ",
     "one_liner": "Evals and environments for computer use and software engineering work",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Recruiting",
       "Market Research",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3969,47 +3969,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json"
   },
   {
-    "id": 30504,
-    "name": "Third Chair",
-    "slug": "third-chair",
-    "former_names": [
-      "Watchdog AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18cebff9bcd74859dde2e614ddfdcdaf32c2ffb3.png",
-    "website": "https://usethirdchair.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Third Chair automates complex legal workflows at scale, supported by an on-demand network of top lawyers to step in when you need them.\r\n\r\nWe’ve started with revenue-generating workflows like IP enforcement, giving media companies visibility into who’s using their content and helping them turn unauthorized ads into a predictable income stream.\r\n\r\n The biggest media and entertainment companies in the world rely on Third Chair to enforce their intellectual property, unlock licensing revenue, and accelerate deal flow. ",
-    "one_liner": "Automating complex legal workflows with human lawyers in the loop.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1748486427,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/third-chair",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/third-chair.json"
-  },
-  {
     "id": 30506,
     "name": "Klavis AI",
     "slug": "klavis-ai",
@@ -4125,7 +4084,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5204,46 +5163,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lumari",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
-  },
-  {
-    "id": 30541,
-    "name": "Code Four",
-    "slug": "code-four",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484fe167f81b504f3783e0d04f12060ec5bf7d11.png",
-    "website": "https://codefour.us/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Code Four slashes the administrative burden on law enforcement through AI-driven automation. Officers spend up to a third of their shifts manually transcribing body camera footage, creating inaccuracies, reducing transparency, and cutting into frontline duties. We're here to eliminate these inefficiencies by integrating with body cameras, record management systems, and digital evidence management systems—acting as a software layer for data processing. \r\n\r\nWe free the most overworked and underappreciated people in the world: police officers.",
-    "one_liner": "Modernizing the police workflow.",
-    "team_size": 3,
-    "industry": "Government",
-    "subindustry": "Government",
-    "launched_at": 1744335489,
-    "tags": [
-      "Artificial Intelligence",
-      "GovTech",
-      "Computer Vision"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/code-four",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
   },
   {
     "id": 30542,

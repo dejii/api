@@ -67,7 +67,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -291,6 +291,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
   },
   {
+    "id": 31421,
+    "name": "Lamina Labs",
+    "slug": "lamina-labs",
+    "former_names": [
+      "Lamina AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fc3965228e864c02ebb264e89eeaeae9b803abb.png",
+    "website": "https://laminalabs.ai",
+    "all_locations": "",
+    "long_description": "We are building the fastest deterministic animation infrastructure for education. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper.",
+    "one_liner": "Fastest deterministic animation infrastructure for EdTech",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773199517,
+    "tags": [
+      "Education",
+      "Video",
+      "Edtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lamina-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/lamina-labs.json"
+  },
+  {
     "id": 31453,
     "name": "Minicor",
     "slug": "minicor",
@@ -340,7 +382,7 @@
     "name": "Datost",
     "slug": "datost",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9389aed646cd08750efe3bb51f6299fcb3e2fdfa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7847f34ece1088e5a00b8771f63e4d68d53fb8.png",
     "website": "https://www.datost.com",
     "all_locations": "",
     "long_description": "The first AI data analyst that has its own computer. It sees and understands your docs, Slack, databases, data lakes, and codebase. Query, debug, and analyze right where your team works.",

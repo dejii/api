@@ -10480,13 +10480,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DeepNight is building the next generation of night vision with AI.",
     "one_liner": "Building The Next Generation of Night Vision Devices",
-    "team_size": 12,
+    "team_size": 13,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1709629638,
     "tags": [
-      "Computer Vision",
-      "AI"
+      "Artificial Intelligence",
+      "Computer Vision"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12866,7 +12866,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14555,7 +14555,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da34d67bc7bfb583fad0d2c587e602fbe787b210.png",
     "website": "https://www.ventura.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ventura is the AI teammate for industrial distributors. Our agents handle quoting, order entry, and back-office work so sales teams can focus on winning deals.",
+    "long_description": "Ventura (YC W26) is building the AI teammate for industrial distributors, starting with quoting. We're live with customers in the building materials supply industry.\r\n\r\nVentura works with your existing ERP and can be trained to learn to execute new processes, like a new teammate.\r\n\r\nCEO Swen previously built and exited a wholesale distribution SaaS.\r\n\r\nCTO Jack was the Founding Engineer at Develop Health (company scaled 0→$7M ARR in 14 months with 5 employees).",
     "one_liner": "AI Teammates for Industrial Distributors",
     "team_size": 2,
     "industry": "Industrials",
@@ -14698,7 +14698,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -14727,15 +14727,15 @@
     "website": "https://congruent.io",
     "all_locations": "",
     "long_description": "At Congruent, we build radars for end-to-end autonomous systems. The most advanced autonomous systems are trained as a single neural network from raw sensor data to navigation actions. For a sensor to be included in these pipelines sensor stacks requires two key properties: access to raw sensor data and a high-fidelity sensor simulator. Current automotive radars have neither, they output heavily processed point clouds and no raw radar simulator exists for driving scenes. Congruent solves both problems: a radar architecture that exposes raw data, paired with a world model based radar simulator. Radar is the only depth sensor at a price point that scales to every car on the road and works in all weather conditions. Congruent is building the radar compatible with the training architectures that will make mass-market vehicles autonomous.",
-    "one_liner": "We build radars for end-to-end autonomy",
+    "one_liner": "AI native radars for self-driving cars",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1771538111,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Radar",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],

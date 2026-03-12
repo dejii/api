@@ -7512,6 +7512,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/beacon-health.json"
   },
   {
+    "id": 31136,
+    "name": "Scheduling Wizard",
+    "slug": "scheduling-wizard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a941d8028fafa95dd706134a19099c733b0726ff.png",
+    "website": "https://www.schedulingwiz.com",
+    "all_locations": "",
+    "long_description": "Scheduling Wizard is building the logistics infrastructure to modernize healthcare operations. Hospitals still rely on manual workflows to manage staffing, patient flow, and core operations, contributing to $760B in annual inefficiency.\r\n\r\n19 departments across 14 hospitals already outsource their physician scheduling to us, powered by our internal Scheduling Programming Language and AI-driven workflows. We work with Mass General, Johns Hopkins, UT Southwestern, and others.\r\n\r\nWe are actively onboarding new clients and expanding into patient triaging and provider management systems, working with partner departments at UCSF and other leading institutions. Scheduling Wizard aims to bring healthcare operations into the future by reducing administrative burden and improving clinical care coordination.",
+    "one_liner": "Logistics infrastructure to modernize healthcare operations",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1773244975,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Scheduling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scheduling-wizard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/scheduling-wizard.json"
+  },
+  {
     "id": 31163,
     "name": "Opalite Health",
     "slug": "opalite-health",
@@ -7609,18 +7649,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
     "website": "https://www.mochacare.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "MochaCare unlocks home care agency growth with human virtual assistants supercharged by AI. We take hiring, scheduling, or both off agencies' plates so they can spend less time drowning in ops and more time building relationships in their communities. \r\n\r\nEverything we do generates data insights that surface growth opportunities, from referral leads to sales enablement during intake calls.",
-    "one_liner": "AI-Supercharged Humans for Home Care Agency Growth",
+    "long_description": "MochaCare manages home care agency operations with AI agents backed by human support. We handle hiring, scheduling, and client intake end-to-end so agencies can grow while keeping humans involved when it matters most. \r\n\r\nWe provide a service because home care agencies want an outcome, not another tool.",
+    "one_liner": "Manage home care agency ops with AI agents backed by human support",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1771654500,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "Home Services",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,

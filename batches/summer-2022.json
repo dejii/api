@@ -5840,26 +5840,27 @@
   },
   {
     "id": 26885,
-    "name": "Mintplex Labs",
-    "slug": "mintplex-labs",
+    "name": "AnythingLLM",
+    "slug": "anythingllm",
     "former_names": [
       "Rampp Labs Inc",
       "Rampp.xyz",
       "MintPlex",
-      "Mintplex"
+      "Mintplex",
+      "Mintplex Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf96ff05ba04df3210e9778e22967b727fde37.png",
-    "website": "https://mintplexlabs.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09de3d530cdabdf26d6739b7f443a35022608a76.png",
+    "website": "https://anythingllm.com",
     "all_locations": "Irvine, CA, USA; Remote",
-    "long_description": "Mintplex Labs builds AnythingLLM, an all-in-one desktop, mobile, and open-source on-device AI application that makes local AI practically useful for the everyday person. From chatting with documents to building complex AI Agentic flows - we do it all. \r\n\r\nAnythingLLM (45K stars) (https://github.com/Mintplex-Labs/anything-llm)",
-    "one_liner": "Building the definitive all-in-one on-device AI tool suite",
-    "team_size": 3,
+    "long_description": "AnythingLLM is an all-in-one desktop, mobile, and open-source on-device AI application that makes local AI practically useful for the everyday person.\r\n\r\nAnythingLLM (56K stars) (https://github.com/Mintplex-Labs/anything-llm)",
+    "one_liner": "Building the definitive all-in-one on-device AI productivity tool",
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1652840561,
     "tags": [
+      "Artificial Intelligence",
       "Open Source",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5882,8 +5883,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mintplex-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/mintplex-labs.json"
+    "url": "https://www.ycombinator.com/companies/anythingllm",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/anythingllm.json"
   },
   {
     "id": 26890,
@@ -9215,7 +9216,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",

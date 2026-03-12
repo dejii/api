@@ -3817,8 +3817,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a0714fa881cb99f3080456e1c76e5b495a45be7.png",
     "website": "https://www.shortkit.dev",
     "all_locations": "",
-    "long_description": "ShortKit empowers consumer teams and publishers with the same best-in-class short-form video technology that powers the most engaging platforms in the world. Our managed SDK & video infrastructure are purpose built for product teams, deeply customizable, and optimized for the encoding and delivery of retentive short-form video experiences.",
-    "one_liner": "We make enterprise-scale short-form video really simple.",
+    "long_description": "ShortKit lets any consumer app or publisher launch TikTok-grade short-form video feeds. Our CTO, Michael, previously built and scaled the video infrastructure behind YouTube Shorts, powering billions of hours of daily playback, now we're making it easy for everyone else. ShortKit handles the full short form video stack — client SDKs, video infrastructure, recommendation systems, and content marketplaces — so that product teams don't have to.",
+    "one_liner": "The SDK for short form video experiences",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3977,5 +3977,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/martini",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/martini.json"
+  },
+  {
+    "id": 31421,
+    "name": "Lamina Labs",
+    "slug": "lamina-labs",
+    "former_names": [
+      "Lamina AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fc3965228e864c02ebb264e89eeaeae9b803abb.png",
+    "website": "https://laminalabs.ai",
+    "all_locations": "",
+    "long_description": "We are building the fastest deterministic animation infrastructure for education. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper.",
+    "one_liner": "Fastest deterministic animation infrastructure for EdTech",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773199517,
+    "tags": [
+      "Education",
+      "Video",
+      "Edtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lamina-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/lamina-labs.json"
   }
 ]

@@ -3731,26 +3731,27 @@
   },
   {
     "id": 26885,
-    "name": "Mintplex Labs",
-    "slug": "mintplex-labs",
+    "name": "AnythingLLM",
+    "slug": "anythingllm",
     "former_names": [
       "Rampp Labs Inc",
       "Rampp.xyz",
       "MintPlex",
-      "Mintplex"
+      "Mintplex",
+      "Mintplex Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf96ff05ba04df3210e9778e22967b727fde37.png",
-    "website": "https://mintplexlabs.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09de3d530cdabdf26d6739b7f443a35022608a76.png",
+    "website": "https://anythingllm.com",
     "all_locations": "Irvine, CA, USA; Remote",
-    "long_description": "Mintplex Labs builds AnythingLLM, an all-in-one desktop, mobile, and open-source on-device AI application that makes local AI practically useful for the everyday person. From chatting with documents to building complex AI Agentic flows - we do it all. \r\n\r\nAnythingLLM (45K stars) (https://github.com/Mintplex-Labs/anything-llm)",
-    "one_liner": "Building the definitive all-in-one on-device AI tool suite",
-    "team_size": 3,
+    "long_description": "AnythingLLM is an all-in-one desktop, mobile, and open-source on-device AI application that makes local AI practically useful for the everyday person.\r\n\r\nAnythingLLM (56K stars) (https://github.com/Mintplex-Labs/anything-llm)",
+    "one_liner": "Building the definitive all-in-one on-device AI productivity tool",
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1652840561,
     "tags": [
+      "Artificial Intelligence",
       "Open Source",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3773,8 +3774,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mintplex-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/mintplex-labs.json"
+    "url": "https://www.ycombinator.com/companies/anythingllm",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/anythingllm.json"
   },
   {
     "id": 27040,
@@ -7123,20 +7124,20 @@
     "name": "stagewise",
     "slug": "stagewise",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77a0945ae8c271b92f411a28c4d7ed11be60ad29.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9ff55657c9c6cb094a914f151062d5bc781a912.png",
     "website": "https://stagewise.io",
     "all_locations": "",
     "long_description": "stagewise builds an open-source frontend coding agent for real codebases. We enable backend devs, designers and product managers to build pretty and functional web apps in a simple and visually guided manner - no matter the used tech stack.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With Glenn's background in building dev tools for enterpries (Rheinmetall, Miele), as well as Julians experience in building web apps used by thousands (saasmetrix, strukto.io), we have the unique blend of experience and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to replace frontend devs completely, by gradually enabling both the backend devs, but also less technical designers and product managers to create well-designed applications. We start with developers who lack design experience, but our ultimate goal is to change how products are built.",
-    "one_liner": "The frontend coding agent for real codebases.",
+    "one_liner": "The coding agent built for the web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751997318,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7255,17 +7256,17 @@
     "website": "https://www.runanywhere.ai/",
     "all_locations": "",
     "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-    "one_liner": "The default way of running On-Device AI at Scale",
+    "one_liner": "The production-grade infrastructure for running AI on every device",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hard Tech",
       "IoT",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
