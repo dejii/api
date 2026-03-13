@@ -17426,19 +17426,19 @@
     "name": "Atomic Industries",
     "slug": "atomic-industries",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f2c7d52a1e7ee5e37927e49b00eec598f4faa0f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad99a50e946cb78af9f253ab66655f1d1e1b158c.png",
     "website": "http://atomic.industries",
     "all_locations": "Detroit, MI, USA",
-    "long_description": "Atomic's mission is to replicate high-skill trade knowledge of tool and die makers into AI that powers new manufacturing systems which are orders of magnitude more productive.",
-    "one_liner": "The world's first AI powered tool and die maker",
-    "team_size": 25,
+    "long_description": "Atomic is a vertically integrated plastics supplier. To offer parts better, cheaper, and faster than anyone on Earth, we became the best mold makers using AI. Our software helps us design and build the best possible mold for each unique geometry, with the goal of moving into production more rapidly than existing supply chains.",
+    "one_liner": "Software orchestrated mass production of plastics",
+    "team_size": 60,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1649630827,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19945,7 +19945,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20667,17 +20667,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f444340e9c64c3d358ff850ab1b009ff8af62d7.png",
     "website": "https://gigs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Gigs, we're building the operating system for mobile services - a platform that enables tech companies to seamlessly embed connectivity into their products.\r\n\r\nJust as Stripe enables businesses to embed a payment button into any product, Gigs enables businesses to add a connect button and issue SIMs with a single click or API call. From fintechs launching mobile services to HRIS platforms offering work phone plans, we automate phone plan provisioning.\r\n\r\nWe're solving complex technical, operational and regulatory challenges to make connectivity truly effortless. We've grown to a team of around 90 people across the US and Europe, bringing together an experienced team of early-stage engineers, product builders and business athletes from companies like Stripe, Airbnb and Shopify. We know what it takes to solve hard problems.\r\n\r\nWith almost $100MM in funding from Ribbit Capital, Google and Y Combinator, Gigs is one of the fastest growing tech companies. Building on our strong foundation, we’re looking for exceptional candidates who want to do the best work of their lives in a high-paced environment, surrounded by a highly talented, ambitious team.\r\n\r\nYou’ll be joining at an exciting inflection point in our company’s history. At sub-100 people and with a year of hyper-growth ahead of us, opportunity is abundant.",
-    "one_liner": "Stripe for phone plans. ",
-    "team_size": 90,
+    "long_description": "Gigs is the leader in embedded connectivity, powering global mobile infrastructure for some of the world’s largest enterprises. By bridging the gap between telecom carriers and modern digital platforms, Gigs enables connectivity for hundreds of millions of people worldwide. Gigs is backed by Ribbit Capital, Google’s Gradient Ventures, and Y Combinator. Learn more about what we do at www.gigs.com.",
+    "one_liner": "The OS for Embedded Telecom",
+    "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1614620930,
     "tags": [
       "Fintech",
-      "SaaS",
       "HR Tech",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22619,55 +22619,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/forage-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/forage-2.json"
-  },
-  {
-    "id": 24159,
-    "name": "Patterns",
-    "slug": "patterns",
-    "former_names": [
-      "Snapdata",
-      "Basis",
-      "Patterns",
-      "Atoma"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55e8a16f61ac33cced5393c8d68ea9f0899f1e49.png",
-    "website": "https://patterns.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Patterns revolutionizes financial analysis by making it easy and accessible through natural language. We are seeking passionate individuals excited about simplifying financial analytics and transforming business intelligence. If you're interested in joining an innovative team in the finance space, explore our job openings and become part of our mission.\r\n\r\nOur advanced AI transforms financial data workflows and reporting, surpassing traditional spreadsheets and inflexible SaaS solutions. By integrating state-of-the-art LLMs with autonomous querying and financial reasoning, Patterns empowers practitioners to perform complex analyses effortlessly via a natural language interface.",
-    "one_liner": "Next-Gen Financial Analysis and Reporting with AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1627403220,
-    "tags": [
-      "Analytics",
-      "Data Science",
-      "Data Engineering",
-      "Data Visualization"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/patterns",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/patterns.json"
   },
   {
     "id": 24160,
@@ -28889,7 +28840,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32803,49 +32754,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/pump-co.json"
   },
   {
-    "id": 27184,
-    "name": "Taro",
-    "slug": "taro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4584cf3fa0e1a05a89a63ceaa8dab2f4c2d68d0.png",
-    "website": "https://joinTaro.com/",
-    "all_locations": "Redwood City, CA, USA",
-    "long_description": "Taro is a community of 150k+ software engineers looking to grow their careers. High-growth tech companies leverage the Taro platform to hire engineers who can grow the company. \r\n\r\nTaro's education platform offers online courses and discussions with leaders at top tech companies. These resources attract many top engineers seeking their next career move.\r\n\r\nTaro supports the hiring process at startups through sourcing and feedback on engineers. If you're looking to expand your engineering team quickly, without compromising on quality, book time here: https://www.jointaro.com/enterprise/",
-    "one_liner": "Help high-growth tech companies hire strong engineers",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1658437017,
-    "tags": [
-      "Developer Tools",
-      "Education",
-      "Community",
-      "Video",
-      "Creator Economy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/taro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/taro.json"
-  },
-  {
     "id": 27185,
     "name": "Knowtex",
     "slug": "knowtex",
@@ -33534,7 +33442,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36916,17 +36824,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
     "website": "https://type.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Type.ai is an AI-native document editor designed for long-form professional writing. We make it 10x faster to write high-quality books, novels, essays, screenplays, and long-form content.",
+    "long_description": "Type.ai is an AI-native document editor designed for long-form storytelling. We help people craft books, novels, essays, screenplays, and other types of long-form content.",
     "one_liner": "The AI-first document editor.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
     "launched_at": 1675912711,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Productivity",
-      "Marketing",
-      "AI"
+      "Consumer",
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36935,8 +36843,8 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "Consumer",
+      "Content"
     ],
     "regions": [
       "United States of America",
@@ -38402,6 +38310,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/subsets",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/subsets.json"
+  },
+  {
+    "id": 28841,
+    "name": "Baud Labs",
+    "slug": "baud-labs",
+    "former_names": [
+      "Neuralyze",
+      "Cerelyze",
+      "Zener",
+      "Front",
+      "Zener",
+      "SuperCraft",
+      "Ponder",
+      "SuperCraft"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea89d0878c367c79b3a58c19eb1323a648e3f38.png",
+    "website": "https://baudlabs.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "something new and big",
+    "one_liner": "something new",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1688534176,
+    "tags": [
+      "Hard Tech",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/baud-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/baud-labs.json"
   },
   {
     "id": 28842,
@@ -44039,45 +43996,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/offdeal.json"
   },
   {
-    "id": 29393,
-    "name": "Voicepanel",
-    "slug": "voicepanel",
-    "former_names": [
-      "Speak Analytics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8778b22211636a64dbe5a5a1808ef49e63ed7613.png",
-    "website": "https://voicepanel.com",
-    "all_locations": "",
-    "long_description": "Measure precisely what real people think about your product, brand, or any other topic.",
-    "one_liner": "AI agents for customer research",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1702567792,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voicepanel",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/voicepanel.json"
-  },
-  {
     "id": 29394,
     "name": "Opencall.ai",
     "slug": "opencall-ai",
@@ -46392,48 +46310,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saphira-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/saphira-ai.json"
-  },
-  {
-    "id": 29597,
-    "name": "Spaceium Inc",
-    "slug": "spaceium-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/432a17cd440639b31ccaf4b6eccea944eb7505e9.png",
-    "website": "https://spaceium.com",
-    "all_locations": "",
-    "long_description": "Spaceium builds fully automated space stations to refuel and repair spacecraft. We have secured $86.1 million in binding commercial contracts and have an additional $230 million in the pipeline. Additionally, we have 1 billion dollars in letters of intent. We have successfully tested our hardware, which will launch to space next year. \r\n\r\nOur fully automated space stations will efficiently store and transfer both cryogenic (extremely cold) and non-cryogenic fuels with zero loss during storage and transfer. And they can transfer fuel seamlessly to any spacecraft design using our proprietary modular robotic arm.\r\n\r\nOur customers include launch vehicles, orbital transfer vehicles, moon landers, and spacecraft that benefit from increased payload capacity and extended travel capabilities. Our long-term vision is to build service hubs along the space superhighway to connect Earth to Moon and Mars and help humanity to become multi multi-planetary species\r\n",
-    "one_liner": "In-Space Refueling",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1715783569,
-    "tags": [
-      "Hard Tech",
-      "Robotics",
-      "Space Exploration",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spaceium-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/spaceium-inc.json"
   },
   {
     "id": 29605,
@@ -48871,7 +48747,7 @@
     "all_locations": "",
     "long_description": "Furniture companies spend millions and months each year on photoshoots or CGI to create product images as these visuals are crucial for driving sales.\r\n\r\nPresti offers a faster and cheaper solution powered by generative AI. Unlike other generative AI tools, our core model is optimized for furniture products and includes multiple features tailored to the unique needs of furniture industry.\r\n \r\nWe have 100 paying B2B users with a 10% growth week over week.\r\nWe raised a $3.5M seed round",
     "one_liner": "Helping furniture companies create product visuals with AI",
-    "team_size": 25,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1724700197,
@@ -50838,6 +50714,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keye",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/keye.json"
+  },
+  {
+    "id": 30057,
+    "name": "Luthor",
+    "slug": "luthor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d91e1c60cc50fb16c36d4796d44c09c5b7431053.png",
+    "website": "https://luthor.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building Luthor: software that helps regulated companies review and approve marketing content in minutes instead of weeks.",
+    "one_liner": "Marketing Approval Platform for Regulated Industries",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730139932,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Compliance",
+      "Marketing",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/luthor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
     "id": 30062,
@@ -53205,16 +53123,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 6,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Customer Service",
-      "AI"
+      "Customer Service"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54485,7 +54403,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aravolta provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance.\r\n\r\nA single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues.\r\n\r\nIt also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. ",
     "one_liner": "Software to monitor, control, and optimize data centers.",
-    "team_size": 9,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1746569409,
@@ -55307,47 +55225,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/casco.json"
   },
   {
-    "id": 30479,
-    "name": "Crimson",
-    "slug": "crimson",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21989f713e50ef7cfbe220d4cfc1a1fbcff900f.png",
-    "website": "https://crimson.law",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Crimson is the first AI platform purpose-built for complex disputes. Litigation teams use Crimson to analyze case files, draft legal documents and answer case-specific questions. By automating manual workflows throughout the lifecycle of a case, Crimson helps lawyers save more than 10 hours per week on common litigation tasks.",
-    "one_liner": "The AI Associate for Litigation Lawyers",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1746120512,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Legal"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/crimson",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/crimson.json"
-  },
-  {
     "id": 30482,
     "name": "Lucis",
     "slug": "lucis",
@@ -55508,7 +55385,7 @@
     "slug": "qualgent",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e454cf353c971b2d54e61c997bd0585c07acf8c.png",
-    "website": "https://qualgent.link/qualgent",
+    "website": "https://www.qualgent.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
     "one_liner": "AI Mobile App Quality Assurance Tester",
@@ -55606,7 +55483,7 @@
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "p2025",
+    "batch": "Spring 2025",
     "status": "Active",
     "industries": [
       "B2B",
@@ -55624,7 +55501,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/third-chair",
-    "api": "https://yc-oss.github.io/api/batches/p2025/third-chair.json"
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/third-chair.json"
   },
   {
     "id": 30512,
@@ -55943,7 +55820,7 @@
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "p2025",
+    "batch": "Spring 2025",
     "status": "Active",
     "industries": [
       "Government"
@@ -55958,7 +55835,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/code-four",
-    "api": "https://yc-oss.github.io/api/batches/p2025/code-four.json"
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
   },
   {
     "id": 30543,
@@ -56144,7 +56021,7 @@
     "website": "https://airweave.ai",
     "all_locations": "",
     "long_description": "Open-source context retrieval for AI agents across apps and databases. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
-    "one_liner": "Context retrieval for AI agents across apps and databases",
+    "one_liner": "Open source context retrieval layer for AI agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -56547,7 +56424,7 @@
     "name": "Dedalus Labs",
     "slug": "dedalus-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9448459d24e79ff3a74806f4accea964e7619319.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
@@ -56557,10 +56434,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60716,16 +60593,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6d1f298b9c57b01b04001ed5fb4e04350cf49c3.png",
     "website": "https://tryasimov.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Asimov is scaling the most diverse dataset of human motion data to teach robots how to interact with the physical world. We deploy our hardware across a network of 5,000+ contributors in households, restaurants, hotels, and factories to supply frontier robotics labs with thousands of hours of organic human data.",
-    "one_liner": "Internet-scale marketplace for robot training data",
+    "long_description": "Asimov collects real-world human movement data from households and businesses to train humanoid robots. Unlike factory datasets that capture the same tasks in the same environments, we deliver the full diversity of real human environments, thousands of hours a day to leading labs.",
+    "one_liner": "Real-world human movement data for humanoid robots",
     "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1770974844,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60734,8 +60611,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",

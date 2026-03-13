@@ -21811,59 +21811,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/jamiphy.json"
   },
   {
-    "id": 13143,
-    "name": "Terrasoft",
-    "slug": "terrasoft",
-    "former_names": [
-      "Terrasoft",
-      "Hyphy",
-      "HYPHY",
-      "H Y P H Y",
-      "HYPHY",
-      "Büya",
-      "Supermall",
-      "Terrasoft",
-      "Stealth Startup",
-      "Terra soft"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8912541b9bb53354a1c6105adc9281f258ff67f0.png",
-    "website": "",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "",
-    "one_liner": "",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1584124715,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terrasoft",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/terrasoft.json"
-  },
-  {
     "id": 13146,
     "name": "Eternal",
     "slug": "zelos",
@@ -28742,17 +28689,18 @@
     "former_names": [
       "WishRoll"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa51d4e5cd378c79609ddec29d9290ae0a186930.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66b261d06ec27d85efae10b1912e47d9eb0ee4c6.png",
     "website": "https://www.statusai.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Status allows users to live in immersive fantasy worlds through the familiar lens of social media.\r\n",
+    "long_description": "Status allows users to live in immersive fantasy worlds through the familiar lens of social media. Over 3 million users worldwide. \r\n",
     "one_liner": "Sims but Social Media",
-    "team_size": 6,
+    "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1648151808,
     "tags": [
       "Consumer",
+      "Gaming",
       "Social",
       "AI"
     ],
@@ -30967,6 +30915,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rex-fit",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/rex-fit.json"
+  },
+  {
+    "id": 28329,
+    "name": "Type",
+    "slug": "type",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
+    "website": "https://type.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Type.ai is an AI-native document editor designed for long-form storytelling. We help people craft books, novels, essays, screenplays, and other types of long-form content.",
+    "one_liner": "The AI-first document editor.",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1675912711,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Consumer",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/type",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/type.json"
   },
   {
     "id": 28371,
@@ -34937,7 +34927,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2025",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Consumer"
@@ -34952,7 +34942,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tidy",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tidy.json"
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tidy.json"
   },
   {
     "id": 30637,
@@ -36354,5 +36344,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/resonate",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/resonate.json"
+  },
+  {
+    "id": 31333,
+    "name": "Gikl, Inc",
+    "slug": "gikl-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
+    "website": "https://scienceswarm.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiast. We believe AI's biggest impact won't be personal productivity — it will be unlocking scientific breakthroughs. We're disrupting the approach to research.",
+    "one_liner": "Accelerating scientific discovery with AI",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1773359306,
+    "tags": [
+      "Swarm AI",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gikl-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
   }
 ]

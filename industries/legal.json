@@ -1765,7 +1765,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -1845,7 +1845,7 @@
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "p2025",
+    "batch": "Spring 2025",
     "status": "Active",
     "industries": [
       "B2B",
@@ -1863,7 +1863,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/third-chair",
-    "api": "https://yc-oss.github.io/api/batches/p2025/third-chair.json"
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/third-chair.json"
   },
   {
     "id": 30553,
@@ -2336,7 +2336,12 @@
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1770576314,
-    "tags": [],
+    "tags": [
+      "Marketplace",
+      "Healthcare",
+      "LegalTech",
+      "Call Center"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

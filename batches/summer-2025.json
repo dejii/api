@@ -630,7 +630,7 @@
     "name": "Dedalus Labs",
     "slug": "dedalus-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9448459d24e79ff3a74806f4accea964e7619319.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
@@ -640,10 +640,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1197,49 +1197,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shor",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
-  },
-  {
-    "id": 30621,
-    "name": "Tidy",
-    "slug": "tidy",
-    "former_names": [
-      "Pond"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93a91071e0526184092e4e72a13d1108008534a1.png",
-    "website": "https://withtidy.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI assistant that you can teach to use any app + lives in your messages.",
-    "one_liner": "Does anything you can imagine with a text",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1752567931,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Messaging",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tidy",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tidy.json"
   },
   {
     "id": 30622,
@@ -2372,11 +2329,11 @@
       "Sidekick",
       "Sagekit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c6e6b106f7e5cbaf44508142f95fc7935454466.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Most coding agents are one long conversation that compacts and loses context. Magnitude is a multi-agent system that stays sharp over long horizon tasks. Install: npm i -g @magnitudedev/magnitude",
-    "one_liner": "Open source AI coding agent",
+    "long_description": "Magnitude is an open source coding agent that follows intent more reliably, stays effective on longer tasks, and produces higher-quality code. Install: npm i -g @magnitudedev/cli",
+    "one_liner": "Open source coding agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

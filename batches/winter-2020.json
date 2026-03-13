@@ -2677,8 +2677,8 @@
   },
   {
     "id": 13143,
-    "name": "Terrasoft",
-    "slug": "terrasoft",
+    "name": "Flik",
+    "slug": "flik",
     "former_names": [
       "Terrasoft",
       "Hyphy",
@@ -2689,21 +2689,20 @@
       "Supermall",
       "Terrasoft",
       "Stealth Startup",
-      "Terra soft"
+      "Terra soft",
+      "Terrasoft"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8912541b9bb53354a1c6105adc9281f258ff67f0.png",
-    "website": "",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23bf39084d9479ff4d9fe383ff71b24a248d406a.png",
+    "website": "https://flikai.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "",
     "one_liner": "",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1584124715,
     "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "E-commerce"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2712,7 +2711,8 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -2725,8 +2725,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terrasoft",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/terrasoft.json"
+    "url": "https://www.ycombinator.com/companies/flik",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/flik.json"
   },
   {
     "id": 13144,
@@ -3928,20 +3928,21 @@
   },
   {
     "id": 13185,
-    "name": "Operator",
-    "slug": "operator",
+    "name": "Operator.io",
+    "slug": "operatorio",
     "former_names": [
       "Atana",
       "Atana Health",
       "Trimwire",
       "Operator",
-      "Operator Labs"
+      "Operator Labs",
+      "Operator"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddad5e732e1515ab69da4100f7fa6d3a5d491e82.png",
     "website": "http://operator.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Building agentic harnesses and other tooling for autonomous agents.",
-    "one_liner": "Infrastructure for Autonomous Agents",
+    "long_description": "Operator is the easiest way for your agent to programmatically deploy, design, and assign tasks to a fleet of OpenClaw AI agents. \r\n",
+    "one_liner": "Design and deploy OpenClaw agents with one API",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3970,8 +3971,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operator",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/operator.json"
+    "url": "https://www.ycombinator.com/companies/operatorio",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/operatorio.json"
   },
   {
     "id": 13195,

@@ -1,5 +1,48 @@
 [
   {
+    "id": 30621,
+    "name": "Tidy",
+    "slug": "tidy",
+    "former_names": [
+      "Pond"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93a91071e0526184092e4e72a13d1108008534a1.png",
+    "website": "https://withtidy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI assistant that you can teach to use any app + lives in your messages.",
+    "one_liner": "Does anything you can imagine with a text",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1752567931,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Messaging",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tidy",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tidy.json"
+  },
+  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -166,6 +209,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/dispatch.json"
   },
   {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Korso is an AI-powered operations platform for manufacturers that automates the full quote-to-order workflow: processing incoming RFQs, extracting line items, generating professional quotes, and tracking purchase orders through production. At its core is an intelligent assistant with frontier-model capabilities that understands your business documents, pricing history, and customer relationships, so your team can ask questions, get instant analysis, and make decisions in seconds rather than hours.",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773339255,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
     "id": 31329,
     "name": "primitive",
     "slug": "primitive",
@@ -209,6 +293,87 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
+  },
+  {
+    "id": 31333,
+    "name": "Gikl, Inc",
+    "slug": "gikl-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
+    "website": "https://scienceswarm.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiast. We believe AI's biggest impact won't be personal productivity — it will be unlocking scientific breakthroughs. We're disrupting the approach to research.",
+    "one_liner": "Accelerating scientific discovery with AI",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1773359306,
+    "tags": [
+      "Swarm AI",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gikl-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
+  },
+  {
+    "id": 31345,
+    "name": "Replicas",
+    "slug": "replicas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
+    "website": "https://replicas.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Use background coding agents from anywhere",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773355936,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replicas",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
   },
   {
     "id": 31396,
@@ -258,7 +423,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
     "website": "https://www.argalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arga validates code changes & agents like a real engineer, because you were never meant to be QA for AI.\r\n\r\nConnect your context tools (Slack, Linear, Sentry, etc.) and our agents turn every PR into multiple step-by-step user stories, clicking through your product with real context from your systems.\r\n\r\nEvery PR is deployed into our production-like sandbox and it runs against fully-functional mocks of external services, fully compatible with any API/SDK. These replicas surface edge cases traditional test suites miss, and you never hit rate limits. For AI agents, Arga automatically red-teams them: testing tool calls, behaviours, and failure modes before anything reaches production. ",
+    "long_description": "Arga is the infrastructure that lets you validate code changes & agents at scale, because you (and your users) were never meant to be QA for AI.\r\n\r\nWe provide validation infrastructure with fully-functional mocks of external services for your code & agents. Deploy a PR into our production-like sandbox and it runs against replicas of any web app, fully compatible with any official API/SDK. These replicas surface edge cases traditional mocks or assertions miss, and you never hit rate limits. For AI agents, run red-teams with Arga: test tool calls, behaviours, and failure modes before anything reaches production. ",
     "one_liner": "The validation framework for AI agents",
     "team_size": 3,
     "industry": "B2B",
@@ -333,6 +498,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lamina-labs.json"
   },
   {
+    "id": 31445,
+    "name": "Harbor",
+    "slug": "runharbor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2035055dd5fbc0e7ba3359cc653941b651ebff6b.png",
+    "website": "https://runharbor.com/",
+    "all_locations": "San Diego, CA, USA",
+    "long_description": "Harbor is a new, AI-enabled system of record for clinical trial data that replaces legacy electronic data capture (EDC) systems. Today, medical device and pharma companies spend months setting up custom EDCs that research sites then spend hours per subject per day entering data into. With Harbor, the EDC is spun up simply by reading your clinical trial protocol and research sites upload raw source documents into the platform, skipping the tedious and error-prone data entry process altogether.\r\n\r\nEDCs haven’t fundamentally changed since the 1990s. They are passive, regulatory compliant data bins that cause massive trial delays, coordinator burnout, and weeks of back-and-forth to resolve data errors. Because of this, data management currently consumes ~30% of total clinical trial budgets.\r\n\r\nWith LLM and document extraction capabilities finally reaching the accuracy, reliability, and traceability required in high-risk domains, Harbor is redefining the way data is collected and monitored in clinical trials, all while remaining fully GCP- and 21 CFR Part 11 compliant.\r\n\r\nAfter months of building our initial product, our platform is now live with its first few clinical studies. For our largest customer and their 1600 subject randomized trial, we were able to use our internal tools to get their study database configured in just one week, which was ten times faster than legacy EDC vendors quoted.\r\n\r\nWe built Harbor because we lived through this problem. Albert spent four years in clinical trials and regulatory strategy for a medical device startup, spending weeks at clinical sites watching coordinators battle legacy software firsthand. Nate brings the technical firepower, having built scalable software at Google and Ramp and as employee #1 at a previous YC startup.",
+    "one_liner": "AI system-of-record for clinical trial data",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1773340757,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runharbor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/runharbor.json"
+  },
+  {
     "id": 31453,
     "name": "Minicor",
     "slug": "minicor",
@@ -343,7 +549,7 @@
     "website": "https://minicor.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
-    "one_liner": "Run self-healing desktop automations at scale",
+    "one_liner": "Managed, self healing desktop automation at scale",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

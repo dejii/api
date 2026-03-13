@@ -554,7 +554,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aravolta provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance.\r\n\r\nA single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues.\r\n\r\nIt also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. ",
     "one_liner": "Software to monitor, control, and optimize data centers.",
-    "team_size": 9,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1746569409,
@@ -3321,7 +3321,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -3678,7 +3678,7 @@
     "slug": "qualgent",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e454cf353c971b2d54e61c997bd0585c07acf8c.png",
-    "website": "https://qualgent.link/qualgent",
+    "website": "https://www.qualgent.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
     "one_liner": "AI Mobile App Quality Assurance Tester",
@@ -3967,6 +3967,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vesence",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json"
+  },
+  {
+    "id": 30504,
+    "name": "Third Chair",
+    "slug": "third-chair",
+    "former_names": [
+      "Watchdog AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18cebff9bcd74859dde2e614ddfdcdaf32c2ffb3.png",
+    "website": "https://usethirdchair.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Third Chair automates complex legal workflows at scale, supported by an on-demand network of top lawyers to step in when you need them.\r\n\r\nWe’ve started with revenue-generating workflows like IP enforcement, giving media companies visibility into who’s using their content and helping them turn unauthorized ads into a predictable income stream.\r\n\r\n The biggest media and entertainment companies in the world rely on Third Chair to enforce their intellectual property, unlock licensing revenue, and accelerate deal flow. ",
+    "one_liner": "Automating complex legal workflows with human lawyers in the loop.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1748486427,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/third-chair",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/third-chair.json"
   },
   {
     "id": 30506,
@@ -5165,6 +5206,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
   },
   {
+    "id": 30541,
+    "name": "Code Four",
+    "slug": "code-four",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484fe167f81b504f3783e0d04f12060ec5bf7d11.png",
+    "website": "https://codefour.us/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Code Four slashes the administrative burden on law enforcement through AI-driven automation. Officers spend up to a third of their shifts manually transcribing body camera footage, creating inaccuracies, reducing transparency, and cutting into frontline duties. We're here to eliminate these inefficiencies by integrating with body cameras, record management systems, and digital evidence management systems—acting as a software layer for data processing. \r\n\r\nWe free the most overworked and underappreciated people in the world: police officers.",
+    "one_liner": "Modernizing the police workflow.",
+    "team_size": 3,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1744335489,
+    "tags": [
+      "Artificial Intelligence",
+      "GovTech",
+      "Computer Vision"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/code-four",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
+  },
+  {
     "id": 30542,
     "name": "LineWise",
     "slug": "linewise",
@@ -5437,7 +5518,7 @@
     "website": "https://airweave.ai",
     "all_locations": "",
     "long_description": "Open-source context retrieval for AI agents across apps and databases. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
-    "one_liner": "Context retrieval for AI agents across apps and databases",
+    "one_liner": "Open source context retrieval layer for AI agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

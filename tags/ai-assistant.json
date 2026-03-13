@@ -4303,15 +4303,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ab7f5055bddb0617e16226359b7395d5b8354b2.png",
     "website": "https://www.basepilot.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Basepilot builds AI coworkers that collaborate with humans to automate work across the browser. They learn from what you do and you can teach them new skills, just by demonstration. Companies using Basepilot save 30% of their time and resources per week, freeing up time for more high-value tasks.\r\n\r\nBasepilot is founded by Ken, who previously led a fintech-product to 3M users in <12 months, and Pascal, who worked on robotics & self-driving at Carnegie Mellon and Mercedes-Benz Research.\r\n\r\nInterested to try it out? Get started here: https://www.basepilot.com/ \r\n\r\nYC Launch: https://www.ycombinator.com/launches/KcS-basepilot-your-ai-employee-to-automate-repetitive-browser-work-in-minutes",
-    "one_liner": "AI coworkers to automate browser work, in minutes.",
+    "long_description": "Basepilot helps insurers, TPAs and MGAs streamline claims operations with line-of-business-specific AI agents. Companies like Old Republic International, Zurich & others use Basepilot to make claims operations more efficient, less costly and more intelligent.\r\n\r\nBasepilot is founded by Ken Hendricks and Pascal Wieler.\r\n\r\nInterested to try it out? Get started here: https://www.basepilot.com/ ",
+    "one_liner": "AI agents for insurance claims",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704381024,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
+      "Insurance",
       "No-code",
       "Automation",
       "AI Assistant"
@@ -6021,7 +6021,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2025",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
       "Consumer"
@@ -6036,7 +6036,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tidy",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tidy.json"
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tidy.json"
   },
   {
     "id": 30694,
@@ -6479,7 +6479,7 @@
       "Ignotus"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb6ea58cacd2d7637cd441b73c8f2e6da92ae97.png",
-    "website": "https://trylogical.ai",
+    "website": "https://logical.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers. Logical is the AI resurrection of Clippy, but actually good.",
     "one_liner": "A proactive desktop copilot. Clippy, but actually good.",
@@ -6488,10 +6488,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1761643617,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "B2B",
       "Productivity",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -7236,6 +7236,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vela",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
+  },
+  {
+    "id": 31333,
+    "name": "Gikl, Inc",
+    "slug": "gikl-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
+    "website": "https://scienceswarm.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiast. We believe AI's biggest impact won't be personal productivity — it will be unlocking scientific breakthroughs. We're disrupting the approach to research.",
+    "one_liner": "Accelerating scientific discovery with AI",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1773359306,
+    "tags": [
+      "Swarm AI",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gikl-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
   },
   {
     "id": 31454,

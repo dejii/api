@@ -20913,50 +20913,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/businessonbot.json"
   },
   {
-    "id": 23389,
-    "name": "Gigs",
-    "slug": "gigs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f444340e9c64c3d358ff850ab1b009ff8af62d7.png",
-    "website": "https://gigs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Gigs, we're building the operating system for mobile services - a platform that enables tech companies to seamlessly embed connectivity into their products.\r\n\r\nJust as Stripe enables businesses to embed a payment button into any product, Gigs enables businesses to add a connect button and issue SIMs with a single click or API call. From fintechs launching mobile services to HRIS platforms offering work phone plans, we automate phone plan provisioning.\r\n\r\nWe're solving complex technical, operational and regulatory challenges to make connectivity truly effortless. We've grown to a team of around 90 people across the US and Europe, bringing together an experienced team of early-stage engineers, product builders and business athletes from companies like Stripe, Airbnb and Shopify. We know what it takes to solve hard problems.\r\n\r\nWith almost $100MM in funding from Ribbit Capital, Google and Y Combinator, Gigs is one of the fastest growing tech companies. Building on our strong foundation, we’re looking for exceptional candidates who want to do the best work of their lives in a high-paced environment, surrounded by a highly talented, ambitious team.\r\n\r\nYou’ll be joining at an exciting inflection point in our company’s history. At sub-100 people and with a year of hyper-growth ahead of us, opportunity is abundant.",
-    "one_liner": "Stripe for phone plans. ",
-    "team_size": 90,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1614620930,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "HR Tech",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gigs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/gigs.json"
-  },
-  {
     "id": 23397,
     "name": "Jetdocs",
     "slug": "jetdocs",
@@ -35288,7 +35244,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -38542,17 +38498,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
     "website": "https://type.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Type.ai is an AI-native document editor designed for long-form professional writing. We make it 10x faster to write high-quality books, novels, essays, screenplays, and long-form content.",
+    "long_description": "Type.ai is an AI-native document editor designed for long-form storytelling. We help people craft books, novels, essays, screenplays, and other types of long-form content.",
     "one_liner": "The AI-first document editor.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
     "launched_at": 1675912711,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Productivity",
-      "Marketing",
-      "AI"
+      "Consumer",
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38561,8 +38517,8 @@
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "Consumer",
+      "Content"
     ],
     "regions": [
       "United States of America",
@@ -39219,17 +39175,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0fae4f448de789e718cb96878197c7ecc29e2f.png",
     "website": "https://getcore.me",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CORE gives your AI tools persistent memory and the ability to act in the apps you use.\r\n\r\n✅ Remember everything across Claude, Cursor, ChatGPT, Claude Code\r\n✅ Take actions in Linear, GitHub, Slack, Gmail, Google Sheets\r\n✅ Connect once, works everywhere via MCP\r\n✅ Your data, your control: open-source and self-hostable",
-    "one_liner": "Memory + Actions for Your AI Tools",
+    "long_description": "CORE is your digital brain - a unified, always-on AI that remembers your context, works with your AI agents, and acts across your tools.\r\n\r\nOpen source. Self-hostable. Your data, your control.",
+    "one_liner": "Your Digital Brain. It remembers. It Thinks. It Acts.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1687596955,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42134,51 +42090,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/camelai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/camelai.json"
-  },
-  {
-    "id": 29451,
-    "name": "Basepilot",
-    "slug": "basepilot",
-    "former_names": [
-      "Nexus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ab7f5055bddb0617e16226359b7395d5b8354b2.png",
-    "website": "https://www.basepilot.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Basepilot builds AI coworkers that collaborate with humans to automate work across the browser. They learn from what you do and you can teach them new skills, just by demonstration. Companies using Basepilot save 30% of their time and resources per week, freeing up time for more high-value tasks.\r\n\r\nBasepilot is founded by Ken, who previously led a fintech-product to 3M users in <12 months, and Pascal, who worked on robotics & self-driving at Carnegie Mellon and Mercedes-Benz Research.\r\n\r\nInterested to try it out? Get started here: https://www.basepilot.com/ \r\n\r\nYC Launch: https://www.ycombinator.com/launches/KcS-basepilot-your-ai-employee-to-automate-repetitive-browser-work-in-minutes",
-    "one_liner": "AI coworkers to automate browser work, in minutes.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1704381024,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "No-code",
-      "Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/basepilot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/basepilot.json"
   },
   {
     "id": 29452,
@@ -45857,16 +45768,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 6,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Customer Service",
-      "AI"
+      "Customer Service"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46510,7 +46421,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -48685,8 +48596,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
     "website": "https://fullseam.com",
     "all_locations": "",
-    "long_description": "FullSeam is an AI employee for finance and accounting teams. It logs into a company's accounting, billing, banking, and CRM tools and completes routine tasks typically done manually — like accounts receivable, accounts payable, billing, and updating financial records.",
-    "one_liner": "FullSeam is an AI employee for finance and accounting teams.",
+    "long_description": "FullSeam builds agents for corporate accounting. Our agents replace manual accounting tasks that typically happen outside of our customers’ accounting software, like accounts payable, accounts receivable, and reconciliation.",
+    "one_liner": "AI agents for corporate accounting teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -48900,7 +48811,7 @@
     "website": "https://www.lance.live",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
-    "one_liner": "Your Hotel's Best Employees",
+    "one_liner": "AI Agents That Run Hotel Operations.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48990,11 +48901,11 @@
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Biotech",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49283,7 +49194,7 @@
     "website": "https://paysponge.com/",
     "all_locations": "",
     "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
-    "one_liner": "Financial infrastructure for the agent economy",
+    "one_liner": "Financial infrastructure for the agentic economy",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49579,17 +49490,17 @@
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic regression models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond attribution, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
-    "one_liner": "ROI attribution to scale ecosystem driven growth",
+    "one_liner": "Gong for ecosystem driven growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767154035,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49950,6 +49861,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/wideframe.json"
   },
   {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Korso is an AI-powered operations platform for manufacturers that automates the full quote-to-order workflow: processing incoming RFQs, extracting line items, generating professional quotes, and tracking purchase orders through production. At its core is an intelligent assistant with frontier-model capabilities that understands your business documents, pricing history, and customer relationships, so your team can ask questions, get instant analysis, and make decisions in seconds rather than hours.",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773339255,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
     "id": 31413,
     "name": "Arga Labs",
     "slug": "arga-labs",
@@ -49957,7 +49909,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d9a7c1d8ec13bb1565520e7fc7a6ca3a8fa82.png",
     "website": "https://www.argalabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arga validates code changes & agents like a real engineer, because you were never meant to be QA for AI.\r\n\r\nConnect your context tools (Slack, Linear, Sentry, etc.) and our agents turn every PR into multiple step-by-step user stories, clicking through your product with real context from your systems.\r\n\r\nEvery PR is deployed into our production-like sandbox and it runs against fully-functional mocks of external services, fully compatible with any API/SDK. These replicas surface edge cases traditional test suites miss, and you never hit rate limits. For AI agents, Arga automatically red-teams them: testing tool calls, behaviours, and failure modes before anything reaches production. ",
+    "long_description": "Arga is the infrastructure that lets you validate code changes & agents at scale, because you (and your users) were never meant to be QA for AI.\r\n\r\nWe provide validation infrastructure with fully-functional mocks of external services for your code & agents. Deploy a PR into our production-like sandbox and it runs against replicas of any web app, fully compatible with any official API/SDK. These replicas surface edge cases traditional mocks or assertions miss, and you never hit rate limits. For AI agents, run red-teams with Arga: test tool calls, behaviours, and failure modes before anything reaches production. ",
     "one_liner": "The validation framework for AI agents",
     "team_size": 3,
     "industry": "B2B",
@@ -49988,6 +49940,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arga-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
+  },
+  {
+    "id": 31445,
+    "name": "Harbor",
+    "slug": "runharbor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2035055dd5fbc0e7ba3359cc653941b651ebff6b.png",
+    "website": "https://runharbor.com/",
+    "all_locations": "San Diego, CA, USA",
+    "long_description": "Harbor is a new, AI-enabled system of record for clinical trial data that replaces legacy electronic data capture (EDC) systems. Today, medical device and pharma companies spend months setting up custom EDCs that research sites then spend hours per subject per day entering data into. With Harbor, the EDC is spun up simply by reading your clinical trial protocol and research sites upload raw source documents into the platform, skipping the tedious and error-prone data entry process altogether.\r\n\r\nEDCs haven’t fundamentally changed since the 1990s. They are passive, regulatory compliant data bins that cause massive trial delays, coordinator burnout, and weeks of back-and-forth to resolve data errors. Because of this, data management currently consumes ~30% of total clinical trial budgets.\r\n\r\nWith LLM and document extraction capabilities finally reaching the accuracy, reliability, and traceability required in high-risk domains, Harbor is redefining the way data is collected and monitored in clinical trials, all while remaining fully GCP- and 21 CFR Part 11 compliant.\r\n\r\nAfter months of building our initial product, our platform is now live with its first few clinical studies. For our largest customer and their 1600 subject randomized trial, we were able to use our internal tools to get their study database configured in just one week, which was ten times faster than legacy EDC vendors quoted.\r\n\r\nWe built Harbor because we lived through this problem. Albert spent four years in clinical trials and regulatory strategy for a medical device startup, spending weeks at clinical sites watching coordinators battle legacy software firsthand. Nate brings the technical firepower, having built scalable software at Google and Ramp and as employee #1 at a previous YC startup.",
+    "one_liner": "AI system-of-record for clinical trial data",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1773340757,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runharbor",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/runharbor.json"
   },
   {
     "id": 31511,

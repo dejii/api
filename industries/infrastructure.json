@@ -6926,7 +6926,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -9634,7 +9634,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aravolta provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance.\r\n\r\nA single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues.\r\n\r\nIt also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. ",
     "one_liner": "Software to monitor, control, and optimize data centers.",
-    "team_size": 9,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1746569409,
@@ -9883,7 +9883,7 @@
     "website": "https://airweave.ai",
     "all_locations": "",
     "long_description": "Open-source context retrieval for AI agents across apps and databases. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
-    "one_liner": "Context retrieval for AI agents across apps and databases",
+    "one_liner": "Open source context retrieval layer for AI agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -9915,7 +9915,7 @@
     "name": "Dedalus Labs",
     "slug": "dedalus-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9448459d24e79ff3a74806f4accea964e7619319.png",
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "1. Multi-model Agents SDK: build production-grade tool-calling agents in 5 lines of code using our open-source, vendor-agnostic SDK. Connect multiple models across providers (eg. Opus 4.6 + Gemini 3 Flash + GPT 5.4) within the same agent to optimize your agentic workflow's cost, latency, efficiency, and performance.\r\n\r\n2. Agents-as-a-Service (AaaS): serve your agent or service as a hosted endpoint that anyone - including OpenClaw and Claude Code - can call.",
@@ -9925,10 +9925,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1756399069,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10920,11 +10920,13 @@
   },
   {
     "id": 31084,
-    "name": "Bits",
-    "slug": "bits-2",
-    "former_names": [],
+    "name": "Klaus AI",
+    "slug": "klaus-ai",
+    "former_names": [
+      "Bits"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png",
-    "website": "https://usebits.com",
+    "website": "https://klausai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Get your personal OpenClaw instance on the cloud and connected to your Slack or other messaging app in 3 minutes. Pre-installed security features and common skills. ",
     "one_liner": "Fast and Safe OpenClaw on the cloud",
@@ -10955,8 +10957,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bits-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bits-2.json"
+    "url": "https://www.ycombinator.com/companies/klaus-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/klaus-ai.json"
   },
   {
     "id": 31088,
@@ -10967,17 +10969,17 @@
     "website": "https://www.runanywhere.ai/",
     "all_locations": "",
     "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-    "one_liner": "The production-grade infrastructure for running AI on every device",
+    "one_liner": "The production infra for running AI on the hardware people already own",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hard Tech",
       "IoT",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11714,7 +11716,7 @@
     "website": "https://minicor.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
-    "one_liner": "Run self-healing desktop automations at scale",
+    "one_liner": "Managed, self healing desktop automation at scale",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

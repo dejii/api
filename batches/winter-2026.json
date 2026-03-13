@@ -400,7 +400,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4539d70682bb12a4a56caa059c5bb83cd4745ad1.png",
     "website": "https://www.velum-labs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velum is the operating system for data quality. We observe real data traffic to automatically derive contracts, trace lineage across any stack, and enforce integrity from ingestion to executive dashboards - no manual rules, no migration required.\r\n\r\nData trust you can prove. From the pipeline to the boardroom.",
+    "long_description": "Velum is the operating system for data quality. Velum automatically monitors and enforces data quality across a company's data stack, so bad data never reaches dashboards. We turn data quality from a manual task into infrastructure that runs itself.\r\n\r\nData trust you can prove. From the pipeline to the boardroom.",
     "one_liner": "The OS for data quality across any stack",
     "team_size": 2,
     "industry": "B2B",
@@ -907,7 +907,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "website": "https://www.haladir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haladir is an applied AI product lab for verifiable domains, enabling reinforcement learning & model harnesses to scale to economically-complex tasks via the formalization of the informal. We apply solver-based methods, SMT/SAT solvers, operations research, and formal verification to make RLVR and agent deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chain, ERPs and beyond.",
+    "long_description": "Haladir is an applied AI product lab for verifiable domains, enabling reinforcement learning & model harnesses to scale to economically-complex tasks via the formalization of the informal. We apply solver-based methods, SMT/SAT solvers, MILP, operations research, and formal verification to make RLVR and agent deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chains, manufacturing, ERPs and beyond.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take consultants and analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
     "one_liner": "Building Operational Superintelligence.",
     "team_size": 4,
     "industry": "B2B",
@@ -1036,8 +1036,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d791283eb9d18f99f2eee62fd335ead9af79f84.png",
     "website": "https://fullseam.com",
     "all_locations": "",
-    "long_description": "FullSeam is an AI employee for finance and accounting teams. It logs into a company's accounting, billing, banking, and CRM tools and completes routine tasks typically done manually — like accounts receivable, accounts payable, billing, and updating financial records.",
-    "one_liner": "FullSeam is an AI employee for finance and accounting teams.",
+    "long_description": "FullSeam builds agents for corporate accounting. Our agents replace manual accounting tasks that typically happen outside of our customers’ accounting software, like accounts payable, accounts receivable, and reconciliation.",
+    "one_liner": "AI agents for corporate accounting teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -1623,11 +1623,13 @@
   },
   {
     "id": 31084,
-    "name": "Bits",
-    "slug": "bits-2",
-    "former_names": [],
+    "name": "Klaus AI",
+    "slug": "klaus-ai",
+    "former_names": [
+      "Bits"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png",
-    "website": "https://usebits.com",
+    "website": "https://klausai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Get your personal OpenClaw instance on the cloud and connected to your Slack or other messaging app in 3 minutes. Pre-installed security features and common skills. ",
     "one_liner": "Fast and Safe OpenClaw on the cloud",
@@ -1658,8 +1660,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bits-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bits-2.json"
+    "url": "https://www.ycombinator.com/companies/klaus-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/klaus-ai.json"
   },
   {
     "id": 31085,
@@ -1749,17 +1751,17 @@
     "website": "https://www.runanywhere.ai/",
     "all_locations": "",
     "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-    "one_liner": "The production-grade infrastructure for running AI on every device",
+    "one_liner": "The production infra for running AI on the hardware people already own",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hard Tech",
       "IoT",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1791,7 +1793,7 @@
     "website": "https://www.lance.live",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
-    "one_liner": "Your Hotel's Best Employees",
+    "one_liner": "AI Agents That Run Hotel Operations.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1833,7 +1835,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Docura Health reduces settlement time in workers’ compensation cases by automating medical record review, chronologies, and report drafting with AI. We transform thousands of pages of records into structured, compliant summaries, helping evaluators, claim adjusters, insurers, and legal teams resolve cases faster.",
     "one_liner": "AI-Native Medico-Legal Firm",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1771815794,
@@ -1997,16 +1999,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6d1f298b9c57b01b04001ed5fb4e04350cf49c3.png",
     "website": "https://tryasimov.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Asimov is scaling the most diverse dataset of human motion data to teach robots how to interact with the physical world. We deploy our hardware across a network of 5,000+ contributors in households, restaurants, hotels, and factories to supply frontier robotics labs with thousands of hours of organic human data.",
-    "one_liner": "Internet-scale marketplace for robot training data",
+    "long_description": "Asimov collects real-world human movement data from households and businesses to train humanoid robots. Unlike factory datasets that capture the same tasks in the same environments, we deliver the full diversity of real human environments, thousands of hours a day to leading labs.",
+    "one_liner": "Real-world human movement data for humanoid robots",
     "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1770974844,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2015,8 +2017,8 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -2042,8 +2044,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a0714fa881cb99f3080456e1c76e5b495a45be7.png",
     "website": "https://www.shortkit.dev",
     "all_locations": "",
-    "long_description": "ShortKit lets any consumer app or publisher launch TikTok-grade short-form video feeds. Our CTO, Michael, previously built and scaled the video infrastructure behind YouTube Shorts, powering billions of hours of daily playback, now we're making it easy for everyone else. ShortKit handles the full short form video stack — client SDKs, video infrastructure, recommendation systems, and content marketplaces — so that product teams don't have to.",
-    "one_liner": "The SDK for short form video experiences",
+    "long_description": "ShortKit lets any consumer app launch a TikTok-grade short-form video feed. We launched two weeks ago and have $4,450 MRR across 5 consumer apps. Our CTO, Michael, previously built and scaled the video infra behind YouTube Shorts, powering billions of hours of daily playback. Our CEO, Neil, prev. scaled a SaaS company from 0 to $6M ARR as employee #1. We handle the full short-form stack— client SDKs, video infrastructure, rec systems, and content marketplaces — so product teams don't have to.",
+    "one_liner": "Short-form video SDK for consumer apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2134,11 +2136,11 @@
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Biotech",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3464,13 +3466,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aemon is the first autonomous research engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
     "one_liner": "The Forward-Deployed AI Research Engineer ",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772053698,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3936,10 +3938,10 @@
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Generative AI",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3969,15 +3971,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13607170eb2ca92be8c6b3fe617797b6b16e279a.png",
     "website": "https://www.perfectly.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Perfectly is the first ever end-to-end AI recruiting agency.\r\n\r\nWe learn your deep hiring preferences via our intake, then we source and outreach to thousands of candidates that fit exactly what you're looking for. \r\n\r\nThen candidates conduct an AI screen that can be reused for future jobs, and are delivered straight to the hiring manager's portal for interviews. \r\n\r\nRecruiting is broken because information between candidates, hiring managers, and recruiters is lost at every step.\r\n\r\nWe realized the opposite could be true: The more you tell us, the more accurately our algorithm can match you. That's how we build trust.",
-    "one_liner": "The AI-native Recruiting Operating System",
+    "long_description": "Perfectly is the first AI-native recruiting agency.\r\n\r\nSince starting YC, we’re already helping top startups like Giga, Corgi, LlamaIndex, Porter, and dozens more hire faster.\r\n\r\nWe’re seeing:\r\n-> 4× faster hiring\r\n-> 10× candidate volume\r\n-> 2× higher interview pass rates\r\n\r\nBehind the scenes, it’s even more impressive:\r\n-> 20x higher recruiting efficiency: from 20 hours to 1 hour\r\n-> 250% higher candidate interview retention\r\n\r\nWe automate the entire recruiting function: sourcing, outreach, screening, and qualification. Interview ready candidates just show up in Slack. \r\n\r\nWe recently launched our recruiting agent Paul that provides each candidate white glove treatment so they're closed even before your offer call\r\n\r\nHiring should work like a recommendation system.\r\n\r\nLearn more now at perfectly.so\r\n",
+    "one_liner": "The AI-native Recruiting Agency",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768534230,
     "tags": [
-      "Artificial Intelligence",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4178,7 +4180,7 @@
     "website": "https://paysponge.com/",
     "all_locations": "",
     "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
-    "one_liner": "Financial infrastructure for the agent economy",
+    "one_liner": "Financial infrastructure for the agentic economy",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4267,15 +4269,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3d31397146f8b236b2aea89ba80b15e787f9ad4.png",
     "website": "https://confluence.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "While modern AI excels in any area you can collect a lot of data for, it struggles in areas where data is sparse or costly to attain. Designing new molecules, discovering new physics, and engineering new materials, and even developing more effective systems of governance are all domains where collecting data is extremely costly. \r\n\r\nWe dream of a world where AI accelerates research in all of these domains and creates a more abundant future for humanity, but the current technology is not there. That’s why we started Confluence Labs. \r\n\r\nWe are building AI that can design highly effective experiments in data-sparse domains and learn maximally from the data it already has.",
-    "one_liner": "foundation models optimized for learning efficiency",
+    "long_description": "While modern AI excels in any area you can collect a lot of data for, it struggles in areas where data is sparse or costly to attain. Designing new molecules, discovering new physics, and engineering new materials are all domains where collecting data is extremely costly. \r\n\r\nWe dream of a world where AI accelerates research in all of these domains and creates a more abundant future for humanity, but the current technology is not there. That’s why we started Confluence Labs. \r\n\r\nWe are building AI that can design highly effective experiments in data-sparse domains and learn maximally from the data it already has.",
+    "one_liner": "Foundation models optimized for learning efficiency",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771724903,
     "tags": [
-      "Artificial Intelligence",
-      "AI"
+      "Advanced Materials",
+      "AI",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4612,7 +4615,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Overshoot makes it easy for developers to build and run real-time vision applications.\r\n\r\nAI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. \r\n\r\nHowever, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. \r\n\r\nOvershoot solves this.\r\n\r\nToday, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. \r\n\r\nOur moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines.\r\n\r\nYounes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
     "one_liner": "Enable developers to build and run AI vision applications",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770705031,
@@ -6284,17 +6287,17 @@
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic regression models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond attribution, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
-    "one_liner": "ROI attribution to scale ecosystem driven growth",
+    "one_liner": "Gong for ecosystem driven growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767154035,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8164,7 +8167,12 @@
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1770576314,
-    "tags": [],
+    "tags": [
+      "Marketplace",
+      "Healthcare",
+      "LegalTech",
+      "Call Center"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

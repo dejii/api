@@ -879,19 +879,19 @@
     "name": "Atomic Industries",
     "slug": "atomic-industries",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f2c7d52a1e7ee5e37927e49b00eec598f4faa0f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad99a50e946cb78af9f253ab66655f1d1e1b158c.png",
     "website": "http://atomic.industries",
     "all_locations": "Detroit, MI, USA",
-    "long_description": "Atomic's mission is to replicate high-skill trade knowledge of tool and die makers into AI that powers new manufacturing systems which are orders of magnitude more productive.",
-    "one_liner": "The world's first AI powered tool and die maker",
-    "team_size": 25,
+    "long_description": "Atomic is a vertically integrated plastics supplier. To offer parts better, cheaper, and faster than anyone on Earth, we became the best mold makers using AI. Our software helps us design and build the best possible mold for each unique geometry, with the goal of moving into production more rapidly than existing supply chains.",
+    "one_liner": "Software orchestrated mass production of plastics",
+    "team_size": 60,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1649630827,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2598,9 +2598,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
     "website": "https://www.axal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helping manufacturers and distributors automate the process of moving RFQs, invoices, and POs from their inboxes to their ERPs.\r\n",
-    "one_liner": "Automate Data Entry From Inbox to ERP",
-    "team_size": 2,
+    "long_description": "Helping manufacturers and distributors eliminate manual work by automating operational processes with AI.\r\n",
+    "one_liner": "AI Workers for Manufacturing and Distribution ",
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736891737,
@@ -3401,5 +3401,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dispatch",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/dispatch.json"
+  },
+  {
+    "id": 31327,
+    "name": "Korso",
+    "slug": "korso",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41304734421d088c72c82b8e7d148826f4864bc9.png",
+    "website": "https://korsoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Korso is an AI-powered operations platform for manufacturers that automates the full quote-to-order workflow: processing incoming RFQs, extracting line items, generating professional quotes, and tracking purchase orders through production. At its core is an intelligent assistant with frontier-model capabilities that understands your business documents, pricing history, and customer relationships, so your team can ask questions, get instant analysis, and make decisions in seconds rather than hours.",
+    "one_liner": "The Intelligence Layer for Manufacturing.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773339255,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/korso",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
   }
 ]
