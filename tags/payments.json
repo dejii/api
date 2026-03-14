@@ -3133,7 +3133,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f982deac62cf40f505362f3a6405c4b5190460.png",
     "website": "https://trusspayments.com",
-    "all_locations": "Victoria, BC, Canada; Vancouver, BC, Canada; Remote",
+    "all_locations": "Victoria, BC, Canada; Remote",
     "long_description": "Truss is an all-in-one banking and payment automation platform for construction businesses. With Truss, construction companies can manage bill payments, receivables, and corporate cards in one place. They can save time on manual data entry by integrating Truss with their existing tools and automating the full billing cycle, from invoicing and reconciliation.",
     "one_liner": "Banking for construction",
     "team_size": 12,
@@ -4022,7 +4022,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6469,48 +6469,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
   },
   {
-    "id": 31119,
-    "name": "ZeroSettle",
-    "slug": "zerosettle",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
-    "website": "https://zerosettle.io",
-    "all_locations": "",
-    "long_description": "ZeroSettle is a mobile SDK that switches customers from App Store billing to direct billing. It takes 15 minutes to set up and immediately unlocks zero App Store fees, higher retention/conversion, and instant payouts.",
-    "one_liner": "Keep 30% More of Your Mobile App Revenue with Direct Billing",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1770252325,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zerosettle",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
-  },
-  {
     "id": 31154,
     "name": "Orthogonal",
     "slug": "orthogonal",
@@ -6559,21 +6517,21 @@
     "name": "Sponge",
     "slug": "sponge",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1db2b5d11f2e4062fbe5039b3382027c6c156ad.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2da61e6033e85414e184773d09708a6cc75a2479.png",
     "website": "https://paysponge.com/",
     "all_locations": "",
     "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
-    "one_liner": "Financial infrastructure for the agentic economy",
+    "one_liner": "Financial infrastructure for the agent economy",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771280774,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Crypto / Web3",
-      "Payments"
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"

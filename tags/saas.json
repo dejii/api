@@ -26778,18 +26778,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9050d789232441d310c7b2bc53166a978e1f735d.png",
     "website": "https://www.sully.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sully.ai is printing labor for health systems by building a team of autonomous AI agents to run the entire hospital operations. The autonomous agents run like ClawdBot in the background (Receptionists, Medical Consultant, Triage Nurse, Scribes, Coders) collaborate to execute entire workflows—replacing the $800B labor doing all the manual work at hospitals.",
+    "long_description": "Sully.ai is printing labor for health systems by building a team of autonomous AI agents to run the entire hospital operations. The autonomous agents run like ClawdBot in the background (Receptionists, Medical Consultant, Triage Nurse, Scribes, Coders) collaborate to execute entire workflows. Replacing the $800B labor doing all the manual work at hospitals.",
     "one_liner": "Autonomous team of AI agents that runs the entire hospital operations",
     "team_size": 49,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1624955795,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44765,7 +44765,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
     "website": "https://archilabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ArchiLabs is building an AI co-pilot for architecture. Instead of spending hours on tedious tasks, architects can 10x their design speed with simple AI prompts.\r\n\r\nBrian and William met at Carnegie Mellon as engineers and separately had their own frustrating new construction experiences. Brian ran a tech-enabled homebuilding factory and found the design iteration process to be a massive bottleneck, while William built ground up homes in Texas and had a similar frustration. However, at the time, there wasn't an easy solution to the many pain points in the design process.\r\n\r\nAs AI reasoning models improve, Brian and William realized that there was a massive opportunity to fix the long-tail of frustrations and build a new construction design experience by fine tuning existing models, becoming bigger than Autodesk, the $60B company in the space.",
+    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers, starting with data center design.",
     "one_liner": "AI Copilot for Architects",
     "team_size": 2,
     "industry": "Real Estate and Construction",
@@ -44780,7 +44780,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -47956,15 +47956,15 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1761108820,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "Computer Vision",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -48167,16 +48167,16 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "We automate patent infringement detection. Our software interprets patents, identifies competing products, and generates claim charts showing who’s infringing and how.\r\n\r\nTeams use us to:\r\n\r\n- Find licensing and litigation targets\r\n- Send cease-and-desist letters\r\n- Find counter litigation\r\n- Sell IP in wind-downs\r\n- Accelerate M&A diligence\r\n\r\nWe also run AI invalidity and prior-art searches to help your patents hold up in court.\r\n\r\nCompanies spend up to $50k to file and maintain a single patent over its lifetime, but once it's granted, they let it collect dust. With Patent Watch, you can start turning your patent portfolio into revenue in 10 minutes.",
     "one_liner": "AI for detecting patent infringements",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758491604,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48283,47 +48283,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/expected-parrot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/expected-parrot.json"
-  },
-  {
-    "id": 30940,
-    "name": "Everest",
-    "slug": "everest",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
-    "website": "https://everestmanagedai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outsourced IT is a $350B industry running on 10-20% margins. We're building AI employees to help them solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT companies. We're now bringing the automation Netflix has to 150K companies globally. ",
-    "one_liner": "AI agents for IT services",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1756073155,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Ticketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/everest",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
   },
   {
     "id": 30943,
@@ -49190,21 +49149,21 @@
     "name": "Sponge",
     "slug": "sponge",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1db2b5d11f2e4062fbe5039b3382027c6c156ad.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2da61e6033e85414e184773d09708a6cc75a2479.png",
     "website": "https://paysponge.com/",
     "all_locations": "",
     "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
-    "one_liner": "Financial infrastructure for the agentic economy",
+    "one_liner": "Financial infrastructure for the agent economy",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771280774,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Crypto / Web3",
-      "Payments"
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -49227,49 +49186,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sponge",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sponge.json"
-  },
-  {
-    "id": 31169,
-    "name": "Proximitty",
-    "slug": "proximitty",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
-    "website": "https://proximitty.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 5 large banks and fintechs that process over >$1B of delinquent loans.",
-    "one_liner": "Autonomous business loan servicing",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1771451277,
-    "tags": [
-      "FinOps",
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "Lending"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/proximitty",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/proximitty.json"
   },
   {
     "id": 31176,
@@ -49736,48 +49652,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
-    "id": 31256,
-    "name": "Canary",
-    "slug": "canary",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d55fa276b2612d52a9f09c0de3bc498d001bf08.png",
-    "website": "https://www.runcanary.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI coding tools have made developers 100x faster but customer-facing incidents are up 43% YoY, QA hasn't kept up. Canary is the first AI QA engineer that understands your codebase. Instead of relying on flaky DOM scraping or screenshot analysis, Canary reads your source code directly to understand developer intent and catch broken user flows before they hit production. Engineering teams go from weeks of manual testing to 90%+ coverage in days. Built by a team that built coding agents at Windsurf, Cognition and Google.\r\n",
-    "one_liner": "The first AI QA engineer that understands your codebase",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1770954754,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/canary",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/canary.json"
-  },
-  {
     "id": 31275,
     "name": "Polymorph",
     "slug": "polymorph",
@@ -49785,18 +49659,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "",
-    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
-    "one_liner": "Personalized AI growth team for consumer apps",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel. we already support over 3.5M users across our customers.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
+    "one_liner": "Personalization infrastructure to increase engagement",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771290879,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49910,7 +49784,7 @@
     "website": "https://www.argalabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arga is the infrastructure that lets you validate code changes & agents at scale, because you (and your users) were never meant to be QA for AI.\r\n\r\nWe provide validation infrastructure with fully-functional mocks of external services for your code & agents. Deploy a PR into our production-like sandbox and it runs against replicas of any web app, fully compatible with any official API/SDK. These replicas surface edge cases traditional mocks or assertions miss, and you never hit rate limits. For AI agents, run red-teams with Arga: test tool calls, behaviours, and failure modes before anything reaches production. ",
-    "one_liner": "The validation framework for AI agents",
+    "one_liner": "The validation infrastructure for AI agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49981,48 +49855,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runharbor",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/runharbor.json"
-  },
-  {
-    "id": 31511,
-    "name": "Arzana",
-    "slug": "arzana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
-    "website": "https://arzana.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
-    "one_liner": "AI automation for the manufacturing office",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1773098013,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzana",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   }
 ]

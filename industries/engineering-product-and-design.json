@@ -11262,7 +11262,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18384,7 +18384,7 @@
     "website": "https://coval.dev",
     "all_locations": "",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
-    "one_liner": "Simulation & Evaluation for Voice and Chat Agents",
+    "one_liner": "Simulation & Evaluation that scales voice and chat AI agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20403,16 +20403,16 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Lingo.dev helps dev teams use LLMs for app localization and content translation. Lingo.dev Compiler helps React developers localize apps without rewriting the existing code. Lingo.dev CLI helps web and mobile teams use AI for producing perfect translations for their user interfaces and docs. Lingo.dev SDK helps use LLMs for real-time translations.",
     "one_liner": "Open-source, AI-powered i18n toolkit for instant localization.",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728389519,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "International",
-      "AI"
+      "International"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21455,14 +21455,14 @@
     "all_locations": "",
     "long_description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3–20x - all with just a few lines of code.\r\n\r\nhttps://cal.com/exla-ai/schedule",
     "one_liner": "An SDK to run transformer models anywhere",
-    "team_size": 0,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740012412,
     "tags": [
+      "Artificial Intelligence",
       "Edge Computing Semiconductors",
-      "Computer Vision",
-      "AI"
+      "Computer Vision"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23380,14 +23380,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
     "website": "https://www.nozomio.com/",
-    "all_locations": "",
-    "long_description": "Nozomio is a product lab building engineers for the age of AI.\r\n\r\nAs coding agents become ubiquitous, the real bottleneck shifts from “write code” to “know which code and docs to feed them.” Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.\r\n\r\nNozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. \r\n\r\ntry nia at trynia .ai <3 ",
-    "one_liner": "Context augmentation for agents",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
+    "one_liner": "Context retrieval for AI",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -23399,7 +23403,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -24734,7 +24739,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a0714fa881cb99f3080456e1c76e5b495a45be7.png",
     "website": "https://www.shortkit.dev",
     "all_locations": "",
-    "long_description": "ShortKit lets any consumer app launch a TikTok-grade short-form video feed. We launched two weeks ago and have $4,450 MRR across 5 consumer apps. Our CTO, Michael, previously built and scaled the video infra behind YouTube Shorts, powering billions of hours of daily playback. Our CEO, Neil, prev. scaled a SaaS company from 0 to $6M ARR as employee #1. We handle the full short-form stack— client SDKs, video infrastructure, rec systems, and content marketplaces — so product teams don't have to.",
+    "long_description": "ShortKit lets any consumer app launch a TikTok-grade short-form video feed. \r\n\r\nMichael, spent 6 years at YouTube building the infrastructure that powers YouTube Shorts. Neil, prev. scaled a SaaS company from 0 to $6M ARR as employee #1. \r\n\r\nWe handle the full short-form stack— client SDKs, video infrastructure, rec systems, and content marketplaces — so product teams don't have to.",
     "one_liner": "Short-form video SDK for consumer apps",
     "team_size": 2,
     "industry": "B2B",
@@ -25049,11 +25054,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770489645,
-    "tags": [
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Workflow Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25291,8 +25292,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
     "website": "https://www.corelayer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
-    "one_liner": "AI on-call engineer that debugs using data",
+    "long_description": "We’re building the AI on-call engineer for data-heavy, regulated industries like finance, healthcare, and insurance.\r\n\r\nEngineers in these industries need to inspect data to debug production issues. We continuously monitor logs, metrics, and data for issues and use agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure inference environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
+    "one_liner": "AI on-call engineer for data-heavy, regulated industries",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25333,19 +25334,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d55fa276b2612d52a9f09c0de3bc498d001bf08.png",
     "website": "https://www.runcanary.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AI coding tools have made developers 100x faster but customer-facing incidents are up 43% YoY, QA hasn't kept up. Canary is the first AI QA engineer that understands your codebase. Instead of relying on flaky DOM scraping or screenshot analysis, Canary reads your source code directly to understand developer intent and catch broken user flows before they hit production. Engineering teams go from weeks of manual testing to 90%+ coverage in days. Built by a team that built coding agents at Windsurf, Cognition and Google.\r\n",
-    "one_liner": "The first AI QA engineer that understands your codebase",
+    "one_liner": "The first AI QA engineer that understands your code",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770954754,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25357,8 +25353,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25420,20 +25415,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png",
     "website": "https://martini.film",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Martini is a collaborative, AI-native platform for professional filmmaking in the era of generative media.\r\nBy integrating the best generative models into professional workflows, we enable world-class creatives to harness generative AI as a legitimate medium for film.",
     "one_liner": "Collaborative AI-native filmmaking for professionals",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1768440972,
-    "tags": [
-      "Generative AI",
-      "Entertainment",
-      "Design Tools",
-      "Video",
-      "Media"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25445,8 +25434,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

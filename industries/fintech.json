@@ -13681,7 +13681,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f982deac62cf40f505362f3a6405c4b5190460.png",
     "website": "https://trusspayments.com",
-    "all_locations": "Victoria, BC, Canada; Vancouver, BC, Canada; Remote",
+    "all_locations": "Victoria, BC, Canada; Remote",
     "long_description": "Truss is an all-in-one banking and payment automation platform for construction businesses. With Truss, construction companies can manage bill payments, receivables, and corporate cards in one place. They can save time on manual data entry by integrating Truss with their existing tools and automating the full billing cycle, from invoicing and reconciliation.",
     "one_liner": "Banking for construction",
     "team_size": 12,
@@ -17985,7 +17985,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24233,8 +24233,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage built for venture-backed startups and small-to-medium businesses (SMBs). We simplify the complex U.S. insurance landscape—D&O, Cyber, E&O, General Liability, and more—with digital transparency and plain-English policy breakdowns.\r\n\r\nNeed insurance to close contracts? We provide multiple quotes from top-rated (AM Best A-rated) carriers, so you can meet vendor requirements and get certificates of insurance fast. Whether you're a Delaware C Corp getting your first policy, scaling a global team, or closing enterprise deals, we give you side-by-side comparisons, fair pricing benchmarks, and the right coverage—without overpaying or guesswork.",
-    "one_liner": "AI-native commercial insurance broker",
+    "long_description": "RiskCube is built for startups and growing businesses that need vendor-ready insurance to sell into larger customers, pass procurement, and move faster through onboarding.\r\nWe compare options from top-rated U.S. carriers using AI agents and licensed broker review, then get founders the coverage and Certificates of Insurance (COIs) they need to close enterprise deals.\r\n\r\nWe offer D&O, Tech E&O, Cyber Liability, or General Liability coverage. Instead of weeks of back-and-forth with traditional brokers, we assess your unique risk profile, scan top-rated carriers, and present the options that satisfy your vendor requirements with proof of coverage.\r\n\r\nWe serve AI/SaaS, Fintech, Biotech, and Web3 companies across the U.S. CA Licensed.",
+    "one_liner": "AI-native commercial insurance broker.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -25614,17 +25614,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
     "website": "https://alt-x.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private-market investing still runs on Excel. Every year, trillions of dollars in venture, real estate, and private-equity capital are underwritten through manual spreadsheet work — copying data from PDFs, CIMs, and data rooms into brittle models that haven’t fundamentally changed in decades.\r\n\r\nAlt-X is building the AI infrastructure layer inside Excel for alternative assets. We ingest unstructured deal materials and automatically turn them into clean, auditable Excel models. Analysts can go from raw documents to a working underwriting model in minutes instead of rebuilding spreadsheets cell by cell.\r\n\r\nAlt-X extracts and maps key KPIs like ARR, growth, NOI, IRR, leverage, and cap rate directly into Excel, then generates institutional-grade models, sensitivities, and IC-ready outputs that remain fully editable and transparent.\r\n\r\nTeams using Alt-X reduce deal evaluation timelines by up to 70%, save 30–50 analyst hours per deal, and screen 4× more opportunities with the same headcount. By automating extraction, modeling, and error detection inside Excel, Alt-X turns underwriting from a manual bottleneck into a scalable workflow.\r\n\r\nOur first wedge is real estate and private equity, where Excel underwriting is slowest and most painful. We’re already piloting with family offices and private funds managing over $200M in assets. Alt-X is priced as a SaaS product starting at $30/month, with higher tiers for teams and advanced workflows.\r\n\r\nThe opportunity is massive: over $1.4T in private-market deals are underwritten globally each year, with $25–30B spent on diligence and analytics — nearly all of it manual and Excel-based. Alt-X’s mission is to become the operating system for private-market investing inside Excel — the Bloomberg Terminal of the AI era.",
+    "all_locations": "",
+    "long_description": "Alt-X is building the Cursor for financial modeling in Excel, an Excel agent that you can actually trust.\r\n\r\nPrivate-market investing still runs on Excel. Every year, trillions of dollars in real estate and private-equity deals are underwritten through manual spreadsheet work — copying numbers from PDFs, CIMs, and data rooms into fragile models that analysts rebuild from scratch.\r\n\r\nAlt-X is the AI underwriting layer for Excel. It turns raw deal materials into clean, auditable financial models inside Excel, automatically extracting key metrics and generating institutional-grade underwriting models that analysts can immediately review and edit.\r\n\r\nBuilding reliable AI workflows for financial models is difficult. Underwriting models contain thousands of interdependent formulas across multiple sheets, and small errors can materially change investment decisions. Alt-X focuses on making model generation and data extraction reliable enough for real deal workflows, not just demos. We built our product to underwrite billions.\r\n\r\nRyan Samadi (Stanford CS/AI, former Citadel trader) and Michael Wachsmann (Cornell CS, infrastructure engineer) have spent years building systems around financial data and modeling workflows.\r\nWe have hundreds of millions in AUM using us already, and our users already prefer us to legacy cash flow modeling tools in the real estate space.\r\n\r\nPrivate markets remain one of the largest manual workflows in finance. Alt-X’s goal is to become the default infrastructure layer for underwriting private-market investments inside Excel.",
     "one_liner": "Automation for institutional-grade financial modeling in Excel",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1761174591,
-    "tags": [
-      "Fintech",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25635,8 +25632,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25708,7 +25704,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -25982,13 +25978,7 @@
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1770252325,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Cryptocurrency"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -26096,19 +26086,16 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
     "website": "https://proximitty.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 5 large banks and fintechs that process over >$1B of delinquent loans.",
+    "all_locations": "",
+    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 4 large banks and fintechs that process over >$1B of delinquent loans.",
     "one_liner": "Autonomous business loan servicing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1771451277,
     "tags": [
-      "FinOps",
       "Fintech",
-      "SaaS",
-      "B2B",
-      "Lending"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26121,8 +26108,7 @@
       "Credit and Lending"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26473,5 +26459,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unifold",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
+  },
+  {
+    "id": 31385,
+    "name": "Zolvo",
+    "slug": "zolvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
+    "website": "https://zolvo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Commercial lenders manage billions in assets but service their loans like it's 2005: spreadsheets, legacy software, and teams of people doing manual reconciliation all day. Zolvo replaces that entire back office with AI. We automate reconciliation, verification, collections, and reporting so lenders can scale their portfolios without scaling their teams. We're building the operating system for commercial lending",
+    "one_liner": "AI that automates servicing for commercial lenders",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1773364062,
+    "tags": [
+      "B2B",
+      "Lending",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zolvo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zolvo.json"
   }
 ]

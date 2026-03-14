@@ -7474,25 +7474,26 @@
   },
   {
     "id": 29201,
-    "name": "Legora (formerly Leya)",
+    "name": "Legora",
     "slug": "legora",
     "former_names": [
       "Leya",
-      "Legora"
+      "Legora",
+      "Legora (formerly Leya)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
     "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 65,
+    "team_size": 250,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11141,8 +11142,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
     "website": "https://www.pollen.cx/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
-    "one_liner": "AI Agents for Customer Success",
+    "long_description": "Pollen is building AI agents that automate post-sales for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents That Automate Customer Success for Founders",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -11356,23 +11357,21 @@
     "slug": "everest",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
-    "website": "https://everestmanagedai.com/",
+    "website": "https://everestagi.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outsourced IT is a $350B industry running on 10-20% margins. We're building AI employees to help them solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT companies. We're now bringing the automation Netflix has to 150K companies globally. ",
-    "one_liner": "AI agents for IT services",
+    "long_description": "",
+    "one_liner": "Giving AI a soul ",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1756073155,
     "tags": [
       "Generative AI",
-      "SaaS",
-      "B2B",
-      "Ticketing"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -11401,8 +11400,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
     "all_locations": "",
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Applovin, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
-    "one_liner": "Agent lab for creative production",
+    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
+    "one_liner": "AI Brand and Performance Ads",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -11603,47 +11602,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sonarly",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sonarly.json"
-  },
-  {
-    "id": 31108,
-    "name": "Strand AI",
-    "slug": "strand-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png",
-    "website": "https://strandai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strand AI develops foundation models to generate missing bio-data about patients. With this imputed data, pharmaceutical companies can select better patients for their drug trials and shave months from their drug launch timelines. We’ve already trained a multimodal foundation model that integrates spatial biology modalities, beating SOTA at a fraction of the cost.",
-    "one_liner": "Curated multimodal datasets for biology AI",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1769406494,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Biotech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/strand-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/strand-ai.json"
   },
   {
     "id": 31130,
@@ -11861,51 +11819,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ritivel",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
-  },
-  {
-    "id": 31306,
-    "name": "Martini",
-    "slug": "martini",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png",
-    "website": "https://martini.film",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Martini is a collaborative, AI-native platform for professional filmmaking in the era of generative media.\r\nBy integrating the best generative models into professional workflows, we enable world-class creatives to harness generative AI as a legitimate medium for film.",
-    "one_liner": "Collaborative AI-native filmmaking for professionals",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1768440972,
-    "tags": [
-      "Generative AI",
-      "Entertainment",
-      "Design Tools",
-      "Video",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/martini",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/martini.json"
   },
   {
     "id": 31453,

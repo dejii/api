@@ -16406,7 +16406,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f982deac62cf40f505362f3a6405c4b5190460.png",
     "website": "https://trusspayments.com",
-    "all_locations": "Victoria, BC, Canada; Vancouver, BC, Canada; Remote",
+    "all_locations": "Victoria, BC, Canada; Remote",
     "long_description": "Truss is an all-in-one banking and payment automation platform for construction businesses. With Truss, construction companies can manage bill payments, receivables, and corporate cards in one place. They can save time on manual data entry by integrating Truss with their existing tools and automating the full billing cycle, from invoicing and reconciliation.",
     "one_liner": "Banking for construction",
     "team_size": 12,
@@ -21359,7 +21359,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28767,8 +28767,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube (YC F24) is an AI-native insurance brokerage built for venture-backed startups and small-to-medium businesses (SMBs). We simplify the complex U.S. insurance landscape—D&O, Cyber, E&O, General Liability, and more—with digital transparency and plain-English policy breakdowns.\r\n\r\nNeed insurance to close contracts? We provide multiple quotes from top-rated (AM Best A-rated) carriers, so you can meet vendor requirements and get certificates of insurance fast. Whether you're a Delaware C Corp getting your first policy, scaling a global team, or closing enterprise deals, we give you side-by-side comparisons, fair pricing benchmarks, and the right coverage—without overpaying or guesswork.",
-    "one_liner": "AI-native commercial insurance broker",
+    "long_description": "RiskCube is built for startups and growing businesses that need vendor-ready insurance to sell into larger customers, pass procurement, and move faster through onboarding.\r\nWe compare options from top-rated U.S. carriers using AI agents and licensed broker review, then get founders the coverage and Certificates of Insurance (COIs) they need to close enterprise deals.\r\n\r\nWe offer D&O, Tech E&O, Cyber Liability, or General Liability coverage. Instead of weeks of back-and-forth with traditional brokers, we assess your unique risk profile, scan top-rated carriers, and present the options that satisfy your vendor requirements with proof of coverage.\r\n\r\nWe serve AI/SaaS, Fintech, Biotech, and Web3 companies across the U.S. CA Licensed.",
+    "one_liner": "AI-native commercial insurance broker.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -29972,45 +29972,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
   },
   {
-    "id": 30860,
-    "name": "Alt-X",
-    "slug": "alt-x",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
-    "website": "https://alt-x.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private-market investing still runs on Excel. Every year, trillions of dollars in venture, real estate, and private-equity capital are underwritten through manual spreadsheet work — copying data from PDFs, CIMs, and data rooms into brittle models that haven’t fundamentally changed in decades.\r\n\r\nAlt-X is building the AI infrastructure layer inside Excel for alternative assets. We ingest unstructured deal materials and automatically turn them into clean, auditable Excel models. Analysts can go from raw documents to a working underwriting model in minutes instead of rebuilding spreadsheets cell by cell.\r\n\r\nAlt-X extracts and maps key KPIs like ARR, growth, NOI, IRR, leverage, and cap rate directly into Excel, then generates institutional-grade models, sensitivities, and IC-ready outputs that remain fully editable and transparent.\r\n\r\nTeams using Alt-X reduce deal evaluation timelines by up to 70%, save 30–50 analyst hours per deal, and screen 4× more opportunities with the same headcount. By automating extraction, modeling, and error detection inside Excel, Alt-X turns underwriting from a manual bottleneck into a scalable workflow.\r\n\r\nOur first wedge is real estate and private equity, where Excel underwriting is slowest and most painful. We’re already piloting with family offices and private funds managing over $200M in assets. Alt-X is priced as a SaaS product starting at $30/month, with higher tiers for teams and advanced workflows.\r\n\r\nThe opportunity is massive: over $1.4T in private-market deals are underwritten globally each year, with $25–30B spent on diligence and analytics — nearly all of it manual and Excel-based. Alt-X’s mission is to become the operating system for private-market investing inside Excel — the Bloomberg Terminal of the AI era.",
-    "one_liner": "Automation for institutional-grade financial modeling in Excel",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1761174591,
-    "tags": [
-      "Fintech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alt-x",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/alt-x.json"
-  },
-  {
     "id": 30886,
     "name": "Mod AI",
     "slug": "mod-ai",
@@ -30309,48 +30270,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/axis-2.json"
   },
   {
-    "id": 31119,
-    "name": "ZeroSettle",
-    "slug": "zerosettle",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452371c9b837fb899ab50db5096bb04a576b19fb.png",
-    "website": "https://zerosettle.io",
-    "all_locations": "",
-    "long_description": "ZeroSettle is a mobile SDK that switches customers from App Store billing to direct billing. It takes 15 minutes to set up and immediately unlocks zero App Store fees, higher retention/conversion, and instant payouts.",
-    "one_liner": "Keep 30% More of Your Mobile App Revenue with Direct Billing",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1770252325,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zerosettle",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/zerosettle.json"
-  },
-  {
     "id": 31126,
     "name": "Palus Finance",
     "slug": "palus-finance",
@@ -30521,21 +30440,21 @@
     "name": "Sponge",
     "slug": "sponge",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1db2b5d11f2e4062fbe5039b3382027c6c156ad.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2da61e6033e85414e184773d09708a6cc75a2479.png",
     "website": "https://paysponge.com/",
     "all_locations": "",
     "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
-    "one_liner": "Financial infrastructure for the agentic economy",
+    "one_liner": "Financial infrastructure for the agent economy",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771280774,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Crypto / Web3",
-      "Payments"
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -30566,19 +30485,16 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
     "website": "https://proximitty.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 5 large banks and fintechs that process over >$1B of delinquent loans.",
+    "all_locations": "",
+    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 4 large banks and fintechs that process over >$1B of delinquent loans.",
     "one_liner": "Autonomous business loan servicing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1771451277,
     "tags": [
-      "FinOps",
       "Fintech",
-      "SaaS",
-      "B2B",
-      "Lending"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30591,8 +30507,7 @@
       "Credit and Lending"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -30778,49 +30693,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
-  },
-  {
-    "id": 31236,
-    "name": "Balance",
-    "slug": "getbalance",
-    "former_names": [
-      "Balance",
-      "Balance AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ea7352fed58904bc7cc1f143d4af52e98a52d64.png",
-    "website": "https://getbalance.ai",
-    "all_locations": "",
-    "long_description": "Balance is an AI accounting firm that helps SMBs close their monthly books. Our agents do the work of an in-house finance hire, reconciling books in real time and flagging issues before they become problems.",
-    "one_liner": "Full-Stack AI Accounting",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1768976472,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/getbalance",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
   },
   {
     "id": 31253,

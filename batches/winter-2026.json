@@ -97,8 +97,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee5f921620382e78c7f4ce4082b655aed675702d.png",
     "website": "https://gru.space",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GRU builds off-planet habitats using in-situ resource utilization technology, turning local material into building material. Our first habitat will be a hotel on the Moon for space tourists, aiming to open 2032.\r\n\r\nIn 2029, our demo mission will turn lunar regolith into bricks and demonstrate our modular pressurized habitat system. A second mission will begin laying the hotel’s foundation in a lunar cave. A third mission will open the first lunar hotel.\r\n\r\nWe don’t stop at Moon hotels. GRU’s long-term plan:\r\n\r\n1. Build the first hotel on the Moon. GRU solves off‑world surface habitation.\r\n2. Build America’s first Moon base: roads, mass drivers, warehouses, and physical infrastructure.\r\n3. Repeat on Mars and build the first cities there.\r\n4. Own property on the Moon and Mars as these economies grow.\r\n5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization.\r\n\r\nGRU Space is backed by investors in SpaceX + Anduril, and is part of Nvidia’s Inception program.",
-    "one_liner": "Building the First Hotel on the Moon",
+    "long_description": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. \r\n\r\nOur first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. \r\n\r\nWe don’t stop at Moon hotels. GRU’s long-term plan:\r\n\r\n1. Build the first hotel on the Moon. GRU solves off‑world surface habitation.\r\n2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure.\r\n3. Repeat on Mars and build the first cities there.\r\n4. Own property on the Moon and Mars as these economies grow.\r\n5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization.\r\n\r\nGRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon. ",
+    "one_liner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -111,7 +111,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -273,8 +273,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
     "website": "https://www.pollen.cx/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pollen is building AI agents that make every customer feel like they’re your first. Pollen monitors every customer account to detect real churn and upsell signals by connecting to your email, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
-    "one_liner": "AI Agents for Customer Success",
+    "long_description": "Pollen is building AI agents that automate post-sales for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "one_liner": "AI Agents That Automate Customer Success for Founders",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -360,17 +360,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
     "website": "https://alt-x.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private-market investing still runs on Excel. Every year, trillions of dollars in venture, real estate, and private-equity capital are underwritten through manual spreadsheet work — copying data from PDFs, CIMs, and data rooms into brittle models that haven’t fundamentally changed in decades.\r\n\r\nAlt-X is building the AI infrastructure layer inside Excel for alternative assets. We ingest unstructured deal materials and automatically turn them into clean, auditable Excel models. Analysts can go from raw documents to a working underwriting model in minutes instead of rebuilding spreadsheets cell by cell.\r\n\r\nAlt-X extracts and maps key KPIs like ARR, growth, NOI, IRR, leverage, and cap rate directly into Excel, then generates institutional-grade models, sensitivities, and IC-ready outputs that remain fully editable and transparent.\r\n\r\nTeams using Alt-X reduce deal evaluation timelines by up to 70%, save 30–50 analyst hours per deal, and screen 4× more opportunities with the same headcount. By automating extraction, modeling, and error detection inside Excel, Alt-X turns underwriting from a manual bottleneck into a scalable workflow.\r\n\r\nOur first wedge is real estate and private equity, where Excel underwriting is slowest and most painful. We’re already piloting with family offices and private funds managing over $200M in assets. Alt-X is priced as a SaaS product starting at $30/month, with higher tiers for teams and advanced workflows.\r\n\r\nThe opportunity is massive: over $1.4T in private-market deals are underwritten globally each year, with $25–30B spent on diligence and analytics — nearly all of it manual and Excel-based. Alt-X’s mission is to become the operating system for private-market investing inside Excel — the Bloomberg Terminal of the AI era.",
+    "all_locations": "",
+    "long_description": "Alt-X is building the Cursor for financial modeling in Excel, an Excel agent that you can actually trust.\r\n\r\nPrivate-market investing still runs on Excel. Every year, trillions of dollars in real estate and private-equity deals are underwritten through manual spreadsheet work — copying numbers from PDFs, CIMs, and data rooms into fragile models that analysts rebuild from scratch.\r\n\r\nAlt-X is the AI underwriting layer for Excel. It turns raw deal materials into clean, auditable financial models inside Excel, automatically extracting key metrics and generating institutional-grade underwriting models that analysts can immediately review and edit.\r\n\r\nBuilding reliable AI workflows for financial models is difficult. Underwriting models contain thousands of interdependent formulas across multiple sheets, and small errors can materially change investment decisions. Alt-X focuses on making model generation and data extraction reliable enough for real deal workflows, not just demos. We built our product to underwrite billions.\r\n\r\nRyan Samadi (Stanford CS/AI, former Citadel trader) and Michael Wachsmann (Cornell CS, infrastructure engineer) have spent years building systems around financial data and modeling workflows.\r\nWe have hundreds of millions in AUM using us already, and our users already prefer us to legacy cash flow modeling tools in the real estate space.\r\n\r\nPrivate markets remain one of the largest manual workflows in finance. Alt-X’s goal is to become the default infrastructure layer for underwriting private-market investments inside Excel.",
     "one_liner": "Automation for institutional-grade financial modeling in Excel",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1761174591,
-    "tags": [
-      "Fintech",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -381,8 +378,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -523,18 +519,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
     "website": "https://runcaptain.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Captain delivers the most accurate general-purpose retrieval engine for unstructured data.\r\n\r\nConnect file stores and effortlessly retrieve knowledge with much higher accuracy than RAG (Avg: 78% → 95% + citations).",
+    "all_locations": "",
+    "long_description": "Captain provides a straightforward API for AI agents to accurately search through files (Avg: 78% → 95% + citations). We’ll index unstructured data from the sources you already use like S3, SharePoint, and Google Drive, and effortlessly scale to petabyte-level datasets. We’re the Snowflake for Unstructured Data. ",
     "one_liner": "Accurate knowledge search that scales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1762492786,
-    "tags": [
-      "Developer Tools",
-      "Big Data",
-      "Data Engineering"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -546,8 +538,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1630,17 +1621,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad7cbe9bb51e9d5c0dea0e9dc6f1d62f8da6903.png",
     "website": "https://klausai.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Get your personal OpenClaw instance on the cloud and connected to your Slack or other messaging app in 3 minutes. Pre-installed security features and common skills. ",
     "one_liner": "Fast and Safe OpenClaw on the cloud",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770051535,
-    "tags": [
-      "AIOps",
-      "Deep Learning"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1652,8 +1640,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2044,7 +2031,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a0714fa881cb99f3080456e1c76e5b495a45be7.png",
     "website": "https://www.shortkit.dev",
     "all_locations": "",
-    "long_description": "ShortKit lets any consumer app launch a TikTok-grade short-form video feed. We launched two weeks ago and have $4,450 MRR across 5 consumer apps. Our CTO, Michael, previously built and scaled the video infra behind YouTube Shorts, powering billions of hours of daily playback. Our CEO, Neil, prev. scaled a SaaS company from 0 to $6M ARR as employee #1. We handle the full short-form stack— client SDKs, video infrastructure, rec systems, and content marketplaces — so product teams don't have to.",
+    "long_description": "ShortKit lets any consumer app launch a TikTok-grade short-form video feed. \r\n\r\nMichael, spent 6 years at YouTube building the infrastructure that powers YouTube Shorts. Neil, prev. scaled a SaaS company from 0 to $6M ARR as employee #1. \r\n\r\nWe handle the full short-form stack— client SDKs, video infrastructure, rec systems, and content marketplaces — so product teams don't have to.",
     "one_liner": "Short-form video SDK for consumer apps",
     "team_size": 2,
     "industry": "B2B",
@@ -2434,18 +2421,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3ab1b6b156ac5fcdb95c20ddc1b2ebfc47a69ae.png",
     "website": "https://strandai.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Strand AI develops foundation models to generate missing bio-data about patients. With this imputed data, pharmaceutical companies can select better patients for their drug trials and shave months from their drug launch timelines. We’ve already trained a multimodal foundation model that integrates spatial biology modalities, beating SOTA at a fraction of the cost.",
     "one_liner": "Curated multimodal datasets for biology AI",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1769406494,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Biotech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2457,8 +2440,7 @@
       "Drug Discovery and Delivery"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2830,13 +2812,7 @@
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1770252325,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Cryptocurrency"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4098,7 +4074,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da34d67bc7bfb583fad0d2c587e602fbe787b210.png",
     "website": "https://www.ventura.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ventura (YC W26) is building the AI teammate for industrial distributors, starting with quoting. We're live with customers in the building materials supply industry.\r\n\r\nVentura works with your existing ERP and can be trained to learn to execute new processes, like a new teammate.\r\n\r\nCEO Swen previously built and exited a wholesale distribution SaaS.\r\n\r\nCTO Jack was the Founding Engineer at Develop Health (company scaled 0→$7M ARR in 14 months with 5 employees).",
+    "long_description": "Ventura (YC W26) is building the AI teammate for industrial distributors, starting with quoting. We're live with customers in the building materials supply industry.\r\n\r\nVentura works with your existing ERP and can be trained to execute new processes, like a new teammate.\r\n\r\nCEO Swen previously built and exited a wholesale distribution SaaS.\r\n\r\nCTO Jack was the Founding Engineer at Develop Health (company scaled 0→$7M ARR in 14 months with 5 employees).",
     "one_liner": "AI Teammates for Industrial Distributors",
     "team_size": 2,
     "industry": "Industrials",
@@ -4176,21 +4152,21 @@
     "name": "Sponge",
     "slug": "sponge",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1db2b5d11f2e4062fbe5039b3382027c6c156ad.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2da61e6033e85414e184773d09708a6cc75a2479.png",
     "website": "https://paysponge.com/",
     "all_locations": "",
     "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
-    "one_liner": "Financial infrastructure for the agentic economy",
+    "one_liner": "Financial infrastructure for the agent economy",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771280774,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Crypto / Web3",
-      "Payments"
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -4527,19 +4503,16 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
     "website": "https://proximitty.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 5 large banks and fintechs that process over >$1B of delinquent loans.",
+    "all_locations": "",
+    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 4 large banks and fintechs that process over >$1B of delinquent loans.",
     "one_liner": "Autonomous business loan servicing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1771451277,
     "tags": [
-      "FinOps",
       "Fintech",
-      "SaaS",
-      "B2B",
-      "Lending"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4552,8 +4525,7 @@
       "Credit and Lending"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4614,15 +4586,15 @@
     "website": "https://overshoot.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Overshoot makes it easy for developers to build and run real-time vision applications.\r\n\r\nAI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. \r\n\r\nHowever, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. \r\n\r\nOvershoot solves this.\r\n\r\nToday, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. \r\n\r\nOur moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines.\r\n\r\nYounes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
-    "one_liner": "Enable developers to build and run AI vision applications",
+    "one_liner": "AI Infra for real-time vision applications",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770705031,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5036,11 +5008,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770489645,
-    "tags": [
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Workflow Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6676,11 +6644,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768976472,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6793,8 +6757,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
     "website": "https://www.corelayer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
-    "one_liner": "AI on-call engineer that debugs using data",
+    "long_description": "We’re building the AI on-call engineer for data-heavy, regulated industries like finance, healthcare, and insurance.\r\n\r\nEngineers in these industries need to inspect data to debug production issues. We continuously monitor logs, metrics, and data for issues and use agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure inference environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
+    "one_liner": "AI on-call engineer for data-heavy, regulated industries",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -7303,19 +7267,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d55fa276b2612d52a9f09c0de3bc498d001bf08.png",
     "website": "https://www.runcanary.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AI coding tools have made developers 100x faster but customer-facing incidents are up 43% YoY, QA hasn't kept up. Canary is the first AI QA engineer that understands your codebase. Instead of relying on flaky DOM scraping or screenshot analysis, Canary reads your source code directly to understand developer intent and catch broken user flows before they hit production. Engineering teams go from weeks of manual testing to 90%+ coverage in days. Built by a team that built coding agents at Windsurf, Cognition and Google.\r\n",
-    "one_liner": "The first AI QA engineer that understands your codebase",
+    "one_liner": "The first AI QA engineer that understands your code",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770954754,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7327,8 +7286,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7432,8 +7390,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a713774c85daa51c5353d80d0b599eae5069e05.png",
     "website": "https://veriad.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Veriad is building AI compliance officers for marketing. Our agents replace human content reviewers to ensure ads are on brand and legally compliant. Rohan and Anton previously built and sold internal compliance tools to F500s and met on the founding team of a YC-backed startup.",
-    "one_liner": "AI compliance officers",
+    "long_description": "Veriad builds AI agents that replicate and replace enterprise marketing roles. We’re starting with marketing compliance. Today, our agents replace marketing compliance reviewers to ensure ads are on brand and legally compliant. Rohan and Anton previously built and sold internal compliance tools to F500s and met on the founding team of a YC-backed startup.",
+    "one_liner": "Enterprise marketing agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -7682,18 +7640,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "",
-    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
-    "one_liner": "Personalized AI growth team for consumer apps",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel. we already support over 3.5M users across our customers.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
+    "one_liner": "Personalization infrastructure to increase engagement",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771290879,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7941,20 +7899,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
     "website": "https://grazemate.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nAt the push of a button, our AI drones fly to a paddock, position themselves around the herd and guide them to new paddocks. Instead of a full day mustering with helicopters, motorbikes, and horses, ranchers use GrazeMate.\r\n\r\nWe work with the world's largest cattle ranches, giving them complete visibility into their operations. While our drones herd cattle autonomously, they simultaneously estimate animal weights, measure grass biomass, monitoring water levels, and detect sick animals. We're building physical AI that gives farmers superhuman capabilities - managing thousands of livestock across massive distances from their phone.",
     "one_liner": "Robot Cowboys that Herd Cattle with AI Drones",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1768433444,
-    "tags": [
-      "Livestock Health",
-      "Reinforcement Learning",
-      "Robotics",
-      "Drones",
-      "Sustainable Agriculture"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7966,8 +7918,6 @@
       "Agriculture"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -8317,20 +8267,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png",
     "website": "https://martini.film",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Martini is a collaborative, AI-native platform for professional filmmaking in the era of generative media.\r\nBy integrating the best generative models into professional workflows, we enable world-class creatives to harness generative AI as a legitimate medium for film.",
     "one_liner": "Collaborative AI-native filmmaking for professionals",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1768440972,
-    "tags": [
-      "Generative AI",
-      "Entertainment",
-      "Design Tools",
-      "Video",
-      "Media"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -8342,8 +8286,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

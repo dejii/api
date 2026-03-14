@@ -13335,51 +13335,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/benepass.json"
   },
   {
-    "id": 13179,
-    "name": "Signadot",
-    "slug": "signadot",
-    "former_names": [
-      "blipbox",
-      "signadot"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/768c0b0d1a92b7adab11c2cc4c95cefa19ffdf27.png",
-    "website": "https://www.signadot.com/",
-    "all_locations": "San Mateo, CA, USA; Remote",
-    "long_description": "Signadot is a K8s-native platform for agentic validation. As AI accelerates code generation, verification is the new bottleneck. We provide ephemeral environments and a validation framework for microservices, ensuring high-velocity generation results in safely merged production code.",
-    "one_liner": "Shift Left Testing for Microservices",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1614132625,
-    "tags": [
-      "Developer Tools",
-      "Kubernetes"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/signadot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/signadot.json"
-  },
-  {
     "id": 13208,
     "name": "Whatnot",
     "slug": "whatnot",
@@ -16936,7 +16891,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20570,49 +20525,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/svix.json"
   },
   {
-    "id": 23368,
-    "name": "Spline",
-    "slug": "spline",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb39af82fd79053c000de86fa1986b9da4e89073.png",
-    "website": "http://spline.design/",
-    "all_locations": "Reston, VA, USA; Remote",
-    "long_description": "Easily create and publish 3D for multiple platforms. Build and iterate fast with production-ready results.",
-    "one_liner": "Design and collaborate in multiple dimensions.",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1616159954,
-    "tags": [
-      "Artificial Intelligence",
-      "Design Tools",
-      "AR"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/spline.json"
-  },
-  {
     "id": 23371,
     "name": "BusinessOnBot",
     "slug": "businessonbot",
@@ -23380,7 +23292,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f982deac62cf40f505362f3a6405c4b5190460.png",
     "website": "https://trusspayments.com",
-    "all_locations": "Victoria, BC, Canada; Vancouver, BC, Canada; Remote",
+    "all_locations": "Victoria, BC, Canada; Remote",
     "long_description": "Truss is an all-in-one banking and payment automation platform for construction businesses. With Truss, construction companies can manage bill payments, receivables, and corporate cards in one place. They can save time on manual data entry by integrating Truss with their existing tools and automating the full billing cycle, from invoicing and reconciliation.",
     "one_liner": "Banking for construction",
     "team_size": 12,
@@ -25568,18 +25480,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9050d789232441d310c7b2bc53166a978e1f735d.png",
     "website": "https://www.sully.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sully.ai is printing labor for health systems by building a team of autonomous AI agents to run the entire hospital operations. The autonomous agents run like ClawdBot in the background (Receptionists, Medical Consultant, Triage Nurse, Scribes, Coders) collaborate to execute entire workflows—replacing the $800B labor doing all the manual work at hospitals.",
+    "long_description": "Sully.ai is printing labor for health systems by building a team of autonomous AI agents to run the entire hospital operations. The autonomous agents run like ClawdBot in the background (Receptionists, Medical Consultant, Triage Nurse, Scribes, Coders) collaborate to execute entire workflows. Replacing the $800B labor doing all the manual work at hospitals.",
     "one_liner": "Autonomous team of AI agents that runs the entire hospital operations",
     "team_size": 49,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1624955795,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27528,7 +27440,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28840,7 +28752,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37306,11 +37218,11 @@
     "name": "Kino AI",
     "slug": "kino-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99d7a44ea4e674cd9a88d4827761019a291032c6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0a46950ff7350dee9729b6aa2da1c83cce56306.png",
     "website": "https://kino.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kino automatically organizes footage to make video editing faster and more enjoyable. Kino saves hours every day for all types of video creation, from Youtube content to Hollywood blockbusters.\r\n",
-    "one_liner": "Kino automatically organizes footage to make video editing faster. ",
+    "long_description": "Kino is a web-native video editor where your footage, your team, and your AI agents work together — video editing never had its Figma moment, and it certainly never had its Cursor moment. We proved our platform on Hollywood's biggest shows, and soon it's free for everyone.",
+    "one_liner": "Kino is an AI media manager and video editor for humans and agents.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -39625,14 +39537,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
     "one_liner": "AI Powered All-In-One Payroll, HR + Recruiting ",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1691417670,
     "tags": [
-      "Artificial Intelligence",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41452,25 +41364,26 @@
   },
   {
     "id": 29201,
-    "name": "Legora (formerly Leya)",
+    "name": "Legora",
     "slug": "legora",
     "former_names": [
       "Leya",
-      "Legora"
+      "Legora",
+      "Legora (formerly Leya)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
     "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 65,
+    "team_size": 250,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45765,50 +45678,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/getcrux.json"
   },
   {
-    "id": 29516,
-    "name": "Same",
-    "slug": "same",
-    "former_names": [
-      "Million.js",
-      "Million"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e252dccfa9608a9c8b071de84c09ddbfba0bd06.png",
-    "website": "https://same.new",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are Same (YC W24). We want to help people easy develop and run products.\r\n\r\nWe believe that soon everyone will be able to freely explore, create, and implement various ideas without being restricted by technology and time. Coding in its current form is still too complicated for most people. It gives control to a small elite, takes years to master, and remains unintuitive and time-consuming to the average person.\r\n\r\nWe spent the last two years building tools like Million.js and React Scan that extend what millions of developers could create. Now, we're going to share that magic with the rest of the world.\r\n\r\nWe're based in San Francisco and Shanghai.",
-    "one_liner": "Build products without coding",
-    "team_size": 5,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1703896590,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/same",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/same.json"
-  },
-  {
     "id": 29517,
     "name": "RetailReady",
     "slug": "retailready",
@@ -45861,7 +45730,7 @@
     "website": "https://coval.dev",
     "all_locations": "",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
-    "one_liner": "Simulation & Evaluation for Voice and Chat Agents",
+    "one_liner": "Simulation & Evaluation that scales voice and chat AI agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -46310,6 +46179,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saphira-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/saphira-ai.json"
+  },
+  {
+    "id": 29597,
+    "name": "Spaceium Inc",
+    "slug": "spaceium-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0afea0e3a81a3c4895401d9a1e4f5620a04a076b.png",
+    "website": "https://spaceium.com",
+    "all_locations": "",
+    "long_description": "Spaceium builds fully automated space stations to refuel and repair spacecraft. We have secured $86.1 million in binding commercial contracts and have an additional $230 million in the pipeline. Additionally, we have 1 billion dollars in letters of intent. We have successfully tested our hardware, which will launch to space next year. \r\n\r\nOur fully automated space stations will efficiently store and transfer both cryogenic (extremely cold) and non-cryogenic fuels with zero loss during storage and transfer. And they can transfer fuel seamlessly to any spacecraft design using our proprietary modular robotic arm.\r\n\r\nOur customers include launch vehicles, orbital transfer vehicles, moon landers, and spacecraft that benefit from increased payload capacity and extended travel capabilities. Our long-term vision is to build service hubs along the space superhighway to connect Earth to Moon and Mars and help humanity to become multi multi-planetary species\r\n",
+    "one_liner": "In-Space Refueling",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1715783569,
+    "tags": [
+      "Hard Tech",
+      "Robotics",
+      "Space Exploration",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spaceium-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/spaceium-inc.json"
   },
   {
     "id": 29605,
@@ -51193,6 +51103,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/alex.json"
   },
   {
+    "id": 30105,
+    "name": "ArchiLabs",
+    "slug": "archilabs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
+    "website": "https://archilabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ArchiLabs is building the AI CAD tool for architects and engineers, starting with data center design.",
+    "one_liner": "AI Copilot for Architects",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1732038457,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Construction",
+      "B2B",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archilabs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/archilabs.json"
+  },
+  {
     "id": 30109,
     "name": "FutureClinic",
     "slug": "futureclinic",
@@ -52453,12 +52408,17 @@
     "website": "https://osmosis.ai/",
     "all_locations": "",
     "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
-    "one_liner": "Reinforcement Learning for AI Agents",
+    "one_liner": "Reinforcement Learning (RL) for AI Agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737656598,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -53537,7 +53497,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Optifye.ai does AI performance monitoring for factory workers\r\n\r\nWe place cameras in factories and use vision AI to tell supervisors who's working and who's not in real time. \r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure worker output and boost efficiency!",
     "one_liner": "AI performance monitoring for factory workers",
-    "team_size": 3,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1739567184,
@@ -55161,7 +55121,7 @@
     "all_locations": "",
     "long_description": "Kaizen leverages browser agents to enable instant integration into websites without APIs. Leading AI companies use Kaizen to read and write data from legacy portals in logistics, healthcare, and financial services.\r\n",
     "one_liner": "Automate anything on the web.",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747626364,
@@ -55242,7 +55202,12 @@
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1745363793,
-    "tags": [],
+    "tags": [
+      "Telehealth",
+      "Digital Health",
+      "Health & Wellness",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -56903,50 +56868,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/verne-robotics.json"
   },
   {
-    "id": 30635,
-    "name": "Galactic Resource Utilization Space, Inc. (GRU Space)",
-    "slug": "galactic-resource-utilization-space-inc-gru-space",
-    "former_names": [
-      "Galactic Resource Utilization Space, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee5f921620382e78c7f4ce4082b655aed675702d.png",
-    "website": "https://gru.space",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GRU builds off-planet habitats using in-situ resource utilization technology, turning local material into building material. Our first habitat will be a hotel on the Moon for space tourists, aiming to open 2032.\r\n\r\nIn 2029, our demo mission will turn lunar regolith into bricks and demonstrate our modular pressurized habitat system. A second mission will begin laying the hotel’s foundation in a lunar cave. A third mission will open the first lunar hotel.\r\n\r\nWe don’t stop at Moon hotels. GRU’s long-term plan:\r\n\r\n1. Build the first hotel on the Moon. GRU solves off‑world surface habitation.\r\n2. Build America’s first Moon base: roads, mass drivers, warehouses, and physical infrastructure.\r\n3. Repeat on Mars and build the first cities there.\r\n4. Own property on the Moon and Mars as these economies grow.\r\n5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization.\r\n\r\nGRU Space is backed by investors in SpaceX + Anduril, and is part of Nvidia’s Inception program.",
-    "one_liner": "Building the First Hotel on the Moon",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1767740329,
-    "tags": [
-      "Space Exploration",
-      "Construction",
-      "Travel",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/galactic-resource-utilization-space-inc-gru-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/galactic-resource-utilization-space-inc-gru-space.json"
-  },
-  {
     "id": 30636,
     "name": "EffiGov",
     "slug": "effigov",
@@ -57754,14 +57675,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
     "website": "https://www.nozomio.com/",
-    "all_locations": "",
-    "long_description": "Nozomio is a product lab building engineers for the age of AI.\r\n\r\nAs coding agents become ubiquitous, the real bottleneck shifts from “write code” to “know which code and docs to feed them.” Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.\r\n\r\nNozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. \r\n\r\ntry nia at trynia .ai <3 ",
-    "one_liner": "Context augmentation for agents",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
+    "one_liner": "Context retrieval for AI",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -57773,7 +57698,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -58213,6 +58139,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nautilus",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nautilus.json"
+  },
+  {
+    "id": 30734,
+    "name": "Avelis Health",
+    "slug": "avelis-health",
+    "former_names": [
+      "Avelis"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
+    "website": "https://avelishealth.com",
+    "all_locations": "",
+    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $300K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid. Healthcare is the 2nd largest company expense after payroll.\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
+    "one_liner": "We audit medical claims for self-insured employers and health plans.",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1753718864,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avelis-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/avelis-health.json"
   },
   {
     "id": 30738,
@@ -59652,6 +59616,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
   },
   {
+    "id": 30895,
+    "name": "Allus AI",
+    "slug": "allus-ai",
+    "former_names": [
+      "Allus AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e556d72ba8162e6d77731f52ccea802c98b54fa3.png",
+    "website": "https://allus.ai",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. ",
+    "one_liner": "Transforming manufacturing with our next-gen Vision Foundation Model",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1761108820,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "Computer Vision",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/allus-ai.json"
+  },
+  {
     "id": 30896,
     "name": "Multifactor",
     "slug": "multifactor",
@@ -59722,44 +59731,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sunflower",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sunflower.json"
-  },
-  {
-    "id": 30924,
-    "name": "Casey",
-    "slug": "casey",
-    "former_names": [
-      "Clausee"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
-    "website": "https://www.meetcasey.ai/",
-    "all_locations": "",
-    "long_description": "Casey is an AI-native commercial insurance broker. Our producers focus on client relationships and closing business, whilst our AI handles all the operational work behind the scenes.\r\n\r\n",
-    "one_liner": "Casey is the first global AI-native insurance brokerage",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1759942019,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/casey",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
   },
   {
     "id": 30932,
@@ -59839,47 +59810,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nucleo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/nucleo.json"
-  },
-  {
-    "id": 30940,
-    "name": "Everest",
-    "slug": "everest",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
-    "website": "https://everestmanagedai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outsourced IT is a $350B industry running on 10-20% margins. We're building AI employees to help them solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT companies. We're now bringing the automation Netflix has to 150K companies globally. ",
-    "one_liner": "AI agents for IT services",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1756073155,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Ticketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/everest",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
   },
   {
     "id": 30945,
@@ -60834,6 +60764,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
   },
   {
+    "id": 31193,
+    "name": "9 Mothers",
+    "slug": "9-mothers-corporation",
+    "former_names": [
+      "9 Mothers Corporation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84622897534f7613d85e63267d30b56cc2f7e6df.png",
+    "website": "https://9mothers.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "We are making AI weapon systems for the modern battlefield.\r\n\r\nOur first product EDDA is a small, low power, low cost fully autonomous-capable counter drone system. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones.",
+    "one_liner": "AI weapon systems",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1772383071,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Drones",
+      "GovTech",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/9-mothers-corporation",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
+  },
+  {
     "id": 31205,
     "name": "Human Archive",
     "slug": "human-archive",
@@ -61159,6 +61134,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
+  },
+  {
+    "id": 31511,
+    "name": "Arzana",
+    "slug": "arzana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
+    "website": "https://arzana.ai",
+    "all_locations": "",
+    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
+    "one_liner": "AI automation for the manufacturing office",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1773098013,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arzana",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   },
   {
     "id": 31523,

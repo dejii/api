@@ -630,25 +630,26 @@
   },
   {
     "id": 29201,
-    "name": "Legora (formerly Leya)",
+    "name": "Legora",
     "slug": "legora",
     "former_names": [
       "Leya",
-      "Legora"
+      "Legora",
+      "Legora (formerly Leya)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
     "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
     "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 65,
+    "team_size": 250,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2797,18 +2798,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8db4ae69ffa9fe27a2e056c7825fa07368367d7.png",
     "website": "https://www.eggnog.ai",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Eggnog is the Youtube for AI-generated content. The initial product is the only AI video platform on the market that generates consistent characters. The vision is to have the largest library of remixable characters and sets for users to collaboratively build and watch AI-generated content. Eggnog launched a week ago, and videos made on the platform are getting 100k views on Twitter.\r\n\r\nTeam: Sam (BS, Applied Math from Harvard) was a data scientist at Facebook and Quora working on newsfeed and creator monetization. Jitesh (BS, MEng from MIT CS) was a consultant at McKinsey and PM at Flexport. \r\n",
     "one_liner": "Youtube for AI-generated content",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1710803454,
     "tags": [
-      "Artificial Intelligence",
       "Entertainment",
       "Social Media",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10415,7 +10416,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
