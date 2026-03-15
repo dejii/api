@@ -1,0 +1,44 @@
+{
+  "id": 31107,
+  "name": "Clam (formerly Baseframe)",
+  "slug": "clam",
+  "former_names": [
+    "BaseFrame",
+    "Clam"
+  ],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5a9e3c752f35fdf71eba1c872ab536a75ec4db4.png",
+  "website": "https://tryclam.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "AI frameworks like OpenClaw have a major issue: data security. \r\n\r\nWhether you're an enterprise or an individual exploring AI, your data should stay protected.\r\n\r\nClam brings enterprise-grade security through their “Semantic Firewall”, a security checkpoint that sits around the AI's environment at the network level. \r\n\r\nOur system runs a series of scans on anything your AI sends out into the world and everything that comes in to catch inconsistencies before they turn into problems. Each message is scanned for personal info leaks (SSNs, credit cards, private keys), prompt injection attempts (jailbreaks, instruction overrides), and malicious code (reverse shells, encoded execution). \r\n\r\nTo keep your data even safer, API keys and secrets are injected at the network level so the AI never sees or stores your credentials. \r\n\r\nDeploy and set up broad-access AI agents built on security with Clam. \r\n",
+  "one_liner": "Enterprise-grade security for broad-access AI Agents like OpenClaw",
+  "team_size": 2,
+  "industry": "B2B",
+  "subindustry": "B2B",
+  "launched_at": 1768518655,
+  "tags": [
+    "Artificial Intelligence",
+    "Workflow Automation",
+    "Security",
+    "AI Assistant"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "Winter 2026",
+  "status": "Active",
+  "industries": [
+    "B2B"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/clam",
+  "api": "https://yc-oss.github.io/api/batches/winter-2026/clam.json"
+}

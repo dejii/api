@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1684,
+    "name": "Zendar",
+    "slug": "zendar",
+    "former_names": [
+      "Aperture Synthesis Inc. "
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e99074d8ec6a536a46c9e9d49930a0170197bb1.png",
+    "website": "http://www.zendar.io",
+    "all_locations": "Berkeley, CA, USA",
+    "long_description": "Zendar develops high-definition radar for autonomous vehicles.",
+    "one_liner": "We make high definition radar allowing self-driving cars to see in…",
+    "team_size": 45,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Automotive",
+    "launched_at": 1495669827,
+    "tags": [
+      "Hardware",
+      "Radar",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2017",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Automotive"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zendar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2017/zendar.json"
+  },
+  {
+    "id": 12623,
+    "name": "Lumineye",
+    "slug": "lumineye",
+    "former_names": [
+      "Lumineye Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59a9a3f24545bb8e877588ab5137c5940b7dcdf0.png",
+    "website": "https://www.lumineye.com",
+    "all_locations": "Boise, ID, USA",
+    "long_description": "We build portable, tactical, through-wall radar sensors to help first responders and soldiers detect and track people through walls. ",
+    "one_liner": "X-ray Vision for First Responders ",
+    "team_size": 10,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1556676263,
+    "tags": [
+      "Hardware",
+      "GovTech",
+      "Radar"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Inactive",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumineye",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/lumineye.json"
+  },
+  {
+    "id": 31144,
+    "name": "DroneTector",
+    "slug": "dronetector",
+    "former_names": [
+      "DroneTector Ltd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a1552aeba914f75657392e47de071913dbe0bc.png",
+    "website": "https://www.dronetector.com/",
+    "all_locations": "",
+    "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
+    "one_liner": "Technology to detect and track hostile drones",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1768863894,
+    "tags": [
+      "Hard Tech",
+      "Drones",
+      "Radar"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dronetector",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/dronetector.json"
+  },
+  {
+    "id": 31196,
+    "name": "Congruent",
+    "slug": "congruent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7c888706d93f04e768a791ada75bb06e4605041.png",
+    "website": "https://congruent.io",
+    "all_locations": "",
+    "long_description": "At Congruent, we build radars for end-to-end autonomous systems. The most advanced autonomous systems are trained as a single neural network from raw sensor data to navigation actions. For a sensor to be included in these pipelines sensor stacks requires two key properties: access to raw sensor data and a high-fidelity sensor simulator. Current automotive radars have neither, they output heavily processed point clouds and no raw radar simulator exists for driving scenes. Congruent solves both problems: a radar architecture that exposes raw data, paired with a world model based radar simulator. Radar is the only depth sensor at a price point that scales to every car on the road and works in all weather conditions. Congruent is building the radar compatible with the training architectures that will make mass-market vehicles autonomous.",
+    "one_liner": "AI native radars for self-driving cars",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1771538111,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Radar",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/congruent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/congruent.json"
+  }
+]
