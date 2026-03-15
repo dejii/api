@@ -10384,7 +10384,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23211,48 +23211,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
   },
   {
-    "id": 31088,
-    "name": "RunAnywhere",
-    "slug": "runanywhere",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
-    "website": "https://www.runanywhere.ai/",
-    "all_locations": "",
-    "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-    "one_liner": "The production infra for running AI on the hardware people already own",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1767296079,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Hard Tech",
-      "IoT",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runanywhere",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
-  },
-  {
     "id": 31091,
     "name": "Sonarly",
     "slug": "sonarly",
@@ -23516,46 +23474,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/21st",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
-  },
-  {
-    "id": 31131,
-    "name": "Zatanna",
-    "slug": "zatanna",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
-    "website": "https://www.zatanna.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Turn legacy software into agent-first APIs",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1770919305,
-    "tags": [
-      "Developer Tools",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zatanna",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/zatanna.json"
   },
   {
     "id": 31139,
@@ -23989,51 +23907,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/glue.json"
   },
   {
-    "id": 31241,
-    "name": "Corelayer",
-    "slug": "corelayer",
-    "former_names": [
-      "Sevvy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
-    "website": "https://www.corelayer.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the AI on-call engineer for data-heavy, regulated industries like finance, healthcare, and insurance.\r\n\r\nEngineers in these industries need to inspect data to debug production issues. We continuously monitor logs, metrics, and data for issues and use agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure inference environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
-    "one_liner": "AI on-call engineer for data-heavy, regulated industries",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1767713346,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corelayer",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
-  },
-  {
     "id": 31250,
     "name": "The Token Company",
     "slug": "the-token-company",
@@ -24246,5 +24119,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arga-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
+  },
+  {
+    "id": 31531,
+    "name": "Manicule",
+    "slug": "manicule",
+    "former_names": [
+      "better-cmdk"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
+    "website": "https://manicule.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Manicule is an AI-native technical documentation agency. We own technical documentation end-to-end for developer tool companies, including information architecture, messaging, writing, design, and QA. Agents handle the mechanical parts like code verification and auditing at a scale and speed no human team can match, while humans refine the thinking and make the docs actually good. We're at $15K MRR and profitable, with clients like Supermemory, Greptile, Reducto, and Rootly. Supermemory's docs drove a 30% improvement in answer success rate and went viral on Twitter, all shipped in 23 days.\r\n\r\nEvery dev tool founder knows their docs are broken but simply don't have the time to fix them. The old solution was hiring a full-time technical writer who understands engineering, marketing, and devrel. That role is really hard and expensive to hire for, so docs stay broken. Naman started freelance writing for developer tools 3 years ago and realized that you can't one-shot docs. They require tight feedback loops with the engineering team, multiple review cycles, and real product understanding. When he worked with Supermemory, they had two products that sounded identical to customers. He got on calls with the CEO, figured out the right positioning for each product, and restructured the entire docs around it. That kind of work requires judgment and context that agents simply don’t have.\r\n\r\nOn the other hand, testing every code snippet against a live API, auditing hundreds of pages for broken links, and drafting from OpenAPI specs is grunt work that agents do in minutes. The insight behind Manicule is that good documentation requires both, and nobody has packaged them together. Shreyans was a founding engineer at Supermemory, saw the impact of good docs firsthand, and joined Naman to productize Manicule. We're now a team of 5, building toward that vision. Thousands of AI startups are launching dev tools every month, and docs are the single biggest asset they're all neglecting.",
+    "one_liner": "AI Native Technical Documentation Studio",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773484930,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/manicule",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
   }
 ]

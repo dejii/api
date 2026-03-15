@@ -5005,7 +5005,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -5626,20 +5626,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
     "website": "https://www.pollen.cx/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pollen is building AI agents that automate post-sales for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
+    "all_locations": "",
+    "long_description": "Pollen is building AI agents that automate customer success for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
     "one_liner": "AI Agents That Automate Customer Success for Founders",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1754592638,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Customer Success",
-      "AI",
-      "Conversational AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5651,8 +5645,7 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5788,19 +5781,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "website": "https://www.haladir.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Haladir is an applied AI product lab for verifiable domains, enabling reinforcement learning & model harnesses to scale to economically-complex tasks via the formalization of the informal. We apply solver-based methods, SMT/SAT solvers, MILP, operations research, and formal verification to make RLVR and agent deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chains, manufacturing, ERPs and beyond.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take consultants and analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
     "one_liner": "Building Operational Superintelligence.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1766374394,
-    "tags": [
-      "Reinforcement Learning",
-      "Logistics",
-      "Data Engineering",
-      "Operations"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5812,8 +5800,7 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5911,28 +5898,20 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/eigenpal.json"
   },
   {
-    "id": 31269,
-    "name": "MochaCare",
-    "slug": "mochacare",
-    "former_names": [
-      "HelpingHome"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
-    "website": "https://www.mochacare.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "MochaCare manages home care agency operations with AI agents backed by human support. We handle hiring, scheduling, and client intake end-to-end so agencies can grow while keeping humans involved when it matters most. \r\n\r\nWe provide a service because home care agencies want an outcome, not another tool.",
-    "one_liner": "Manage home care agency ops with AI agents backed by human support",
+    "id": 31215,
+    "name": "Bubble Lab",
+    "slug": "bubble-lab",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+    "website": "https://bubblelab.ai/",
+    "all_locations": "",
+    "long_description": "Bubble Lab lets companies deploy Pearl, an ops super-employee that lives in Slack.\r\n\r\nPearl connects to SaaS tools like Notion, Jira, HubSpot, Stripe, and Google Workspace so teams can simply ask for work to happen — generating reports, updating CRMs, or chasing invoices.\r\n\r\nTasks start as flexible AI agents, but when they become repeatable, Bubble Lab automatically converts them into deterministic workflows that run instantly, reliably, and at zero cost.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work and scale operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
+    "one_liner": "The ops super-employee in Slack",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
-    "launched_at": 1771654500,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Healthcare",
-      "Home Services",
-      "Operations"
-    ],
+    "launched_at": 1764881455,
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5944,8 +5923,46 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bubble-lab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
+  },
+  {
+    "id": 31269,
+    "name": "MochaCare",
+    "slug": "mochacare",
+    "former_names": [
+      "HelpingHome"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
+    "website": "https://www.mochacare.com/",
+    "all_locations": "",
+    "long_description": "MochaCare is an agentic operations service for home care agencies. We handle hiring, scheduling, and client intake end-to-end so agencies can focus on growth.",
+    "one_liner": "Agentic Operations Service for Home Care Agencies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1771654500,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

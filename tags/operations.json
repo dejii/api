@@ -1209,9 +1209,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
+    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.",
     "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
@@ -1332,48 +1332,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
   },
   {
-    "id": 31030,
-    "name": "Haladir",
-    "slug": "haladir",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
-    "website": "https://www.haladir.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haladir is an applied AI product lab for verifiable domains, enabling reinforcement learning & model harnesses to scale to economically-complex tasks via the formalization of the informal. We apply solver-based methods, SMT/SAT solvers, MILP, operations research, and formal verification to make RLVR and agent deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chains, manufacturing, ERPs and beyond.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take consultants and analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
-    "one_liner": "Building Operational Superintelligence.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1766374394,
-    "tags": [
-      "Reinforcement Learning",
-      "Logistics",
-      "Data Engineering",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haladir",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
-  },
-  {
     "id": 31156,
     "name": "Ventura",
     "slug": "ventura",
@@ -1454,91 +1412,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ressl-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
-  },
-  {
-    "id": 31215,
-    "name": "Bubble Lab",
-    "slug": "bubble-lab",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
-    "website": "https://bubblelab.ai/",
-    "all_locations": "",
-    "long_description": "Bubble Lab (YC W’26) lets you deploy Pearl, your ops super-employee, directly into Slack.\r\n\r\nPearl connects to your tools like Notion, Jira, HubSpot, Stripe, and Google Workspace, and can take action on your behalf—updating systems, running reports, and executing operational workflows automatically.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work, reduce context switching, and scale their operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
-    "one_liner": "Your ops super-employee in Slack",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1764881455,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bubble-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
-  },
-  {
-    "id": 31269,
-    "name": "MochaCare",
-    "slug": "mochacare",
-    "former_names": [
-      "HelpingHome"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
-    "website": "https://www.mochacare.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "MochaCare manages home care agency operations with AI agents backed by human support. We handle hiring, scheduling, and client intake end-to-end so agencies can grow while keeping humans involved when it matters most. \r\n\r\nWe provide a service because home care agencies want an outcome, not another tool.",
-    "one_liner": "Manage home care agency ops with AI agents backed by human support",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1771654500,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Healthcare",
-      "Home Services",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mochacare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
   }
 ]

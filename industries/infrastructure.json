@@ -10637,7 +10637,7 @@
     "website": "https://runcaptain.com",
     "all_locations": "",
     "long_description": "Captain provides a straightforward API for AI agents to accurately search through files (Avg: 78% → 95% + citations). We’ll index unstructured data from the sources you already use like S3, SharePoint, and Google Drive, and effortlessly scale to petabyte-level datasets. We’re the Snowflake for Unstructured Data. ",
-    "one_liner": "Accurate knowledge search that scales",
+    "one_liner": "Give AI agents accurate knowledge search that scales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -10827,50 +10827,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis.json"
   },
   {
-    "id": 31078,
-    "name": "Tensol",
-    "slug": "tensol",
-    "former_names": [
-      "Solstis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
-    "website": "https://www.tensol.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Each AI employee runs 24/7 in its own isolated VM, has full context of your company, and can monitor Slack, track Sentry errors, update your CRM, and more. We handle the infrastructure, security, and deployment.\r\n\r\nTensol also lets you create specialized AI employees for different jobs - engineering, sales, support, in a couple of minutes. You connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations. Every action is logged with a full audit trail, credentials are injected at network-level, and each AI employee gets its own dedicated identity and sandboxed environment, with enterprise-grade security built-in.",
-    "one_liner": "AI Employees for your Business, Powered by OpenClaw",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1767743432,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tensol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
-  },
-  {
     "id": 31080,
     "name": "Didit",
     "slug": "didit",
@@ -10960,18 +10916,12 @@
     "website": "https://www.runanywhere.ai/",
     "all_locations": "",
     "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-    "one_liner": "The production infra for running AI on the hardware people already own",
+    "one_liner": "The default way of running on-device AI at Scale",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1767296079,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Hard Tech",
-      "IoT",
-      "Open Source"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -11441,18 +11391,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f253ec2ac4c62d3fd349aefdf584c9074cae87d.png",
     "website": "https://oximy.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Oximy helps enterprises understand and manage AI usage across their workforce.\r\n\r\nUsed by security, finance, and transformation teams to track adoption, control spend, and manage governance as AI scales.",
     "one_liner": "The system of record for enterprise AI usage.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769530723,
-    "tags": [
-      "Artificial Intelligence",
-      "Security",
-      "Enterprise Software"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -11464,8 +11410,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11740,6 +11685,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/minicor",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/minicor.json"
+  },
+  {
+    "id": 31507,
+    "name": "ProjectX",
+    "slug": "projectx",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f60ad803d2e9b0079d1a0e2e9afd248df7aafcd.png",
+    "website": "https://www.projectx.cloud/",
+    "all_locations": "",
+    "long_description": "Infinity is the world's first cloud-native OS built for a multi-agent, GPU-native future. We stream heavy GPU-accelerated applications like robotics simulators, CAD tools, AI workloads directly in browser tabs with dedicated per-app compute and sub-3-second cold starts. No VMs, no local setup. Just a URL.",
+    "one_liner": "Building Infinity, the cloud OS that runs all apps on any device.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1773453080,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/projectx",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/projectx.json"
   },
   {
     "id": 31523,

@@ -3483,17 +3483,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png",
     "website": "https://usebidflow.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We help electrical contractors do electrical estimates way faster using AI. Electrical contractors submit RFPs (request for proposals) to win contracts to jobs like building the electrical infrastructure for a new data center, and they compete with other electrical contractors to win these jobs. The process of submitting these RFPs take a majority of an electrical contractors time, specifically in providing an estimate for the job, and Bidflow aims to optimize the redundant paperwork that goes into this process.",
-    "one_liner": "AI Copilot for Electrical Estimating",
+    "long_description": "We use AI to help electrical contractors submit more competitive bids to construction projects. We do this by speeding up the estimating part of bidding, which is the most tedious part of the job. Specifically, we're building models that can understand floor plans and count electrical devices to generate the estimate. Bidflow is the future of electrical pre-construction.",
+    "one_liner": "AI Electrical Estimator",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1754285936,
     "tags": [
       "SaaS",
+      "Computer Vision",
       "Construction",
-      "Infrastructure",
-      "AI Assistant"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4218,9 +4218,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
     "website": "https://www.helloeos.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eos acts as an intelligent hub that helps healthcare systems collate all their data across fragmented sources, and make intelligent predictions on top of it. \r\n\r\nWe harmonize data across all platforms to create a unified and standardized patient data distributions and timelines, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of data stay where they are yet allows us to search and reason across it as one system.",
-    "one_liner": "The autonomous operating system for healthcare",
+    "all_locations": "",
+    "long_description": "Eos helps clinics turn their data into actionable insights to identify more eligible patients and early care interventions.\r\n\r\nWe harmonize historical data across all systems to create standardized patient data distributions, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of raw data stay where it is while allowing us to search and reason across it as one system.\r\n\r\nInstead of treating the visit or document as an isolated instance, we can look at it as a continuous story. We can predict how a case will resolve, trigger the required approvals and actions, and do so while reducing staff workload and recovering hospital revenue.",
+    "one_liner": "Autonomous OS for healthcare",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -4228,7 +4228,6 @@
     "tags": [
       "B2B",
       "Healthcare",
-      "Data Engineering",
       "Infrastructure",
       "AI"
     ],
@@ -4242,8 +4241,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4555,50 +4553,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
   },
   {
-    "id": 31212,
-    "name": "Constellation Space",
-    "slug": "constellation-space",
-    "former_names": [
-      "Constellation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
-    "website": "https://constellationspace.ai/",
-    "all_locations": "",
-    "long_description": "Constellation Space is building the autonomous infrastructure layer for the next generation of space networking. As satellite constellations rapidly scale from hundreds of nodes to tens of thousands, traditional ground-based orchestration fundamentally breaks down. ConstellationOS bridges this gap by providing zero-intervention network handoffs, predictive thermal load-balancing, and sub-second optical routing.\r\n\r\nOur founding team spent years building and operating satellite systems at SpaceX, Blue Origin, and NASA. We started Constellation to solve the problem we kept running into: reactive monitoring doesn't scale.\r\n\r\nWe are building the sub-second routing protocols and hyperscale load-balancing infrastructure that will manage the future of off-world telecommunications and compute. \r\n\r\nhello@constellation-io.com",
-    "one_liner": "AI for space mission assurance.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1766273553,
-    "tags": [
-      "Space Exploration",
-      "Satellites",
-      "Enterprise Software",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
-  },
-  {
     "id": 31213,
     "name": "Byteport",
     "slug": "byteport",
@@ -4648,8 +4602,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform economically valuable work. We're building world generation models and environment factories to automate and align the creation of environments, with humans in the loop. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
-    "one_liner": "Worlds for training & evaluating AI agents",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe build long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in the real world. We believe that RL environments will be an advanced software product, not a human labor problem.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Applied Intuition for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4812,52 +4766,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moda",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
-  },
-  {
-    "id": 31280,
-    "name": "Rubric AI",
-    "slug": "rubric-ai",
-    "former_names": [
-      "Bazaar AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76cd968796cb7fcfbf591c0c9f9bb7cdf5683449.png",
-    "website": "https://therubric.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rubric AI is a post-training research lab (backed by Y Combinator) building the human and computational layer that turns expert judgment into training signals for frontier models and agents. We believe that shaping the world's most consequential AI systems requires both purpose-built training environments and exceptional judgment.",
-    "one_liner": "Post-training research and product lab",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1772427101,
-    "tags": [
-      "Artificial Intelligence",
-      "Data Labeling",
-      "Big Data",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rubric-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/rubric-ai.json"
   },
   {
     "id": 31329,

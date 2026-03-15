@@ -3552,9 +3552,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/617ef74a3e62398db60a2179add2a7f75d8bbd18.png",
     "website": "http://ironcladapp.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contracts are business decisions trapped in administrative tasks. Ironclad is software that does all the administrative work better left for a robot, freeing legal teams to do more substantive work and drive business strategy. By automating contracting processes and extracting intelligence from contracts, Ironclad lets legal teams focus on legal work, rather than paperwork. Legal teams at companies like Gusto, HotelTonight, GoFundMe, Glassdoor, Procore use Ironclad to get their contracts done more efficiently and accurately, and to maintain a single source of truth regarding their contents.\r\n\r\nHeadquartered in San Francisco, Ironclad is backed by Accel, Greylock, SV Angel, Formation 8, and was incubated in Y Combinator. For more information, visit https://www.ironcladapp.com.",
-    "one_liner": "Digital contracting platform for legal teams.  ",
-    "team_size": 400,
+    "long_description": "Ironclad helps companies make and manage their business contracts.  Customers like L'Oréal, Heineken, and Salesforce use our platform to move up to 80% faster, make better decisions through data, and effectively manage risk.  We are backed by investors like Accel, Sequoia, Bond, Franklin Templeton, SV Angel, and Y Combinator.  ",
+    "one_liner": "AI-powered contract management",
+    "team_size": 700,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1429997716,
@@ -3578,7 +3578,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46919,17 +46919,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb5bdff2af780675e7950b4a0fb5dcad2dfdc802.png",
     "website": "https://usebidflow.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We help electrical contractors do electrical estimates way faster using AI. Electrical contractors submit RFPs (request for proposals) to win contracts to jobs like building the electrical infrastructure for a new data center, and they compete with other electrical contractors to win these jobs. The process of submitting these RFPs take a majority of an electrical contractors time, specifically in providing an estimate for the job, and Bidflow aims to optimize the redundant paperwork that goes into this process.",
-    "one_liner": "AI Copilot for Electrical Estimating",
+    "long_description": "We use AI to help electrical contractors submit more competitive bids to construction projects. We do this by speeding up the estimating part of bidding, which is the most tedious part of the job. Specifically, we're building models that can understand floor plans and count electrical devices to generate the estimate. Bidflow is the future of electrical pre-construction.",
+    "one_liner": "AI Electrical Estimator",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1754285936,
     "tags": [
       "SaaS",
+      "Computer Vision",
       "Construction",
-      "Infrastructure",
-      "AI Assistant"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48762,47 +48762,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/kita.json"
   },
   {
-    "id": 31089,
-    "name": "Lance",
-    "slug": "lance",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png",
-    "website": "https://www.lance.live",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
-    "one_liner": "AI Agents That Run Hotel Operations.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768895498,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Customer Service",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lance",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/lance.json"
-  },
-  {
     "id": 31094,
     "name": "Lexius",
     "slug": "lexius",
@@ -48983,8 +48942,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
     "website": "https://tepali.com",
     "all_locations": "",
-    "long_description": "",
-    "one_liner": "AI-native operating system for medspas",
+    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
+    "one_liner": "Agentic OS for medspas",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49145,49 +49104,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
-    "id": 31159,
-    "name": "Sponge",
-    "slug": "sponge",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2da61e6033e85414e184773d09708a6cc75a2479.png",
-    "website": "https://paysponge.com/",
-    "all_locations": "",
-    "long_description": "Sponge is the easiest way for agents to hold and spend money, and for businesses to sell directly to them.\r\n\r\nFor agents: Sponge lets agents hold funds and transact autonomously with other agents and businesses using bank accounts, cards, and crypto. Agents can autonomously purchase services such as email, browser use, and premium data without human involvement.\r\n\r\nFor businesses: Sponge makes it easy to onboard and accept payments from agents without human interaction. Businesses can sell their services directly to agents with a few clicks, no code changes required.",
-    "one_liner": "Financial infrastructure for the agent economy",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771280774,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Crypto / Web3",
-      "Payments",
-      "AI"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sponge",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sponge.json"
-  },
-  {
     "id": 31176,
     "name": "Rhizome AI",
     "slug": "rhizome-ai",
@@ -49269,49 +49185,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cardboard",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
-  },
-  {
-    "id": 31186,
-    "name": "End Close",
-    "slug": "end-close",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/279a5e1db7ab902c4dc8461deba461bb63afecb4.png",
-    "website": "https://endclose.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "End Close builds automatic reconciliation for payments companies like fintechs, marketplaces, banks and payroll companies. Reconciliation helps companies track every dollar and resolve every exception, ensuring they have no money loss, can report audit ready financials, and stay compliant.\r\n\r\nSean (CEO) spent the last 6 years building the reconciliation org at Modern Treasury (S18), processing a trillion dollars in payments across 40 banks with 99.995% automation. Fast growing companies like Modern Treasury are forced to build a solution in-house or buy a legacy solution. End Close provides a modern reconciliation system that works with a company's existing stack and is managed by AI agents.\r\n\r\nException handling is where 99% of the manual work happens today, payment ops teams spend hours gathering context across various data sources to investigate each ticket. End Close provides an AI ops agent that connects to a company's data warehouse, invoicing platform and payment processors to triage and resolve issues without human intervention.\r\n\r\nLegacy providers only provide reconciliation for month end close applications. End Close continuously reconciles with developer friendly APIs, allowing teams to integrate real time payments data within their products to create product experiences for customers like faster balance top-ups, instant trading etc. \r\n\r\nNew payment rails and agent-to-agent payments are increasing online transaction volumes, making reconciliation a growing challenge for companies. David (CTO and 2nd time YC founder) most recently built these kinds of high-scale ingestion pipelines when starting and leading error tracking at PostHog (W20), the fastest growing product in the company's history.",
-    "one_liner": "AI powered reconciliation for high-volume payments companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1771459857,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/end-close",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/end-close.json"
   },
   {
     "id": 31207,
@@ -49659,7 +49532,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "",
-    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel. we already support over 3.5M users across our customers.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to help increase their engagement. \r\n\r\ncurrently, we send personalized messaging at the right time and channel, but we want to expand this infrastructure to every surface. \r\n\r\nwe already support over 3.5M users across our customers, we already see 3.6x increases in conversion rates after using Polymorph.\r\n\r\nyour users are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
     "one_liner": "Personalization infrastructure to increase engagement",
     "team_size": 3,
     "industry": "B2B",
@@ -49691,48 +49564,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polymorph",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/polymorph.json"
-  },
-  {
-    "id": 31307,
-    "name": "Wideframe",
-    "slug": "wideframe",
-    "former_names": [
-      "Supaframe",
-      "Creative Agent Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18022eca0289ec27600e4e7461ba17298b397ffa.png",
-    "website": "https://try.wideframe.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Wideframe is an AI coworker for video editors. It automates the searching, labeling, organizing, and sequencing of footage so editors can ship videos faster.\r\n\r\nWhy is this important? Well, it turns out that editors spend 3x more time preparing footage than actually editing.\r\n\r\nOne agency said we will save their editors 10 hours per week. Another organized an entire documentary worth of footage in hours rather than weeks. He had 2,500+ videos, 500+ audio clips, across >2.5 TB of files and our agent handled them effortlessly.\r\n\r\nUsers link footage to Wideframe and then our Agent acts like an Assistant Editor to handle work like searching, labeling, organizing, and sequencing footage. Wideframe works with footage across local filesystems and cloud providers. We also supports Adobe Premiere Pro (.prproj) roundtrip. Our robust integrations are important so that Wideframe can work with source footage all the way through to delivering Premiere Pro projects to editors.",
-    "one_liner": "AI coworker for video editors",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771307851,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wideframe",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/wideframe.json"
   },
   {
     "id": 31327,

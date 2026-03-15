@@ -43812,9 +43812,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
+    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.",
     "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
@@ -45569,51 +45569,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
   },
   {
-    "id": 30765,
-    "name": "Pollen",
-    "slug": "pollen",
-    "former_names": [
-      "Daymi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
-    "website": "https://www.pollen.cx/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pollen is building AI agents that automate post-sales for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
-    "one_liner": "AI Agents That Automate Customer Success for Founders",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1754592638,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Customer Success",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pollen",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
-  },
-  {
     "id": 30768,
     "name": "Okibi",
     "slug": "okibi",
@@ -45791,10 +45746,10 @@
     "name": "Lapis",
     "slug": "lapis",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33bd8f66dcd7e23bb8534547770b4cd40b2ffb8b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c3bc6a804835cf4e60592673af66342d45aa417.png",
     "website": "https://www.trylapis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapis helps businesses run ads on Meta, Linkedin, and Google.",
+    "long_description": "Lapis helps businesses generate and run image ads on Facebook, Instagram, WhatsApp, LinkedIn, and Google.",
     "one_liner": "AI Image Ads for Meta, Linkedin, and Google",
     "team_size": 4,
     "industry": "B2B",
@@ -46734,47 +46689,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lexi.json"
   },
   {
-    "id": 30927,
-    "name": "Oxus",
-    "slug": "oxus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ece043321e153a7271fa8a0ce88ad2f409b18fe3.png",
-    "website": "https://oxus-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oxus automates internal audits for pre-IPO and public companies using AI. Companies including leading payroll providers and public biotech companies work with us to streamline audit workflows and get audits done 10x faster. \r\n\r\nLearn more at: https://www.oxus-ai.com/",
-    "one_liner": "AI-powered automation for internal audit workflows",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765688555,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Compliance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oxus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/oxus.json"
-  },
-  {
     "id": 30932,
     "name": "Leadbay",
     "slug": "leadbay",
@@ -46899,45 +46813,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/imagine-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/imagine-ai.json"
-  },
-  {
-    "id": 30940,
-    "name": "Everest",
-    "slug": "everest",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
-    "website": "https://everestagi.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Giving AI a soul ",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1756073155,
-    "tags": [
-      "Generative AI",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/everest",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
   },
   {
     "id": 30943,
@@ -47685,9 +47560,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
     "website": "https://www.helloeos.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eos acts as an intelligent hub that helps healthcare systems collate all their data across fragmented sources, and make intelligent predictions on top of it. \r\n\r\nWe harmonize data across all platforms to create a unified and standardized patient data distributions and timelines, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of data stay where they are yet allows us to search and reason across it as one system.",
-    "one_liner": "The autonomous operating system for healthcare",
+    "all_locations": "",
+    "long_description": "Eos helps clinics turn their data into actionable insights to identify more eligible patients and early care interventions.\r\n\r\nWe harmonize historical data across all systems to create standardized patient data distributions, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of raw data stay where it is while allowing us to search and reason across it as one system.\r\n\r\nInstead of treating the visit or document as an isolated instance, we can look at it as a continuous story. We can predict how a case will resolve, trigger the required approvals and actions, and do so while reducing staff workload and recovering hospital revenue.",
+    "one_liner": "Autonomous OS for healthcare",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -47695,7 +47570,6 @@
     "tags": [
       "B2B",
       "Healthcare",
-      "Data Engineering",
       "Infrastructure",
       "AI"
     ],
@@ -47709,8 +47583,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47765,50 +47638,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
   },
   {
-    "id": 31078,
-    "name": "Tensol",
-    "slug": "tensol",
-    "former_names": [
-      "Solstis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
-    "website": "https://www.tensol.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Each AI employee runs 24/7 in its own isolated VM, has full context of your company, and can monitor Slack, track Sentry errors, update your CRM, and more. We handle the infrastructure, security, and deployment.\r\n\r\nTensol also lets you create specialized AI employees for different jobs - engineering, sales, support, in a couple of minutes. You connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations. Every action is logged with a full audit trail, credentials are injected at network-level, and each AI employee gets its own dedicated identity and sandboxed environment, with enterprise-grade security built-in.",
-    "one_liner": "AI Employees for your Business, Powered by OpenClaw",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1767743432,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tensol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
-  },
-  {
     "id": 31087,
     "name": "Lucent",
     "slug": "lucent",
@@ -47847,47 +47676,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucent",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
-  },
-  {
-    "id": 31089,
-    "name": "Lance",
-    "slug": "lance",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500f8974cf64740c19c12e8fa5b25e0284652488.png",
-    "website": "https://www.lance.live",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autonomous AI agents that answer calls, close sales, and run operations, so your team can focus on guests. Trusted by some of the top hotel groups in the US, supporting 50+ hotels across brands like Marriott, Hilton, and Hyatt\r\n\r\nBuilt on advanced Computer Use Agent technology, Lance agents can navigate your existing hotel software, make real-time decisions, and handle complex multi-step tasks.",
-    "one_liner": "AI Agents That Run Hotel Operations.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768895498,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Customer Service",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lance",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/lance.json"
   },
   {
     "id": 31098,
@@ -48108,48 +47896,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
   },
   {
-    "id": 31112,
-    "name": "Burt",
-    "slug": "burt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
-    "website": "https://www.trainburt.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building for the people that keep the world moving. \r\n\r\nFreight brokers and forwarders operate on razor-thin margins in a relationship-driven business — yet most of their teams spend the majority of their day on manual, repetitive work.\r\n\r\nWe help freight brokers and forwarders build AI teammates that handle their repetitive, manual tasks so teams have time to focus on customers, carriers, and growing the business.",
-    "one_liner": "AI teammates for logistics",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1766971540,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Logistics",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/burt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
-  },
-  {
     "id": 31114,
     "name": "Piris Labs",
     "slug": "pirislabs",
@@ -48341,8 +48087,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
     "website": "https://tepali.com",
     "all_locations": "",
-    "long_description": "",
-    "one_liner": "AI-native operating system for medspas",
+    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
+    "one_liner": "Agentic OS for medspas",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48682,7 +48428,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
     "website": "https://proximitty.ai",
     "all_locations": "",
-    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 4 large banks and fintechs that process over >$1B of delinquent loans.",
+    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 4 large banks and fintechs that process over >$2B of delinquent loans.",
     "one_liner": "Autonomous business loan servicing",
     "team_size": 2,
     "industry": "Fintech",
@@ -48799,49 +48545,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chamber",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/chamber.json"
-  },
-  {
-    "id": 31186,
-    "name": "End Close",
-    "slug": "end-close",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/279a5e1db7ab902c4dc8461deba461bb63afecb4.png",
-    "website": "https://endclose.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "End Close builds automatic reconciliation for payments companies like fintechs, marketplaces, banks and payroll companies. Reconciliation helps companies track every dollar and resolve every exception, ensuring they have no money loss, can report audit ready financials, and stay compliant.\r\n\r\nSean (CEO) spent the last 6 years building the reconciliation org at Modern Treasury (S18), processing a trillion dollars in payments across 40 banks with 99.995% automation. Fast growing companies like Modern Treasury are forced to build a solution in-house or buy a legacy solution. End Close provides a modern reconciliation system that works with a company's existing stack and is managed by AI agents.\r\n\r\nException handling is where 99% of the manual work happens today, payment ops teams spend hours gathering context across various data sources to investigate each ticket. End Close provides an AI ops agent that connects to a company's data warehouse, invoicing platform and payment processors to triage and resolve issues without human intervention.\r\n\r\nLegacy providers only provide reconciliation for month end close applications. End Close continuously reconciles with developer friendly APIs, allowing teams to integrate real time payments data within their products to create product experiences for customers like faster balance top-ups, instant trading etc. \r\n\r\nNew payment rails and agent-to-agent payments are increasing online transaction volumes, making reconciliation a growing challenge for companies. David (CTO and 2nd time YC founder) most recently built these kinds of high-scale ingestion pipelines when starting and leading error tracking at PostHog (W20), the fastest growing product in the company's history.",
-    "one_liner": "AI powered reconciliation for high-volume payments companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1771459857,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/end-close",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/end-close.json"
   },
   {
     "id": 31188,
@@ -49062,8 +48765,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments.\r\n\r\nWe design and scale long-horizon, multi-tool environments for training AI agents to perform economically valuable work. We're building world generation models and environment factories to automate and align the creation of environments, with humans in the loop. This allows for more complex and realistic worlds, and higher quality, scale, and diversity of tasks. This will be essential to unlock RL scaling.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
-    "one_liner": "Worlds for training & evaluating AI agents",
+    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe build long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in the real world. We believe that RL environments will be an advanced software product, not a human labor problem.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Applied Intuition for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -49182,51 +48885,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/o11",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
-  },
-  {
-    "id": 31241,
-    "name": "Corelayer",
-    "slug": "corelayer",
-    "former_names": [
-      "Sevvy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
-    "website": "https://www.corelayer.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the AI on-call engineer for data-heavy, regulated industries like finance, healthcare, and insurance.\r\n\r\nEngineers in these industries need to inspect data to debug production issues. We continuously monitor logs, metrics, and data for issues and use agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure inference environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
-    "one_liner": "AI on-call engineer for data-heavy, regulated industries",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1767713346,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corelayer",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
   },
   {
     "id": 31242,
@@ -49538,7 +49196,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
     "website": "https://usepolymorph.com/",
     "all_locations": "",
-    "long_description": "we help consumer and self-serve apps build living profiles of every user to send personalized messaging at the right time and channel. we already support over 3.5M users across our customers.\r\n\r\nusers are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
+    "long_description": "we help consumer and self-serve apps build living profiles of every user to help increase their engagement. \r\n\r\ncurrently, we send personalized messaging at the right time and channel, but we want to expand this infrastructure to every surface. \r\n\r\nwe already support over 3.5M users across our customers, we already see 3.6x increases in conversion rates after using Polymorph.\r\n\r\nyour users are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
     "one_liner": "Personalization infrastructure to increase engagement",
     "team_size": 3,
     "industry": "B2B",
@@ -49570,51 +49228,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polymorph",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/polymorph.json"
-  },
-  {
-    "id": 31292,
-    "name": "Aurorin CAD",
-    "slug": "aurorin-cad",
-    "former_names": [
-      "Rapid CAD",
-      "Aurorin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
-    "website": "https://aurorincad.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
-    "one_liner": "Claude Code for Mechanical Engineering CAD",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1769109612,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aurorin-cad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
   },
   {
     "id": 31303,
@@ -49943,5 +49556,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/datost",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
+  },
+  {
+    "id": 31531,
+    "name": "Manicule",
+    "slug": "manicule",
+    "former_names": [
+      "better-cmdk"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd583af5fd7e25beb6cf6bd63167daa1273db6c5.png",
+    "website": "https://manicule.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Manicule is an AI-native technical documentation agency. We own technical documentation end-to-end for developer tool companies, including information architecture, messaging, writing, design, and QA. Agents handle the mechanical parts like code verification and auditing at a scale and speed no human team can match, while humans refine the thinking and make the docs actually good. We're at $15K MRR and profitable, with clients like Supermemory, Greptile, Reducto, and Rootly. Supermemory's docs drove a 30% improvement in answer success rate and went viral on Twitter, all shipped in 23 days.\r\n\r\nEvery dev tool founder knows their docs are broken but simply don't have the time to fix them. The old solution was hiring a full-time technical writer who understands engineering, marketing, and devrel. That role is really hard and expensive to hire for, so docs stay broken. Naman started freelance writing for developer tools 3 years ago and realized that you can't one-shot docs. They require tight feedback loops with the engineering team, multiple review cycles, and real product understanding. When he worked with Supermemory, they had two products that sounded identical to customers. He got on calls with the CEO, figured out the right positioning for each product, and restructured the entire docs around it. That kind of work requires judgment and context that agents simply don’t have.\r\n\r\nOn the other hand, testing every code snippet against a live API, auditing hundreds of pages for broken links, and drafting from OpenAPI specs is grunt work that agents do in minutes. The insight behind Manicule is that good documentation requires both, and nobody has packaged them together. Shreyans was a founding engineer at Supermemory, saw the impact of good docs firsthand, and joined Naman to productize Manicule. We're now a team of 5, building toward that vision. Thousands of AI startups are launching dev tools every month, and docs are the single biggest asset they're all neglecting.",
+    "one_liner": "AI Native Technical Documentation Studio",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773484930,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/manicule",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
   }
 ]

@@ -8750,9 +8750,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
     "website": "https://www.helloeos.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eos acts as an intelligent hub that helps healthcare systems collate all their data across fragmented sources, and make intelligent predictions on top of it. \r\n\r\nWe harmonize data across all platforms to create a unified and standardized patient data distributions and timelines, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of data stay where they are yet allows us to search and reason across it as one system.",
-    "one_liner": "The autonomous operating system for healthcare",
+    "all_locations": "",
+    "long_description": "Eos helps clinics turn their data into actionable insights to identify more eligible patients and early care interventions.\r\n\r\nWe harmonize historical data across all systems to create standardized patient data distributions, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of raw data stay where it is while allowing us to search and reason across it as one system.\r\n\r\nInstead of treating the visit or document as an isolated instance, we can look at it as a continuous story. We can predict how a case will resolve, trigger the required approvals and actions, and do so while reducing staff workload and recovering hospital revenue.",
+    "one_liner": "Autonomous OS for healthcare",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -8760,7 +8760,6 @@
     "tags": [
       "B2B",
       "Healthcare",
-      "Data Engineering",
       "Infrastructure",
       "AI"
     ],
@@ -8774,8 +8773,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8834,8 +8832,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
     "website": "https://tepali.com",
     "all_locations": "",
-    "long_description": "",
-    "one_liner": "AI-native operating system for medspas",
+    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
+    "one_liner": "Agentic OS for medspas",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -8866,96 +8864,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tepali",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/tepali.json"
-  },
-  {
-    "id": 31163,
-    "name": "Opalite Health",
-    "slug": "opalite-health",
-    "former_names": [
-      "Calliope"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/486a2091ac156a249fa74de7d7c575fedb03c889.png",
-    "website": "http://opalitehealth.com/",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Opalite makes it easy for healthcare providers to communicate with non-English speaking patients. We’re built to work inside existing clinical workflows, so providers can communicate in real time without waiting for an interpreter or delaying care. \r\n\r\nOpalite is available instantly, 24/7, and replaces traditional interpretation services with software that’s more reliable and saves millions of dollars per year.\r\n\r\nWe've built a voice AI system that is the safest, most compliant, and most accurate medical interpreter in the world.",
-    "one_liner": "Solving language barriers in healthcare",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1768325224,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opalite-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/opalite-health.json"
-  },
-  {
-    "id": 31269,
-    "name": "MochaCare",
-    "slug": "mochacare",
-    "former_names": [
-      "HelpingHome"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
-    "website": "https://www.mochacare.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "MochaCare manages home care agency operations with AI agents backed by human support. We handle hiring, scheduling, and client intake end-to-end so agencies can grow while keeping humans involved when it matters most. \r\n\r\nWe provide a service because home care agencies want an outcome, not another tool.",
-    "one_liner": "Manage home care agency ops with AI agents backed by human support",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1771654500,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Healthcare",
-      "Home Services",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mochacare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
   },
   {
     "id": 31299,

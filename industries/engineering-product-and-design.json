@@ -11262,7 +11262,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24919,17 +24919,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d44e6f61cb5ed4a97d1177fa88df6f8b04c87366.png",
     "website": "https://www.zatanna.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "Turn legacy software into agent-first APIs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770919305,
-    "tags": [
-      "Developer Tools",
-      "Web Development"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -24941,8 +24938,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25162,47 +25158,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
   },
   {
-    "id": 31215,
-    "name": "Bubble Lab",
-    "slug": "bubble-lab",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
-    "website": "https://bubblelab.ai/",
-    "all_locations": "",
-    "long_description": "Bubble Lab (YC W’26) lets you deploy Pearl, your ops super-employee, directly into Slack.\r\n\r\nPearl connects to your tools like Notion, Jira, HubSpot, Stripe, and Google Workspace, and can take action on your behalf—updating systems, running reports, and executing operational workflows automatically.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work, reduce context switching, and scale their operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
-    "one_liner": "Your ops super-employee in Slack",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1764881455,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bubble-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
-  },
-  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -25291,20 +25246,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
     "website": "https://www.corelayer.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We’re building the AI on-call engineer for data-heavy, regulated industries like finance, healthcare, and insurance.\r\n\r\nEngineers in these industries need to inspect data to debug production issues. We continuously monitor logs, metrics, and data for issues and use agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure inference environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
     "one_liner": "AI on-call engineer for data-heavy, regulated industries",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767713346,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25316,8 +25265,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25373,19 +25321,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
     "website": "https://aurorincad.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
     "one_liner": "Claude Code for Mechanical Engineering CAD",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1769109612,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25397,8 +25340,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

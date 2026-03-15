@@ -2387,9 +2387,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/617ef74a3e62398db60a2179add2a7f75d8bbd18.png",
     "website": "http://ironcladapp.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contracts are business decisions trapped in administrative tasks. Ironclad is software that does all the administrative work better left for a robot, freeing legal teams to do more substantive work and drive business strategy. By automating contracting processes and extracting intelligence from contracts, Ironclad lets legal teams focus on legal work, rather than paperwork. Legal teams at companies like Gusto, HotelTonight, GoFundMe, Glassdoor, Procore use Ironclad to get their contracts done more efficiently and accurately, and to maintain a single source of truth regarding their contents.\r\n\r\nHeadquartered in San Francisco, Ironclad is backed by Accel, Greylock, SV Angel, Formation 8, and was incubated in Y Combinator. For more information, visit https://www.ironcladapp.com.",
-    "one_liner": "Digital contracting platform for legal teams.  ",
-    "team_size": 400,
+    "long_description": "Ironclad helps companies make and manage their business contracts.  Customers like L'Oréal, Heineken, and Salesforce use our platform to move up to 80% faster, make better decisions through data, and effectively manage risk.  We are backed by investors like Accel, Sequoia, Bond, Franklin Templeton, SV Angel, and Y Combinator.  ",
+    "one_liner": "AI-powered contract management",
+    "team_size": 700,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1429997716,
@@ -2413,7 +2413,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16891,7 +16891,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27440,7 +27440,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -50279,6 +50279,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/streamable.json"
   },
   {
+    "id": 30024,
+    "name": "Crouton",
+    "slug": "crouton",
+    "former_names": [
+      "Titan Ops",
+      "Upshift"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23fc8154fa836adeef8240d282c8bf38c8c6f549.png",
+    "website": "https://usecrouton.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Crouton is the living map of your organization.\r\n\r\nIt’s for founders and operators at growing companies who need to understand how people, teams, roles, and ownership actually fit together.\r\n\r\nToday they piece this together from org charts, Notion docs, spreadsheets, Slack, and memory and then redo it every time something changes.",
+    "one_liner": "The living map of your organization",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1730739931,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crouton",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/crouton.json"
+  },
+  {
     "id": 30030,
     "name": "Candle",
     "slug": "candle",
@@ -55727,9 +55767,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
+    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.",
     "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
@@ -58188,12 +58228,12 @@
     "all_locations": "Mexico City, CDMX, Mexico",
     "long_description": "Voice AI Agents for Debt Collection",
     "one_liner": "Voice AI Agents for Debt Collection",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60764,51 +60804,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
   },
   {
-    "id": 31193,
-    "name": "9 Mothers",
-    "slug": "9-mothers-corporation",
-    "former_names": [
-      "9 Mothers Corporation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84622897534f7613d85e63267d30b56cc2f7e6df.png",
-    "website": "https://9mothers.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "We are making AI weapon systems for the modern battlefield.\r\n\r\nOur first product EDDA is a small, low power, low cost fully autonomous-capable counter drone system. It's designed to be used on vehicles, bases, or carried - to stop group 1 suicide drones.",
-    "one_liner": "AI weapon systems",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1772383071,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Drones",
-      "GovTech",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/9-mothers-corporation",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
-  },
-  {
     "id": 31205,
     "name": "Human Archive",
     "slug": "human-archive",
@@ -60856,18 +60851,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f253ec2ac4c62d3fd349aefdf584c9074cae87d.png",
     "website": "https://oximy.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Oximy helps enterprises understand and manage AI usage across their workforce.\r\n\r\nUsed by security, finance, and transformation teams to track adoption, control spend, and manage governance as AI scales.",
     "one_liner": "The system of record for enterprise AI usage.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1769530723,
-    "tags": [
-      "Artificial Intelligence",
-      "Security",
-      "Enterprise Software"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60879,8 +60870,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -60906,13 +60896,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1766273553,
-    "tags": [
-      "Space Exploration",
-      "Satellites",
-      "Enterprise Software",
-      "Infrastructure",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,

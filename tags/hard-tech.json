@@ -3971,48 +3971,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/one-robot.json"
   },
   {
-    "id": 31088,
-    "name": "RunAnywhere",
-    "slug": "runanywhere",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/361f4cc73d27e788a8d1f92355ba04c3d71218ee.png",
-    "website": "https://www.runanywhere.ai/",
-    "all_locations": "",
-    "long_description": "Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",
-    "one_liner": "The production infra for running AI on the hardware people already own",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1767296079,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Hard Tech",
-      "IoT",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runanywhere",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
-  },
-  {
     "id": 31097,
     "name": "REV1",
     "slug": "rev1",
@@ -4212,7 +4170,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -4316,50 +4274,5 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/daivin",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/daivin.json"
-  },
-  {
-    "id": 31292,
-    "name": "Aurorin CAD",
-    "slug": "aurorin-cad",
-    "former_names": [
-      "Rapid CAD",
-      "Aurorin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
-    "website": "https://aurorincad.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
-    "one_liner": "Claude Code for Mechanical Engineering CAD",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1769109612,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aurorin-cad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
   }
 ]

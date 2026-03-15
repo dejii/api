@@ -6994,6 +6994,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
   },
   {
+    "id": 30813,
+    "name": "Blue",
+    "slug": "blue",
+    "former_names": [
+      "L5 Assistant"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90acd1189896151e269eca2dc0a6b15c7042d091.png",
+    "website": "https://heyblue.com/",
+    "all_locations": "",
+    "long_description": "Everyone pays someone to handle the parts of their life that don't need them personally. The cleaner, the bookkeeper, the lawn service. Nobody could handle what lives in your phone. Until Blue.\r\n\r\nBlue is a small USB-C dongle and iPhone app. Plug it in and say what needs doing. The follow-up you haven't sent, the appointment you haven't booked, the reply you owe. Blue opens the right app, does the work, and tells you when it's done. You don't touch your phone.\r\n\r\nWorks with every app already on your iPhone. \r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant’s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe’ve built systems used by billions. Now we’re on to defining the next era of computing.",
+    "one_liner": "Your phone finally has someone to run it. Plug in Blue, just ask.",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1753836546,
+    "tags": [
+      "Hardware",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blue",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/blue.json"
+  },
+  {
     "id": 30837,
     "name": "AirCaps",
     "slug": "aircaps",
@@ -7208,50 +7250,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
   },
   {
-    "id": 31078,
-    "name": "Tensol",
-    "slug": "tensol",
-    "former_names": [
-      "Solstis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
-    "website": "https://www.tensol.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Each AI employee runs 24/7 in its own isolated VM, has full context of your company, and can monitor Slack, track Sentry errors, update your CRM, and more. We handle the infrastructure, security, and deployment.\r\n\r\nTensol also lets you create specialized AI employees for different jobs - engineering, sales, support, in a couple of minutes. You connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations. Every action is logged with a full audit trail, credentials are injected at network-level, and each AI employee gets its own dedicated identity and sandboxed environment, with enterprise-grade security built-in.",
-    "one_liner": "AI Employees for your Business, Powered by OpenClaw",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1767743432,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tensol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
-  },
-  {
     "id": 31104,
     "name": "Cofia",
     "slug": "cofia",
@@ -7422,49 +7420,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/o11",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
-  },
-  {
-    "id": 31254,
-    "name": "Sila",
-    "slug": "sila",
-    "former_names": [
-      "saiera",
-      "sila"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f100254a99493d2280f4072952f3d2a6e031aa7.png",
-    "website": "https://silahq.com",
-    "all_locations": "",
-    "long_description": "Every great company in history was built on one thing: communication. Sila is an agentic workspace messaging & collaboration platform for teams and companies. Our mission is to lead the future where human-AI communication is the standard for work.",
-    "one_liner": "Agentic Workspace Messaging ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1772231466,
-    "tags": [
-      "Productivity",
-      "Messaging",
-      "Team Collaboration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sila",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sila.json"
   }
 ]

@@ -5798,51 +5798,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
   },
   {
-    "id": 31113,
-    "name": "CellType",
-    "slug": "celltype",
-    "former_names": [
-      "Contextual Bio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7626449e8e50e3bcef406586024dca5da4b7918b.png",
-    "website": "https://www.celltype.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "CellType is building an agentic drug company. AI agents that run the full drug discovery pipeline on top of biological foundation models that simulate human biology. Our core technology, developed with Google DeepMind, has already discovered and validated a new cancer treatment signal. We’re working with Top 10 pharma.",
-    "one_liner": "The agentic drug company. We simulate human biology.",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1771295425,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Biotech",
-      "Therapeutics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/celltype",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/celltype.json"
-  },
-  {
     "id": 31176,
     "name": "Rhizome AI",
     "slug": "rhizome-ai",
@@ -5890,17 +5845,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d5b227bb99dde80a75d7008740db6747b12af69.png",
     "website": "https://www.dittobio.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ditto Bio discovers drugs for autoimmune diseases by harnessing parasite biology. Viruses, ticks, and worms have experimented over millions of years to create proteins that control the human immune system. We use AI to identify these proteins and engineer them into next-generation autoimmune therapies.",
+    "all_locations": "",
+    "long_description": "Ditto Bio discovers drugs for autoimmune diseases by harnessing parasite biology. Viruses, ticks, and worms have experimented over millions of years to create proteins that control the human immune system. We use AI to identify these proteins and engineer them into next-generation autoimmune therapies.\r\n\r\nOur team is three PhD scientists from UCSF, UCSD, and UC Berkeley who have worked together for 3+ years in biotech. We have deep expertise in parasite biology, computational biology, and software for AI-based protein structure prediction",
     "one_liner": "Evolutionary therapies for autoimmune disease",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1770234545,
     "tags": [
+      "AI-powered Drug Discovery",
       "Biotech",
-      "Therapeutics",
-      "Drug discovery"
+      "Therapeutics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5913,8 +5868,7 @@
       "Drug Discovery and Delivery"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
