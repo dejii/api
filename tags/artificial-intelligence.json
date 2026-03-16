@@ -4456,7 +4456,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -8647,7 +8647,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -19822,6 +19822,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/minded.json"
   },
   {
+    "id": 29082,
+    "name": "Strada",
+    "slug": "strada",
+    "former_names": [
+      "Strada",
+      "Finbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
+    "website": "https://www.getstrada.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "The agentic workforce for insurance",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1690570692,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strada",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/strada.json"
+  },
+  {
     "id": 29085,
     "name": "Quill Bills",
     "slug": "quill-bills",
@@ -26188,6 +26232,57 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kenley",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/kenley.json"
+  },
+  {
+    "id": 29695,
+    "name": "Dench.com",
+    "slug": "dench-com",
+    "former_names": [
+      "Merse",
+      "Merse Originals, Inc.",
+      "Merse",
+      "Dench.com",
+      "Dench"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
+    "website": "https://dench.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An OpenClaw Framwork that builds an AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
+    "one_liner": "Open Source AI CRM built on top of OpenClaw",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1720334032,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Open Source",
+      "CRM",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dench-com",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
   },
   {
     "id": 29697,
@@ -36218,8 +36313,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png",
     "website": "https://clodo.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clodo is built for Vibe GTM. Find and reach your next customers with just a prompt. \r\nExecute your outbound ideas at the speed of thought. ",
-    "one_liner": "Vibe GTM. Execute your outbound ideas with just a prompt",
+    "long_description": "Clodo is the planet's best people intelligence. Used by GTM, Recruiting, Marketing, and Ops at AI Natives, B2Bs, and Fortune 500s in SaaS, Manufacturing/Industrials, BioTech, Healthcare, Fintech, Compliance, and more",
+    "one_liner": "Planet-scale people search. GTM, Sales, Recruiting, Marketing, and Ops",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -38447,50 +38542,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
   },
   {
-    "id": 31036,
-    "name": "Mantis",
-    "slug": "mantis",
-    "former_names": [
-      "Mantis Biotechnology"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
-    "website": "https://mantisbiotech.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Mantis is a digital twin company that combines LLMs with high-fidelity physics simulations in order to convert rare and difficult-to-access human behavior data into predictive models. ",
-    "one_liner": "Physics-Enhanced Datasets for Low-Resource Machine Learning",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1766166166,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Biotech",
-      "Biotechnology"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mantis",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis.json"
-  },
-  {
     "id": 31048,
     "name": "FullSeam",
     "slug": "fullseam",
@@ -38790,50 +38841,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/asimov.json"
   },
   {
-    "id": 31098,
-    "name": "10x Science",
-    "slug": "10x-science",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
-    "website": "https://10xscience.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission at 10x Science is to enable biopharmaceutical development to keep pace with AI-powered drug discovery. \r\n\r\nThanks to AI, the front end of drug discovery is flooding the pipeline with new drug candidates. However, current solutions for drug development are unable to resolve drug complexity and cannot keep up with modern demand. Our platform is the unlock for this bottleneck. \r\n\r\nBy applying modern AI to the development stage, specifically to protein characterization and quality assessment, we provide an end-to-end solution to dramatically speed up and scale up the preparation of candidates for the clinic. \r\n\r\nOur team is composed of Stanford University researchers from a Nobel Laureate's lab with 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next-generation of modern AI drug development. ",
-    "one_liner": "The AI-native platform for next-generation protein characterization.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768312668,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/10x-science",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
-  },
-  {
     "id": 31100,
     "name": "Sentrial",
     "slug": "sentrial",
@@ -39051,6 +39058,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cascade.json"
   },
   {
+    "id": 31111,
+    "name": "Envariant",
+    "slug": "envariant",
+    "former_names": [
+      "Facture"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
+    "website": "https://envariant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Envariant is an AI interpretability and reasoning SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
+    "one_liner": "Interpretability and reasoning infra for foundation models.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1772291164,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/envariant",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
+  },
+  {
     "id": 31116,
     "name": "OpenSpec",
     "slug": "openspec",
@@ -39096,27 +39145,27 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/openspec.json"
   },
   {
-    "id": 31127,
-    "name": "Tepali",
-    "slug": "tepali",
+    "id": 31132,
+    "name": "MouseCat",
+    "slug": "mousecat",
     "former_names": [
-      "Lotus"
+      "Agnostic"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
-    "website": "https://tepali.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71e74a47767755403f90f1778ab3ab410649c82e.png",
+    "website": "https://www.mousecat.ai",
     "all_locations": "",
-    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
-    "one_liner": "Agentic OS for medspas",
+    "long_description": "MouseCat enables companies to automatically detect, investigate, and mitigate emerging fraud trends",
+    "one_liner": "AI-powered fraud investigations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1772136676,
+    "launched_at": 1769108383,
     "tags": [
       "Artificial Intelligence",
       "Fintech",
-      "SaaS",
+      "Payments",
       "B2B",
-      "Healthcare"
+      "Fraud Detection"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39135,8 +39184,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tepali",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/tepali.json"
+    "url": "https://www.ycombinator.com/companies/mousecat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json"
   },
   {
     "id": 31136,
@@ -40369,49 +40418,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/crow.json"
   },
   {
-    "id": 31248,
-    "name": "BeeSafe AI",
-    "slug": "beesafe-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
-    "website": "https://beesafe.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and government agencies to intercept scammers mid-transaction and prevent victim losses.",
-    "one_liner": "Stopping Scams Before They Reach Your Customers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1770327115,
-    "tags": [
-      "Artificial Intelligence",
-      "Security",
-      "Cybersecurity",
-      "Fraud Prevention",
-      "Fraud Detection"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beesafe-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/beesafe-ai.json"
-  },
-  {
     "id": 31252,
     "name": "Moda",
     "slug": "moda",
@@ -40671,7 +40677,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e1877ffaf8478eb57359647a0ad11ae811fbf38.png",
     "website": "http://hub.xyz",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "",
+    "long_description": " ",
     "one_liner": "API for real-world training data.",
     "team_size": 10,
     "industry": "B2B",
@@ -40685,7 +40691,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -40830,5 +40836,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/indexable",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/indexable.json"
+  },
+  {
+    "id": 31528,
+    "name": "Asendia AI",
+    "slug": "asendia-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
+    "website": "https://asendia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1773592389,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asendia-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json"
   }
 ]

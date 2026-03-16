@@ -3567,7 +3567,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb845253b30b7d03651816b8bbbf27b80eaffa2.png",
     "website": "https://www.candidately.com/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Candidately simplifies the process of sharing candidate resumes between staffing firms and their clients. Instead of relying on email attachments, Candidately offers a collaborative space where staffing firms can submit their top candidates, receive prompt client feedback, track client activity on candidate profiles, and increase the number of successful placements.",
+    "long_description": "Candidately is the AI workspace for recruitment agencies. We sit on top of Bullhorn and other major ATS platforms and give every recruiter on the team the speed and reach of the best biller in the building.\r\n\r\nOne platform, five products. Rediscovery uses semantic search to find candidates the ATS already has but Boolean search can't surface. Sourcing reaches 250+ million web profiles when the database falls short. Resume Builder turns a raw CV into a branded, client-ready document in seconds. Client Portal replaces email threads with a white-labeled space where hiring managers review, shortlist, and respond. Talent Marketplace puts a searchable candidate directory on agency websites so clients come to you.\r\n\r\nAgencies have spent years building candidate databases worth millions. Candidately makes that investment actually pay off, from first search to final placement.",
     "one_liner": "The digital storefront for staffing and recruiting teams.",
     "team_size": 9,
     "industry": "B2B",
@@ -5896,7 +5896,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -30079,19 +30079,20 @@
   },
   {
     "id": 27846,
-    "name": "Polo",
-    "slug": "polo",
+    "name": "PoloTab",
+    "slug": "polotab",
     "former_names": [
       "PoloPay",
       "Polo",
-      "PoloPay"
+      "PoloPay",
+      "Polo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/125206d3d51ae1a0a9e8a0446836031dcecb557a.png",
     "website": "https://polotab.com",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "\r\nFounded in 2022, Polo is the ecosystem for coffee shops and restaurants in LatAm to run on. We design, build, and sell with our customer experience and reality in mind. This commitment has driven us to truly innovate, saving our customers from outrageous third-party costs and week-long lead times.\r\n\r\nWe offer point of sale, inventory management, and more to our growing community of entrepreneur and experienced restaurateurs. Our tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
-    "one_liner": "Building restaurant software that works.",
-    "team_size": 5,
+    "long_description": "The ecosystem coffee shops and restaurants in Mexico run on.\r\n\r\nFrom point of sale, to inventory management, payments and much more for the most demanding. \r\n\r\nOur tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
+    "one_liner": "Restaurant software that actually works",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673740327,
@@ -30113,17 +30114,15 @@
     ],
     "regions": [
       "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/polo.json"
+    "url": "https://www.ycombinator.com/companies/polotab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/polotab.json"
   },
   {
     "id": 27853,
@@ -34521,17 +34520,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada helps insurance carriers, MGAs, and brokers run with AI agents that handle sales & service calls, chats, and emails 24/7.",
-    "one_liner": "Phone AI agents for insurance",
-    "team_size": 10,
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "The agentic workforce for insurance",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42598,8 +42597,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/669230895e9a350309e4b696d01d846593838da1.png",
     "website": "https://www.corsair.dev",
     "all_locations": "New York, NY, USA",
-    "long_description": "Don't do work yourself because you're nervous to hand it off.\r\n\r\nAI agents are genuinely capable now, but giving them the keys to your email, Slack, GitHub, and CRM feels reckless. One misunderstood instruction and they're sending emails to the wrong person, creating calendar invites, or pushing code you didn't mean to ship. So you end up doing the work yourself anyway.\r\n\r\nCorsair is a drop-in integration layer for AI agents that holds your credentials in an encrypted local database and enforces a configurable permission layer on every call. Anything risky gets paused and sent to you as a review link. Your agent cannot get around it. The approval is enforced in code, not in the prompt.\r\n\r\nIt works alongside OpenClaw, NanoClaw, or any agent you're already running. Drop it in, configure how much trust each integration gets, and hand off the work you've been too nervous to assign.\r\n\r\nIt ships with 12 integrations today, including Slack, GitHub, Gmail, Linear, HubSpot, and Google Calendar, with 15 more in development. Multi-tenancy and webhook handlers are built in.\r\n\r\nTake a look at the repo and see if it fits how you work: github.com/corsairdev/corsair",
-    "one_liner": "Integration Layer for AI Agents 🦞",
+    "long_description": "What Corsair is:\r\nCorsair gives you (or your agent) safe access to hundreds of integrations. It natively handles all integration plumbing. The only code you write is the code that's specific to your use case. Your data stays yours.\r\n\r\nWhy we wrote it:\r\nIntegrations make products capable. Integrations are also frustrating to write. If you look at any codebase with integrations, 95% of the code is identical. It's all just basic plumbing. The part of the integration that is unique to a codebase and actually adds value is probably just a few lines. We shouldn't waste time writing and maintaining the 95% for a few lines. The developer community has just accepted that we do. Corsair handles the 95% so you don't have to. It's really hard to get wrong. ",
+    "one_liner": "Integration Layer for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -45620,8 +45619,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png",
     "website": "https://clodo.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clodo is built for Vibe GTM. Find and reach your next customers with just a prompt. \r\nExecute your outbound ideas at the speed of thought. ",
-    "one_liner": "Vibe GTM. Execute your outbound ideas with just a prompt",
+    "long_description": "Clodo is the planet's best people intelligence. Used by GTM, Recruiting, Marketing, and Ops at AI Natives, B2Bs, and Fortune 500s in SaaS, Manufacturing/Industrials, BioTech, Healthcare, Fintech, Compliance, and more",
+    "one_liner": "Planet-scale people search. GTM, Sales, Recruiting, Marketing, and Ops",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -47678,50 +47677,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
   },
   {
-    "id": 31098,
-    "name": "10x Science",
-    "slug": "10x-science",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
-    "website": "https://10xscience.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission at 10x Science is to enable biopharmaceutical development to keep pace with AI-powered drug discovery. \r\n\r\nThanks to AI, the front end of drug discovery is flooding the pipeline with new drug candidates. However, current solutions for drug development are unable to resolve drug complexity and cannot keep up with modern demand. Our platform is the unlock for this bottleneck. \r\n\r\nBy applying modern AI to the development stage, specifically to protein characterization and quality assessment, we provide an end-to-end solution to dramatically speed up and scale up the preparation of candidates for the clinic. \r\n\r\nOur team is composed of Stanford University researchers from a Nobel Laureate's lab with 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next-generation of modern AI drug development. ",
-    "one_liner": "The AI-native platform for next-generation protein characterization.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768312668,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/10x-science",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
-  },
-  {
     "id": 31100,
     "name": "Sentrial",
     "slug": "sentrial",
@@ -47863,16 +47818,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
     "website": "https://envariant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Envariant is an AI interpretability SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
+    "long_description": "Envariant is an AI interpretability and reasoning SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
     "one_liner": "Interpretability and reasoning infra for foundation models.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772291164,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48087,18 +48042,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
     "website": "https://tepali.com",
     "all_locations": "",
-    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
+    "long_description": "Tepali is the agentic OS for medspas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, patient documentation, and lead conversion.",
     "one_liner": "Agentic OS for medspas",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772136676,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48165,6 +48120,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cumulus-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
+  },
+  {
+    "id": 31132,
+    "name": "MouseCat",
+    "slug": "mousecat",
+    "former_names": [
+      "Agnostic"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71e74a47767755403f90f1778ab3ab410649c82e.png",
+    "website": "https://www.mousecat.ai",
+    "all_locations": "",
+    "long_description": "MouseCat enables companies to automatically detect, investigate, and mitigate emerging fraud trends",
+    "one_liner": "AI-powered fraud investigations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769108383,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Fraud Detection"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mousecat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json"
   },
   {
     "id": 31137,
@@ -49016,51 +49014,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/the-token-company",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
-  },
-  {
-    "id": 31253,
-    "name": "Maven",
-    "slug": "maven",
-    "former_names": [
-      "Lattice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
-    "website": "https://trymaven.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
-    "one_liner": "Payments Infrastructure for Voice Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770422490,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "B2B",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maven",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
     "id": 31255,

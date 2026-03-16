@@ -3581,7 +3581,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -8832,18 +8832,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
     "website": "https://tepali.com",
     "all_locations": "",
-    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
+    "long_description": "Tepali is the agentic OS for medspas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, patient documentation, and lead conversion.",
     "one_liner": "Agentic OS for medspas",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772136676,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8873,16 +8873,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00d9df2c4df7159bbd9cfe29bf68638efb2f8ed3.png",
     "website": "https://wayco.ai",
     "all_locations": "",
-    "long_description": "Wayco is using voice AI to automate case intake, claim & medical care coordination and telemedicine. What traditionally takes human managers days of phone calls and paperwork, Wayco handles in minutes, making it 10x faster and dramatically cheaper to scale.\r\n\r\nWayco is also becoming a law firm itself - ensuring anyone, anywhere in America, gets access to justice anytime they need it. Starting with Personal Injury.",
+    "long_description": "Wayco is building a unified data intelligence layer for medical treatment of legal cases. From the first intake to instant settlement.",
     "one_liner": "AI operator for medlegal cases",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770576314,
     "tags": [
-      "Marketplace",
       "Healthcare",
       "LegalTech",
+      "Insurance",
       "Call Center"
     ],
     "tags_highlighted": [],
@@ -8893,7 +8893,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Legal"
+      "Infrastructure"
     ],
     "regions": [
       "Unspecified"

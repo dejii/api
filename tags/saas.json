@@ -3578,7 +3578,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6681,7 +6681,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb845253b30b7d03651816b8bbbf27b80eaffa2.png",
     "website": "https://www.candidately.com/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Candidately simplifies the process of sharing candidate resumes between staffing firms and their clients. Instead of relying on email attachments, Candidately offers a collaborative space where staffing firms can submit their top candidates, receive prompt client feedback, track client activity on candidate profiles, and increase the number of successful placements.",
+    "long_description": "Candidately is the AI workspace for recruitment agencies. We sit on top of Bullhorn and other major ATS platforms and give every recruiter on the team the speed and reach of the best biller in the building.\r\n\r\nOne platform, five products. Rediscovery uses semantic search to find candidates the ATS already has but Boolean search can't surface. Sourcing reaches 250+ million web profiles when the database falls short. Resume Builder turns a raw CV into a branded, client-ready document in seconds. Client Portal replaces email threads with a white-labeled space where hiring managers review, shortlist, and respond. Talent Marketplace puts a searchable candidate directory on agency websites so clients come to you.\r\n\r\nAgencies have spent years building candidate databases worth millions. Candidately makes that investment actually pay off, from first search to final placement.",
     "one_liner": "The digital storefront for staffing and recruiting teams.",
     "team_size": 9,
     "industry": "B2B",
@@ -36430,19 +36430,20 @@
   },
   {
     "id": 27846,
-    "name": "Polo",
-    "slug": "polo",
+    "name": "PoloTab",
+    "slug": "polotab",
     "former_names": [
       "PoloPay",
       "Polo",
-      "PoloPay"
+      "PoloPay",
+      "Polo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/125206d3d51ae1a0a9e8a0446836031dcecb557a.png",
     "website": "https://polotab.com",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "\r\nFounded in 2022, Polo is the ecosystem for coffee shops and restaurants in LatAm to run on. We design, build, and sell with our customer experience and reality in mind. This commitment has driven us to truly innovate, saving our customers from outrageous third-party costs and week-long lead times.\r\n\r\nWe offer point of sale, inventory management, and more to our growing community of entrepreneur and experienced restaurateurs. Our tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
-    "one_liner": "Building restaurant software that works.",
-    "team_size": 5,
+    "long_description": "The ecosystem coffee shops and restaurants in Mexico run on.\r\n\r\nFrom point of sale, to inventory management, payments and much more for the most demanding. \r\n\r\nOur tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
+    "one_liner": "Restaurant software that actually works",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673740327,
@@ -36464,17 +36465,15 @@
     ],
     "regions": [
       "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/polo.json"
+    "url": "https://www.ycombinator.com/companies/polotab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/polotab.json"
   },
   {
     "id": 27852,
@@ -40282,17 +40281,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada helps insurance carriers, MGAs, and brokers run with AI agents that handle sales & service calls, chats, and emails 24/7.",
-    "one_liner": "Phone AI agents for insurance",
-    "team_size": 10,
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "The agentic workforce for insurance",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48729,8 +48728,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
     "website": "https://www.usekita.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
-    "one_liner": "Turn documents into signals for lenders",
+    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+    "one_liner": "Automate credit review for lenders in emerging markets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -48803,50 +48802,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lexius",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
-  },
-  {
-    "id": 31098,
-    "name": "10x Science",
-    "slug": "10x-science",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
-    "website": "https://10xscience.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission at 10x Science is to enable biopharmaceutical development to keep pace with AI-powered drug discovery. \r\n\r\nThanks to AI, the front end of drug discovery is flooding the pipeline with new drug candidates. However, current solutions for drug development are unable to resolve drug complexity and cannot keep up with modern demand. Our platform is the unlock for this bottleneck. \r\n\r\nBy applying modern AI to the development stage, specifically to protein characterization and quality assessment, we provide an end-to-end solution to dramatically speed up and scale up the preparation of candidates for the clinic. \r\n\r\nOur team is composed of Stanford University researchers from a Nobel Laureate's lab with 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next-generation of modern AI drug development. ",
-    "one_liner": "The AI-native platform for next-generation protein characterization.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768312668,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/10x-science",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
   },
   {
     "id": 31104,
@@ -48942,18 +48897,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
     "website": "https://tepali.com",
     "all_locations": "",
-    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
+    "long_description": "Tepali is the agentic OS for medspas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, patient documentation, and lead conversion.",
     "one_liner": "Agentic OS for medspas",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772136676,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49480,51 +49435,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
   },
   {
-    "id": 31253,
-    "name": "Maven",
-    "slug": "maven",
-    "former_names": [
-      "Lattice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
-    "website": "https://trymaven.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
-    "one_liner": "Payments Infrastructure for Voice Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770422490,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "B2B",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maven",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
-  },
-  {
     "id": 31275,
     "name": "Polymorph",
     "slug": "polymorph",
@@ -49621,9 +49531,9 @@
     "subindustry": "B2B",
     "launched_at": 1771902214,
     "tags": [
-      "AIOps",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

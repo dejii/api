@@ -885,7 +885,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
     "website": "https://www.haladir.com/",
     "all_locations": "",
-    "long_description": "Haladir is an applied AI product lab for verifiable domains, enabling reinforcement learning & model harnesses to scale to economically-complex tasks via the formalization of the informal. We apply solver-based methods, SMT/SAT solvers, MILP, operations research, and formal verification to make RLVR and agent deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chains, manufacturing, ERPs and beyond.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take consultants and analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
+    "long_description": "Haladir is an applied AI product lab for optimal decision-making, working with formal solvers, linear programming models, & LLMs to enable critical operations companies to operate at frontier speed and precision. Today's AI has brought us intelligence. The next frontier is judgement.\r\n\r\nWe apply solver-based methods, SMT/SAT solvers, MILP, operations research, and formal verification to make both RL and AI deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chains, manufacturing, ERPs and beyond.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take consultants and analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
     "one_liner": "Building Operational Superintelligence.",
     "team_size": 4,
     "industry": "B2B",
@@ -922,19 +922,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
     "website": "https://mantisbiotech.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Mantis is a digital twin company that combines LLMs with high-fidelity physics simulations in order to convert rare and difficult-to-access human behavior data into predictive models. ",
-    "one_liner": "Physics-Enhanced Datasets for Low-Resource Machine Learning",
+    "one_liner": "Digital Twins of humans",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1766166166,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Biotech",
-      "Biotechnology"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -946,8 +941,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1512,8 +1506,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
     "website": "https://www.usekita.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning system. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
-    "one_liner": "Turn documents into signals for lenders",
+    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+    "one_liner": "Automate credit review for lenders in emerging markets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -1952,11 +1946,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1771985375,
-    "tags": [
-      "Developer Tools",
-      "Video",
-      "Infrastructure"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2030,20 +2020,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
     "website": "https://10xscience.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Our mission at 10x Science is to enable biopharmaceutical development to keep pace with AI-powered drug discovery. \r\n\r\nThanks to AI, the front end of drug discovery is flooding the pipeline with new drug candidates. However, current solutions for drug development are unable to resolve drug complexity and cannot keep up with modern demand. Our platform is the unlock for this bottleneck. \r\n\r\nBy applying modern AI to the development stage, specifically to protein characterization and quality assessment, we provide an end-to-end solution to dramatically speed up and scale up the preparation of candidates for the clinic. \r\n\r\nOur team is composed of Stanford University researchers from a Nobel Laureate's lab with 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next-generation of modern AI drug development. ",
     "one_liner": "The AI-native platform for next-generation protein characterization.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768312668,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "Enterprise Software"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2054,8 +2038,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2453,16 +2435,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
     "website": "https://envariant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Envariant is an AI interpretability SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
+    "long_description": "Envariant is an AI interpretability and reasoning SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
     "one_liner": "Interpretability and reasoning infra for foundation models.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772291164,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2917,18 +2899,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9e3d92cb3583a206f6e340aeba20e1e827a5374.png",
     "website": "https://tepali.com",
     "all_locations": "",
-    "long_description": "Tepali is the agentic OS for med spas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, charting, and growth.",
+    "long_description": "Tepali is the agentic OS for medspas. We replace fragmented software and manual work with a single system of record powered by AI agents that handle front desk, patient documentation, and lead conversion.",
     "one_liner": "Agentic OS for medspas",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772136676,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3131,7 +3113,13 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769108383,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Fraud Detection"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6833,18 +6821,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
     "website": "https://beesafe.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BeeSafe AI is a fraud-prevention platform for enterprises that helps them protect their customers against trust-based attacks like \"pig butchering\" and impersonation. By engaging fraudsters at the source in real-time, the AI system identifies and shuts down channels by extracting deterministic data on mule accounts and attacker infrastructure. Our intel has already enabled financial services and government agencies to intercept scammers mid-transaction and prevent victim losses.",
+    "long_description": "BeeSafe AI is building the frontier model layer for social engineering defense. Cyberattacks have moved from code to conversation: attackers now use AI to carry out long-term, trust-based manipulation across SMS, voice, email, and social platforms, often inside encrypted channels where defenders cannot see, detect, or stop them.\r\n\r\nBeeSafe changes that by deploying undercover AI agents that engage attackers directly, expose hidden infrastructure, and convert live adversarial conversations into actionable intelligence. Each engagement adds to BeeSafe's proprietary dataset of real attacker behavior and trains foundational models that continually learn about counter-persuasion, deception, and manipulation in the wild.\r\n\r\nBeeSafe is starting in financial crime, where banks already value our data against Advanced Push Payment (APP) fraud and money laundering, but the opportunity is far broader. The same data and models that uncover mule networks today can protect consumers, secure enterprises, and strengthen governments against the next generation of AI-powered social engineering attacks tomorrow.",
     "one_liner": "Stopping Scams Before They Reach Your Customers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1770327115,
     "tags": [
-      "Artificial Intelligence",
       "Security",
       "Cybersecurity",
       "Fraud Prevention",
-      "Fraud Detection"
+      "Fraud Detection",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6966,20 +6954,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
     "website": "https://trymaven.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
     "one_liner": "Payments Infrastructure for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770422490,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "B2B",
-      "Conversational AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6991,8 +6973,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7910,16 +7891,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00d9df2c4df7159bbd9cfe29bf68638efb2f8ed3.png",
     "website": "https://wayco.ai",
     "all_locations": "",
-    "long_description": "Wayco is using voice AI to automate case intake, claim & medical care coordination and telemedicine. What traditionally takes human managers days of phone calls and paperwork, Wayco handles in minutes, making it 10x faster and dramatically cheaper to scale.\r\n\r\nWayco is also becoming a law firm itself - ensuring anyone, anywhere in America, gets access to justice anytime they need it. Starting with Personal Injury.",
+    "long_description": "Wayco is building a unified data intelligence layer for medical treatment of legal cases. From the first intake to instant settlement.",
     "one_liner": "AI operator for medlegal cases",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770576314,
     "tags": [
-      "Marketplace",
       "Healthcare",
       "LegalTech",
+      "Insurance",
       "Call Center"
     ],
     "tags_highlighted": [],
@@ -7930,7 +7911,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Legal"
+      "Infrastructure"
     ],
     "regions": [
       "Unspecified"

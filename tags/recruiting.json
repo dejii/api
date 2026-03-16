@@ -729,7 +729,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eb845253b30b7d03651816b8bbbf27b80eaffa2.png",
     "website": "https://www.candidately.com/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Candidately simplifies the process of sharing candidate resumes between staffing firms and their clients. Instead of relying on email attachments, Candidately offers a collaborative space where staffing firms can submit their top candidates, receive prompt client feedback, track client activity on candidate profiles, and increase the number of successful placements.",
+    "long_description": "Candidately is the AI workspace for recruitment agencies. We sit on top of Bullhorn and other major ATS platforms and give every recruiter on the team the speed and reach of the best biller in the building.\r\n\r\nOne platform, five products. Rediscovery uses semantic search to find candidates the ATS already has but Boolean search can't surface. Sourcing reaches 250+ million web profiles when the database falls short. Resume Builder turns a raw CV into a branded, client-ready document in seconds. Client Portal replaces email threads with a white-labeled space where hiring managers review, shortlist, and respond. Talent Marketplace puts a searchable candidate directory on agency websites so clients come to you.\r\n\r\nAgencies have spent years building candidate databases worth millions. Candidately makes that investment actually pay off, from first search to final placement.",
     "one_liner": "The digital storefront for staffing and recruiting teams.",
     "team_size": 9,
     "industry": "B2B",
@@ -3102,5 +3102,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/standout",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/standout.json"
+  },
+  {
+    "id": 31528,
+    "name": "Asendia AI",
+    "slug": "asendia-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
+    "website": "https://asendia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1773592389,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asendia-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json"
   }
 ]

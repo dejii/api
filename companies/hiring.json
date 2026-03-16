@@ -2413,7 +2413,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10932,54 +10932,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/beacons",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/beacons.json"
-  },
-  {
-    "id": 12256,
-    "name": "Glide",
-    "slug": "glide",
-    "former_names": [
-      "glide (typeguard",
-      "Inc.)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43d2fbfbaba3aeb673e435f9035b2a74c1dc35d7.png",
-    "website": "https://www.glideapps.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Glide is a web-based app builder that allows non-programmers to quickly create powerful and beautiful internal business apps by starting from scratch, starting with a prompt, or starting with a spreadsheet. \r\n\r\nFor 30 years, app development had barely changed. When Glide launched, we brought app development out of the Dark Ages, making it web-based, collaborative, accessible, and fun. \r\n\r\nToday, the influence of AI on coding has propelled app development even further. And Glide has risen to the occasion. The next generation of Glide gives users an AI-first method for building internal business software without worrying about granular-level control, security, authentication, database infrastructure, or deployment woes. \r\n\r\nOur mission is to become the operating system for your business by helping you turn all of your operational spreadsheets and data into beautiful, intelligent apps. \r\n\r\nWe're three technical founders with expertise in native mobile frameworks, developer tools, and product design. We've worked together for 5-10 years, and were all early employees at Xamarin, a mobile developer tools startup acquired by Microsoft in 2016.",
-    "one_liner": "Glide turns spreadsheets into beautiful, intelligent apps.",
-    "team_size": 46,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1543977295,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "No-code",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/glide",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/glide.json"
   },
   {
     "id": 12257,
@@ -21399,51 +21351,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/odys-aviation",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
-  },
-  {
-    "id": 23954,
-    "name": "Serif Health",
-    "slug": "serif-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e3b6e17c1858f320778e38ff8fee6dda1399834.png",
-    "website": "https://www.serifhealth.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "At Serif Health, we are taking the complexity out of the cost of healthcare. Our mission is to make healthcare pricing and contracting more transparent, easier to understand, fairer, and ultimately more affordable for all. New price transparency regulations have made a wealth of healthcare pricing and reimbursement data publicly available for the first time, but it is still extremely hard to ingest, organize, and actually use this data to understand the cost of care. That’s where we come in. Serif Health is building healthcare price intelligence data products and APIs to power the future of more transparent healthcare.\r\n\r\nWe are an early-stage, venture-backed startup with a small, collaborative team of healthcare experts, engineers, and designers. We are excited to add new team members motivated by our mission, passionate about making a difference in healthcare, and looking forward to learning and growing from the challenges we will face along the way!",
-    "one_liner": "Healthcare Price Transparency APIs and Data Products",
-    "team_size": 15,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1646347894,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Analytics",
-      "Healthcare",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/serif-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/serif-health.json"
   },
   {
     "id": 23960,
@@ -34674,19 +34581,20 @@
   },
   {
     "id": 27846,
-    "name": "Polo",
-    "slug": "polo",
+    "name": "PoloTab",
+    "slug": "polotab",
     "former_names": [
       "PoloPay",
       "Polo",
-      "PoloPay"
+      "PoloPay",
+      "Polo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/125206d3d51ae1a0a9e8a0446836031dcecb557a.png",
     "website": "https://polotab.com",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "\r\nFounded in 2022, Polo is the ecosystem for coffee shops and restaurants in LatAm to run on. We design, build, and sell with our customer experience and reality in mind. This commitment has driven us to truly innovate, saving our customers from outrageous third-party costs and week-long lead times.\r\n\r\nWe offer point of sale, inventory management, and more to our growing community of entrepreneur and experienced restaurateurs. Our tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
-    "one_liner": "Building restaurant software that works.",
-    "team_size": 5,
+    "long_description": "The ecosystem coffee shops and restaurants in Mexico run on.\r\n\r\nFrom point of sale, to inventory management, payments and much more for the most demanding. \r\n\r\nOur tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
+    "one_liner": "Restaurant software that actually works",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673740327,
@@ -34708,17 +34616,15 @@
     ],
     "regions": [
       "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/polo.json"
+    "url": "https://www.ycombinator.com/companies/polotab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/polotab.json"
   },
   {
     "id": 27854,
@@ -40253,17 +40159,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada helps insurance carriers, MGAs, and brokers run with AI agents that handle sales & service calls, chats, and emails 24/7.",
-    "one_liner": "Phone AI agents for insurance",
-    "team_size": 10,
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "The agentic workforce for insurance",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47303,18 +47209,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Visit https://ironclaw.sh\r\n\r\nAn AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
-    "one_liner": "AI Workforce that does it all",
+    "long_description": "An OpenClaw Framwork that builds an AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
+    "one_liner": "Open Source AI CRM built on top of OpenClaw",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1720334032,
     "tags": [
-      "Documents",
+      "Artificial Intelligence",
       "Workflow Automation",
-      "Analytics",
+      "Open Source",
       "CRM",
-      "AI"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54677,11 +54583,11 @@
       "Cua",
       "c/ua"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4293782b71fdb3a0c57d443e4429a56b4d19f320.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/388c63ca4d8b705c5dcaf89934394977693456e0.png",
     "website": "https://cua.ai",
     "all_locations": "",
-    "long_description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-    "one_liner": "Docker for Computer-use Agents",
+    "long_description": "Give every agent a cloud desktop. Built for Claude Code, Codex, OpenClaw, and any computer-use agents.",
+    "one_liner": "Give every agent a cloud desktop",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -61120,6 +61026,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
   },
   {
+    "id": 31375,
+    "name": "Hub.xyz",
+    "slug": "hubxyz",
+    "former_names": [
+      "Hub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e1877ffaf8478eb57359647a0ad11ae811fbf38.png",
+    "website": "http://hub.xyz",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": " ",
+    "one_liner": "API for real-world training data.",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773429014,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hubxyz",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
+  },
+  {
     "id": 31511,
     "name": "Arzana",
     "slug": "arzana",
@@ -61198,5 +61149,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/indexable",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/indexable.json"
+  },
+  {
+    "id": 31528,
+    "name": "Asendia AI",
+    "slug": "asendia-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
+    "website": "https://asendia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1773592389,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asendia-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json"
   }
 ]

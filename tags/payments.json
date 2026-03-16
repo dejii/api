@@ -5080,19 +5080,20 @@
   },
   {
     "id": 27846,
-    "name": "Polo",
-    "slug": "polo",
+    "name": "PoloTab",
+    "slug": "polotab",
     "former_names": [
       "PoloPay",
       "Polo",
-      "PoloPay"
+      "PoloPay",
+      "Polo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/125206d3d51ae1a0a9e8a0446836031dcecb557a.png",
     "website": "https://polotab.com",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "\r\nFounded in 2022, Polo is the ecosystem for coffee shops and restaurants in LatAm to run on. We design, build, and sell with our customer experience and reality in mind. This commitment has driven us to truly innovate, saving our customers from outrageous third-party costs and week-long lead times.\r\n\r\nWe offer point of sale, inventory management, and more to our growing community of entrepreneur and experienced restaurateurs. Our tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
-    "one_liner": "Building restaurant software that works.",
-    "team_size": 5,
+    "long_description": "The ecosystem coffee shops and restaurants in Mexico run on.\r\n\r\nFrom point of sale, to inventory management, payments and much more for the most demanding. \r\n\r\nOur tech is as user-friendly as an iPhone, yet powerful enough to power Starbucks. \r\n\r\nPoloTab is led by a team driven by the vision that things should be different, with the skills to make it happen. We were born from the food & beverage industry and are here to make a difference, not merely be part of the crowd.",
+    "one_liner": "Restaurant software that actually works",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673740327,
@@ -5114,17 +5115,15 @@
     ],
     "regions": [
       "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/polo.json"
+    "url": "https://www.ycombinator.com/companies/polotab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/polotab.json"
   },
   {
     "id": 27953,
@@ -6469,6 +6468,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
   },
   {
+    "id": 31132,
+    "name": "MouseCat",
+    "slug": "mousecat",
+    "former_names": [
+      "Agnostic"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71e74a47767755403f90f1778ab3ab410649c82e.png",
+    "website": "https://www.mousecat.ai",
+    "all_locations": "",
+    "long_description": "MouseCat enables companies to automatically detect, investigate, and mitigate emerging fraud trends",
+    "one_liner": "AI-powered fraud investigations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769108383,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Fraud Detection"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mousecat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json"
+  },
+  {
     "id": 31154,
     "name": "Orthogonal",
     "slug": "orthogonal",
@@ -6554,51 +6596,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
-  },
-  {
-    "id": 31253,
-    "name": "Maven",
-    "slug": "maven",
-    "former_names": [
-      "Lattice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
-    "website": "https://trymaven.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
-    "one_liner": "Payments Infrastructure for Voice Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770422490,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "B2B",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maven",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
   },
   {
     "id": 31255,

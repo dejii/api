@@ -10791,19 +10791,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa3be8044166eb1b542186ec7fb3d58572e16c8f.png",
     "website": "https://mantisbiotech.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Mantis is a digital twin company that combines LLMs with high-fidelity physics simulations in order to convert rare and difficult-to-access human behavior data into predictive models. ",
-    "one_liner": "Physics-Enhanced Datasets for Low-Resource Machine Learning",
+    "one_liner": "Digital Twins of humans",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1766166166,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "Biotech",
-      "Biotechnology"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -10815,8 +10810,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11518,19 +11512,54 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f91b1d1421f28de22ae9bbafcb6d5c03dc6cef5.png",
     "website": "https://trymaven.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We enable AI voice agents to collect payments over the phone through a single API call, handling card processing and PCI compliance across all payment gateways",
     "one_liner": "Payments Infrastructure for Voice Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770422490,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
       "B2B",
-      "Conversational AI"
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maven",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
+  },
+  {
+    "id": 31299,
+    "name": "Wayco",
+    "slug": "wayco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00d9df2c4df7159bbd9cfe29bf68638efb2f8ed3.png",
+    "website": "https://wayco.ai",
+    "all_locations": "",
+    "long_description": "Wayco is building a unified data intelligence layer for medical treatment of legal cases. From the first intake to instant settlement.",
+    "one_liner": "AI operator for medlegal cases",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770576314,
+    "tags": [
+      "Healthcare",
+      "LegalTech",
+      "Insurance",
+      "Call Center"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11543,16 +11572,15 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maven",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/maven.json"
+    "url": "https://www.ycombinator.com/companies/wayco",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/wayco.json"
   },
   {
     "id": 31300,

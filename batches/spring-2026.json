@@ -385,7 +385,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e1877ffaf8478eb57359647a0ad11ae811fbf38.png",
     "website": "http://hub.xyz",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "",
+    "long_description": " ",
     "one_liner": "API for real-world training data.",
     "team_size": 10,
     "industry": "B2B",
@@ -399,7 +399,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -558,9 +558,9 @@
     "subindustry": "B2B",
     "launched_at": 1771902214,
     "tags": [
-      "AIOps",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -948,6 +948,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/indexable",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/indexable.json"
+  },
+  {
+    "id": 31528,
+    "name": "Asendia AI",
+    "slug": "asendia-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e735fee67a48586d3de061beb544a8ab8d481fc6.png",
+    "website": "https://asendia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1773592389,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asendia-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json"
   },
   {
     "id": 31531,

@@ -2130,17 +2130,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada helps insurance carriers, MGAs, and brokers run with AI agents that handle sales & service calls, chats, and emails 24/7.",
-    "one_liner": "Phone AI agents for insurance",
-    "team_size": 10,
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "The agentic workforce for insurance",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3039,5 +3039,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/verdex",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/verdex.json"
+  },
+  {
+    "id": 31299,
+    "name": "Wayco",
+    "slug": "wayco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00d9df2c4df7159bbd9cfe29bf68638efb2f8ed3.png",
+    "website": "https://wayco.ai",
+    "all_locations": "",
+    "long_description": "Wayco is building a unified data intelligence layer for medical treatment of legal cases. From the first intake to instant settlement.",
+    "one_liner": "AI operator for medlegal cases",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1770576314,
+    "tags": [
+      "Healthcare",
+      "LegalTech",
+      "Insurance",
+      "Call Center"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wayco",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/wayco.json"
   }
 ]
