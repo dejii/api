@@ -9611,59 +9611,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/magicbell.json"
   },
   {
-    "id": 23629,
-    "name": "AXAR AI",
-    "slug": "axar-ai",
-    "former_names": [
-      "TimeTackle",
-      "Tackle",
-      "Hightime",
-      "Hightime AI",
-      "Tackle",
-      "Hightime AI",
-      "Tackle",
-      "AXAR AI",
-      "Tackle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/794ee05d86b9d2eb7ecf39001d3b513d95c5541b.png",
-    "website": "https://www.axar.ai/",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "",
-    "one_liner": "Multi-agent orchestration platform",
-    "team_size": 41,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616475313,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axar-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/axar-ai.json"
-  },
-  {
     "id": 23781,
     "name": "Openlayer",
     "slug": "openlayer",
@@ -11262,7 +11209,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17897,20 +17844,20 @@
       "qaml",
       "camelQA"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7356698f9b3f7a439b9951c6def0617a8421df3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827e037c0aea7dec71df3f417e720db6c4d41d15.png",
     "website": "https://camelai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CamelAI is an AI-powered data analyst for business intelligence. Connect any data source—CSVs, CRMs, SQL databases, data warehouses—and ask Camel complex questions or request reports and charts, all without needing code or SQL.",
-    "one_liner": "AI Business Intelligence agent. Get actionable insights in minutes.",
+    "long_description": "For decades, companies have settled for software built for everyone, which means it's perfect for no one. They stitch together five SaaS tools to approximate one workflow, pay for seats they don't use, and file tickets with a data team just to answer a simple question.\r\n\r\nCamelAI is a different bet: your own AI software engineer, living on its own computer, building exactly what your business needs.\r\n\r\nYou describe what you want. CamelAI builds it, deploys it to a live URL, and keeps it running. No developers required, no infrastructure to manage. Next week when your process changes, you ask again. The software changes with you.\r\n\r\nThis is personal software: tools made for your team, your data, your workflows.",
+    "one_liner": "AI software engineer that lives on its own computer",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701468865,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Data Science",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19198,7 +19145,7 @@
     "all_locations": "",
     "long_description": "rl. interp. alignment. data.",
     "one_liner": "Look inside the model",
-    "team_size": 10,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725040353,
@@ -20215,18 +20162,19 @@
   },
   {
     "id": 30017,
-    "name": "Riveter AI",
-    "slug": "riveter-ai",
+    "name": "Riveter",
+    "slug": "riveter",
     "former_names": [
       "Nervy",
       "Haze AI",
-      "Lassen AI"
+      "Lassen AI",
+      "Riveter AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a037b1acaa5b376575f5e3e8a1fdf2e7e2057ddc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba11fcc185e7540e26d2fc388417c1e4c6dfad61.png",
     "website": "https://www.riveterhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter is Lovable for web scraping. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us them enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
-    "one_liner": "Lovable for web scraping",
+    "long_description": "Riveter fully automates web data extraction, end to end. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us to enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+    "one_liner": "Turn the web into structured data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20257,8 +20205,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riveter-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter-ai.json"
+    "url": "https://www.ycombinator.com/companies/riveter",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter.json"
   },
   {
     "id": 30040,
@@ -21699,7 +21647,7 @@
       "GraphIQal"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
-    "website": "https://www.cedarcopilot.com",
+    "website": "https://mail.cedarcopilot.com/",
     "all_locations": "",
     "long_description": "An open-source React framework for building the next generation of AI native applications. With Cedar, connect your agent to your frontend in ways that go beyond the chat.\r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nWith Cedar, user interaction is not constrained to a chat window. We offer tools making it easy to build a voice-enabled experience, add human-in-the-loop for agent observability, and deliver realtime analytics + human handoff when needed to Slack.\r\n\r\nReduce back and forth with CSM, decrease time to completion for important user tasks, and give your users a delightful experience using Cedar :-D",
     "one_liner": "The open source copilot for any app",
@@ -25319,12 +25267,18 @@
     "website": "https://aurorincad.com",
     "all_locations": "",
     "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
-    "one_liner": "Claude Code for Mechanical Engineering CAD",
+    "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1769109612,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "3D Printing",
+      "Aerospace",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

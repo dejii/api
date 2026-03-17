@@ -1545,25 +1545,28 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
   },
   {
-    "id": 31287,
-    "name": "DAIVIN!",
-    "slug": "daivin",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88f15feafc1401a5c940397e2d93e236914265b4.png",
-    "website": "https://www.daivin.tech/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "DAIVIN! builds tankless dive gear that unlocks breath autonomy in extreme environments. Starting from underwater environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in space, air and on land and replace them with water!",
-    "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
+    "id": 31292,
+    "name": "Aurorin CAD",
+    "slug": "aurorin-cad",
+    "former_names": [
+      "Rapid CAD",
+      "Aurorin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
+    "website": "https://aurorincad.com",
+    "all_locations": "",
+    "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
+    "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1768898093,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1769109612,
     "tags": [
-      "Hard Tech",
       "Hardware",
-      "Fuel Cells",
+      "Robotics",
+      "3D Printing",
       "Aerospace",
-      "Maritime"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1572,20 +1575,19 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Defense"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/daivin",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/daivin.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aurorin-cad",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
   },
   {
     "id": 31294,

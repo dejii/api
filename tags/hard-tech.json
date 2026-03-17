@@ -4105,13 +4105,14 @@
   },
   {
     "id": 31144,
-    "name": "DroneTector",
-    "slug": "dronetector",
+    "name": "Milliray (formerly DroneTector)",
+    "slug": "milliray",
     "former_names": [
-      "DroneTector Ltd"
+      "DroneTector Ltd",
+      "DroneTector"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a1552aeba914f75657392e47de071913dbe0bc.png",
-    "website": "https://www.dronetector.com/",
+    "website": "https://milliray.com/",
     "all_locations": "",
     "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
     "one_liner": "Technology to detect and track hostile drones",
@@ -4142,8 +4143,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dronetector",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/dronetector.json"
+    "url": "https://www.ycombinator.com/companies/milliray",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/milliray.json"
   },
   {
     "id": 31193,
@@ -4239,7 +4240,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88f15feafc1401a5c940397e2d93e236914265b4.png",
     "website": "https://www.daivin.tech/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "DAIVIN! builds tankless dive gear that unlocks breath autonomy in extreme environments. Starting from underwater environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in space, air and on land and replace them with water!",
     "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
     "team_size": 1,
@@ -4249,9 +4250,7 @@
     "tags": [
       "Hard Tech",
       "Hardware",
-      "Fuel Cells",
-      "Aerospace",
-      "Maritime"
+      "GovTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4264,8 +4263,7 @@
       "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

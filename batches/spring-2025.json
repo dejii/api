@@ -764,19 +764,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a64ea75986bdbe206a8fe20ee9fdaaa44ad95e9e.png",
     "website": "https://autostep.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Autostep is a desktop app installed across your organization to surface repetitive, high-cost tasks that fly under the radar. We rank them by cost and impact so you know what's worth automating, then build or find the right fix - whether that's an AI agent, a process change, or an existing tool.",
     "one_liner": "Uncover repetitive tasks and automate them",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1772173697,
-    "tags": [
-      "Machine Learning",
-      "Workflow Automation",
-      "Operations",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -788,8 +783,7 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -804,20 +798,20 @@
     "name": "Notus Autonomous Systems",
     "slug": "notus-autonomous-systems",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/150f2e7e6d2a2bd403e6eef32fdfbeff6beca871.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
     "website": "http://www.notussystems.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We develop drones and land based autonomous robots that are designed to be controlled as groups and execute autonomous missions instead of requiring skilled operators to pilot or control. Once a critical mass of intelligent devices are deployed on the battlefield, it will fundamentally reshape the command structure of the modern military into something resembling an RTS game (Like Starcraft, Civilization, Command & Conquer, etc), reducing response times from minutes to milliseconds.",
-    "one_liner": "Swarm robotics and full AI-command hierarchy integration",
-    "team_size": 2,
+    "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
+    "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1746979571,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Drones",
-      "3D Printing"
+      "3D Printing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2247,7 +2241,7 @@
     "slug": "kestral",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/434f06dd5cbc21fd8688f57eddd151366b355c44.png",
-    "website": "https://kestral.team",
+    "website": "https://kestral.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
     "one_liner": "We automate your entire product development lifecycle.",
@@ -2256,9 +2250,9 @@
     "subindustry": "B2B",
     "launched_at": 1746827982,
     "tags": [
+      "Artificial Intelligence",
       "Productivity",
-      "Team Collaboration",
-      "AI"
+      "Team Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3074,7 +3068,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc8188b9194b518de8d9010fba82b955eedab6f.png",
     "website": "https://kaizenautomation.com",
     "all_locations": "",
-    "long_description": "Kaizen leverages browser agents to enable instant integration into websites without APIs. Leading AI companies use Kaizen to read and write data from legacy portals in logistics, healthcare, and financial services.\r\n",
+    "long_description": "Kaizen uses browser agents to automate operational work across legacy web portals. We’re tackling the $300B business process outsourcing market by replacing the manual portal work that powers industries like healthcare, logistics, and financial services.",
     "one_liner": "Automate anything on the web.",
     "team_size": 6,
     "industry": "B2B",
@@ -3517,7 +3511,7 @@
     "name": "Lyra",
     "slug": "lyrahq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035006af550ba05c963eb1da0bf772b51d9511a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a65f33dd3f6dc3e215ba91c4ce53cbf6671a44ca.png",
     "website": "https://lyra.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
@@ -3527,11 +3521,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1746417759,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Sales",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4591,25 +4585,24 @@
   },
   {
     "id": 30522,
-    "name": "Relixir",
-    "slug": "relixir",
+    "name": "Naive",
+    "slug": "naive",
     "former_names": [
-      "Relixir.ai"
+      "Relixir.ai",
+      "Relixir"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cba02ac15ac9267a0f2f43edeca70bbd326e30c.png",
-    "website": "https://relixir.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
+    "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Relixir builds autonomous agent runtimes (employees) with recursive self-improvement. \r\n\r\nOur first agent, Rex, is an autonomous GEO employee that gets brands recommended by AI search engines and compounds results over time by improving how it learns.\r\n\r\n400+ customers including Rippling, Airwallex, and HackerRank. \r\n\r\nBacked by YC, DEEPCORE (SoftBank), Founder of Turing.",
-    "one_liner": "Recursive Self-Improvement (RSI) for Autonomous Employees",
+    "long_description": "Naïve is an autonomous company runtime. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for new companies being built from zero and existing companies looking to automate entire functions by one-click connecting to your entire stack. \r\n\r\nDeployed @ 500+ companies like Airwallex, Hackerrank, and more.",
+    "one_liner": "Hire AI employees that actually run your company",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
-      "B2B",
-      "Marketing",
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4629,8 +4622,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relixir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/relixir.json"
+    "url": "https://www.ycombinator.com/companies/naive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
   },
   {
     "id": 30523,

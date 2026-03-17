@@ -958,20 +958,20 @@
     "name": "Notus Autonomous Systems",
     "slug": "notus-autonomous-systems",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/150f2e7e6d2a2bd403e6eef32fdfbeff6beca871.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
     "website": "http://www.notussystems.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We develop drones and land based autonomous robots that are designed to be controlled as groups and execute autonomous missions instead of requiring skilled operators to pilot or control. Once a critical mass of intelligent devices are deployed on the battlefield, it will fundamentally reshape the command structure of the modern military into something resembling an RTS game (Like Starcraft, Civilization, Command & Conquer, etc), reducing response times from minutes to milliseconds.",
-    "one_liner": "Swarm robotics and full AI-command hierarchy integration",
-    "team_size": 2,
+    "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
+    "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1746979571,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Drones",
-      "3D Printing"
+      "3D Printing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1166,13 +1166,14 @@
   },
   {
     "id": 31144,
-    "name": "DroneTector",
-    "slug": "dronetector",
+    "name": "Milliray (formerly DroneTector)",
+    "slug": "milliray",
     "former_names": [
-      "DroneTector Ltd"
+      "DroneTector Ltd",
+      "DroneTector"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a1552aeba914f75657392e47de071913dbe0bc.png",
-    "website": "https://www.dronetector.com/",
+    "website": "https://milliray.com/",
     "all_locations": "",
     "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
     "one_liner": "Technology to detect and track hostile drones",
@@ -1203,8 +1204,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dronetector",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/dronetector.json"
+    "url": "https://www.ycombinator.com/companies/milliray",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/milliray.json"
   },
   {
     "id": 31193,

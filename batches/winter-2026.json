@@ -2942,7 +2942,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
     "website": "https://cumuluslabs.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cumulus Labs is a fast multimodal inference provider, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work on fine-tuned & open source models.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with configurations and babysitting infrastructure that slows/breaks at scale. Big providers like Fireworks are convenient but extremely expensive and idle GPUs.\r\n\r\nCumulus ships Ion, a proprietary inference engine that run LLMs, VLMs, and audio/video gen with high performance and lower cost by specifically optimizing for Grace Hopper chips.",
+    "long_description": "Cumulus Labs is a fast multimodal inference provider, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work on fine-tuned & open source models.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with configurations and babysitting infrastructure that slows/breaks at scale. Big providers like Fireworks are convenient but extremely expensive and idle GPUs.\r\n\r\nCumulus ships Ion, a proprietary inference engine that run LLMs, VLMs, and audio/video gen with high performance and lower cost by specifically optimizing for NVIDIA Grace chips.",
     "one_liner": "Performant serverless GPU inference",
     "team_size": 2,
     "industry": "B2B",
@@ -3189,20 +3189,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d6ce96c0e4a1cbd7e0458649e2af7fa551e2bfb.png",
     "website": "https://www.robodock.tech/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "RoboDock builds robots that automate depot operations, like charging and vehicle checks, for electric and autonomous vehicle fleets. We turn fleet depots from manual sites into self-running systems that lower operational costs and increase vehicle uptime.",
     "one_liner": "Robots that run autonomous depots for autonomous fleets.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1769119894,
-    "tags": [
-      "SaaS",
-      "Robotics",
-      "Energy",
-      "Electric Vehicles",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3214,8 +3208,7 @@
       "Energy"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3521,13 +3514,14 @@
   },
   {
     "id": 31144,
-    "name": "DroneTector",
-    "slug": "dronetector",
+    "name": "Milliray (formerly DroneTector)",
+    "slug": "milliray",
     "former_names": [
-      "DroneTector Ltd"
+      "DroneTector Ltd",
+      "DroneTector"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a1552aeba914f75657392e47de071913dbe0bc.png",
-    "website": "https://www.dronetector.com/",
+    "website": "https://milliray.com/",
     "all_locations": "",
     "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
     "one_liner": "Technology to detect and track hostile drones",
@@ -3558,8 +3552,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dronetector",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/dronetector.json"
+    "url": "https://www.ycombinator.com/companies/milliray",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/milliray.json"
   },
   {
     "id": 31145,
@@ -4069,7 +4063,7 @@
     "website": "https://mangomedical.io",
     "all_locations": "",
     "long_description": "Mango Medical builds agentic surgical planning AI for orthopedic surgery. We deliver surgeon-ready plans in minutes instead of days. 8-figure LOI from a top orthopedic company. Pursuing FDA 510(k) clearance. We're building a future where every surgery follows a personalized plan.",
-    "one_liner": "Agentic planning for orthopedic surgeries based on CT scans",
+    "one_liner": "Instant planning with AI Agents for orthopedic surgery",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -4316,15 +4310,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
     "website": "https://stilta.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stilta builds agentic AI software for patent attorneys. Since launching in February, we have gone from $0 to +$20k live MRR with leading IP firms and in-house IP teams at enterprises, including Fortune Global 50 companies.\r\n\r\nInnovation drives the world's most important breakthroughs, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable. Until recently, this wasn't technically possible.\r\n\r\nWe're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the people who protect the world's most valuable ideas with tools that match the stakes.",
+    "long_description": "Stilta builds agentic AI software for patent attorneys. Since launching in February, we have gone from $0 to +$25k live MRR with leading IP firms and in-house IP teams at enterprises, including Fortune Global 50 companies.\r\n\r\nInnovation drives the world's most important breakthroughs, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable. Until recently, this wasn't technically possible.\r\n\r\nWe're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the people who protect the world's most valuable ideas with tools that match the stakes.",
     "one_liner": "Agentic AI for patent attorneys",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769876849,
     "tags": [
-      "Artificial Intelligence",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5994,18 +5988,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymath is an applied research lab focused on increasing the reliability and autonomy of AI agents, in order to better serve people. We believe that the key to getting models to perform reliably across long horizons is the quality, complexity, and abundance of RL environments. \r\n\r\nWe build long-horizon, multi-tool environments for training AI agents to perform useful work autonomously in the real world. We believe that RL environments will be an advanced software product, not a human labor problem.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "long_description": "We’re heading towards a future where AI agents will be able to perform useful work over long horizons, with little or no human supervision. To increase the reliability, performance, and safety of autonomous agents, they must be trained in simulation environments that reflect the real world. Polymath builds simulated worlds for agents to practice and learn through experience.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
     "one_liner": "Applied Intuition for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769103780,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
       "Big Data",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6249,16 +6243,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd5beb54b527aceb2fa55f69dfdd0cfd0ef4ba5.png",
     "website": "https://doomersion.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "Doomersion (formerly Doomlingo) lets you learn languages by doomsrolling! Watch TikToks in your target language that are exactly matched to your level, and as you scroll, they get a little bit harder.\r\n\r\nGen-Z doomscrolls 2.5-3 hours a day, and if we bake immersion into that by only showing them viral videos in another language that are matched to their level, we can make the optimal language learning method addictive for people. Hence the name, doomersion.\r\n\r\nThe app gained ~15k downloads in the first two weeks, and power users spend ~3+ hours daily on the app. Feel free to download and try it yourself!",
     "one_liner": "Doomscroll to learn languages",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1771974925,
-    "tags": [
-      "Education"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6269,8 +6261,6 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -7031,19 +7021,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Grade is the API for performance-based payroll. We make hiring and paying contractors risk free.",
+    "all_locations": "",
+    "long_description": "Grade is the API for performance-based payroll. We make hiring and paying contractors risk free. Think of us like Deel or Gusto, but our payouts are for work completed, not hours.",
     "one_liner": "API for performance-based payroll",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1768947933,
-    "tags": [
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Payroll"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7055,8 +7040,7 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7722,7 +7706,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88f15feafc1401a5c940397e2d93e236914265b4.png",
     "website": "https://www.daivin.tech/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "DAIVIN! builds tankless dive gear that unlocks breath autonomy in extreme environments. Starting from underwater environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in space, air and on land and replace them with water!",
     "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
     "team_size": 1,
@@ -7732,9 +7716,7 @@
     "tags": [
       "Hard Tech",
       "Hardware",
-      "Fuel Cells",
-      "Aerospace",
-      "Maritime"
+      "GovTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7747,8 +7729,7 @@
       "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7770,12 +7751,18 @@
     "website": "https://aurorincad.com",
     "all_locations": "",
     "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
-    "one_liner": "Claude Code for Mechanical Engineering CAD",
+    "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1769109612,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "3D Printing",
+      "Aerospace",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

@@ -5016,8 +5016,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/768c0b0d1a92b7adab11c2cc4c95cefa19ffdf27.png",
     "website": "https://www.signadot.com/",
     "all_locations": "San Mateo, CA, USA; Remote",
-    "long_description": "Signadot is a K8s-native platform for agentic validation. As AI accelerates code generation, verification is the new bottleneck. We provide ephemeral environments and a validation framework for microservices, ensuring high-velocity generation results in safely merged production code.",
-    "one_liner": "Shift Left Testing for Microservices",
+    "long_description": "Signadot is a Kubernetes-native platform that empowers AI coding agents to verify code at scale. Combining fast, scalable ephemeral environments with a validation framework built for complex distributed systems, Signadot ensures high-velocity code generation results in safely merged pull requests.",
+    "one_liner": "Scalable validation infrastructure for AI agents",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -8103,16 +8103,18 @@
       "Hightime AI",
       "Tackle",
       "AXAR AI",
+      "Tackle",
+      "AXAR AI",
       "Tackle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/794ee05d86b9d2eb7ecf39001d3b513d95c5541b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b95d154cb83a4708f9f0e1442a68b33e236a14bf.png",
     "website": "https://www.axar.ai/",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "",
     "one_liner": "Multi-agent orchestration platform",
     "team_size": 41,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "launched_at": 1616475313,
     "tags": [
       "Artificial Intelligence",
@@ -8126,8 +8128,7 @@
     "batch": "Winter 2021",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -8911,7 +8912,7 @@
       "MetricFlow",
       "Metlo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eaa484f07bc07162142195adca31050a17b453c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3b213c6492ebfd585bec4644b94f381db09e0e4.png",
     "website": "https://hyperbrowser.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale. We're backed by YC, Accel, SV Angel, and others.",
@@ -8921,9 +8922,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1628188883,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10384,7 +10385,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10599,7 +10600,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -18602,11 +18603,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18623,7 +18624,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,

@@ -12136,6 +12136,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2019/fampay.json"
   },
   {
+    "id": 12797,
+    "name": "Spice Data",
+    "slug": "spice-data",
+    "former_names": [
+      "Pepper",
+      "Spice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cce53f7be13552eac8bf22c7f446a2ac9d860c9d.png",
+    "website": "https://spicedata.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Restaurant Data for the Enterprise",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1558665919,
+    "tags": [
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spice-data",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/spice-data.json"
+  },
+  {
     "id": 12842,
     "name": "InEvent",
     "slug": "inevent",
@@ -15120,6 +15161,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blue-onion",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/blue-onion.json"
+  },
+  {
+    "id": 21790,
+    "name": "Dripos",
+    "slug": "dripos",
+    "former_names": [
+      "Drip"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0fd578735825717b2afbf0834e1df6184ba35be.png",
+    "website": "https://dripos.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Dripos is the only piece of software a coffee shop needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 cafes in the United States.",
+    "one_liner": "The only piece of software a coffee shop needs to operate.",
+    "team_size": 35,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1596049185,
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dripos",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/dripos.json"
   },
   {
     "id": 21791,
@@ -22756,7 +22841,7 @@
       "MetricFlow",
       "Metlo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2eaa484f07bc07162142195adca31050a17b453c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3b213c6492ebfd585bec4644b94f381db09e0e4.png",
     "website": "https://hyperbrowser.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale. We're backed by YC, Accel, SV Angel, and others.",
@@ -22766,9 +22851,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1628188883,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27347,7 +27432,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -31684,50 +31769,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aviaryai",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/aviaryai.json"
-  },
-  {
-    "id": 26912,
-    "name": "iollo",
-    "slug": "iollo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
-    "website": "https://iollo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
-    "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1656567327,
-    "tags": [
-      "Generative AI",
-      "Biotech",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/iollo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
   },
   {
     "id": 26913,
@@ -40160,16 +40201,16 @@
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
-    "one_liner": "The agentic workforce for insurance",
+    "one_liner": "AI agents that run insurance operations",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41611,51 +41652,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kabilah",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/kabilah.json"
-  },
-  {
-    "id": 29246,
-    "name": "Tracecat",
-    "slug": "tracecat",
-    "former_names": [
-      "neometrics.ai",
-      "Neometrics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
-    "website": "https://tracecat.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat is the open source AI automation platform for technical teams. Purpose-built for security, reliability, and internal operations.\r\n\r\nWe provide everything technical builders need to automate work — AI agents, workflows, cases, and over 150 integrations. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies. ",
-    "one_liner": "Automate work with secure AI agents",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1704382841,
-    "tags": [
-      "Open Source",
-      "Enterprise",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tracecat",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tracecat.json"
   },
   {
     "id": 29251,
@@ -45334,50 +45330,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/forge.json"
   },
   {
-    "id": 29508,
-    "name": "CrowdVolt",
-    "slug": "crowdvolt",
-    "former_names": [
-      "Mirage Match"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49d2b2fe60b70ec0fe7e8a8f8b9fc420d26c4098.png",
-    "website": "https://crowdvolt.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "CrowdVolt is rebuilding the infrastructure for live events, starting with an automated marketplace for raves and electronic dance music.",
-    "one_liner": "The integration layer for live events infrastructure ",
-    "team_size": 8,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1708402036,
-    "tags": [
-      "Marketplace",
-      "Entertainment",
-      "Social Network",
-      "Music",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/crowdvolt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/crowdvolt.json"
-  },
-  {
     "id": 29509,
     "name": "Blacksmith",
     "slug": "blacksmith",
@@ -48272,11 +48224,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48293,7 +48245,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
@@ -48474,7 +48426,7 @@
       "Exa Labs",
       "Exa Laboratories"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/662bfd08d45a97284865d5456a7b0c634c35349d.png",
     "website": "https://zscc.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
@@ -55065,7 +55017,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc8188b9194b518de8d9010fba82b955eedab6f.png",
     "website": "https://kaizenautomation.com",
     "all_locations": "",
-    "long_description": "Kaizen leverages browser agents to enable instant integration into websites without APIs. Leading AI companies use Kaizen to read and write data from legacy portals in logistics, healthcare, and financial services.\r\n",
+    "long_description": "Kaizen uses browser agents to automate operational work across legacy web portals. We’re tackling the $300B business process outsourcing market by replacing the manual portal work that powers industries like healthcare, logistics, and financial services.",
     "one_liner": "Automate anything on the web.",
     "team_size": 6,
     "industry": "B2B",
@@ -55543,25 +55495,24 @@
   },
   {
     "id": 30522,
-    "name": "Relixir",
-    "slug": "relixir",
+    "name": "Naive",
+    "slug": "naive",
     "former_names": [
-      "Relixir.ai"
+      "Relixir.ai",
+      "Relixir"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cba02ac15ac9267a0f2f43edeca70bbd326e30c.png",
-    "website": "https://relixir.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
+    "website": "https://usenaive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Relixir builds autonomous agent runtimes (employees) with recursive self-improvement. \r\n\r\nOur first agent, Rex, is an autonomous GEO employee that gets brands recommended by AI search engines and compounds results over time by improving how it learns.\r\n\r\n400+ customers including Rippling, Airwallex, and HackerRank. \r\n\r\nBacked by YC, DEEPCORE (SoftBank), Founder of Turing.",
-    "one_liner": "Recursive Self-Improvement (RSI) for Autonomous Employees",
+    "long_description": "Naïve is an autonomous company runtime. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for new companies being built from zero and existing companies looking to automate entire functions by one-click connecting to your entire stack. \r\n\r\nDeployed @ 500+ companies like Airwallex, Hackerrank, and more.",
+    "one_liner": "Hire AI employees that actually run your company",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
-      "B2B",
-      "Marketing",
-      "Infrastructure",
-      "AI"
+      "Artificial Intelligence",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -55581,8 +55532,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relixir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/relixir.json"
+    "url": "https://www.ycombinator.com/companies/naive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
   },
   {
     "id": 30524,
@@ -60257,17 +60208,17 @@
     "name": "Clicks",
     "slug": "clicks",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5305c55b4b60ebbe6d4f336c1c814b90415438cb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba947944afd3b1dfe85a7f3891e69a0b39e5fe9.png",
     "website": "https://goclicks.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clicks automates your back-office using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as your back-office worker that can handle any repetitive task. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% outcome based: you only pay for the work outputs we complete (e.g., candidates added to CRM, reports generate, etc.). Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
-    "one_liner": "Computer use agents to automate all back-office work",
+    "long_description": "Clicks is the AI-native BPO backed by Y Combinator. We replace traditional BPOs and shared service centers by automating back-office work with AI agents that operate your existing tools and follow your existing processes. We achieve higher accuracy and faster turn-around times at a fraction of the cost, with SOC 2 Type 2 and HIPAA compliance built in.",
+    "one_liner": "AI agents for your back-office operations.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1759173987,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,

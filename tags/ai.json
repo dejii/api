@@ -3152,7 +3152,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6580,6 +6580,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/redbean",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/redbean.json"
+  },
+  {
+    "id": 24206,
+    "name": "Hyperbrowser",
+    "slug": "hyperbrowser",
+    "former_names": [
+      "Supernote",
+      "MetricFlow",
+      "Metlo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3b213c6492ebfd585bec4644b94f381db09e0e4.png",
+    "website": "https://hyperbrowser.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale. We're backed by YC, Accel, SV Angel, and others.",
+    "one_liner": "Web infra for AI agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1628188883,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hyperbrowser",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/hyperbrowser.json"
   },
   {
     "id": 24271,
@@ -11492,7 +11539,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -16885,6 +16932,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/tiptap.json"
   },
   {
+    "id": 29082,
+    "name": "Strada",
+    "slug": "strada",
+    "former_names": [
+      "Strada",
+      "Finbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
+    "website": "https://www.getstrada.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
+    "one_liner": "AI agents that run insurance operations",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1690570692,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strada",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/strada.json"
+  },
+  {
     "id": 29088,
     "name": "Cair Health",
     "slug": "cair-health",
@@ -17977,7 +18068,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -20227,6 +20318,54 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/spark.json"
   },
   {
+    "id": 29439,
+    "name": "camelAI",
+    "slug": "camelai",
+    "former_names": [
+      "qaml (pronounced camel)",
+      "qaml",
+      "camelQA"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827e037c0aea7dec71df3f417e720db6c4d41d15.png",
+    "website": "https://camelai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "For decades, companies have settled for software built for everyone, which means it's perfect for no one. They stitch together five SaaS tools to approximate one workflow, pay for seats they don't use, and file tickets with a data team just to answer a simple question.\r\n\r\nCamelAI is a different bet: your own AI software engineer, living on its own computer, building exactly what your business needs.\r\n\r\nYou describe what you want. CamelAI builds it, deploys it to a live URL, and keeps it running. No developers required, no infrastructure to manage. Next week when your process changes, you ask again. The software changes with you.\r\n\r\nThis is personal software: tools made for your team, your data, your workflows.",
+    "one_liner": "AI software engineer that lives on its own computer",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1701468865,
+    "tags": [
+      "SaaS",
+      "Data Science",
+      "Data Visualization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/camelai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/camelai.json"
+  },
+  {
     "id": 29440,
     "name": "Rove",
     "slug": "rove",
@@ -20308,6 +20447,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/retell-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/retell-ai.json"
+  },
+  {
+    "id": 29443,
+    "name": "Adapted",
+    "slug": "adapted",
+    "former_names": [
+      "Chirp",
+      "Convey",
+      "Corefin",
+      "Stackgrant",
+      "For Effect",
+      "ForEffect",
+      "Pernell"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a533cff802e0f9057f1431e6f53533be5b04b80.png",
+    "website": "https://adapted.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Adapted is an AI physical therapist for athletes in your pocket. It takes your sport, your injury history, and builds a personalized recovery program and guides you through ever step.",
+    "one_liner": "Helping athletes stay durable",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1702424671,
+    "tags": [
+      "Fitness",
+      "Digital Health",
+      "Health & Wellness",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adapted",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/adapted.json"
   },
   {
     "id": 29450,
@@ -22803,51 +22991,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/kura-ai.json"
   },
   {
-    "id": 29767,
-    "name": "Thunder Compute",
-    "slug": "thunder-compute",
-    "former_names": [
-      "Thunder"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
-    "website": "https://www.thundercompute.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "One-click GPU instances with persistent storage, snapshots, and hot-swappable hardware, with the lowest prices anywhere.",
-    "one_liner": "The world's cheapest GPU cloud",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1723245936,
-    "tags": [
-      "Developer Tools",
-      "Data Science",
-      "Cloud Computing",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/thunder-compute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/thunder-compute.json"
-  },
-  {
     "id": 29775,
     "name": "Brighterway",
     "slug": "brighterway",
@@ -24145,7 +24288,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Henry is an AI copilot for commercial real estate (CRE) brokers that seamlessly integrates a brokerage’s internal data set with external sources to generate custom presentations and financial modeling for deals. Our mission is to help CRE brokers close more deals faster, earning more while doing less repetitive work. We’re initially focusing on enabling brokers to generate deal decks in seconds—a task that typically consumes 20+ hours a week across multiple departments within a brokerage.",
     "one_liner": "Automating Deal Decks for Commercial Real Estate Brokers",
-    "team_size": 3,
+    "team_size": 20,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1718775199,
@@ -24169,7 +24312,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24486,18 +24629,19 @@
   },
   {
     "id": 30017,
-    "name": "Riveter AI",
-    "slug": "riveter-ai",
+    "name": "Riveter",
+    "slug": "riveter",
     "former_names": [
       "Nervy",
       "Haze AI",
-      "Lassen AI"
+      "Lassen AI",
+      "Riveter AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a037b1acaa5b376575f5e3e8a1fdf2e7e2057ddc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba11fcc185e7540e26d2fc388417c1e4c6dfad61.png",
     "website": "https://www.riveterhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter is Lovable for web scraping. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us them enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
-    "one_liner": "Lovable for web scraping",
+    "long_description": "Riveter fully automates web data extraction, end to end. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us to enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+    "one_liner": "Turn the web into structured data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24528,8 +24672,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riveter-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter-ai.json"
+    "url": "https://www.ycombinator.com/companies/riveter",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter.json"
   },
   {
     "id": 30022,
@@ -27633,25 +27777,23 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nao-labs.json"
   },
   {
-    "id": 30408,
-    "name": "Autostep",
-    "slug": "autostep",
-    "former_names": [
-      "Accrued"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a64ea75986bdbe206a8fe20ee9fdaaa44ad95e9e.png",
-    "website": "https://autostep.ai/",
+    "id": 30409,
+    "name": "Notus Autonomous Systems",
+    "slug": "notus-autonomous-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
+    "website": "http://www.notussystems.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autostep is a desktop app installed across your organization to surface repetitive, high-cost tasks that fly under the radar. We rank them by cost and impact so you know what's worth automating, then build or find the right fix - whether that's an AI agent, a process change, or an existing tool.",
-    "one_liner": "Uncover repetitive tasks and automate them",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1772173697,
+    "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
+    "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1746979571,
     "tags": [
-      "Machine Learning",
-      "Workflow Automation",
-      "Operations",
+      "Robotics",
+      "Drones",
+      "3D Printing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -27661,8 +27803,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Operations"
+      "Industrials",
+      "Aviation and Space"
     ],
     "regions": [
       "United States of America",
@@ -27673,8 +27815,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autostep",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/autostep.json"
+    "url": "https://www.ycombinator.com/companies/notus-autonomous-systems",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json"
   },
   {
     "id": 30418,
@@ -28141,46 +28283,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kirana-ai.json"
   },
   {
-    "id": 30450,
-    "name": "Kestral",
-    "slug": "kestral",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/434f06dd5cbc21fd8688f57eddd151366b355c44.png",
-    "website": "https://kestral.team",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
-    "one_liner": "We automate your entire product development lifecycle.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746827982,
-    "tags": [
-      "Productivity",
-      "Team Collaboration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kestral",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/kestral.json"
-  },
-  {
     "id": 30451,
     "name": "Bluejay",
     "slug": "bluejay",
@@ -28481,6 +28583,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/throxy",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/throxy.json"
+  },
+  {
+    "id": 30487,
+    "name": "Lyra",
+    "slug": "lyrahq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a65f33dd3f6dc3e215ba91c4ce53cbf6671a44ca.png",
+    "website": "https://lyra.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
+    "one_liner": "AI native meeting platform",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1746417759,
+    "tags": [
+      "B2B",
+      "Customer Success",
+      "Sales",
+      "Telecommunications",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lyrahq",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
   },
   {
     "id": 30488,
@@ -28864,49 +29009,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/janus",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/janus.json"
-  },
-  {
-    "id": 30522,
-    "name": "Relixir",
-    "slug": "relixir",
-    "former_names": [
-      "Relixir.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cba02ac15ac9267a0f2f43edeca70bbd326e30c.png",
-    "website": "https://relixir.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Relixir builds autonomous agent runtimes (employees) with recursive self-improvement. \r\n\r\nOur first agent, Rex, is an autonomous GEO employee that gets brands recommended by AI search engines and compounds results over time by improving how it learns.\r\n\r\n400+ customers including Rippling, Airwallex, and HackerRank. \r\n\r\nBacked by YC, DEEPCORE (SoftBank), Founder of Turing.",
-    "one_liner": "Recursive Self-Improvement (RSI) for Autonomous Employees",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747424808,
-    "tags": [
-      "B2B",
-      "Marketing",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relixir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/relixir.json"
   },
   {
     "id": 30523,
@@ -32999,45 +33101,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json"
   },
   {
-    "id": 31002,
-    "name": "Clicks",
-    "slug": "clicks",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5305c55b4b60ebbe6d4f336c1c814b90415438cb.png",
-    "website": "https://goclicks.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clicks automates your back-office using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as your back-office worker that can handle any repetitive task. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% outcome based: you only pay for the work outputs we complete (e.g., candidates added to CRM, reports generate, etc.). Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
-    "one_liner": "Computer use agents to automate all back-office work",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1759173987,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clicks",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
-  },
-  {
     "id": 31005,
     "name": "MarkIt",
     "slug": "markit",
@@ -34289,6 +34352,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
   },
   {
+    "id": 31167,
+    "name": "Stilta",
+    "slug": "stilta",
+    "former_names": [
+      "Patrona"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd5098ecffa80ba5653bbe087ea69f86e9bb24b7.png",
+    "website": "https://stilta.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stilta builds agentic AI software for patent attorneys. Since launching in February, we have gone from $0 to +$25k live MRR with leading IP firms and in-house IP teams at enterprises, including Fortune Global 50 companies.\r\n\r\nInnovation drives the world's most important breakthroughs, but the tools that protect it haven't kept pace. Patent attorneys do high-stakes work with a process still built on manual document review and disconnected point solutions. Generative AI helps with drafting, but it doesn't deliver the trust and transparency that legal-grade work demands - no sources, no traceability, no audit trail. Stilta takes a different approach. We use agentic AI to run search and analysis at a scale manual methods can't match, with every output source-backed, referenced, and auditable. Until recently, this wasn't technically possible.\r\n\r\nWe're four engineers from McKinsey/QuantumBlack who built and deployed AI systems at some of the world's largest organizations. With Stilta, we're equipping the people who protect the world's most valuable ideas with tools that match the stakes.",
+    "one_liner": "Agentic AI for patent attorneys",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769876849,
+    "tags": [
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stilta",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
+  },
+  {
     "id": 31170,
     "name": "Cajal",
     "slug": "cajal-technologies",
@@ -34758,6 +34862,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/samora-ai.json"
   },
   {
+    "id": 31217,
+    "name": "Polymath",
+    "slug": "polymath",
+    "former_names": [
+      "Palette AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
+    "website": "https://polymathlabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re heading towards a future where AI agents will be able to perform useful work over long horizons, with little or no human supervision. To increase the reliability, performance, and safety of autonomous agents, they must be trained in simulation environments that reflect the real world. Polymath builds simulated worlds for agents to practice and learn through experience.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
+    "one_liner": "Applied Intuition for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769103780,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polymath",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymath.json"
+  },
+  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -35221,6 +35369,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polymorph",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/polymorph.json"
+  },
+  {
+    "id": 31292,
+    "name": "Aurorin CAD",
+    "slug": "aurorin-cad",
+    "former_names": [
+      "Rapid CAD",
+      "Aurorin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
+    "website": "https://aurorincad.com",
+    "all_locations": "",
+    "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
+    "one_liner": "Claude code for Mechanical Engineers",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1769109612,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "3D Printing",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aurorin-cad",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
   },
   {
     "id": 31300,

@@ -4428,7 +4428,7 @@
       "Exa Labs",
       "Exa Laboratories"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/662bfd08d45a97284865d5456a7b0c634c35349d.png",
     "website": "https://zscc.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
@@ -5886,7 +5886,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88f15feafc1401a5c940397e2d93e236914265b4.png",
     "website": "https://www.daivin.tech/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "DAIVIN! builds tankless dive gear that unlocks breath autonomy in extreme environments. Starting from underwater environment our mission is to remove the need for dangerous, heavy and bulky oxygen tanks in space, air and on land and replace them with water!",
     "one_liner": "Tankless Dive Gear - Breath Autonomy at Sea, Land & Space",
     "team_size": 1,
@@ -5896,9 +5896,7 @@
     "tags": [
       "Hard Tech",
       "Hardware",
-      "Fuel Cells",
-      "Aerospace",
-      "Maritime"
+      "GovTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5911,8 +5909,7 @@
       "Defense"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5921,5 +5918,93 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/daivin",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/daivin.json"
+  },
+  {
+    "id": 31292,
+    "name": "Aurorin CAD",
+    "slug": "aurorin-cad",
+    "former_names": [
+      "Rapid CAD",
+      "Aurorin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
+    "website": "https://aurorincad.com",
+    "all_locations": "",
+    "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
+    "one_liner": "Claude code for Mechanical Engineers",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1769109612,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "3D Printing",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aurorin-cad",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
+  },
+  {
+    "id": 31434,
+    "name": "Adialante",
+    "slug": "adialante",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/783d9149e0d4fcedf1d788091598886930e15376.png",
+    "website": "http://www.adialante.com",
+    "all_locations": "Redwood City, CA, USA",
+    "long_description": "We know how to improve cancer outcomes by 8x-10x: you catch it early. \r\n\r\nMRI is the most robust and powerful cancer-detection tool in the world, yet systems cost millions to purchase, take months to install, and require high levels of technical skill to operate. We've redesigned MRI from the ground up with new physics, algorithms, and hardware, all to bring cancer screening to the entire world. \r\n\r\nOur mobile MRI is an imaging clinic on wheels. No equipment to buy, no infrastructure needed. For a flat per-scan fee, any medical site can offer MRI cancer screening. Starting with prostate cancer. Then everything else.",
+    "one_liner": "Cancer screening without barriers",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Diagnostics",
+    "launched_at": 1773702631,
+    "tags": [
+      "Hardware",
+      "Medical Devices",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adialante",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/adialante.json"
   }
 ]

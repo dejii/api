@@ -9769,7 +9769,7 @@
     "website": "https://auravision.ai",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Aura Vision is like Google Analytics for physical stores. We help retailers make more sales by using their existing security cameras and our plug & play AI to better measure their customers and stores.",
-    "one_liner": "Visitor analytics for physical retail stores using existing security…",
+    "one_liner": "In-store analytics AI assistant to fix your retail stores",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
@@ -14801,7 +14801,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -40282,16 +40282,16 @@
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada automates insurance operations with AI agents. We deploy agents that handle policy servicing and claims operations end-to-end for some of the largest insurance carriers and brokers in the US. With native integrations into core policy, claims and agency management systems, we automate complex workflows with the domain expertise and compliance guardrails the industry demands.",
-    "one_liner": "The agentic workforce for insurance",
+    "one_liner": "AI agents that run insurance operations",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42051,20 +42051,20 @@
       "qaml",
       "camelQA"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7356698f9b3f7a439b9951c6def0617a8421df3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/827e037c0aea7dec71df3f417e720db6c4d41d15.png",
     "website": "https://camelai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CamelAI is an AI-powered data analyst for business intelligence. Connect any data source—CSVs, CRMs, SQL databases, data warehouses—and ask Camel complex questions or request reports and charts, all without needing code or SQL.",
-    "one_liner": "AI Business Intelligence agent. Get actionable insights in minutes.",
+    "long_description": "For decades, companies have settled for software built for everyone, which means it's perfect for no one. They stitch together five SaaS tools to approximate one workflow, pay for seats they don't use, and file tickets with a data team just to answer a simple question.\r\n\r\nCamelAI is a different bet: your own AI software engineer, living on its own computer, building exactly what your business needs.\r\n\r\nYou describe what you want. CamelAI builds it, deploys it to a live URL, and keeps it running. No developers required, no infrastructure to manage. Next week when your process changes, you ask again. The software changes with you.\r\n\r\nThis is personal software: tools made for your team, your data, your workflows.",
+    "one_liner": "AI software engineer that lives on its own computer",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701468865,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Data Science",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43884,7 +43884,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Henry is an AI copilot for commercial real estate (CRE) brokers that seamlessly integrates a brokerage’s internal data set with external sources to generate custom presentations and financial modeling for deals. Our mission is to help CRE brokers close more deals faster, earning more while doing less repetitive work. We’re initially focusing on enabling brokers to generate deal decks in seconds—a task that typically consumes 20+ hours a week across multiple departments within a brokerage.",
     "one_liner": "Automating Deal Decks for Commercial Real Estate Brokers",
-    "team_size": 3,
+    "team_size": 20,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1718775199,
@@ -43908,7 +43908,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44489,49 +44489,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cekura-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/cekura-ai.json"
-  },
-  {
-    "id": 30054,
-    "name": "CTGT",
-    "slug": "ctgt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bcc702434416a96306d0394fd2a0226a38a87e98.png",
-    "website": "https://www.ctgt.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enterprises are paralyzed by the risks of deploying generative AI. Traditional methods like RAG and fine-tuning are brittle, expensive, and fail to prevent costly hallucinations or guarantee compliance in high-stakes environments. This lack of trust stalls innovation and blocks ROI.\r\n\r\nCTGT ensures strict, auditable adherence to your policies on the fly. We deliver defensible audit trails and remediate noncompliant model behavior, so outputs become more aligned with company policies over time, combating data and model drift.\r\n\r\nCTGT is backed by Google's AI fund (Gradient), General Catalyst, and luminaries like Paul Graham. We provide the control and confidence necessary to unlock the full potential of enterprise AI.",
-    "one_liner": "CTGT safeguards against reputational risk from GenAI across your org",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1730040950,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Finance",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ctgt",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
   },
   {
     "id": 30075,
@@ -48929,49 +48886,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tepali",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/tepali.json"
-  },
-  {
-    "id": 31135,
-    "name": "RoboDock",
-    "slug": "robodock",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d6ce96c0e4a1cbd7e0458649e2af7fa551e2bfb.png",
-    "website": "https://www.robodock.tech/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RoboDock builds robots that automate depot operations, like charging and vehicle checks, for electric and autonomous vehicle fleets. We turn fleet depots from manual sites into self-running systems that lower operational costs and increase vehicle uptime.",
-    "one_liner": "Robots that run autonomous depots for autonomous fleets.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1769119894,
-    "tags": [
-      "SaaS",
-      "Robotics",
-      "Energy",
-      "Electric Vehicles",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/robodock",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/robodock.json"
   },
   {
     "id": 31139,
