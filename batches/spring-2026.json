@@ -1,48 +1,5 @@
 [
   {
-    "id": 30621,
-    "name": "Tidy",
-    "slug": "tidy",
-    "former_names": [
-      "Pond"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93a91071e0526184092e4e72a13d1108008534a1.png",
-    "website": "https://withtidy.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI assistant that you can teach to use any app + lives in your messages.",
-    "one_liner": "Does anything you can imagine with a text",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1752567931,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Messaging",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tidy",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tidy.json"
-  },
-  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -435,9 +392,9 @@
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1773364062,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Lending",
-      "AI"
+      "Lending"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -876,6 +833,88 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
   },
   {
+    "id": 31488,
+    "name": "Foaster",
+    "slug": "foaster",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
+    "website": "https://foaster.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Foaster is building an AI-native alternative to consulting.\r\n\r\nFor decades, when companies faced their hardest business problems, the default answer was to hire a consulting firm. But that model has always been constrained by the same limits: consultants work from a partial understanding of the organization, rely on too few interviews, and take months to produce recommendations.\r\n\r\nWe think AI makes it possible to build a fundamentally different approach.\r\n\r\nWe use agents to interview employees at scale and reconstruct a faithful graph of how the organization actually works: its workflows, bottlenecks, handoffs, dependencies, and hidden inefficiencies. Building this graph was previously impossible at the scale of the companies that relied on consulting, and even if humans could assemble it, the complexity would have been too high for them to reason over effectively.\r\n\r\nFrom this graph, we can already tackle a first use case that has become urgent for nearly every company: where and how to deploy AI. \r\n\r\nIn days, we can show where AI should be integrated, how, and in what order to create real operational impact. This is the kind of question companies have long delegated to consultants, but one where they could never reach the same depth fast enough. By making this process faster and more scalable, we also make it available to companies that traditional firms were never built to serve.\r\n\r\nIn the coming months, we believe this same foundation will allow us to tackle a broader class of strategy and transformation problems, with more context and greater speed than any consulting firm today.",
+    "one_liner": "We map your company in days and show where to integrate AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773744030,
+    "tags": [
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/foaster",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
+  },
+  {
+    "id": 31491,
+    "name": "TesterArmy",
+    "slug": "testerarmy",
+    "former_names": [
+      "Tester Army"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2140ec31aaa09498a7c4c7a8559cd2f274b9d9e0.png",
+    "website": "https://tester.army",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "TesterArmy is an AI agent that tests your web app in a real browser before code ships. It runs automatically on every GitHub Pull Request, then posts recording, pass/fail results, and failure context as a PR comment. Teams also get a CLI for local/CI runs and an API for custom pipelines. We catch the regressions that code review misses.",
+    "one_liner": "AI QA agent that tests code before it ships",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773767171,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/testerarmy",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json"
+  },
+  {
     "id": 31507,
     "name": "ProjectX",
     "slug": "projectx",
@@ -1076,5 +1115,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
+  },
+  {
+    "id": 31550,
+    "name": "Playabl.ai",
+    "slug": "playablai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
+    "website": "https://playabl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Playabl.ai is an AI game builder that lets anyone create games and interactive experiences by chatting with AI.",
+    "one_liner": "Prompt-to-play AI game builder for everyone",
+    "team_size": 9,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1773783180,
+    "tags": [
+      "B2B",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/playablai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
   }
 ]

@@ -2810,10 +2810,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55a1d2299284203df1bfdb4eb60c9ad5ca6328d2.png",
     "website": "http://go.givecampus.com",
-    "all_locations": "Washington, DC, USA",
+    "all_locations": "Washington, DC, USA; Remote",
     "long_description": "GiveCampus is the world's #1 fundraising platform for non-profit educational institutions. Trusted by millions of donors and more than 1,500 colleges, universities, and K-12 schools, our mission is to advance the quality, the affordability, and the accessibility of education. Since 2015, we have facilitated more than $7 billion in charitable giving.",
     "one_liner": "The fundraising platform for schools.",
-    "team_size": 120,
+    "team_size": 130,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1430156123,
@@ -2836,7 +2836,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4268,7 +4268,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6153,51 +6153,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prelim",
     "api": "https://yc-oss.github.io/api/batches/summer-2017/prelim.json"
-  },
-  {
-    "id": 1638,
-    "name": "Cairns Health",
-    "slug": "cairns-health",
-    "former_names": [
-      "Totemic Labs",
-      "Totemic",
-      "Koko"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2571c59aad3d4224dae47b21fb2bc278e88e66c.png",
-    "website": "https://www.cairns.ai",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Cairns Health is creating a fundamentally better healthcare experience for people with chronic health conditions and those who care for them. We make healthcare more accessible by simplifying complex care plans, connecting care teams and meeting patients where they live. Through our conversational AI, patients use their voice to interact with our digital care companion, who proactively gives medication reminders, symptom checks, behavioral nudges and even engages in friendly conversation to ease loneliness. Cairns uses a device that includes radar to put the patient in context and passively monitors their activities, including: heart rate, breathing rate and sleep stages, all without a wearable. The result is informed and timely intervention that drives improved clinical outcomes, reduced care delivery costs and a more satisfactory healthcare experience for all.",
-    "one_liner": "Your voice. Your health. We care.",
-    "team_size": 17,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1493693427,
-    "tags": [
-      "Hardware",
-      "Machine Learning",
-      "Consumer Health Services"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2017",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cairns-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2017/cairns-health.json"
   },
   {
     "id": 1639,
@@ -8257,48 +8212,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inscribe",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/inscribe.json"
-  },
-  {
-    "id": 1918,
-    "name": "JITX",
-    "slug": "jitx",
-    "former_names": [],
-    "small_logo_thumb_url": "/company/thumb/missing.png",
-    "website": "http://www.jitx.com",
-    "all_locations": "Berkeley, CA, USA",
-    "long_description": "",
-    "one_liner": "Automatic circuit board design.",
-    "team_size": 18,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1663689383,
-    "tags": [
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jitx",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/jitx.json"
   },
   {
     "id": 1922,
@@ -11788,6 +11701,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/yummy-future",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/yummy-future.json"
+  },
+  {
+    "id": 12625,
+    "name": "UpEquity",
+    "slug": "upequity",
+    "former_names": [
+      "LnderLab",
+      "UpEquity (formerly LnderLab)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5870e54989fa2ad2924601c8cdded8fa7e18963.png",
+    "website": "http://www.upequity.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "UpEquity is removing contingencies for home buyers so that they have more negotiating leverage when purchasing their next home. ",
+    "one_liner": "UpEquity gives homebuyers more certainty and power. ",
+    "team_size": 90,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1600817277,
+    "tags": [
+      "Fintech",
+      "Real Estate"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upequity",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/upequity.json"
   },
   {
     "id": 12639,
@@ -19905,6 +19861,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/stoke-space.json"
   },
   {
+    "id": 23064,
+    "name": "Tint",
+    "slug": "tint",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dde25caa0cd447568d68dc1fc85383b5f346ba8.png",
+    "website": "http://www.tint.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Tint makes it easy for tech platforms to embed insurance into their products. For example, when you go to Outdoorsy to rent an RV, the insurance that is sold with the rental is powered by our technology.\r\n\r\nOur product provides anything that is needed from underwriting software to access to insurers to compliance, in a simple API. ",
+    "one_liner": "Makes it easy for tech platforms to embed insurance into products",
+    "team_size": 40,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1610519523,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tint",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/tint.json"
+  },
+  {
     "id": 23120,
     "name": "Slash",
     "slug": "slash",
@@ -20695,57 +20694,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/prospa.json"
   },
   {
-    "id": 23399,
-    "name": "Rethoric",
-    "slug": "rethoric",
-    "former_names": [
-      "No name yet",
-      "workoutOS",
-      "wOS",
-      "Loup",
-      "Superstack",
-      "Superteam",
-      "Course Crafters"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0f4a9dcc6bc70da6e6cdd8258616c7c1dee6f43.png",
-    "website": "http://rethoric.com/ycombinator",
-    "all_locations": "San Diego, CA, USA; Remote",
-    "long_description": "Rethoric is a plug-and-play content team specialized in helping founders publish high-quality content consistently and grow on LinkedIn to get 1M+ monthly impressions.\r\n\r\nMost founders know the value of building an audience on LinkedIn, but the process demands consistency, time, creativity, writing skills, and energy—things founders often lack.\r\n\r\nOur clients only need to attend a monthly content interview session, and we do the rest. ",
-    "one_liner": "LinkedIn content & strategy for founders to get 1M monthly impressions",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1613662142,
-    "tags": [
-      "B2B",
-      "Social Media",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rethoric",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/rethoric.json"
-  },
-  {
     "id": 23440,
     "name": "Jiga",
     "slug": "jiga",
@@ -20878,17 +20826,17 @@
     "website": "https://waydev.co/",
     "all_locations": "Menlo Park, CA, USA",
     "long_description": "Waydev is the Engineering Productivity Intelligence platform that helps companies understand, measure, and improve the performance of their software teams. It connects to the tools engineers already use, then transforms code, work items, reviews, deployments, and AI-assisted activity into a unified source of truth for engineering effectiveness.\r\n\r\nBuilt for modern engineering leaders, Waydev delivers deep visibility across delivery speed, code quality, collaboration patterns, and real business impact. With automated insights, conversational analytics, and industry benchmarks, teams can make decisions with clarity, reduce bottlenecks, and continuously improve how software is shipped.\r\n\r\nWaydev replaces manual reporting, subjective evaluations, and static dashboards. It gives executives, managers, and ICs the context they need to optimize workflows, forecast outcomes, and align engineering output to business results.\r\n\r\nWaydev powers engineering intelligence for fast-growing startups and global enterprises by turning raw activity into actionable strategy.",
-    "one_liner": "The Engineering Intelligence Platform | DORA, SPACE, DX, CORE 4 ",
+    "one_liner": "The AI Engineering Intelligence Platform | DORA, SPACE, DX, CORE 4 ",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1616455133,
     "tags": [
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Enterprise",
       "Data Engineering",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24775,17 +24723,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84726eaf029b9ba89c36aa373753fe1b0650f8be.png",
     "website": "https://www.getzuma.com/",
-    "all_locations": "San Francisco, CA, USA; Bengaluru, KA, India; Los Angeles, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "We help businesses convert leads into sales in minutes using text",
-    "team_size": 30,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1640186705,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24798,9 +24746,7 @@
     ],
     "regions": [
       "United States of America",
-      "India",
       "America / Canada",
-      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -27432,7 +27378,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32662,6 +32608,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/knowtex.json"
   },
   {
+    "id": 27191,
+    "name": "AlgoTest",
+    "slug": "algotest",
+    "former_names": [
+      "Fintrix"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee27828a872551486a5a61cefdc3f0f73dca1b91.png",
+    "website": "https://algotest.in",
+    "all_locations": "Delhi, DL, India",
+    "long_description": "AlgoTest is an algorithmic options trading platform for Indian retail traders. For the first time ever, day traders will be able to trade using the same technology as the top hedge funds and high-frequency trading firms of the world.\r\n\r\nThe company is founded by Raghav Malik (Financial Engineering @ Columbia Univ), an HFT technologist and former options market-maker in the US.",
+    "one_liner": "Ecosystem for options trading in India",
+    "team_size": 28,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1658736780,
+    "tags": [
+      "Fintech",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/algotest",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/algotest.json"
+  },
+  {
     "id": 27194,
     "name": "REVER",
     "slug": "rever",
@@ -35638,9 +35625,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad5862d29bcc7cc0ab3ae533342705aa27636764.png",
     "website": "https://vendah.com.br/",
     "all_locations": "São Paulo, SP, Brazil",
-    "long_description": "Vendah is building a Faire-style marketplace for LATAM’s +50M informal sellers — offering access to trending beauty and wellness brands, powered by embedded credit.",
+    "long_description": "Vendah is building a marketplace that connects digital-first beauty brands to a network of individual sellers across Brazil, powered by embedded microcredit. Brazil is one of the largest beauty markets globally (~$30B), with millions of individuals already selling through fragmented, offline channels that lack modern infrastructure.\r\n\r\nAfter pivoting to a marketplace + credit model, traction has accelerated: GMV is growing ~30% MoM, we’re approaching 1,000 active sellers, and risk-adjusted margins are now positive and improving. We’re building a network of sellers powered by a proprietary credit engine.",
     "one_liner": "Vendah is building a Faire-style marketplace for LATAM’s +50M…",
-    "team_size": 12,
+    "team_size": 8,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1669128714,
@@ -36403,6 +36390,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pier",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pier.json"
+  },
+  {
+    "id": 28178,
+    "name": "Vector",
+    "slug": "vector",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbf1d46970daada2c04ef49b49592227799f0224.png",
+    "website": "https://vector.co",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "B2B advertising is broken: poor targeting, wasted ad spend, bot traffic, and 3rd party-cookies. Vector helps marketers drive pipeline with contact-level targeting and revealing who's seeing your ads (even if they never convert).",
+    "one_liner": "Advertising for the new internet",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1675694302,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vector",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/vector.json"
   },
   {
     "id": 28183,
@@ -43005,18 +43037,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
     "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by thousands researchers in large pharma companies, top biotechs, and academic institutions.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
     "one_liner": "AI Inference Platform for Drug Discovery",
-    "team_size": 10,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53219,6 +53251,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/peppr-ai.json"
   },
   {
+    "id": 30298,
+    "name": "Artificial Societies",
+    "slug": "artificial-societies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
+    "website": "https://societies.io",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Artificial Societies simulates how large groups of people respond to opinion surveys and react to information. We help global F100 enterprises anticipate how their most important stakeholders react to their most important decisions: from how investors and opinion-leaders react to comms messaging, to how high-value customers react to marketing strategies.\r\n\r\nWe are experts in human behaviour. James, our Founder and CEO, is a Cambridge psychologist and data scientist who led the seminal paper that studied how 33,000 AI chatbots interact. Patrick, our Founder and Chief Product Officer, is an Applied Behavioural Scientist with years of experience helping F500 enterprises conduct market research. They are joined by a team of behavioural scientists, social scientists, and political scientists, all with a passion for uniting technology and an understanding of humanity.\r\n\r\nWe know that every public-facing enterprise decision has million-dollar consequences. From how to position towards opinion-leaders, industry peers, and policymakers, to which marketing content to invest in, knowing how stakeholders would react matters. But traditional market research methods are too slow, too expensive, and often just fail to\r\nreach the stakeholders that truly matter.\r\n\r\nWe spend our lives solving this problem. Our offering is that we build bespoke AI\r\nsimulations of high-value audiences, for insights on questions no one else can answer. We’ve built up over 2.5 million AI personas that are all grounded in real human behaviour – not just what people say, but also what they do. \r\n\r\nBut our enterprise partners choose us not just because we have achieved 95% accuracy in simulating human opinions compared to human self-replication - more importantly, they choose us because of our ability to deliver impossible research projects. Such as having insights in under 24 hours, such as being able to test sensitive strategies on high-value audiences with 100% security, without human risk.\r\n\r\nAs a result, we’ve delivered over 18 million responses to global Fortune 100 enterprises, that helped shape over 100 million dollars’ worth of decisions ranging from global expansion strategies, product positioning, advertising, and strategic communications.\r\n\r\nOur vision of Artificial Societies is a Societal World Model that enables infinite experimentation, so that every organisation can have awareness of outcomes, before making a decision. No planes fly without a wind-tunnel; no medicines are approved without clinical trials; and yet, the biggest decision societies face today are taken as bets. We see Artificial Societies as a historically inevitable technology, and see it as our lives' mission to bring it to life.",
+    "one_liner": "We build networks of AI personas that simulate stakeholder opinions",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1739843143,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artificial-societies",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/artificial-societies.json"
+  },
+  {
     "id": 30301,
     "name": "FuseAI",
     "slug": "fuseai",
@@ -54048,7 +54123,7 @@
     "all_locations": "",
     "long_description": "Wayline is an AI front desk assistant purpose-built for real estate to answer calls and messages 24/7. It’s like an always-on property manager that can convert leads and resolve issues better than any human, day or night. Our AI can be setup in as little as 24 hours and works seamlessly with existing phone/management software. Uniquely, our AI knowledge base is domain-specific to learn and handle the most complex real estate workflows. For property operators, Wayline instantly replaces robo-menus and call centers, while centralizing and scaling back-office teams.",
     "one_liner": "AI voice for property managers",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1754534050,
@@ -56879,6 +56954,43 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
   },
   {
+    "id": 30648,
+    "name": "Janet AI",
+    "slug": "tryjanet",
+    "former_names": [
+      "MeetingToCode"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
+    "website": "https://janet.ai",
+    "all_locations": "",
+    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet AI doesn’t wait for your manual work. Janet plugs into your meetings, Slack, Discord, SMS, email, GitHub, and coding agents to auto-track tasks and progress, auto-enrich ticket context, surface insights across your team, and more.\r\n\r\nCheck out janet.ai to get started today!",
+    "one_liner": "The AI-Native Jira",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752861520,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tryjanet",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
+  },
+  {
     "id": 30650,
     "name": "Imprezia",
     "slug": "imprezia",
@@ -57571,7 +57683,7 @@
       "Nozomio (Nia AI)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.nozomio.com/",
+    "website": "https://www.trynia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
     "one_liner": "Context retrieval for AI",
@@ -57580,9 +57692,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59630,6 +59742,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sunflower.json"
   },
   {
+    "id": 30917,
+    "name": "Bravi",
+    "slug": "bravi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f454d5ba03bb70a84b22fc085d9687287771440b.png",
+    "website": "https://www.bravi.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bravi is building the AI operating system for home-services businesses, using AI-powered customer communication as the wedge.\r\n\r\nWe replace the front office (calls, chats, follow-ups) with AI agents that never miss a lead, then layer an internal AI copilot that understands products, pricing, and technical documentation.\r\n\r\nWe started with fenestration (shutters, windows, garage doors), a large, complex vertical with no modern software, before expanding to adjacent trades.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
+    "one_liner": "The AI operating system powering home services businesses",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759871932,
+    "tags": [
+      "B2B",
+      "Manufacturing",
+      "Automation",
+      "Home Services",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/bravi",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
+  },
+  {
     "id": 30932,
     "name": "Leadbay",
     "slug": "leadbay",
@@ -60590,7 +60744,7 @@
     "all_locations": "",
     "long_description": "Jinba lets enterprise teams vibe-code AI workflows instead of drag and drop. Describe what you need in plain language, and your whole company can start using it immediately. No engineers required. Enterprise-grade permissions, audit logging, and on-prem deployment built in. We serve 40,000 enterprise users at major financial institutions.\r\n\r\nBuild something your colleagues want.",
     "one_liner": "Automate any enterprise workflow through chat",
-    "team_size": 6,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768673344,

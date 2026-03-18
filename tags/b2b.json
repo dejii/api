@@ -2139,10 +2139,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55a1d2299284203df1bfdb4eb60c9ad5ca6328d2.png",
     "website": "http://go.givecampus.com",
-    "all_locations": "Washington, DC, USA",
+    "all_locations": "Washington, DC, USA; Remote",
     "long_description": "GiveCampus is the world's #1 fundraising platform for non-profit educational institutions. Trusted by millions of donors and more than 1,500 colleges, universities, and K-12 schools, our mission is to advance the quality, the affordability, and the accessibility of education. Since 2015, we have facilitated more than $7 billion in charitable giving.",
     "one_liner": "The fundraising platform for schools.",
-    "team_size": 120,
+    "team_size": 130,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1430156123,
@@ -2165,7 +2165,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -14487,7 +14487,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -18594,17 +18594,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84726eaf029b9ba89c36aa373753fe1b0650f8be.png",
     "website": "https://www.getzuma.com/",
-    "all_locations": "San Francisco, CA, USA; Bengaluru, KA, India; Los Angeles, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "We help businesses convert leads into sales in minutes using text",
-    "team_size": 30,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1640186705,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18617,9 +18617,7 @@
     ],
     "regions": [
       "United States of America",
-      "India",
       "America / Canada",
-      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -32249,7 +32247,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -35890,7 +35888,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Productivity"
@@ -36047,18 +36045,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
     "website": "https://www.tamarind.bio",
     "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by thousands researchers in large pharma companies, top biotechs, and academic institutions.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
     "one_liner": "AI Inference Platform for Drug Discovery",
-    "team_size": 10,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36493,18 +36491,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f49116b2d71b646eb2e191786e22552e6be264f.png",
     "website": "https://clarum.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clarum is an investment due diligence and research platform designed for private equity investors. It connects directly to a firm’s data sources, structures key financial metrics and deal terms, and performs analysis with AI across Excel, Word, and PowerPoint—mirroring the approach of an associate conducting due diligence.\r\n\r\nClarum is trusted by private equity firms, family offices, venture capital groups, and consulting teams. We automate major parts of the diligence workflow, enabling faster insights and better risk coverage.",
-    "one_liner": "Investment Due Diligence & Research, Accelerated by AI.",
-    "team_size": 3,
+    "long_description": "Clarum automates diligence, monitoring, and reporting for private market investors. Our AI agents learn how each firm works and automate their process end to end. Everything is individualized (checklists, templates, scoring models) and adapts as your process changes.\r\n\r\nClarum also acts as a self-updating knowledge base across every document your firm has ever seen, connecting dots no analyst could.",
+    "one_liner": "AI agents for private market diligence, monitoring, and reporting",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1710174596,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36518,7 +36516,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -42208,8 +42208,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efdf6ee9c7e7982e5c4b3241aed41a34d139d93c.png",
     "website": "http://www.bystreet.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bystreet is a hospitality deal sourcing platform for development teams going after the Caribbean and Latin American hotel market. It offers a database of properties and hotels, allowing users to filter by country, asset type, and ownership details. The platform also provides contact information for owners and developers, streamlining the deal-sourcing process.",
-    "one_liner": "Find your next hospitality deal.",
+    "long_description": "Bystreet is an AI deal sourcing platform for development teams at hotel brands, operators, and vendors targeting the CALA market.",
+    "one_liner": "Your key to the hotel market. ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42514,15 +42514,15 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1739843143,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -44493,49 +44493,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panels",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/panels.json"
-  },
-  {
-    "id": 30648,
-    "name": "Janet AI",
-    "slug": "tryjanet",
-    "former_names": [
-      "MeetingToCode"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
-    "website": "https://janet.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS/email.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet AI when a ticket is resolved.\r\n- Janet auto-tags issues, clusters related issues, suggests assignees and priorities for issues, and evaluates ticket quality.\r\n- Your Cursor/Claude Code's context is synced with full knowledge of your Janet AI workspace, so coding agents can create, understand, update, prioritize, and resolve your issues.\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless.\r\n\r\nCheck out janet.ai to get started today!",
-    "one_liner": "The AI-Native Jira",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752861520,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryjanet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
   },
   {
     "id": 30652,
@@ -46537,7 +46494,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -48122,49 +48079,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json"
   },
   {
-    "id": 31137,
-    "name": "Luel",
-    "slug": "luel",
-    "former_names": [
-      "Vidcoin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08b4ca96925b2e8c409dfbed108a0b4f3808348.png",
-    "website": "https://luel.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Luel is a sourcing and licensing platform for rights-cleared multimodal training data at scale. We work with frontier AI teams to provide high-quality bespoke data collections and off-the-shelf datasets.",
-    "one_liner": "Turning everyday words and actions into usable training data.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1763965677,
-    "tags": [
-      "Marketplace",
-      "B2B",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/luel",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/luel.json"
-  },
-  {
     "id": 31138,
     "name": "Aemon",
     "slug": "aemon",
@@ -49190,9 +49104,9 @@
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1773364062,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Lending",
-      "AI"
+      "Lending"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49424,6 +49338,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
   },
   {
+    "id": 31488,
+    "name": "Foaster",
+    "slug": "foaster",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
+    "website": "https://foaster.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Foaster is building an AI-native alternative to consulting.\r\n\r\nFor decades, when companies faced their hardest business problems, the default answer was to hire a consulting firm. But that model has always been constrained by the same limits: consultants work from a partial understanding of the organization, rely on too few interviews, and take months to produce recommendations.\r\n\r\nWe think AI makes it possible to build a fundamentally different approach.\r\n\r\nWe use agents to interview employees at scale and reconstruct a faithful graph of how the organization actually works: its workflows, bottlenecks, handoffs, dependencies, and hidden inefficiencies. Building this graph was previously impossible at the scale of the companies that relied on consulting, and even if humans could assemble it, the complexity would have been too high for them to reason over effectively.\r\n\r\nFrom this graph, we can already tackle a first use case that has become urgent for nearly every company: where and how to deploy AI. \r\n\r\nIn days, we can show where AI should be integrated, how, and in what order to create real operational impact. This is the kind of question companies have long delegated to consultants, but one where they could never reach the same depth fast enough. By making this process faster and more scalable, we also make it available to companies that traditional firms were never built to serve.\r\n\r\nIn the coming months, we believe this same foundation will allow us to tackle a broader class of strategy and transformation problems, with more context and greater speed than any consulting firm today.",
+    "one_liner": "We map your company in days and show where to integrate AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773744030,
+    "tags": [
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/foaster",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
+  },
+  {
     "id": 31531,
     "name": "Manicule",
     "slug": "manicule",
@@ -49466,5 +49419,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
+  },
+  {
+    "id": 31550,
+    "name": "Playabl.ai",
+    "slug": "playablai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
+    "website": "https://playabl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Playabl.ai is an AI game builder that lets anyone create games and interactive experiences by chatting with AI.",
+    "one_liner": "Prompt-to-play AI game builder for everyone",
+    "team_size": 9,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1773783180,
+    "tags": [
+      "B2B",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/playablai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
   }
 ]

@@ -185,7 +185,7 @@
     "all_locations": "",
     "long_description": "Wayline is an AI front desk assistant purpose-built for real estate to answer calls and messages 24/7. It’s like an always-on property manager that can convert leads and resolve issues better than any human, day or night. Our AI can be setup in as little as 24 hours and works seamlessly with existing phone/management software. Uniquely, our AI knowledge base is domain-specific to learn and handle the most complex real estate workflows. For property operators, Wayline instantly replaces robo-menus and call centers, while centralizing and scaling back-office teams.",
     "one_liner": "AI voice for property managers",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1754534050,
@@ -1954,22 +1954,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://janet.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS/email.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet AI when a ticket is resolved.\r\n- Janet auto-tags issues, clusters related issues, suggests assignees and priorities for issues, and evaluates ticket quality.\r\n- Your Cursor/Claude Code's context is synced with full knowledge of your Janet AI workspace, so coding agents can create, understand, update, prioritize, and resolve your issues.\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless.\r\n\r\nCheck out janet.ai to get started today!",
+    "all_locations": "",
+    "long_description": "Janet AI (janet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet AI doesn’t wait for your manual work. Janet plugs into your meetings, Slack, Discord, SMS, email, GitHub, and coding agents to auto-track tasks and progress, auto-enrich ticket context, surface insights across your team, and more.\r\n\r\nCheck out janet.ai to get started today!",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752861520,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -1977,8 +1972,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3698,7 +3692,7 @@
       "Nozomio (Nia AI)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.nozomio.com/",
+    "website": "https://www.trynia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
     "one_liner": "Context retrieval for AI",
@@ -3707,9 +3701,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,

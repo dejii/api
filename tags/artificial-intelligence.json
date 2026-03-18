@@ -7827,7 +7827,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -8438,6 +8438,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/mindportal.json"
   },
   {
+    "id": 23530,
+    "name": "Waydev",
+    "slug": "waydev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
+    "website": "https://waydev.co/",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "Waydev is the Engineering Productivity Intelligence platform that helps companies understand, measure, and improve the performance of their software teams. It connects to the tools engineers already use, then transforms code, work items, reviews, deployments, and AI-assisted activity into a unified source of truth for engineering effectiveness.\r\n\r\nBuilt for modern engineering leaders, Waydev delivers deep visibility across delivery speed, code quality, collaboration patterns, and real business impact. With automated insights, conversational analytics, and industry benchmarks, teams can make decisions with clarity, reduce bottlenecks, and continuously improve how software is shipped.\r\n\r\nWaydev replaces manual reporting, subjective evaluations, and static dashboards. It gives executives, managers, and ICs the context they need to optimize workflows, forecast outcomes, and align engineering output to business results.\r\n\r\nWaydev powers engineering intelligence for fast-growing startups and global enterprises by turning raw activity into actionable strategy.",
+    "one_liner": "The AI Engineering Intelligence Platform | DORA, SPACE, DX, CORE 4 ",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1616455133,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Enterprise",
+      "Data Engineering",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/waydev",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev.json"
+  },
+  {
     "id": 23629,
     "name": "AXAR AI",
     "slug": "axar-ai",
@@ -8773,7 +8818,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7992570619d05ec7bff0789242805495d444dbf5.png",
     "website": "https://firstquadrant.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "FirstQuadrant helps revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.",
+    "long_description": "FirstQuadrant helps revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.\r\n\r\nIn October 2025, FirstQuadrant Inc. completed a confidential agreement with a leading AI technology company that recognized long-term strategic value in components of the FirstQuadrant platform and data infrastructure and sunset the platform.",
     "one_liner": "Sales AI that helps revenue teams move faster and close more deals.",
     "team_size": 2,
     "industry": "B2B",
@@ -10048,52 +10093,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/hudson-labs.json"
   },
   {
-    "id": 24603,
-    "name": "Zuma",
-    "slug": "resident-boost",
-    "former_names": [
-      "Resident Boost"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84726eaf029b9ba89c36aa373753fe1b0650f8be.png",
-    "website": "https://www.getzuma.com/",
-    "all_locations": "San Francisco, CA, USA; Bengaluru, KA, India; Los Angeles, CA, USA",
-    "long_description": "",
-    "one_liner": "We help businesses convert leads into sales in minutes using text",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1640186705,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "India",
-      "America / Canada",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/resident-boost",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/resident-boost.json"
-  },
-  {
     "id": 24615,
     "name": "Infer",
     "slug": "infer",
@@ -10591,54 +10590,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tigereye",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/tigereye.json"
-  },
-  {
-    "id": 25279,
-    "name": "Moots",
-    "slug": "moots",
-    "former_names": [
-      "Take1 Financial",
-      "Muse Card",
-      "OnScale",
-      "Muse - OnScale",
-      "Moots AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9141863b7e5cc7a3c7f31d2ae6a9eb60264f0a42.png",
-    "website": "https://www.moots.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Moots is the guest intelligence platform for corporate events. We help event teams vet guest lists, prepare their hosts, and convert conversations into measurable pipeline — all from one collaborative workspace.\r\n\r\nBefore the event, AI agents evaluate and score every guest candidate against your objectives, enriching profiles across dozens of intelligence sources in seconds. PR partners, sponsors, and internal stakeholders collaborate on curated guest lists directly in the platform — each seeing only what they need to.\r\n\r\nAt the event, every team member walks in with personalized briefing packets: who to meet, what to discuss, and shared connections to reference.\r\nAfter the event, automated follow-ups go out within hou\r\nrs — not weeks — while every interaction syncs to your CRM. Leadership gets a clear ROI dashboard tying each guest to pipeline outcomes.\r\nFrom branded houses at Cannes Lions and Art Basel to satellite dinners, client retreats, and donor cultivation events, Moots turns every room you curate into a compounding intelligence network.\r\n\r\nTrusted by corporate event teams, PR agencies, financial institutions, and advisory firms.\r\n",
-    "one_liner": "Helping Event Teams Vet the Room Before and Convert It After",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1644842544,
-    "tags": [
-      "Artificial Intelligence",
-      "Collaboration",
-      "Social Network"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moots",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots.json"
   },
   {
     "id": 25306,
@@ -22099,7 +22050,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Productivity"
@@ -22244,6 +22195,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/toolify",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/toolify.json"
+  },
+  {
+    "id": 29340,
+    "name": "Tamarind Bio",
+    "slug": "tamarind-bio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201884765e11baf051338d72f6f2e7ead2bb1fa1.png",
+    "website": "https://www.tamarind.bio",
+    "all_locations": "",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nTamarind is used by tens of thousands researchers in large pharma companies, top biotechs, and academic institutions.",
+    "one_liner": "AI Inference Platform for Drug Discovery",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1702859345,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tamarind-bio",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tamarind-bio.json"
   },
   {
     "id": 29341,
@@ -23214,51 +23206,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/abel",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/abel.json"
-  },
-  {
-    "id": 29395,
-    "name": "Clarum",
-    "slug": "clarum",
-    "former_names": [
-      "Over1"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f49116b2d71b646eb2e191786e22552e6be264f.png",
-    "website": "https://clarum.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clarum is an investment due diligence and research platform designed for private equity investors. It connects directly to a firm’s data sources, structures key financial metrics and deal terms, and performs analysis with AI across Excel, Word, and PowerPoint—mirroring the approach of an associate conducting due diligence.\r\n\r\nClarum is trusted by private equity firms, family offices, venture capital groups, and consulting teams. We automate major parts of the diligence workflow, enabling faster insights and better risk coverage.",
-    "one_liner": "Investment Due Diligence & Research, Accelerated by AI.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1710174596,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clarum",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/clarum.json"
   },
   {
     "id": 29397,
@@ -28991,47 +28938,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
   },
   {
-    "id": 30055,
-    "name": "RiskCube",
-    "slug": "riskcube",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
-    "website": "https://riskcube.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is built for startups and growing businesses that need vendor-ready insurance to sell into larger customers, pass procurement, and move faster through onboarding.\r\nWe compare options from top-rated U.S. carriers using AI agents and licensed broker review, then get founders the coverage and Certificates of Insurance (COIs) they need to close enterprise deals.\r\n\r\nWe offer D&O, Tech E&O, Cyber Liability, or General Liability coverage. Instead of weeks of back-and-forth with traditional brokers, we assess your unique risk profile, scan top-rated carriers, and present the options that satisfy your vendor requirements with proof of coverage.\r\n\r\nWe serve AI/SaaS, Fintech, Biotech, and Web3 companies across the U.S. CA Licensed.",
-    "one_liner": "AI-native commercial insurance broker.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1731782052,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riskcube",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
-  },
-  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -31576,6 +31482,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/sennu-ai.json"
   },
   {
+    "id": 30298,
+    "name": "Artificial Societies",
+    "slug": "artificial-societies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f1ebd1806463e3909d4a1f7b197b6c3788ebf4c.png",
+    "website": "https://societies.io",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Artificial Societies simulates how large groups of people respond to opinion surveys and react to information. We help global F100 enterprises anticipate how their most important stakeholders react to their most important decisions: from how investors and opinion-leaders react to comms messaging, to how high-value customers react to marketing strategies.\r\n\r\nWe are experts in human behaviour. James, our Founder and CEO, is a Cambridge psychologist and data scientist who led the seminal paper that studied how 33,000 AI chatbots interact. Patrick, our Founder and Chief Product Officer, is an Applied Behavioural Scientist with years of experience helping F500 enterprises conduct market research. They are joined by a team of behavioural scientists, social scientists, and political scientists, all with a passion for uniting technology and an understanding of humanity.\r\n\r\nWe know that every public-facing enterprise decision has million-dollar consequences. From how to position towards opinion-leaders, industry peers, and policymakers, to which marketing content to invest in, knowing how stakeholders would react matters. But traditional market research methods are too slow, too expensive, and often just fail to\r\nreach the stakeholders that truly matter.\r\n\r\nWe spend our lives solving this problem. Our offering is that we build bespoke AI\r\nsimulations of high-value audiences, for insights on questions no one else can answer. We’ve built up over 2.5 million AI personas that are all grounded in real human behaviour – not just what people say, but also what they do. \r\n\r\nBut our enterprise partners choose us not just because we have achieved 95% accuracy in simulating human opinions compared to human self-replication - more importantly, they choose us because of our ability to deliver impossible research projects. Such as having insights in under 24 hours, such as being able to test sensitive strategies on high-value audiences with 100% security, without human risk.\r\n\r\nAs a result, we’ve delivered over 18 million responses to global Fortune 100 enterprises, that helped shape over 100 million dollars’ worth of decisions ranging from global expansion strategies, product positioning, advertising, and strategic communications.\r\n\r\nOur vision of Artificial Societies is a Societal World Model that enables infinite experimentation, so that every organisation can have awareness of outcomes, before making a decision. No planes fly without a wind-tunnel; no medicines are approved without clinical trials; and yet, the biggest decision societies face today are taken as bets. We see Artificial Societies as a historically inevitable technology, and see it as our lives' mission to bring it to life.",
+    "one_liner": "We build networks of AI personas that simulate stakeholder opinions",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1739843143,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artificial-societies",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/artificial-societies.json"
+  },
+  {
     "id": 30303,
     "name": "AfterQuery",
     "slug": "afterquery",
@@ -33186,7 +33135,7 @@
     "all_locations": "",
     "long_description": "Klavis AI is Open source MCP integration platform that let AI agents use tools reliably at any scale. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code. Co-founder Xiangkai Zeng co-authored the Gemini paper and pioneered the tool calling infrastructure for Gemini. https://www.klavis.ai/",
     "one_liner": "Open source MCP integration platform for reliably tool use at scale.",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744314522,
@@ -33646,18 +33595,19 @@
   },
   {
     "id": 30542,
-    "name": "LineWise",
-    "slug": "linewise",
+    "name": "Vision Lab",
+    "slug": "vision-lab",
     "former_names": [
       "Comply Genie",
-      "Vision Nexus"
+      "Vision Nexus",
+      "LineWise"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
-    "website": "https://www.linewise.io/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c8aab3bb47bc9402833acb64276f52de063681.png",
+    "website": "https://thevisionlab.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "LineWise captures expert knowledge from videos and deliver AI-guided training on the manufacturing floor.",
-    "one_liner": "Closing the Frontline Skills Gap with AI",
-    "team_size": 6,
+    "long_description": "We capture and structure real factory workflows at scale by combining first-person industrial video with SOP-level process knowledge.\r\n\r\nThis enables robotics and AI labs to train on real production data, not just controlled lab environments.",
+    "one_liner": "Factory knowledge for robotics training",
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1743036496,
@@ -33686,8 +33636,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/linewise",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/linewise.json"
+    "url": "https://www.ycombinator.com/companies/vision-lab",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vision-lab.json"
   },
   {
     "id": 30543,
@@ -34246,49 +34196,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lanesurf",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lanesurf.json"
-  },
-  {
-    "id": 30621,
-    "name": "Tidy",
-    "slug": "tidy",
-    "former_names": [
-      "Pond"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93a91071e0526184092e4e72a13d1108008534a1.png",
-    "website": "https://withtidy.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI assistant that you can teach to use any app + lives in your messages.",
-    "one_liner": "Does anything you can imagine with a text",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1752567931,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Messaging",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tidy",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tidy.json"
   },
   {
     "id": 30637,
@@ -35266,6 +35173,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vibeflow",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
+  },
+  {
+    "id": 30700,
+    "name": "Nozomio",
+    "slug": "nozomio",
+    "former_names": [
+      "Nozomio Inc.",
+      "Nozomio",
+      "Nozomio (Nia AI)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
+    "website": "https://www.trynia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
+    "one_liner": "Context retrieval for AI",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751302971,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nozomio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
     "id": 30701,
@@ -40519,6 +40471,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hubxyz",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
+  },
+  {
+    "id": 31385,
+    "name": "Zolvo",
+    "slug": "zolvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
+    "website": "https://zolvo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Commercial lenders manage billions in assets but service their loans like it's 2005: spreadsheets, legacy software, and teams of people doing manual reconciliation all day. Zolvo replaces that entire back office with AI. We automate reconciliation, verification, collections, and reporting so lenders can scale their portfolios without scaling their teams. We're building the operating system for commercial lending",
+    "one_liner": "AI that automates servicing for commercial lenders",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1773364062,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Lending"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zolvo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zolvo.json"
   },
   {
     "id": 31396,
