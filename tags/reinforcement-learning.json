@@ -1223,6 +1223,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
   },
   {
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "",
+    "long_description": "Haladir is an applied AI product lab for optimal decision-making, working with formal solvers, linear programming models, & LLMs to enable critical operations companies to operate at frontier speed and precision. Today's AI has brought us intelligence. The next frontier is judgement.\r\n\r\nWe apply solver-based methods, SMT/SAT solvers, MILP, operations research, and formal verification to make both RL and AI deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chains, manufacturing, ERPs and beyond.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take consultants and analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
+    "one_liner": "Building Operational Superintelligence.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1766374394,
+    "tags": [
+      "Reinforcement Learning",
+      "Logistics",
+      "Supply Chain",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
+  },
+  {
     "id": 31174,
     "name": "Hex Security",
     "slug": "hex-security",
@@ -1274,17 +1315,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15b7b6ab2a29ad8ce788a73a92e36fd7733b6a.png",
     "website": "https://www.traverse.so",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
-    "one_liner": "Data research lab for the non-verifiable",
+    "one_liner": "Research lab for non-verifiable work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767260558,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Reinforcement Learning",
-      "AI"
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1296,8 +1337,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

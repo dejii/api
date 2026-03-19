@@ -13581,9 +13581,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa92dfb25b5a61583fdba17aadbf892376cab5ff.png",
     "website": "https://www.slash.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Backed by Y Combinator, NEA, and Stanford University, Slash is one of the fastest growing fintech companies in America.\r\n\r\nAt Slash, we're building a new category of business banking that recognizes the fundamental differences between industries. We combine the reliability of traditional banking (high yields, competitive rewards, and comprehensive security) with industry-specific features that make businesses more efficient, more competitive, and more profitable.\r\n\r\nBy deeply studying workflows across verticals, we reimagine what banking can be when it's designed with true industry insight.\r\n\r\nWe offer businesses:\r\n1. Deposit accounts with free outgoing wire and ACH transfers. \r\n2. Corporate cards with up to 2% cash back, virtual cards, fine grain spend controls, and controls/automation to save hours of work.\r\n3. Integrations to all major accounting platforms.\r\n4. Detailed spend, income, and other financial analytics.\r\n5. Vertical specific software that automate's your industry's unique, pressing challenges",
-    "one_liner": "Business banking that understands your industry's unique challenges",
-    "team_size": 35,
+    "long_description": "Slash is America's leading business banking platform. Backed by NEA, Menlo Ventures, Stanford University, and the founders of Tinder and Plaid, Slash works with over 5000 mid market businesses and moves $30bn per year across all payment rails. \r\n\r\nBusinesses come to Slash for three simple reasons:\r\n1. We are the \"Costco\" of business banking. You get the highest cashback on your card spend and the highest yield on your treasury account.\r\n2. We offer a bunch of free software that saves you and your finance team time: expense management, accounting automations, invoicing – all for free.\r\n3. We're available worldwide. Businesses in 100+ countries can sign up for a USD account on Slash. \r\n\r\nWe offer businesses:\r\n1. Deposit accounts with free outgoing wire and ACH transfers. \r\n2. Unlimited virtual cards with up to 2% cash back.\r\n3. Integrations to all major accounting platforms.\r\n4. Invoicing, expense management, and bill pay software.\r\n5. Stablecoin payments\r\n6. An powerful card creation and payments API",
+    "one_liner": "Banking, corporate cards, stablecoin payments – available globally.",
+    "team_size": 70,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1630082874,
@@ -13604,7 +13604,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28334,17 +28334,17 @@
     "website": "https://assemblyhoa.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Assembly is an AI-native HOA management company on a mission to fix homeowner associations. Traditional HOA management is often reactive, confusing, and inefficient. Assembly takes a different approach by combining professional expertise with intelligent software to make communities run smoothly and decisions easier.\r\n\r\nWe exist to build trust, create transparency, and ensure well-run communities that protect and enhance property values.\r\n\r\nAssembly simplifies day-to-day operations, automates routine tasks, and delivers the right knowledge at the right time. Our platform gives boards and homeowners clarity to make smarter, more confident decisions. \r\n\r\nWe manage HOAs in San Francisco Bay Area and Greater Los Angeles. ",
-    "one_liner": "AI-enabled HOA Management Company",
+    "one_liner": "AI-native HOA Management Company",
     "team_size": 9,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1720464041,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Real Estate",
       "Housing",
-      "Proptech",
-      "AI"
+      "Proptech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29981,8 +29981,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
     "all_locations": "",
-    "long_description": "We're building the first AI email client for accounting.\r\n\r\nWe're starting with accounts payable, because we learned that AP teams spend 80% of their day just in the inbox— that's 4x more time than actually processing invoices.\r\n\r\nOur platform equips you with agents that handle everything: triaging emails, managing multiple mailboxes, responding to vendor and internal inquiries, processing and matching invoices, onboarding vendors, and detecting fraud.\r\n\r\nFind out why customers choose Mod AI to manage their AP at usemod.ai. Backed by the first investors in Airbnb, DoorDash, and Dropbox.",
-    "one_liner": "The First AI Email Client for Accounting",
+    "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
+    "one_liner": "Touchless AP Automation",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -30439,45 +30439,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
-    "id": 31169,
-    "name": "Proximitty",
-    "slug": "proximitty",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
-    "website": "https://proximitty.ai",
-    "all_locations": "",
-    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 4 large banks and fintechs that process over >$2B of delinquent loans.",
-    "one_liner": "Autonomous business loan servicing",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1771451277,
-    "tags": [
-      "Fintech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/proximitty",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/proximitty.json"
-  },
-  {
     "id": 31187,
     "name": "Fenrock AI",
     "slug": "fenrock-ai",
@@ -30736,5 +30697,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unifold",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
+  },
+  {
+    "id": 31429,
+    "name": "Oddpool",
+    "slug": "oddpool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf632092b0f7b913a4b789b8c20bc2d7772690a5.png",
+    "website": "https://www.oddpool.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Oddpool is probability infrastructure for prediction markets. We capture full orderbook microstructure across venues and normalize it into structured, queryable data for quantitative and institutional workflows. Parquet-native, with full provenance.\r\n\r\nA Federal Reserve research paper found that prediction markets provide a statistically significant improvement over traditional forecasts for major macro events. But the data is fragmented across venues, unstandardized, and has no institutional-grade historical record. Oddpool provides the normalized cross-venue data layer, the canonical event mapping that links the same outcome across exchanges, and the historical depth that compounds over time and can't be rebuilt retroactively.",
+    "one_liner": "Institutional data layer for prediction markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1773859660,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oddpool",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
   }
 ]

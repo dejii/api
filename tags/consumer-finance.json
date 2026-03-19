@@ -1139,33 +1139,32 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
-    "id": 31194,
-    "name": "Valence",
-    "slug": "valence",
+    "id": 31429,
+    "name": "Oddpool",
+    "slug": "oddpool",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/355e8c5b3746af19fb0b6ef6149b2028474fbf0a.png",
-    "website": "https://valence.trade",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf632092b0f7b913a4b789b8c20bc2d7772690a5.png",
+    "website": "https://www.oddpool.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Valence is a unified trading platform for prediction markets. We provide infrastructure to aggregate and execute contracts across Kalshi, Polymarket, and other platforms, surface arbitrage and mispricing opportunities in real time, and give systematic traders the API and backtesting tools they need to build and execute data-driven strategies on anything.",
-    "one_liner": "Unified prediction markets trading platform",
-    "team_size": 3,
+    "long_description": "Oddpool is probability infrastructure for prediction markets. We capture full orderbook microstructure across venues and normalize it into structured, queryable data for quantitative and institutional workflows. Parquet-native, with full provenance.\r\n\r\nA Federal Reserve research paper found that prediction markets provide a statistically significant improvement over traditional forecasts for major macro events. But the data is fragmented across venues, unstandardized, and has no institutional-grade historical record. Oddpool provides the normalized cross-venue data layer, the canonical event mapping that links the same outcome across exchanges, and the historical depth that compounds over time and can't be rebuilt retroactively.",
+    "one_liner": "Institutional data layer for prediction markets",
+    "team_size": 2,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1772497537,
+    "subindustry": "Fintech",
+    "launched_at": 1773859660,
     "tags": [
+      "Fintech",
       "Finance",
-      "Consumer Finance",
-      "Cryptocurrency"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Consumer Finance"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -1176,7 +1175,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/valence",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/valence.json"
+    "url": "https://www.ycombinator.com/companies/oddpool",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
   }
 ]

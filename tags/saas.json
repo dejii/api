@@ -5298,7 +5298,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30614,7 +30614,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Human Resources"
@@ -39140,7 +39140,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -47093,15 +47093,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
     "one_liner": "The autonomous engineering organization",
-    "team_size": 2,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47821,8 +47821,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
     "all_locations": "",
-    "long_description": "We're building the first AI email client for accounting.\r\n\r\nWe're starting with accounts payable, because we learned that AP teams spend 80% of their day just in the inbox— that's 4x more time than actually processing invoices.\r\n\r\nOur platform equips you with agents that handle everything: triaging emails, managing multiple mailboxes, responding to vendor and internal inquiries, processing and matching invoices, onboarding vendors, and detecting fraud.\r\n\r\nFind out why customers choose Mod AI to manage their AP at usemod.ai. Backed by the first investors in Airbnb, DoorDash, and Dropbox.",
-    "one_liner": "The First AI Email Client for Accounting",
+    "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
+    "one_liner": "Touchless AP Automation",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48515,7 +48515,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://www.corvera.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) is the last ops hire CPG brands will ever make. We help brands increase profits by up to 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
+    "long_description": "Corvera (YC W26) is the AI agent workforce for CPG back-office. We help brands increase profits by up to 40% by deploying digital workers that run their operations.\r\n\r\nAs of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 175% week-on-week.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nOur mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
     "one_liner": "AI agents for CPG brands",
     "team_size": 4,
     "industry": "B2B",
@@ -48523,10 +48523,10 @@
     "launched_at": 1763141207,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49388,6 +49388,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/korso",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
+    "id": 31363,
+    "name": "Saffron",
+    "slug": "saffron",
+    "former_names": [
+      "Saffron AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3143a0fc23ce4251d146cce9ebb5799fc664317.png",
+    "website": "https://www.trysaffron.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saffron is building a platform to test how well candidates can use coding agents. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives hiring teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
+    "one_liner": "ai-native technical assessments and work trials. ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1773810768,
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saffron",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
   },
   {
     "id": 31413,

@@ -20173,7 +20173,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba11fcc185e7540e26d2fc388417c1e4c6dfad61.png",
     "website": "https://www.riveterhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter fully automates web data extraction, end to end. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us to enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+    "long_description": "Riveter fully automates web data extraction, end to end. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us to enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team (Cody Watters - CTO, Abby Grills, CEO) brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk. ",
     "one_liner": "Turn the web into structured data",
     "team_size": 2,
     "industry": "B2B",
@@ -22680,6 +22680,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/starsling.json"
   },
   {
+    "id": 30548,
+    "name": "Theorem",
+    "slug": "theorem-2",
+    "former_names": [
+      "Aletheia"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png",
+    "website": "https://theorem.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
+    "one_liner": "Program verification so even your systems engineers can vibecode",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1747681841,
+    "tags": [
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theorem-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/theorem-2.json"
+  },
+  {
     "id": 30559,
     "name": "Godela",
     "slug": "godela",
@@ -23116,15 +23157,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
     "one_liner": "The autonomous engineering organization",
-    "team_size": 2,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24601,20 +24642,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
     "website": "https://valgo.ai",
-    "all_locations": "San Mateo, CA, USA",
+    "all_locations": "",
     "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
     "one_liner": "Risk quantification platform to insure physical AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1763584142,
-    "tags": [
-      "Robotics",
-      "B2B",
-      "Insurance",
-      "Trust & Safety",
-      "Self-Driving Vehicles"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -24626,8 +24661,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

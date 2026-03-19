@@ -2808,18 +2808,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed377f5e3e709abc9139475076cec71316b01c06.png",
     "website": "https://sharpe.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sharpe is an AI data science agent purpose-built for quantitative finance, deployed on-premises at some of the world's most demanding trading firms and hedge funds. It absorbs your internal documentation, enforces your firm's methodology, and delivers completed, cited Jupyter notebooks at petabyte scale. Sharpe gives every analyst on your desk the institutional knowledge and output of your best.",
+    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure. Sharpe helped a top 5 quant firm find $10m+ of profit within a few hours of deployment.",
     "one_liner": "Agents for quantitative research and financial data science.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722638950,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "Analytics",
       "Big Data",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3459,8 +3459,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
     "all_locations": "",
-    "long_description": "We're building the first AI email client for accounting.\r\n\r\nWe're starting with accounts payable, because we learned that AP teams spend 80% of their day just in the inbox— that's 4x more time than actually processing invoices.\r\n\r\nOur platform equips you with agents that handle everything: triaging emails, managing multiple mailboxes, responding to vendor and internal inquiries, processing and matching invoices, onboarding vendors, and detecting fraud.\r\n\r\nFind out why customers choose Mod AI to manage their AP at usemod.ai. Backed by the first investors in Airbnb, DoorDash, and Dropbox.",
-    "one_liner": "The First AI Email Client for Accounting",
+    "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
+    "one_liner": "Touchless AP Automation",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3703,47 +3703,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
   },
   {
-    "id": 31194,
-    "name": "Valence",
-    "slug": "valence",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/355e8c5b3746af19fb0b6ef6149b2028474fbf0a.png",
-    "website": "https://valence.trade",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Valence is a unified trading platform for prediction markets. We provide infrastructure to aggregate and execute contracts across Kalshi, Polymarket, and other platforms, surface arbitrage and mispricing opportunities in real time, and give systematic traders the API and backtesting tools they need to build and execute data-driven strategies on anything.",
-    "one_liner": "Unified prediction markets trading platform",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1772497537,
-    "tags": [
-      "Finance",
-      "Consumer Finance",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/valence",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/valence.json"
-  },
-  {
     "id": 31204,
     "name": "Forum",
     "slug": "forum",
@@ -3782,5 +3741,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/forum",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/forum.json"
+  },
+  {
+    "id": 31429,
+    "name": "Oddpool",
+    "slug": "oddpool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf632092b0f7b913a4b789b8c20bc2d7772690a5.png",
+    "website": "https://www.oddpool.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Oddpool is probability infrastructure for prediction markets. We capture full orderbook microstructure across venues and normalize it into structured, queryable data for quantitative and institutional workflows. Parquet-native, with full provenance.\r\n\r\nA Federal Reserve research paper found that prediction markets provide a statistically significant improvement over traditional forecasts for major macro events. But the data is fragmented across venues, unstandardized, and has no institutional-grade historical record. Oddpool provides the normalized cross-venue data layer, the canonical event mapping that links the same outcome across exchanges, and the historical depth that compounds over time and can't be rebuilt retroactively.",
+    "one_liner": "Institutional data layer for prediction markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1773859660,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oddpool",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
   }
 ]

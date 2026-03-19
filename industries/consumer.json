@@ -12668,7 +12668,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17992,7 +17992,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22410,7 +22410,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -30153,48 +30153,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/capsule.json"
   },
   {
-    "id": 27492,
-    "name": "LazyEditor",
-    "slug": "lazyeditor",
-    "former_names": [
-      "Treasury",
-      "Nucleus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ece7a8e4aaed724d9d2a4da4b1acf7858d4694c.png",
-    "website": "https://www.lazyeditor.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "LazyEditor is an AI-driven video editor that instantly handles the entire editing process, from removing silences and filler words to adding b-rolls and enhancing overall quality. We help content creators produce professional, high-quality videos that maximize engagement with minimal effort.",
-    "one_liner": "AI Agentic Video Editor",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1680111928,
-    "tags": [
-      "Artificial Intelligence",
-      "Video"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lazyeditor",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/lazyeditor.json"
-  },
-  {
     "id": 27583,
     "name": "Rubbrband",
     "slug": "rubbrband",
@@ -34124,10 +34082,8 @@
     "launched_at": 1753392491,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
       "Consumer",
-      "Entertainment",
-      "AI"
+      "Entertainment"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35125,16 +35081,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
     "website": "https://goriff.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riff is a music editor with superpowers — helping artists work faster and making it easier than ever for hobbyists to break into music.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
-    "one_liner": "Cursor for music production",
+    "long_description": "Reimagine gifting with AI Stories and Memories",
+    "one_liner": "AI Stories with Music",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1752283172,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "Music"
+      "Music",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36030,20 +35986,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbb4da2e7614c1fd4c6c439a1afa51661f2fb7dc.png",
     "website": "https://codewisp.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game’s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
     "one_liner": "Anyone can create real games with AI",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1769035149,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Gaming",
-      "Web Development",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -36055,8 +36005,6 @@
       "Gaming"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

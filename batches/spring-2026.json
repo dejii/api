@@ -67,7 +67,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -331,6 +331,94 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replicas",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
+  },
+  {
+    "id": 31362,
+    "name": "matforge",
+    "slug": "matforge",
+    "former_names": [
+      "MatForge",
+      "Matforge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+    "website": "https://matforge.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI scientists that discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Matforge will help find them. ",
+    "one_liner": "AI scientists to discover semiconductor materials",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1773874719,
+    "tags": [
+      "Artificial Intelligence",
+      "Advanced Materials",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/matforge",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
+  },
+  {
+    "id": 31363,
+    "name": "Saffron",
+    "slug": "saffron",
+    "former_names": [
+      "Saffron AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3143a0fc23ce4251d146cce9ebb5799fc664317.png",
+    "website": "https://www.trysaffron.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saffron is building a platform to test how well candidates can use coding agents. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives hiring teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
+    "one_liner": "ai-native technical assessments and work trials. ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1773810768,
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saffron",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
   },
   {
     "id": 31375,
@@ -664,6 +752,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json"
   },
   {
+    "id": 31429,
+    "name": "Oddpool",
+    "slug": "oddpool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf632092b0f7b913a4b789b8c20bc2d7772690a5.png",
+    "website": "https://www.oddpool.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Oddpool is probability infrastructure for prediction markets. We capture full orderbook microstructure across venues and normalize it into structured, queryable data for quantitative and institutional workflows. Parquet-native, with full provenance.\r\n\r\nA Federal Reserve research paper found that prediction markets provide a statistically significant improvement over traditional forecasts for major macro events. But the data is fragmented across venues, unstandardized, and has no institutional-grade historical record. Oddpool provides the normalized cross-venue data layer, the canonical event mapping that links the same outcome across exchanges, and the historical depth that compounds over time and can't be rebuilt retroactively.",
+    "one_liner": "Institutional data layer for prediction markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1773859660,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oddpool",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
+  },
+  {
     "id": 31434,
     "name": "Adialante",
     "slug": "adialante",
@@ -840,15 +968,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foaster is building an AI-native alternative to consulting.\r\n\r\nFor decades, when companies faced their hardest business problems, the default answer was to hire a consulting firm. But that model has always been constrained by the same limits: consultants work from a partial understanding of the organization, rely on too few interviews, and take months to produce recommendations.\r\n\r\nWe think AI makes it possible to build a fundamentally different approach.\r\n\r\nWe use agents to interview employees at scale and reconstruct a faithful graph of how the organization actually works: its workflows, bottlenecks, handoffs, dependencies, and hidden inefficiencies. Building this graph was previously impossible at the scale of the companies that relied on consulting, and even if humans could assemble it, the complexity would have been too high for them to reason over effectively.\r\n\r\nFrom this graph, we can already tackle a first use case that has become urgent for nearly every company: where and how to deploy AI. \r\n\r\nIn days, we can show where AI should be integrated, how, and in what order to create real operational impact. This is the kind of question companies have long delegated to consultants, but one where they could never reach the same depth fast enough. By making this process faster and more scalable, we also make it available to companies that traditional firms were never built to serve.\r\n\r\nIn the coming months, we believe this same foundation will allow us to tackle a broader class of strategy and transformation problems, with more context and greater speed than any consulting firm today.",
-    "one_liner": "We map your company in days and show where to integrate AI.",
+    "long_description": "Foaster is an AI-native consulting firm.\r\n\r\nTraditional consulting firms rely on teams of analysts and associates to spend weeks or months gathering information, interviewing employees, structuring findings, and producing recommendations. That model can produce valuable work, but it is slow, expensive, and limited by the amount of human time that can be deployed on each engagement.\r\n\r\nAt Foaster, AI agents do most of the analytical work. They interview employees at scale, reconstruct how the organization actually works, identify bottlenecks and inefficiencies, and generate recommendations. A human consultant then reviews the output, challenges the reasoning where needed, and delivers the final recommendations to the client. That consultant also helps improve the system over time.\r\n\r\nThis means dramatically less human time is required to deliver high-quality consulting work. What used to require months of work from entire teams can now be done in a few days with one consultant supported by AI.\r\n\r\nThe result is a model that is faster, more precise, and more affordable than traditional consulting. For example, building a tailored AI roadmap for a company can be done in a few days instead of months.\r\n\r\nBecause our agents can process far more organizational detail than a traditional team could realistically gather and analyze, we can reach a level of speed and precision that classical consulting firms struggle to match.",
+    "one_liner": "AI-native consulting firm",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -867,7 +996,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/foaster",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
   },

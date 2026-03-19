@@ -654,7 +654,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4774,15 +4774,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foaster is building an AI-native alternative to consulting.\r\n\r\nFor decades, when companies faced their hardest business problems, the default answer was to hire a consulting firm. But that model has always been constrained by the same limits: consultants work from a partial understanding of the organization, rely on too few interviews, and take months to produce recommendations.\r\n\r\nWe think AI makes it possible to build a fundamentally different approach.\r\n\r\nWe use agents to interview employees at scale and reconstruct a faithful graph of how the organization actually works: its workflows, bottlenecks, handoffs, dependencies, and hidden inefficiencies. Building this graph was previously impossible at the scale of the companies that relied on consulting, and even if humans could assemble it, the complexity would have been too high for them to reason over effectively.\r\n\r\nFrom this graph, we can already tackle a first use case that has become urgent for nearly every company: where and how to deploy AI. \r\n\r\nIn days, we can show where AI should be integrated, how, and in what order to create real operational impact. This is the kind of question companies have long delegated to consultants, but one where they could never reach the same depth fast enough. By making this process faster and more scalable, we also make it available to companies that traditional firms were never built to serve.\r\n\r\nIn the coming months, we believe this same foundation will allow us to tackle a broader class of strategy and transformation problems, with more context and greater speed than any consulting firm today.",
-    "one_liner": "We map your company in days and show where to integrate AI.",
+    "long_description": "Foaster is an AI-native consulting firm.\r\n\r\nTraditional consulting firms rely on teams of analysts and associates to spend weeks or months gathering information, interviewing employees, structuring findings, and producing recommendations. That model can produce valuable work, but it is slow, expensive, and limited by the amount of human time that can be deployed on each engagement.\r\n\r\nAt Foaster, AI agents do most of the analytical work. They interview employees at scale, reconstruct how the organization actually works, identify bottlenecks and inefficiencies, and generate recommendations. A human consultant then reviews the output, challenges the reasoning where needed, and delivers the final recommendations to the client. That consultant also helps improve the system over time.\r\n\r\nThis means dramatically less human time is required to deliver high-quality consulting work. What used to require months of work from entire teams can now be done in a few days with one consultant supported by AI.\r\n\r\nThe result is a model that is faster, more precise, and more affordable than traditional consulting. For example, building a tailored AI roadmap for a company can be done in a few days instead of months.\r\n\r\nBecause our agents can process far more organizational detail than a traditional team could realistically gather and analyze, we can reach a level of speed and precision that classical consulting firms struggle to match.",
+    "one_liner": "AI-native consulting firm",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4801,7 +4802,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/foaster",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
   }

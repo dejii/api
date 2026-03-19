@@ -815,15 +815,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d89913eef21655f3b6aca9e9962a1f6323dc2479.png",
     "website": "https://convictional.com",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Convictional is fundamentally rethinking how business leaders pursue goals and make decisions. Instead of trying to coordinate through email chains, chat messages and meetings with slides, you'll get an entirely new kind of decision environment where the right context and people come together instantly.\r\n\r\n\r\nYour leaders will see every major initiative in motion across the company. They'll spot emerging patterns, tap into experience from past projects, and mobilize the right expertise at the right moment. No hunting for information, no voices lost in the noise, no painful reconstructions of why decisions were made.\r\n\r\n\r\nCustom workspaces spin up automatically for each goal. Critical metrics and context from prior decisions will surface proactively. Input will flow from experts inside and outside your company. Everything will be instantly documented. And your team's decision-making playbook will get smarter with every choice you make.",
-    "one_liner": "Convictional is reinventing business operations",
-    "team_size": 13,
+    "long_description": "Convictional (convictional.com) is the company OS that replaces Slack, to keep teams mission aligned by design. Your goals, email, meetings, chat and knowledge search in one place, where your team's effectiveness compounds.",
+    "one_liner": "Convictional replaces Slack to keep teams mission aligned by design.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1541124183,
     "tags": [
       "B2B",
-      "Enterprise",
+      "Team Collaboration",
+      "Collaboration",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -3525,6 +3526,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/jasmine-energy.json"
   },
   {
+    "id": 27492,
+    "name": "zudo.work",
+    "slug": "zudowork",
+    "former_names": [
+      "Treasury",
+      "Nucleus",
+      "LazyEditor"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b55d5948e24e4f011a2289892580ecd680e947a.png",
+    "website": "https://zudo.work/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zudo.work builds and deploys AI agents that automate customer support, sales, and authorization workflows for warranty administrators in the home and auto markets.\r\n\r\nOur agents integrate across voice and internal system to handle high-volume service operations such as claims processing, coverage inquiries and authorizations — improving speed, accuracy, and operational efficiency.",
+    "one_liner": "AI Workers for Warranty",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1680111928,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zudowork",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/zudowork.json"
+  },
+  {
     "id": 27816,
     "name": "OpenSight",
     "slug": "opensight",
@@ -5503,7 +5547,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
     "website": "https://tesora.ai",
     "all_locations": "",
-    "long_description": "Tesora builds AI-native software for insurance underwriting and actuarial teams. Like Harvey for law, we forward deploy into MGAs/ Carriers to connect disparate systems, encode expert workflows, and eliminate the spreadsheet and email bottlenecks constraining growth",
+    "long_description": "Tesora builds AI-native software for insurance underwriting and actuarial teams. We forward deploy into MGAs/ Carriers to connect disparate systems, encode expert workflows, and eliminate the spreadsheet and email bottlenecks constraining growth, specifically focused on freeing up actuaries (to build a more profitable book!)",
     "one_liner": "AI-Native Underwriting and Actuarial Workflows ",
     "team_size": 2,
     "industry": "B2B",
@@ -5782,7 +5826,12 @@
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1766374394,
-    "tags": [],
+    "tags": [
+      "Reinforcement Learning",
+      "Logistics",
+      "Supply Chain",
+      "Operations"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5815,7 +5864,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://www.corvera.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) is the last ops hire CPG brands will ever make. We help brands increase profits by up to 40% with an AI workforce that handles their day-to-day ops.\r\n\r\nWe're already saving fast-growing retail brands hundreds of hours a week, helping them serve more customers, and accelerating their growth.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nIn our first month full-time, we’ve raised $2M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
+    "long_description": "Corvera (YC W26) is the AI agent workforce for CPG back-office. We help brands increase profits by up to 40% by deploying digital workers that run their operations.\r\n\r\nAs of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 175% week-on-week.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nOur mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
     "one_liner": "AI agents for CPG brands",
     "team_size": 4,
     "industry": "B2B",
@@ -5823,10 +5872,10 @@
     "launched_at": 1763141207,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,

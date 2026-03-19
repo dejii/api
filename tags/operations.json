@@ -48,15 +48,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d89913eef21655f3b6aca9e9962a1f6323dc2479.png",
     "website": "https://convictional.com",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Convictional is fundamentally rethinking how business leaders pursue goals and make decisions. Instead of trying to coordinate through email chains, chat messages and meetings with slides, you'll get an entirely new kind of decision environment where the right context and people come together instantly.\r\n\r\n\r\nYour leaders will see every major initiative in motion across the company. They'll spot emerging patterns, tap into experience from past projects, and mobilize the right expertise at the right moment. No hunting for information, no voices lost in the noise, no painful reconstructions of why decisions were made.\r\n\r\n\r\nCustom workspaces spin up automatically for each goal. Critical metrics and context from prior decisions will surface proactively. Input will flow from experts inside and outside your company. Everything will be instantly documented. And your team's decision-making playbook will get smarter with every choice you make.",
-    "one_liner": "Convictional is reinventing business operations",
-    "team_size": 13,
+    "long_description": "Convictional (convictional.com) is the company OS that replaces Slack, to keep teams mission aligned by design. Your goals, email, meetings, chat and knowledge search in one place, where your team's effectiveness compounds.",
+    "one_liner": "Convictional replaces Slack to keep teams mission aligned by design.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1541124183,
     "tags": [
       "B2B",
-      "Enterprise",
+      "Team Collaboration",
+      "Collaboration",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -1165,18 +1166,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.",
+    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.\r\n\r\nTo learn more check out https://lumari.io/",
     "one_liner": "AI Digital Workers for Supply Chain",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1288,6 +1289,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
   },
   {
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b1a47bf16f93d71a3d1f3af6d10a6c736e170b2.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "",
+    "long_description": "Haladir is an applied AI product lab for optimal decision-making, working with formal solvers, linear programming models, & LLMs to enable critical operations companies to operate at frontier speed and precision. Today's AI has brought us intelligence. The next frontier is judgement.\r\n\r\nWe apply solver-based methods, SMT/SAT solvers, MILP, operations research, and formal verification to make both RL and AI deployment possible in domains where correctness has never been formally defined. Just as code's internal verifiability unlocked exponential gains in AI software generation, we seek to unlock the same dynamic for larger operational use cases of AI: logistics, supply chains, manufacturing, ERPs and beyond.\r\n\r\nWe define operational superintelligence as AI that consistently makes maximally-optimal operational decisions in complex environments. The first component is speed: continuous decisions that take consultants and analysts weeks to make, in seconds. The second is reliability: every decision is guaranteed to satisfy operational constraints. The third is scope: optimize across thousands of constraints no human or team could possibly reason about.",
+    "one_liner": "Building Operational Superintelligence.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1766374394,
+    "tags": [
+      "Reinforcement Learning",
+      "Logistics",
+      "Supply Chain",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
+  },
+  {
     "id": 31156,
     "name": "Ventura",
     "slug": "ventura",
@@ -1337,16 +1379,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
     "website": "https://ressl.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI employees for home services and trades businesses. We automate the back office so field crews can focus on the actual work.\r\n\r\nTrades businesses (HVAC, plumbing, electrical, collision repair, roofing) run on legacy software and \"glue\" employees: people whose entire job is clicking through systems, copy-pasting between tools, and managing inbound volume across channels. A collision shop has one person generating estimates in CCCOne, another chasing parts vendors, another answering calls and Yelp messages, another doing invoices in QuickBooks. None of that requires a human.\r\n\r\nWe build proactive background agents that run these operations autonomously -- quoting, estimating, procurement, insurance coordination, scheduling, follow-ups -- on top of the software these businesses already own. \r\n\r\nWe started as an AI consulting firm talking to businesses across every industry. After a month, the pattern was obvious - trades and field services had the most \"glue work\" and the least tech sophistication to solve it themselves. Every shop we walked into had 2–4 people doing work that software should be delivering as an outcome, not just enabling.\r\n\r\nOur GTM is direct to operators and through PE-backed roll-ups, who are actively looking for margin improvements across their portfolio companies. If this is of interest, please reach out arushi@ressl.ai",
-    "one_liner": "AI Transformation for the Trades",
+    "long_description": "We automate the back office so field crews can focus on the actual work.\r\n\r\nTrades businesses (HVAC, plumbing, electrical, collision repair, roofing) run on legacy software and \"glue\" employees: people whose entire job is clicking through systems, copy-pasting between tools, and managing inbound volume across channels. A collision shop has one person generating estimates in CCCOne, another chasing parts vendors, another answering calls and Yelp messages, another doing invoices in QuickBooks. None of that requires a human.\r\n\r\nWe build proactive background agents that run these operations autonomously -- quoting, estimating, procurement, insurance coordination, scheduling, follow-ups -- on top of the software these businesses already own. \r\n\r\nWe started as an AI consulting firm talking to businesses across every industry. After a month, the pattern was obvious - trades and field services had the most \"glue work\" and the least tech sophistication to solve it themselves. Every shop we walked into had 2–4 people doing work that software should be delivering as an outcome, not just enabling.\r\n\r\nOur GTM is direct to operators and through PE-backed roll-ups, who are actively looking for margin improvements across their portfolio companies. If this is of interest, please reach out arushi@ressl.ai",
+    "one_liner": "AI Workers for Field Services",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1765975223,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,

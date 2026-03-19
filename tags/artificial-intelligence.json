@@ -13800,53 +13800,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/homli.json"
   },
   {
-    "id": 27152,
-    "name": "Firecrawl",
-    "slug": "firecrawl",
-    "former_names": [
-      "SideGuide",
-      "Mendable",
-      "SideGuide",
-      "Mendable"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee510c9c4d2aa69c8f38f7fd9c9af41e3f15d46a.png",
-    "website": "https://www.firecrawl.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Firecrawl is a web data infrastructure platform that converts websites into clean, structured data optimized for AI applications through a simple API. Originally built as an internal tool at Mendable to solve their own data ingestion challenges, the team recognized the broader need for reliable web data extraction and transformed it into a standalone product. The platform combines web search, scraping, and AI-powered parsing into a unified solution, focusing on the core developer priorities of reliability, speed, and ease of use. By abstracting away the complexities of web data extraction, Firecrawl serves as the foundational data layer that enables AI applications to seamlessly access and process web content in the exact format they need.",
-    "one_liner": "The web data API for AI",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1661283698,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/firecrawl",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/firecrawl.json"
-  },
-  {
     "id": 27158,
     "name": "Jasmine Energy",
     "slug": "jasmine-energy",
@@ -14434,48 +14387,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dev-tools-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/dev-tools-ai.json"
-  },
-  {
-    "id": 27492,
-    "name": "LazyEditor",
-    "slug": "lazyeditor",
-    "former_names": [
-      "Treasury",
-      "Nucleus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ece7a8e4aaed724d9d2a4da4b1acf7858d4694c.png",
-    "website": "https://www.lazyeditor.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "LazyEditor is an AI-driven video editor that instantly handles the entire editing process, from removing silences and filler words to adding b-rolls and enhancing overall quality. We help content creators produce professional, high-quality videos that maximize engagement with minimal effort.",
-    "one_liner": "AI Agentic Video Editor",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1680111928,
-    "tags": [
-      "Artificial Intelligence",
-      "Video"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lazyeditor",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/lazyeditor.json"
   },
   {
     "id": 27667,
@@ -18305,49 +18216,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/serra.json"
   },
   {
-    "id": 28879,
-    "name": "Menza",
-    "slug": "menza",
-    "former_names": [
-      "Latentspace"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
-    "website": "https://menza.ai/",
-    "all_locations": "Remote",
-    "long_description": "Menza is the always-on AI data team for fast-growing brands. We connect your Shopify, Klaviyo, ads, and 650+ other tools so anyone on your team can get instant answers, automated reports, and insights they'd never find manually.\r\n\r\nMenza replaces hours of spreadsheet wrangling and dashboard building with automated reporting, plain-English questions, and around-the-clock monitoring that catches revenue leaks and opportunities before you miss them. For insights in minutes, not meetings.\r\n\r\nEvolve Beauty saves 60+ hours per month on reporting and found £18k in misattributed revenue hiding in their GA4 setup. yhangry made 90% of their team data-driven without writing a single line of SQL, scaling their US expansion with a lean team. The Keto Shop found 10% of their revenue leaking monthly from stockouts, then built a custom reorder system to fix it.\r\n\r\nUsed and loved by DTC brands from beauty to food and beverage.\r\n\r\nRequest a demo today: https://menza.ai/",
-    "one_liner": "Your 24/7 Data Analyst",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1691019522,
-    "tags": [
-      "Artificial Intelligence",
-      "Data Visualization",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/menza",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/menza.json"
-  },
-  {
     "id": 28882,
     "name": "Repaint",
     "slug": "repaint",
@@ -18408,8 +18276,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c020e28a863a34018b960ce006440e0884dffd.png",
     "website": "https://rocketeer.build",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Rails and interfaces on top of Claude Code and Codex for common GTM flows — list views, company views, person views, enrichment, ranking, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
-    "one_liner": "Command center top of Claude Code for GTM engineers",
+    "long_description": "Rails and interfaces on top of Claude Code and Codex for common GTM flows - table views, company views, person views, enrichment, ranking, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
+    "one_liner": "Run a team of GTM agents from your laptop",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -22361,7 +22229,7 @@
       "France",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26661,6 +26529,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/planbase.json"
   },
   {
+    "id": 29745,
+    "name": "Sharpe",
+    "slug": "sharpe",
+    "former_names": [
+      "January",
+      "Lumenary",
+      "Lumenary, Inc.",
+      "Lumenary"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed377f5e3e709abc9139475076cec71316b01c06.png",
+    "website": "https://sharpe.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sharpe helps traders go from idea to profit in minutes with AI, bundling petabytes of market data with high-performance infrastructure. Sharpe helped a top 5 quant firm find $10m+ of profit within a few hours of deployment.",
+    "one_liner": "Agents for quantitative research and financial data science.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1722638950,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Analytics",
+      "Big Data",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sharpe",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sharpe.json"
+  },
+  {
     "id": 29746,
     "name": "Drillbit",
     "slug": "drillbit",
@@ -27194,7 +27110,7 @@
       "Exa Labs",
       "Exa Laboratories"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/662bfd08d45a97284865d5456a7b0c634c35349d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc824cdcd1866f181c1cae19f0dfc1371a717e51.png",
     "website": "https://zscc.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
@@ -27797,6 +27713,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polymet",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/polymet.json"
+  },
+  {
+    "id": 29824,
+    "name": "Assembly HOA",
+    "slug": "assembly-hoa",
+    "former_names": [
+      "Assembly Technologies Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/251db0cfd3ffbbbe376cb8fa8066246654b8bd87.png",
+    "website": "https://assemblyhoa.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Assembly is an AI-native HOA management company on a mission to fix homeowner associations. Traditional HOA management is often reactive, confusing, and inefficient. Assembly takes a different approach by combining professional expertise with intelligent software to make communities run smoothly and decisions easier.\r\n\r\nWe exist to build trust, create transparency, and ensure well-run communities that protect and enhance property values.\r\n\r\nAssembly simplifies day-to-day operations, automates routine tasks, and delivers the right knowledge at the right time. Our platform gives boards and homeowners clarity to make smarter, more confident decisions. \r\n\r\nWe manage HOAs in San Francisco Bay Area and Greater Los Angeles. ",
+    "one_liner": "AI-native HOA Management Company",
+    "team_size": 9,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1720464041,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Real Estate",
+      "Housing",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/assembly-hoa",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/assembly-hoa.json"
   },
   {
     "id": 29826,
@@ -28594,7 +28557,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba11fcc185e7540e26d2fc388417c1e4c6dfad61.png",
     "website": "https://www.riveterhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter fully automates web data extraction, end to end. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us to enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+    "long_description": "Riveter fully automates web data extraction, end to end. With a single API, agents can search, scrape, and structure data from the web. \r\n\r\nCustomers like Snapchat and OpenAI use us to enrich datasets using Riveter's AI search agents that combine data from the web with third party or internal data.  \r\n\r\nTheir AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nYou can even create a custom data API for repeated searches live in your app or internal databases. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. Or they spend months building web scrapers, and when that still doesn't work, they come to Riveter.\r\n\r\nOur founding team (Cody Watters - CTO, Abby Grills, CEO) brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk. ",
     "one_liner": "Turn the web into structured data",
     "team_size": 2,
     "industry": "B2B",
@@ -28917,7 +28880,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -29845,48 +29808,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/vetnio.json"
   },
   {
-    "id": 30181,
-    "name": "Leaping AI",
-    "slug": "leaping-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
-    "website": "https://www.leapingai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leaping AI is the best platform to deploy voice AI agents for customer service, lead qualification and appointment scheduling. We target mid-market and Enterprise companies and industries are: home services, pay per call, travel, retail, health insurance, Medicare, health and real estate.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
-    "one_liner": "Voice AI agents to automate call centers (digital call center workers)",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736780951,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/leaping-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/leaping-ai.json"
-  },
-  {
     "id": 30183,
     "name": "Tweeks.io",
     "slug": "tweeksio",
@@ -30643,10 +30564,8 @@
     "launched_at": 1753392491,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
       "Consumer",
-      "Entertainment",
-      "AI"
+      "Entertainment"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33509,51 +33428,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/moby-analytics.json"
   },
   {
-    "id": 30540,
-    "name": "Lumari",
-    "slug": "lumari",
-    "former_names": [
-      "Rextly"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
-    "website": "https://www.lumari.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.",
-    "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1747084472,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Manufacturing",
-      "Supply Chain",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumari",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
-  },
-  {
     "id": 30541,
     "name": "Code Four",
     "slug": "code-four",
@@ -33592,52 +33466,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/code-four",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
-  },
-  {
-    "id": 30542,
-    "name": "Vision Lab",
-    "slug": "vision-lab",
-    "former_names": [
-      "Comply Genie",
-      "Vision Nexus",
-      "LineWise"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c8aab3bb47bc9402833acb64276f52de063681.png",
-    "website": "https://thevisionlab.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We capture and structure real factory workflows at scale by combining first-person industrial video with SOP-level process knowledge.\r\n\r\nThis enables robotics and AI labs to train on real production data, not just controlled lab environments.",
-    "one_liner": "Factory knowledge for robotics training",
-    "team_size": 8,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1743036496,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Manufacturing",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vision-lab",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/vision-lab.json"
   },
   {
     "id": 30543,
@@ -34670,6 +34498,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/nori.json"
   },
   {
+    "id": 30659,
+    "name": "Proliferate",
+    "slug": "proliferate",
+    "former_names": [
+      "Keystone"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9eb3892f113b924e1c5b9bdf6d120ba559a45ff.png",
+    "website": "https://proliferate.com?utm_source=yc&utm_medium=referral&utm_campaign=profile",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Proliferate gives coding agents production-grade infrastructure- sandboxed environments, event triggers, and verification workflows- so they can ship code end-to-end, not just write it.",
+    "one_liner": "The autonomous engineering organization",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1749673205,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proliferate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/proliferate.json"
+  },
+  {
     "id": 30660,
     "name": "Magnitude",
     "slug": "magnitude",
@@ -35256,48 +35128,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mimos",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
-  },
-  {
-    "id": 30703,
-    "name": "GoRiff",
-    "slug": "goriff",
-    "former_names": [
-      "Riff"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
-    "website": "https://goriff.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riff is a music editor with superpowers — helping artists work faster and making it easier than ever for hobbyists to break into music.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
-    "one_liner": "Cursor for music production",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1752283172,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Music"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/goriff",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/goriff.json"
   },
   {
     "id": 30707,
@@ -36110,50 +35940,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
   },
   {
-    "id": 30774,
-    "name": "Clodo",
-    "slug": "clodo",
-    "former_names": [
-      "Disclodocs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png",
-    "website": "https://clodo.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clodo is the planet's best people intelligence. Used by GTM, Recruiting, Marketing, and Ops at AI Natives, B2Bs, and Fortune 500s in SaaS, Manufacturing/Industrials, BioTech, Healthcare, Fintech, Compliance, and more",
-    "one_liner": "Planet-scale people search. GTM, Sales, Recruiting, Marketing, and Ops",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1754475903,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Sales",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clodo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/clodo.json"
-  },
-  {
     "id": 30782,
     "name": "TectoAI",
     "slug": "tectoai",
@@ -36461,17 +36247,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c3bc6a804835cf4e60592673af66342d45aa417.png",
     "website": "https://www.trylapis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapis helps businesses generate and run image ads on Facebook, Instagram, WhatsApp, LinkedIn, and Google.",
-    "one_liner": "AI Image Ads for Meta, Linkedin, and Google",
+    "long_description": "Lapis gives businesses the ability to generate on-brand advertising creatives using AI. It uses existing assets like logos, colors, fonts, and product images, and automatically creates image ads that match a company's visual identity and voice across Instagram, Facebook, WhatsApp, LinkedIn, and Google.\r\n\r\nWith Lapis, businesses can rapidly iterate on creatives and A/B test at scale without being bottlenecked by design and creative capacity.\r\n\r\nLapis is used by 1,000+ marketing teams, from big businesses like Hyundai and Tata to small businesses around the world, and supports 15+ languages including English, Spanish, and Italian.",
+    "one_liner": "AI that creates on-brand image ads",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1760555997,
     "tags": [
       "Artificial Intelligence",
       "B2B",
-      "Analytics",
       "Marketing",
+      "Advertising",
       "AI"
     ],
     "tags_highlighted": [],
@@ -36482,7 +36268,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -36757,51 +36543,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bolna-ai.json"
   },
   {
-    "id": 30854,
-    "name": "Hyperspell",
-    "slug": "hyperspell",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4149c6afc651c9770fc182e08dde776e24f88554.png",
-    "website": "https://hyperspell.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperspell (YC F25) gives AI agents memory.\r\n\r\nIt connects to tools like Slack, Gmail, Notion, and Drive so agents can recall, reason, and remember across company knowledge. Developers use Hyperspell’s API to turn disconnected agents into AI coworkers that understand their work. Conor and Manu founded Hyperspell after building their own workplace agent and seeing how limited AI is without memory. They have over 15 years of experience in machine learning and have scaled API-based products to $30M ARR.",
-    "one_liner": "Memory for AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1760534513,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hyperspell",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
-  },
-  {
     "id": 30856,
     "name": "Scoop",
     "slug": "scoop",
@@ -37022,8 +36763,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
     "all_locations": "",
-    "long_description": "We're building the first AI email client for accounting.\r\n\r\nWe're starting with accounts payable, because we learned that AP teams spend 80% of their day just in the inbox— that's 4x more time than actually processing invoices.\r\n\r\nOur platform equips you with agents that handle everything: triaging emails, managing multiple mailboxes, responding to vendor and internal inquiries, processing and matching invoices, onboarding vendors, and detecting fraud.\r\n\r\nFind out why customers choose Mod AI to manage their AP at usemod.ai. Backed by the first investors in Airbnb, DoorDash, and Dropbox.",
-    "one_liner": "The First AI Email Client for Accounting",
+    "long_description": "We're building the first fully autonomous accounts payable platform.\r\n\r\nOur AI clerks handle your entire AP workflow: invoice processing, GL coding, PO matching, approvals, responding to vendors, fraud detection and reporting. From the moment an invoice hits your inbox to the moment it's paid, no manual steps required.\r\n\r\nWe integrate with 16+ ERPs including QuickBooks, NetSuite, SAP, Dynamics 365, and Workday.\r\n\r\nFind out why enterprise teams choose Mod AI at usemod.ai.",
+    "one_liner": "Touchless AP Automation",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -38429,6 +38170,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fullseam.json"
   },
   {
+    "id": 31051,
+    "name": "Corvera",
+    "slug": "corvera",
+    "former_names": [
+      "Sarah.AI",
+      "Sarah AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
+    "website": "https://www.corvera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corvera (YC W26) is the AI agent workforce for CPG back-office. We help brands increase profits by up to 40% by deploying digital workers that run their operations.\r\n\r\nAs of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 175% week-on-week.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nOur mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nVisit www.corvera.ai to learn more and schedule a demo!",
+    "one_liner": "AI agents for CPG brands",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1763141207,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corvera",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
+  },
+  {
     "id": 31062,
     "name": "Hlabs",
     "slug": "hlabs",
@@ -39155,51 +38942,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   },
   {
-    "id": 31140,
-    "name": "CodeWisp",
-    "slug": "codewisp",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbb4da2e7614c1fd4c6c439a1afa51661f2fb7dc.png",
-    "website": "https://codewisp.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeWisp lets anyone build and publish web games using plain-English prompts.\r\n\r\nTraditional game development requires learning complex engines, managing assets and code, and following rigid workflows, making it slow and inaccessible for most people.\r\n\r\nWith CodeWisp, users describe the game they want. CodeWisp generates the game’s code, structure, and assets, and users can refine it with follow-up prompts. This makes it possible to go from idea to a playable web game in minutes, without prior game-development experience.",
-    "one_liner": "Anyone can create real games with AI",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1769035149,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Gaming",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codewisp",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/codewisp.json"
-  },
-  {
     "id": 31149,
     "name": "EigenPal",
     "slug": "eigenpal",
@@ -39756,6 +39498,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
   },
   {
+    "id": 31191,
+    "name": "Traverse",
+    "slug": "traverse",
+    "former_names": [
+      "Clice AI",
+      "Clice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15b7b6ab2a29ad8ce788a73a92e36fd7733b6a.png",
+    "website": "https://www.traverse.so",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Research lab for non-verifiable work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767260558,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/traverse",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
+  },
+  {
     "id": 31195,
     "name": "Reframe",
     "slug": "usereframe",
@@ -39881,6 +39665,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/emdash.json"
   },
   {
+    "id": 31200,
+    "name": "Ressl AI",
+    "slug": "ressl-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
+    "website": "https://ressl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We automate the back office so field crews can focus on the actual work.\r\n\r\nTrades businesses (HVAC, plumbing, electrical, collision repair, roofing) run on legacy software and \"glue\" employees: people whose entire job is clicking through systems, copy-pasting between tools, and managing inbound volume across channels. A collision shop has one person generating estimates in CCCOne, another chasing parts vendors, another answering calls and Yelp messages, another doing invoices in QuickBooks. None of that requires a human.\r\n\r\nWe build proactive background agents that run these operations autonomously -- quoting, estimating, procurement, insurance coordination, scheduling, follow-ups -- on top of the software these businesses already own. \r\n\r\nWe started as an AI consulting firm talking to businesses across every industry. After a month, the pattern was obvious - trades and field services had the most \"glue work\" and the least tech sophistication to solve it themselves. Every shop we walked into had 2–4 people doing work that software should be delivering as an outcome, not just enabling.\r\n\r\nOur GTM is direct to operators and through PE-backed roll-ups, who are actively looking for margin improvements across their portfolio companies. If this is of interest, please reach out arushi@ressl.ai",
+    "one_liner": "AI Workers for Field Services",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1765975223,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ressl-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
+  },
+  {
     "id": 31205,
     "name": "Human Archive",
     "slug": "human-archive",
@@ -39962,48 +39786,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mendral",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mendral.json"
-  },
-  {
-    "id": 31219,
-    "name": "Voxel Energy",
-    "slug": "voxel-energy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74fcdd0e430ec52b7926e6bf7ffe4e4cbb1b2571.png",
-    "website": "https://voxelenergy.com/",
-    "all_locations": "",
-    "long_description": "The best grid connection is no grid connection. Voxel data centers capture, store, and consume solar energy onsite without the grid, completely bypassing utility connection delays. By leveraging the vast supply of second-life EV batteries with our novel DC microgrid architecture, we drastically reduce engineering overhead and time-to-power.",
-    "one_liner": "Energy independent data centers with solar and repurposed batteries. ",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1768576763,
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Energy",
-      "Renewable Energy",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voxel-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/voxel-energy.json"
   },
   {
     "id": 31223,
@@ -40426,6 +40208,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/korso",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
+  },
+  {
+    "id": 31362,
+    "name": "matforge",
+    "slug": "matforge",
+    "former_names": [
+      "MatForge",
+      "Matforge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/910cd5b0344664a22b57c59a7d459cabe1095bee.png",
+    "website": "https://matforge.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI scientists that discover new materials for the semiconductor industry - specifically datacenters and fabs. Finding novel materials today takes 10+ years of lab work. We aim to compress that timeline to months, using a swarm of AI agents.\r\n\r\nAkash completed his PhD at Stanford on material discovery for semiconductors. The materials he discovered for nanoscale interconnects have been adopted into the roadmaps of Intel and TSMC. Advaith was the founding applied scientist at Persona AI (acquired by Luma Labs), where he built long horizon autonomous agents for major telecom and crypto companies.\r\n\r\nPower consumption and heat release from AI chips is doubling every year. The semiconductor industry needs new materials to keep this exponential going - Matforge will help find them. ",
+    "one_liner": "AI scientists to discover semiconductor materials",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1773874719,
+    "tags": [
+      "Artificial Intelligence",
+      "Advanced Materials",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/matforge",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
   },
   {
     "id": 31375,
