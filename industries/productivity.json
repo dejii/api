@@ -4805,7 +4805,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7418,13 +7418,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat is the open source AI automation platform for technical teams. Purpose-built for security, reliability, and internal operations.\r\n\r\nWe provide everything technical builders need to automate work — AI agents, workflows, cases, and over 150 integrations. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies. ",
-    "one_liner": "Automate work with secure AI agents",
+    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds the automations for you. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies.",
+    "one_liner": "Automate any security workflow with AI",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
+      "Security",
       "Open Source",
       "Enterprise",
       "Automation",
@@ -9029,7 +9030,7 @@
     "former_names": [
       "Hyprnote"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f657fb954d32582892780fbf061a8b6256b8044.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56f12bdb7423798d6634489cf39ecd1b961bf22d.png",
     "website": "https://char.com",
     "all_locations": "",
     "long_description": "Char is an open source Granola alternative that never locks you in. It's local-first and filesystem-based like Obsidian. Also, it provides ways to use on-device AI models or BYOK. ",
@@ -9517,42 +9518,5 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sila",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sila.json"
-  },
-  {
-    "id": 31511,
-    "name": "Arzana",
-    "slug": "arzana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4785fcf24308f1fcad59fe3eda9fea668524c25f.png",
-    "website": "https://arzana.ai",
-    "all_locations": "",
-    "long_description": "Fortune 500 companies and the fastest-growing manufacturing firms use Arzana’s AI platform to automate order entry, quoting, and customer updates. So teams can scale faster, respond sooner, and grow without adding overhead.",
-    "one_liner": "AI automation for the manufacturing office",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1773098013,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzana",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   }
 ]

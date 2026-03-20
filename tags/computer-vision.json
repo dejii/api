@@ -1183,11 +1183,11 @@
     "name": "Taiv",
     "slug": "taiv",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/517858a2f6d1535b89d71bd9bf5a0f334c3c7f8d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c32f1abe7d2cba987238d8fbcc9048fc815dfe.png",
     "website": "https://taiv.tv",
     "all_locations": "Winnipeg, MB, Canada",
     "long_description": "Taiv puts TVs on autopilot, automatically switching between cable, our own streaming channels, digital signage, and trivia.  Our proprietary AI model analyzes the live video feed and intelligently switches sources during commercial breaks, show changes, or based on the time of day, to show the best possible content & ads for any environment.\r\n\r\nWe offer this for free to venues and make money by selling ads, which we rev-share back with the venue, turning their TVs from a cost center to a profit center. ",
-    "one_liner": "Taiv uses AI to make businesses TVs more entertaining & valuable.",
+    "one_liner": "AI-powered tech that makes business TV smarter, engaging, and…",
     "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -3163,6 +3163,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ondeck-ai.json"
   },
   {
+    "id": 30763,
+    "name": "Rebulk",
+    "slug": "rebulk",
+    "former_names": [
+      "dScribe AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37f1f3fac3b53d55834007e8aa34e2f8bb7a1198.png",
+    "website": "https://www.rebulk.com",
+    "all_locations": "Olathe, KS, USA",
+    "long_description": "Rebulk accurately measures and monitors bulk inventory like piles of feed, sand, and other assets that do not fit into boxes and barcodes using cameras, LiDAR, and computer vision.\r\n\r\nMost bulk inventory is still managed with rough estimates, manual checks, delayed updates, and too much guesswork. Because it lives in piles, bays, yards, and truck beds instead of boxes with barcodes, it is much harder to track accurately. When teams do not know what is actually on site, it leads to shrink, stockouts, bad planning, and unnecessary fire drills.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and is working with one of the largest agricultural company in North America and Charm Industrial. As industries demand real-time visibility into the physical world, RebuIk is positioned to become the operating system for bulk assets from inventory tracking to procurement and logistics.",
+    "one_liner": "Accurately measure and monitor bulk inventory",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1752017595,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Supply Chain",
+      "Agriculture",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rebulk",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/rebulk.json"
+  },
+  {
     "id": 30821,
     "name": "Efference",
     "slug": "efference",
@@ -3379,49 +3424,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/allus-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/allus-ai.json"
-  },
-  {
-    "id": 31094,
-    "name": "Lexius",
-    "slug": "lexius",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png",
-    "website": "https://www.lexius.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lexius turns any corporate security camera into an AI security guard that detects, documents, alerts and archives incidents such as shoplifting and slip-n-fall incidents.\r\n\r\nLexius is the AI layer for existing security cameras. No rip and replace. No new hardware. No expensive upgrades.\r\n\r\nThink of it as a security guard that never misses a moment.",
-    "one_liner": "AI for Corporate Security Cameras",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1766833804,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Computer Vision",
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lexius",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
   },
   {
     "id": 31141,

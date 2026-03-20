@@ -2075,8 +2075,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/466edf3d5433822ec078c82bac288ce34e17b342.png",
     "website": "https://www.ciro.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Meet your new AI prospecting agent — powered by Ciro.\r\n\r\nSales reps today juggle a lot — hundreds of daily cold calls, LinkedIn follow-ups, email sequences — all while trying to sound human and build real connections. \r\n\r\nBefore any of that, they spend hours trying to figure out who to reach out to.\r\n\r\nIt’s a constant battle between speed and quality — and under pressure, speed usually wins.\r\n\r\nBut in the age of AI, we don’t think that tradeoff should exist.\r\n\r\nThat’s why we built Ciro Autopilot — to help you build high-quality lead lists, faster than ever.",
-    "one_liner": "Build the perfect prospect list in <5min with AI",
+    "long_description": "Ciro is an AI agent that finds prospects, researches their buying signals, and drafts personalized outreach, all from Slack.\r\n\r\nTell it who you sell to. It finds the right people, figures out why now is the right time to reach out, and writes outreach that sounds like your best rep did 30 minutes of research.\r\n\r\nWelcome to the future of selling.",
+    "one_liner": "GTM AI that books you 5-8 meetings/week",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -2661,6 +2661,56 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluebirds",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/bluebirds.json"
+  },
+  {
+    "id": 27843,
+    "name": "Gooseworks",
+    "slug": "gooseworks",
+    "former_names": [
+      "Magik Labs",
+      "Magik Labs - Fast Web3 Checkout",
+      "Magik Labs - Fast NFT Checkout",
+      "Magik Labs",
+      "Magik",
+      "Athina AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
+    "website": "https://gooseworks.ai/",
+    "all_locations": "",
+    "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
+    "one_liner": "OpenClaw-style AI coworkers for GTM teams",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1667592357,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Marketing",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gooseworks",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/gooseworks.json"
   },
   {
     "id": 27854,
@@ -4544,6 +4594,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/ergo.json"
   },
   {
+    "id": 30343,
+    "name": "Cedar",
+    "slug": "cedar",
+    "former_names": [
+      "ByteBelli",
+      "lawyai (name in progress)",
+      "GraphIQal"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
+    "website": "https://mail.cedarcopilot.com/",
+    "all_locations": "",
+    "long_description": "Cedar helps the fastest growing GTM teams ramp up new reps faster & spread top rep playbook throughout the team. AE's at Cursor, Corgi, Pylon, and Warp use Cedar to save 75% of admin time on CRM updates, follow-ups, and deal strategy. \r\n\r\nBacked by YC with an ex-Figma, Notion, and Intuit team, Cedar was built by spending hundreds of hours with the best AE's in industry – we've built a playbook for the fastest growing teams and founders ramping up sales, and we'll use it to automate the busy work so you can sell more, better.",
+    "one_liner": "Execute the best sales playbook in industry",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1739293549,
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "CRM",
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/cedar",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/cedar.json"
+  },
+  {
     "id": 30418,
     "name": "Kanava AI",
     "slug": "kanava-ai",
@@ -5279,5 +5374,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caretta",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/caretta.json"
+  },
+  {
+    "id": 31367,
+    "name": "Andustry",
+    "slug": "andustry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
+    "website": "http://andustry.com/",
+    "all_locations": "",
+    "long_description": "We build AI agents that automate discovery for industrials products, in particular mid-size machinery. Say goodbye to reaching out to 100s of suppliers, not hearing back from them and getting your first quote after several weeks. Suppliers also get to automate responding to customers, entering once what they offer and receiving ready-to-fulfill orders.",
+    "one_liner": "AI to source and sell industrial products",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1773916364,
+    "tags": [
+      "Marketplace",
+      "Sales",
+      "Manufacturing",
+      "Procurement",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andustry",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
   }
 ]

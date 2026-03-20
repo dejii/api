@@ -6490,11 +6490,11 @@
     "name": "Taiv",
     "slug": "taiv",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/517858a2f6d1535b89d71bd9bf5a0f334c3c7f8d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c32f1abe7d2cba987238d8fbcc9048fc815dfe.png",
     "website": "https://taiv.tv",
     "all_locations": "Winnipeg, MB, Canada",
     "long_description": "Taiv puts TVs on autopilot, automatically switching between cable, our own streaming channels, digital signage, and trivia.  Our proprietary AI model analyzes the live video feed and intelligently switches sources during commercial breaks, show changes, or based on the time of day, to show the best possible content & ads for any environment.\r\n\r\nWe offer this for free to venues and make money by selling ads, which we rev-share back with the venue, turning their TVs from a cost center to a profit center. ",
-    "one_liner": "Taiv uses AI to make businesses TVs more entertaining & valuable.",
+    "one_liner": "AI-powered tech that makes business TV smarter, engaging, and…",
     "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -12466,7 +12466,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -12971,48 +12971,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/miniswap.json"
   },
   {
-    "id": 31010,
-    "name": "Fixpoint",
-    "slug": "fixpoint",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f1eaa6d1493780832479f97fca83170e4ebe91.png",
-    "website": "https://fixpoint.co/",
-    "all_locations": "",
-    "long_description": "Fixpoint is Uber for human data annotation. We’re building the network of experts and the platform to automate sourcing, vetting, and deploying them on AI training projects.\r\n\r\nIt used to be a manual process to staff people on AI training data or eval projects - but Fixpoint leverages AI to staff people and create data better, cheaper, and faster. This includes a network of pre-vetted experts, AI-automated vetting, and annotator management + payroll.",
-    "one_liner": "Uber for AI trainers and human-in-the-loop supervisors",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1759722442,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Marketplace",
-      "B2B",
-      "Recruiting"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fixpoint",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/fixpoint.json"
-  },
-  {
     "id": 31175,
     "name": "Pax Historia",
     "slug": "pax-historia",
@@ -13053,5 +13011,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pax-historia",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pax-historia.json"
+  },
+  {
+    "id": 31367,
+    "name": "Andustry",
+    "slug": "andustry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2189a7097412cbf54bc66b9495393ddfceb6282a.png",
+    "website": "http://andustry.com/",
+    "all_locations": "",
+    "long_description": "We build AI agents that automate discovery for industrials products, in particular mid-size machinery. Say goodbye to reaching out to 100s of suppliers, not hearing back from them and getting your first quote after several weeks. Suppliers also get to automate responding to customers, entering once what they offer and receiving ready-to-fulfill orders.",
+    "one_liner": "AI to source and sell industrial products",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1773916364,
+    "tags": [
+      "Marketplace",
+      "Sales",
+      "Manufacturing",
+      "Procurement",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andustry",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
   }
 ]

@@ -5819,24 +5819,25 @@
   },
   {
     "id": 31010,
-    "name": "Fixpoint",
-    "slug": "fixpoint",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f1eaa6d1493780832479f97fca83170e4ebe91.png",
-    "website": "https://fixpoint.co/",
-    "all_locations": "",
-    "long_description": "Fixpoint is Uber for human data annotation. We’re building the network of experts and the platform to automate sourcing, vetting, and deploying them on AI training projects.\r\n\r\nIt used to be a manual process to staff people on AI training data or eval projects - but Fixpoint leverages AI to staff people and create data better, cheaper, and faster. This includes a network of pre-vetted experts, AI-automated vetting, and annotator management + payroll.",
-    "one_liner": "Uber for AI trainers and human-in-the-loop supervisors",
+    "name": "Amika",
+    "slug": "amika",
+    "former_names": [
+      "Fixpoint"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a51d3daafd2b7537bb32ea9c3d6bcfa96ba62a1.png",
+    "website": "https://www.amika.dev/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
+    "one_liner": "Infra to build your own software factory",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759722442,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Marketplace",
       "B2B",
-      "Recruiting"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5846,18 +5847,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Human Resources"
+      "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fixpoint",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/fixpoint.json"
+    "url": "https://www.ycombinator.com/companies/amika",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json"
   },
   {
     "id": 31011,

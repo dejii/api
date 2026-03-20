@@ -1147,13 +1147,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat is the open source AI automation platform for technical teams. Purpose-built for security, reliability, and internal operations.\r\n\r\nWe provide everything technical builders need to automate work — AI agents, workflows, cases, and over 150 integrations. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies. ",
-    "one_liner": "Automate work with secure AI agents",
+    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds the automations for you. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies.",
+    "one_liner": "Automate any security workflow with AI",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
+      "Security",
       "Open Source",
       "Enterprise",
       "Automation",
@@ -1326,7 +1327,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -2360,26 +2361,27 @@
   },
   {
     "id": 29284,
-    "name": "Avery",
-    "slug": "avery",
+    "name": "AveryIQ",
+    "slug": "averyiq",
     "former_names": [
       "Starlight Charging",
-      "Avery HQ"
+      "Avery HQ",
+      "Avery"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9858815bbd831276cdcb1d662f0a88316f786e6.png",
     "website": "https://callavery.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager’s toolkit with a two-way contact center to provide an excellent resident experience.",
-    "one_liner": "AI Contact Center for Residential Property Managers",
+    "long_description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager’s toolkit with a two-way contact center to provide an excellent resident experience.\r\n\r\nLearn more at https://averyiq.com",
+    "one_liner": "AI Copilot for Property Managers and Landlords",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1705435157,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
       "Proptech",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2400,8 +2402,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avery",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/avery.json"
+    "url": "https://www.ycombinator.com/companies/averyiq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/averyiq.json"
   },
   {
     "id": 29285,
@@ -6626,19 +6628,21 @@
   },
   {
     "id": 29400,
-    "name": "Chunkr",
-    "slug": "chunkr",
+    "name": "floatingpoint",
+    "slug": "floatingpoint",
     "former_names": [
-      "Lumina"
+      "Lumina",
+      "Chunkr",
+      "Floatingpoint"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png",
-    "website": "https://chunkr.ai/",
-    "all_locations": "",
-    "long_description": "Battle-tested + highly modular vision infrastructure to convert PDFs, PPTs, Word, Excel, PNG, and JPEGs into LLM-ready data. \r\n\r\nWe started by building lumina.sh - where we needed to parse ~600M pages of scientific literature. The researchers didn't care - but devs wanted our ingestion pipeline. So we built chunkr instead. \r\n\r\nWe offer high quality layout analysis, OCR, bounding boxes, granular VLM controls, semantic chunking, and all the last mile engineering that goes into building standout AI applications. Common use-cases include RAG, and automating document workflows like invoices/medical reports -> database.\r\n\r\n\r\n\r\n",
-    "one_liner": "Open source API service to parse complex documents",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccc5a3b284dde05cfb774f22b332cf01a7341928.png",
+    "website": "https://floatingpoint.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Floatingpoint builds off-the-shelf post-training datasets that teach models how to do real work with documents. \r\n\r\nWe discover valuable tasks where models fall short and build datasets to close the gap. Human-crafted from real-world sources with synthetic expansions on top, and validated through in-house training cycles. \r\n\r\n\r\n\r\n",
+    "one_liner": "Post-training data to teach models document work",
+    "team_size": null,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "launched_at": 1704780983,
     "tags": [],
     "tags_highlighted": [],
@@ -6648,19 +6652,19 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chunkr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/chunkr.json"
+    "url": "https://www.ycombinator.com/companies/floatingpoint",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/floatingpoint.json"
   },
   {
     "id": 29401,

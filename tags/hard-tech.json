@@ -4062,91 +4062,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
   },
   {
-    "id": 31142,
-    "name": "Beyond Reach Labs",
-    "slug": "beyond-reach-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a23843346ae92181428153349c06ed7c8d8a5a0b.png",
-    "website": "https://www.beyondreachlabs.com",
-    "all_locations": "",
-    "long_description": "At Beyond Reach Labs we are building solar panels for Space that grow from the size of a dining table to a football field in orbit.\r\n\r\nMitch and Pele met 13 years ago as freshmen at UPenn studying mechanical engineering. Mitch recently got his PhD at Carnegie Mellon working with NASA on kilometer-scale deployable structures, and Pele spent seven years at SpaceX leading Dragon parachute engineering, safely returning astronauts from space.\r\n\r\nThe collective satellites today use around 20MW, roughly the output of a datacenter on earth, but by 2030 there is a demand for over 10GW, a 500x increase, largely driven by orbital datacenters, space stations, and lunar outposts.\r\n\r\nIf you want more power, your only option is to launch larger solar panels, which quickly become fragile or impractically expensive. As a result, power constraints already determine whether missions or industries can exist at all.\r\n\r\nBut at Beyond Reach Labs we have introduced a new class of deployable solar panels giving satellites 10x more usable power without increasing launch mass or volume. This works because our patented deployable design changes geometry in space, allowing for us to reach 10x longer while remaining rigid.\r\n",
-    "one_liner": "Space solar arrays that grow to the size of a football field in orbit",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1770079967,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Space Exploration",
-      "Satellites",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beyond-reach-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/beyond-reach-labs.json"
-  },
-  {
-    "id": 31144,
-    "name": "Milliray (formerly DroneTector)",
-    "slug": "milliray",
-    "former_names": [
-      "DroneTector Ltd",
-      "DroneTector"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4a1552aeba914f75657392e47de071913dbe0bc.png",
-    "website": "https://milliray.com/",
-    "all_locations": "",
-    "long_description": "We make radars that can see small drones.\r\n\r\nAs drones evolve faster than air defenses, detection has fallen behind. Even $50 drones now present a major threat to airports, critical infrastructure, and front-line defense.\r\n\r\nWe solve this by building high-frequency radar systems, designed from the ground up to detect even the most challenging low-signature targets. This allows us to identify and track nano drones like no other solution, letting you know what's truly in your airspace. ",
-    "one_liner": "Technology to detect and track hostile drones",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1768863894,
-    "tags": [
-      "Hard Tech",
-      "Drones",
-      "Radar"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/milliray",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/milliray.json"
-  },
-  {
     "id": 31193,
     "name": "9 Mothers",
     "slug": "9-mothers-corporation",
@@ -4190,6 +4105,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/9-mothers-corporation",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/9-mothers-corporation.json"
+  },
+  {
+    "id": 31196,
+    "name": "Congruent",
+    "slug": "congruent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7c888706d93f04e768a791ada75bb06e4605041.png",
+    "website": "https://congruent.io",
+    "all_locations": "",
+    "long_description": "At Congruent, we build radars for end-to-end autonomous systems. The most advanced autonomous systems are trained as a single neural network from raw sensor data to navigation actions. For a sensor to be included in these pipelines sensor stacks requires two key properties: access to raw sensor data and a high-fidelity sensor simulator. Current automotive radars have neither, they output heavily processed point clouds and no raw radar simulator exists for driving scenes. Congruent solves both problems: a radar architecture that exposes raw data, paired with a world model based radar simulator. Radar is the only depth sensor at a price point that scales to every car on the road and works in all weather conditions. Congruent is building the radar compatible with the training architectures that will make mass-market vehicles autonomous.",
+    "one_liner": "AI native radars for self-driving cars",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1771538111,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/congruent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/congruent.json"
   },
   {
     "id": 31287,

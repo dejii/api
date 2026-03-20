@@ -4591,47 +4591,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
   },
   {
-    "id": 31182,
-    "name": "Visibl Semiconductors",
-    "slug": "visibl-semiconductors",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9acdb09765b62086883672feeb576e191249bff.png",
-    "website": "https://visiblsemi.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Visibl is an AI platform that turns compute into chip design capacity.\r\n\r\nAs chips grow more complex, adding engineers yields diminishing returns — coordination costs rise while progress slows. The bottleneck is no longer ideas, but execution throughput.\r\n\r\nVisibl turns compute into a teammate. Our platform ingests the full design context (code, specs, scripts, tool outputs) to decode ambiguous tool feedback into actionable steps. We validate changes and package decisions for review, resulting in safer changes, shorter iteration cycles, and fewer late surprises on the path to tapeout.",
-    "one_liner": "AI agents for chip design.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1767637338,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software",
-      "Semiconductors"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/visibl-semiconductors",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/visibl-semiconductors.json"
-  },
-  {
     "id": 31185,
     "name": "Chamber",
     "slug": "chamber",
@@ -4719,6 +4678,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/approxima",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
+  },
+  {
+    "id": 31215,
+    "name": "Bubble Lab",
+    "slug": "bubble-lab",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+    "website": "https://bubblelab.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bubble Lab lets companies deploy Pearl, an ops super-employee that lives in Slack.\r\n\r\nPearl connects to SaaS tools like Notion, Jira, HubSpot, Stripe, and Google Workspace so teams can simply ask for work to happen — generating reports, updating CRMs, or chasing invoices.\r\n\r\nTasks start as flexible AI agents, but when they become repeatable, Bubble Lab automatically converts them into deterministic workflows that run instantly, reliably, and at zero cost.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work and scale operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
+    "one_liner": "The ops super-employee in Slack",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1764881455,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Enterprise Software",
+      "Automation",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bubble-lab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   },
   {
     "id": 31276,

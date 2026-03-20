@@ -11186,9 +11186,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed8c75028bc46b4acc10c1fcd555e74616bcdeb3.png",
     "website": "https://mintlify.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The best developer companies (think Stripe, Twilio, MongoDB) have effective and user-centric documentation at their backbone. Mintlify helps any company achieve the documentation they need effortlessly, so that they can focus on building what they do best.",
-    "one_liner": "The intelligent documentation platform",
-    "team_size": 35,
+    "long_description": "Helping teams create and maintain world-class documentation built for both humans and AI",
+    "one_liner": "The intelligent knowledge platform",
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1641800191,
@@ -11209,7 +11209,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13699,54 +13699,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pirros",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pirros.json"
-  },
-  {
-    "id": 27843,
-    "name": "Athina AI",
-    "slug": "athina-ai",
-    "former_names": [
-      "Magik Labs",
-      "Magik Labs - Fast Web3 Checkout",
-      "Magik Labs - Fast NFT Checkout",
-      "Magik Labs",
-      "Magik"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bb74aa44b5b28eca9180548406b123ca298d9c9.png",
-    "website": "https://athina.ai",
-    "all_locations": "Remote",
-    "long_description": "Athina is an end-to-end platform for product teams building production-grade AI features.\r\n\r\n1. Prototype: Dynamic Columns let you run LLM prompts, execute code, make API calls, retrieve data, run transformations, and more (in a spreadsheet UI)\r\n\r\n2. Evaluate: Run evaluations within the sheet itself - there are 50+ preset evaluation metrics or you can create your own custom evals (no-code).\r\n\r\n3. Experiment: Change your prompt, model, retriever, or chain in just a few clicks. Technical users can run even more experiments programmatically.\r\n\r\n4. Compare:  Compare any number of datasets side-by-side with a diff view, and run evaluations on all of them simultaneously\r\n\r\n5. Observability: Monitor your LLM features in production with continuous evaluations and granular analytics.\r\n\r\nAthina can be used by non-technical users as well as technical users. This means PMs, QA, Data Scientists, and Engineers can collaborate to build great AI products.\r\n",
-    "one_liner": "Prototype, Experiment & Evaluate AI Pipelines in a Spreadsheet-like UI",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1667592357,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Machine Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/athina-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/athina-ai.json"
   },
   {
     "id": 27852,
@@ -16651,7 +16603,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -17707,44 +17659,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tensorfuse",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tensorfuse.json"
-  },
-  {
-    "id": 29400,
-    "name": "Chunkr",
-    "slug": "chunkr",
-    "former_names": [
-      "Lumina"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png",
-    "website": "https://chunkr.ai/",
-    "all_locations": "",
-    "long_description": "Battle-tested + highly modular vision infrastructure to convert PDFs, PPTs, Word, Excel, PNG, and JPEGs into LLM-ready data. \r\n\r\nWe started by building lumina.sh - where we needed to parse ~600M pages of scientific literature. The researchers didn't care - but devs wanted our ingestion pipeline. So we built chunkr instead. \r\n\r\nWe offer high quality layout analysis, OCR, bounding boxes, granular VLM controls, semantic chunking, and all the last mile engineering that goes into building standout AI applications. Common use-cases include RAG, and automating document workflows like invoices/medical reports -> database.\r\n\r\n\r\n\r\n",
-    "one_liner": "Open source API service to parse complex documents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1704780983,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chunkr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/chunkr.json"
   },
   {
     "id": 29401,
@@ -21649,13 +21563,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
     "website": "https://mail.cedarcopilot.com/",
     "all_locations": "",
-    "long_description": "An open-source React framework for building the next generation of AI native applications. With Cedar, connect your agent to your frontend in ways that go beyond the chat.\r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nWith Cedar, user interaction is not constrained to a chat window. We offer tools making it easy to build a voice-enabled experience, add human-in-the-loop for agent observability, and deliver realtime analytics + human handoff when needed to Slack.\r\n\r\nReduce back and forth with CSM, decrease time to completion for important user tasks, and give your users a delightful experience using Cedar :-D",
-    "one_liner": "The open source copilot for any app",
+    "long_description": "Cedar helps the fastest growing GTM teams ramp up new reps faster & spread top rep playbook throughout the team. AE's at Cursor, Corgi, Pylon, and Warp use Cedar to save 75% of admin time on CRM updates, follow-ups, and deal strategy. \r\n\r\nBacked by YC with an ex-Figma, Notion, and Intuit team, Cedar was built by spending hundreds of hours with the best AE's in industry – we've built a playbook for the fastest growing teams and founders ramping up sales, and we'll use it to automate the busy work so you can sell more, better.",
+    "one_liner": "Execute the best sales playbook in industry",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1739293549,
-    "tags": [],
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "CRM",
+      "Email"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -24643,8 +24562,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
     "website": "https://valgo.ai",
     "all_locations": "",
-    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs who wrote the textbook on validating safety-critical systems and teach the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
-    "one_liner": "Risk quantification platform to insure physical AI",
+    "long_description": "Insurers struggle to price autonomous systems because the historical data simply doesn't exist. Your car insurance draws from over 30 billion claims records, but autonomous trucks and robots have nearly zero. Valgo is the risk quantification platform that closes that gap. We are building probabilistic models of routes, tasks, and environments from the bottom up. We output a simulated loss estimate that insurers need to price coverage. Valgo is the foundational layer that gives insurance providers confidence to properly price autonomy risk.\r\n\r\nOur team combines expertise in risk estimation for autonomy with deep experience in the insurance industry. Sydney and Robert are Stanford PhDs with leading expertise in safety of physical AI systems. Sydney wrote the textbook on validating safety-critical systems and teaches the course at Stanford. Robert spent 7 years at MIT Lincoln Laboratory on the core team that designed and validated an FAA-certified aircraft collision avoidance system, now a worldwide standard. Jon is a Sloan Fellow from the Stanford GSB and an actuary who spent over 12 years in insurance leadership and led over $5 billion in M&A as head of corporate development for one of the largest insurers in Asia-Pacific.",
+    "one_liner": "Insurance risk layer for physical AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25057,18 +24976,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9acdb09765b62086883672feeb576e191249bff.png",
     "website": "https://visiblsemi.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Visibl is an AI platform that turns compute into chip design capacity.\r\n\r\nAs chips grow more complex, adding engineers yields diminishing returns — coordination costs rise while progress slows. The bottleneck is no longer ideas, but execution throughput.\r\n\r\nVisibl turns compute into a teammate. Our platform ingests the full design context (code, specs, scripts, tool outputs) to decode ambiguous tool feedback into actionable steps. We validate changes and package decisions for review, resulting in safer changes, shorter iteration cycles, and fewer late surprises on the path to tapeout.",
-    "one_liner": "AI agents for chip design.",
+    "one_liner": "AI-native Broadcom for mature-node custom ASICs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767637338,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software",
-      "Semiconductors"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25080,8 +24995,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25306,13 +25220,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1769109612,
-    "tags": [
-      "Hardware",
-      "Robotics",
-      "3D Printing",
-      "Aerospace",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25496,5 +25404,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/testerarmy",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json"
+  },
+  {
+    "id": 31518,
+    "name": "Runtime",
+    "slug": "runtime",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0801c6ba3a19486c65604a4c5feb759ee79e0f10.png",
+    "website": "https://www.runtm.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
+    "one_liner": "Guardrails and visibility to enable your team to ship with coding…",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773951001,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runtime",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/runtime.json"
   }
 ]

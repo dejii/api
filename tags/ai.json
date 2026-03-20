@@ -2203,6 +2203,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/tenderd.json"
   },
   {
+    "id": 2014,
+    "name": "Mutiny",
+    "slug": "mutiny",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
+    "website": "https://www.mutinyhq.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Mutiny is your AI agent for creating anything customer-facing, in minutes. From ABM campaigns to executive business cases to ROI reports, you'll never have to wait on another team to get your deal from cold to closed. Our customers include Figma, Rippling, Uber, Snowflake. We are backed by Sequoia Capital, Tiger Global, Insight Partners, and Y Combinator.",
+    "one_liner": "AI for Enterprise GTM",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1526439893,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mutiny",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/mutiny.json"
+  },
+  {
     "id": 2023,
     "name": "SPATE",
     "slug": "spate",
@@ -3352,11 +3395,11 @@
     "name": "Taiv",
     "slug": "taiv",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/517858a2f6d1535b89d71bd9bf5a0f334c3c7f8d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86c32f1abe7d2cba987238d8fbcc9048fc815dfe.png",
     "website": "https://taiv.tv",
     "all_locations": "Winnipeg, MB, Canada",
     "long_description": "Taiv puts TVs on autopilot, automatically switching between cable, our own streaming channels, digital signage, and trivia.  Our proprietary AI model analyzes the live video feed and intelligently switches sources during commercial breaks, show changes, or based on the time of day, to show the best possible content & ads for any environment.\r\n\r\nWe offer this for free to venues and make money by selling ads, which we rev-share back with the venue, turning their TVs from a cost center to a profit center. ",
-    "one_liner": "Taiv uses AI to make businesses TVs more entertaining & valuable.",
+    "one_liner": "AI-powered tech that makes business TV smarter, engaging, and…",
     "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -9561,6 +9604,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/hoai.json"
   },
   {
+    "id": 25948,
+    "name": "Spade",
+    "slug": "spade",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc25342edef4b9f6942587780f3a5d96fae04f9c.png",
+    "website": "https://www.spade.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Spade is the next generation of fintech infrastructure. We’re building a financial data enrichment API purpose built to empower our customers to uncover the truth hidden within their transaction data. We use our vast, ground-truth merchant data set to decipher cryptic transactions, helping customers underwrite, detect fraud, build better banking infrastructure and get a unique understanding of their users’ spending habits.",
+    "one_liner": "Enriched transaction data you can build on",
+    "team_size": 25,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1641512856,
+    "tags": [
+      "Fintech",
+      "Machine Learning",
+      "Payments",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spade",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/spade.json"
+  },
+  {
     "id": 25954,
     "name": "Status",
     "slug": "status",
@@ -12092,7 +12179,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13398,29 +13485,31 @@
   },
   {
     "id": 27843,
-    "name": "Athina AI",
-    "slug": "athina-ai",
+    "name": "Gooseworks",
+    "slug": "gooseworks",
     "former_names": [
       "Magik Labs",
       "Magik Labs - Fast Web3 Checkout",
       "Magik Labs - Fast NFT Checkout",
       "Magik Labs",
-      "Magik"
+      "Magik",
+      "Athina AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bb74aa44b5b28eca9180548406b123ca298d9c9.png",
-    "website": "https://athina.ai",
-    "all_locations": "Remote",
-    "long_description": "Athina is an end-to-end platform for product teams building production-grade AI features.\r\n\r\n1. Prototype: Dynamic Columns let you run LLM prompts, execute code, make API calls, retrieve data, run transformations, and more (in a spreadsheet UI)\r\n\r\n2. Evaluate: Run evaluations within the sheet itself - there are 50+ preset evaluation metrics or you can create your own custom evals (no-code).\r\n\r\n3. Experiment: Change your prompt, model, retriever, or chain in just a few clicks. Technical users can run even more experiments programmatically.\r\n\r\n4. Compare:  Compare any number of datasets side-by-side with a diff view, and run evaluations on all of them simultaneously\r\n\r\n5. Observability: Monitor your LLM features in production with continuous evaluations and granular analytics.\r\n\r\nAthina can be used by non-technical users as well as technical users. This means PMs, QA, Data Scientists, and Engineers can collaborate to build great AI products.\r\n",
-    "one_liner": "Prototype, Experiment & Evaluate AI Pipelines in a Spreadsheet-like UI",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
+    "website": "https://gooseworks.ai/",
+    "all_locations": "",
+    "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
+    "one_liner": "OpenClaw-style AI coworkers for GTM teams",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1667592357,
     "tags": [
-      "AIOps",
       "Artificial Intelligence",
-      "Machine Learning",
-      "AI"
+      "Sales",
+      "Marketing",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13430,19 +13519,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/athina-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/athina-ai.json"
+    "url": "https://www.ycombinator.com/companies/gooseworks",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/gooseworks.json"
   },
   {
     "id": 27852,
@@ -18191,13 +18280,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat is the open source AI automation platform for technical teams. Purpose-built for security, reliability, and internal operations.\r\n\r\nWe provide everything technical builders need to automate work — AI agents, workflows, cases, and over 150 integrations. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies. ",
-    "one_liner": "Automate work with secure AI agents",
+    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds the automations for you. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies.",
+    "one_liner": "Automate any security workflow with AI",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
+      "Security",
       "Open Source",
       "Enterprise",
       "Automation",
@@ -18331,7 +18421,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -18573,51 +18663,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pivot-robotics",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/pivot-robotics.json"
-  },
-  {
-    "id": 29284,
-    "name": "Avery",
-    "slug": "avery",
-    "former_names": [
-      "Starlight Charging",
-      "Avery HQ"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9858815bbd831276cdcb1d662f0a88316f786e6.png",
-    "website": "https://callavery.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager’s toolkit with a two-way contact center to provide an excellent resident experience.",
-    "one_liner": "AI Contact Center for Residential Property Managers",
-    "team_size": 3,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1705435157,
-    "tags": [
-      "Real Estate",
-      "Proptech",
-      "Telecommunications",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avery",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/avery.json"
   },
   {
     "id": 29285,
@@ -25814,7 +25859,7 @@
     "all_locations": "Oakland, CA, USA",
     "long_description": "Careforce builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
     "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
-    "team_size": null,
+    "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1730747199,
@@ -31180,49 +31225,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
   },
   {
-    "id": 30763,
-    "name": "dScribe AI",
-    "slug": "dscribe-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
-    "website": "https://dscribeai.com/",
-    "all_locations": "Olathe, KS, USA",
-    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
-    "one_liner": "Computer vision for bulk inventory tracking",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1752017595,
-    "tags": [
-      "Artificial Intelligence",
-      "Drones",
-      "B2B",
-      "Agriculture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dscribe-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
-  },
-  {
     "id": 30768,
     "name": "Okibi",
     "slug": "okibi",
@@ -33362,6 +33364,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/moss.json"
   },
   {
+    "id": 31010,
+    "name": "Amika",
+    "slug": "amika",
+    "former_names": [
+      "Fixpoint"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a51d3daafd2b7537bb32ea9c3d6bcfa96ba62a1.png",
+    "website": "https://www.amika.dev/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Amika is infra to build your software factory.\r\n\r\nWe give your team sandboxed AI coding agents in the cloud: the same infrastructure Ramp, Coinbase, and Stripe built in-house. Kick off work from a web UI, CLI, Slack, or API. Use your preferred coding agent (Claude Code, Codex, etc.). Each agent understands your codebase, runs autonomously, and ships real PRs with live previews of the apps it changed. Use it as your daily driver or plug it into your own code-gen pipeline via API.",
+    "one_liner": "Infra to build your own software factory",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1759722442,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amika",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json"
+  },
+  {
     "id": 31011,
     "name": "Openroll",
     "slug": "openroll",
@@ -33692,49 +33738,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucent",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
-  },
-  {
-    "id": 31094,
-    "name": "Lexius",
-    "slug": "lexius",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f713f0f123c886d7ce59127e88d9c062f767183.png",
-    "website": "https://www.lexius.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lexius turns any corporate security camera into an AI security guard that detects, documents, alerts and archives incidents such as shoplifting and slip-n-fall incidents.\r\n\r\nLexius is the AI layer for existing security cameras. No rip and replace. No new hardware. No expensive upgrades.\r\n\r\nThink of it as a security guard that never misses a moment.",
-    "one_liner": "AI for Corporate Security Cameras",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1766833804,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Computer Vision",
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lexius",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
   },
   {
     "id": 31101,
@@ -34821,6 +34824,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/samora-ai.json"
   },
   {
+    "id": 31210,
+    "name": "Mendral",
+    "slug": "mendral",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb8ab79d58a9a62e857747309cac10d5d41fbb2.png",
+    "website": "https://mendral.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mendral is an AI DevOps Engineer that observes, diagnoses, acts, and learns continuously. It autonomously handles CI failures, flaky tests, slow builds, broken releases, and code reviews, improving with every build and run. Over time, Mendral evolves into a self-improving delivery system that manages performance, quality, security, and compliance, all without manual intervention.",
+    "one_liner": "AI DevOps Engineer",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1769123342,
+    "tags": [
+      "Developer Tools",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mendral",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mendral.json"
+  },
+  {
     "id": 31217,
     "name": "Polymath",
     "slug": "polymath",
@@ -35289,134 +35334,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
   },
   {
-    "id": 31275,
-    "name": "Polymorph",
-    "slug": "polymorph",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af2182548989fa235c8008d9a0adbb85f447cb83.png",
-    "website": "https://usepolymorph.com/",
-    "all_locations": "",
-    "long_description": "we help consumer and self-serve apps build living profiles of every user to help increase their engagement. \r\n\r\ncurrently, we send personalized messaging at the right time and channel, but we want to expand this infrastructure to every surface. \r\n\r\nwe already support over 3.5M users across our customers, we already see 3.6x increases in conversion rates after using Polymorph.\r\n\r\nyour users are unique and special, make them feel like it~\r\n\r\nour team has extensive experience in the space having been in senior engineering leadership at Meta Ads, building out large-scale ML infrastructure at Scale AI, and iterating quickly and securely at startups like Gusto, Opal, and Nira.",
-    "one_liner": "Personalization infrastructure to increase engagement",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771290879,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polymorph",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymorph.json"
-  },
-  {
-    "id": 31292,
-    "name": "Aurorin CAD",
-    "slug": "aurorin-cad",
-    "former_names": [
-      "Rapid CAD",
-      "Aurorin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f33a496f7311dedfd5027e589663789820e95b21.png",
-    "website": "https://aurorincad.com",
-    "all_locations": "",
-    "long_description": "There are 2 problems:\r\n\r\nThe first, CAD software is slow and the second, designing with it is a tedious process with many steps. Aurorin solves both of these problems by being a CAD software built from the ground up on a modern tech stack with AI at its heart.\r\n\r\nBuilding the CAD kernel lets us fully leverage AI while modernizing execution speed. Almost all existing CAD software (Solidworks, NX, Creo, Catia, Fusion 360, Onshape etc) use the same couple of underlying CAD kernels built in the 80's. It's common for these programs to take 4 hours to open a file.\r\n\r\nAurorin uses a custom parametric and B-Rep driven CAD Kernel built to take full advantage of modern CPUs and GPUs and be AI native.",
-    "one_liner": "Claude code for Mechanical Engineers",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1769109612,
-    "tags": [
-      "Hardware",
-      "Robotics",
-      "3D Printing",
-      "Aerospace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aurorin-cad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/aurorin-cad.json"
-  },
-  {
-    "id": 31300,
-    "name": "Shofo",
-    "slug": "shofo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
-    "website": "https://shofo.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions with no scene changes, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
-    "one_liner": "The World's Largest Video Library",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768432806,
-    "tags": [
-      "Video",
-      "Data Labeling",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shofo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
-  },
-  {
     "id": 31311,
     "name": "Cardinal",
     "slug": "trycardinal-ai",
@@ -35497,46 +35414,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
-  },
-  {
-    "id": 31333,
-    "name": "Gikl, Inc",
-    "slug": "gikl-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
-    "website": "https://scienceswarm.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiast. We believe AI's biggest impact won't be personal productivity — it will be unlocking scientific breakthroughs. We're disrupting the approach to research.",
-    "one_liner": "Accelerating scientific discovery with AI",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1773359306,
-    "tags": [
-      "Swarm AI",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gikl-inc",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
   },
   {
     "id": 31345,
@@ -35917,48 +35794,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
-  },
-  {
-    "id": 31550,
-    "name": "Playabl.ai",
-    "slug": "playablai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
-    "website": "https://playabl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Playabl.ai is an AI game builder that lets anyone create games and interactive experiences by chatting with AI.",
-    "one_liner": "Prompt-to-play AI game builder for everyone",
-    "team_size": 9,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1773783180,
-    "tags": [
-      "B2B",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/playablai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
   }
 ]
