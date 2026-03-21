@@ -3908,7 +3908,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10564,13 +10564,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
     "website": "https://theseus.us",
     "all_locations": "",
-    "long_description": "We're building a Micro Visual Positioning System (VPS) that can be retrofit onto any drone that simulates a GPS. Our VPS uses cameras and an accelerometer/gyroscope as well as reference satellite imagery for positioning. The system is entirely self contained, can't be jammed and has no RF signature. ",
+    "long_description": "Theseus builds visual navigation software for GPS-denied drone operations. Using onboard cameras, inertial sensors, and satellite reference imagery, our system computes position fixes entirely passively. The system is entirely self contained, can't be jammed and has no RF signature.",
     "one_liner": "GPS Denied Navigation for Drones",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
     "launched_at": 1725406335,
     "tags": [
+      "Robotics",
       "Drones"
     ],
     "tags_highlighted": [],
@@ -13929,7 +13930,7 @@
     "website": "https://generalastro.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Robots for microgravity research and manufacturing.",
-    "one_liner": "The Space Robotics Company",
+    "one_liner": "Robotics for Space R&D",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -14463,17 +14464,12 @@
     "website": "https://www.tryoctapulse.com/",
     "all_locations": "",
     "long_description": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry.\r\n\r\nAquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle.\r\n\r\n We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.\r\n",
-    "one_liner": "Robotics and computer vision to automate fish farming from hatchery…",
+    "one_liner": "CV and robotics to automate quality inspection in fish farms",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1766417530,
-    "tags": [
-      "Robotics",
-      "Computer Vision",
-      "Food Tech",
-      "Maritime"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -14910,20 +14906,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
     "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
+    "all_locations": "",
     "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
     "one_liner": "Simple and rapidly deployed robots for industry work",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1769385653,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Logistics",
-      "Manufacturing",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -14935,8 +14925,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Netherlands",
-      "Europe"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

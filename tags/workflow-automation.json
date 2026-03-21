@@ -475,7 +475,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2626,50 +2626,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
   },
   {
-    "id": 30765,
-    "name": "Pollen",
-    "slug": "pollen",
-    "former_names": [
-      "Daymi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
-    "website": "https://www.pollen.cx/",
-    "all_locations": "",
-    "long_description": "Pollen is building AI agents that automate customer success for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
-    "one_liner": "AI Agents That Automate Customer Success for Founders",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1754592638,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Customer Success",
-      "Customer Service"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pollen",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
-  },
-  {
     "id": 30778,
     "name": "Perspectives Health",
     "slug": "perspectives-health",
@@ -3231,48 +3187,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/o11",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
-  },
-  {
-    "id": 31278,
-    "name": "Zymbly",
-    "slug": "zymbly",
-    "former_names": [
-      "Zymbly AI",
-      "Zymbly",
-      "Zymbly AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15c98b3bf7b3907fd2d08caff7a209dd0bc20fd3.png",
-    "website": "https://www.zymbly.com",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Automates admin for aircraft technicians",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768869245,
-    "tags": [
-      "AIOps",
-      "Workflow Automation",
-      "Transportation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zymbly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/zymbly.json"
   }
 ]

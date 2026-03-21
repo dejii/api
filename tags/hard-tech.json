@@ -3980,7 +3980,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
     "website": "https://rev1.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
+    "long_description": "REV1 is Claude code for mechanical engineers, starting with automating the process of turning 3D designs into 2D manufacturing drawings – which is more than 25% of all of what a mechanical engineer does - our software does it in minutes. \r\nCompressing hours of work into minutes while delivering consistent, higher quality results.",
     "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 2,
     "industry": "B2B",
@@ -4014,52 +4014,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rev1",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/rev1.json"
-  },
-  {
-    "id": 31114,
-    "name": "Piris Labs",
-    "slug": "pirislabs",
-    "former_names": [
-      "Piris Inc.",
-      "Pirislabs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
-    "website": "https://pirislabs.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
-    "one_liner": "Cerebras-speed inference but scalable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770857008,
-    "tags": [
-      "Hard Tech",
-      "B2B",
-      "Cloud Computing",
-      "AI",
-      "Networks"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pirislabs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
   },
   {
     "id": 31193,

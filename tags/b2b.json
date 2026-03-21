@@ -11359,7 +11359,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15829,7 +15829,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33717,8 +33717,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c020e28a863a34018b960ce006440e0884dffd.png",
     "website": "https://rocketeer.build",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Rails and interfaces on top of Claude Code and Codex for common GTM flows - table views, company views, person views, enrichment, ranking, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
-    "one_liner": "Run a team of GTM agents from your laptop",
+    "long_description": "Run a team of GTM agents from your laptop. Rails and interfaces on top of Claude Code and Codex for common GTM engineering flows - table views, company views, person views, enrichment, ranking, outbound campaigns, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
+    "one_liner": "Claude Code for GTM",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -40607,14 +40607,14 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1728361776,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -44720,10 +44720,10 @@
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44888,15 +44888,15 @@
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
-    "one_liner": "Vulnerability Management for Human Risk ",
+    "one_liner": "Vulnerability Management for the Human Layer ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45438,50 +45438,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reacher",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
-  },
-  {
-    "id": 30765,
-    "name": "Pollen",
-    "slug": "pollen",
-    "former_names": [
-      "Daymi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
-    "website": "https://www.pollen.cx/",
-    "all_locations": "",
-    "long_description": "Pollen is building AI agents that automate customer success for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
-    "one_liner": "AI Agents That Automate Customer Success for Founders",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1754592638,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Customer Success",
-      "Customer Service"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pollen",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
   },
   {
     "id": 30768,
@@ -47254,49 +47210,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/openroll.json"
   },
   {
-    "id": 31016,
-    "name": "Crosslayer Labs",
-    "slug": "crosslayer-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d04232f7799c42a8a176b06d7c366c511a6cab7.png",
-    "website": "https://www.crosslayerlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Crosslayer Labs detects impersonation attacks on websites and APIs. We provide \"outside-in\" monitoring of customer infrastructure, comprehensively discovering and monitoring all Internet dependencies, including DNS, BGP, TLS certs, Javascript. We correlate signals from different layers of the Internet stack to identify attack patterns. Our alerts are actionable and contain root cause analysis/remediation recommendations. Our founding team is world renowned for previously inventing the MPIC standard adopted by all the major CAs including Google, Apple, Amazon. The MPIC standard is securing over 700 million websites via the issuance of over 3 billion digital certificates, and is now a global internet standard that protects every single HTTPS connection.",
-    "one_liner": "Protect, monitor and defend your Internet presence",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1770673305,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/crosslayer-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/crosslayer-labs.json"
-  },
-  {
     "id": 31018,
     "name": "item",
     "slug": "item",
@@ -47428,46 +47341,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
   },
   {
-    "id": 31058,
-    "name": "Eos AI",
-    "slug": "eos-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
-    "website": "https://www.helloeos.ai/",
-    "all_locations": "",
-    "long_description": "Eos helps clinics turn their data into actionable insights to identify more eligible patients and early care interventions.\r\n\r\nWe harmonize historical data across all systems to create standardized patient data distributions, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of raw data stay where it is while allowing us to search and reason across it as one system.\r\n\r\nInstead of treating the visit or document as an isolated instance, we can look at it as a continuous story. We can predict how a case will resolve, trigger the required approvals and actions, and do so while reducing staff workload and recovering hospital revenue.",
-    "one_liner": "Autonomous OS for healthcare",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1772312996,
-    "tags": [
-      "B2B",
-      "Healthcare",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/eos-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/eos-ai.json"
-  },
-  {
     "id": 31087,
     "name": "Lucent",
     "slug": "lucent",
@@ -47550,51 +47423,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sentrial",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
-  },
-  {
-    "id": 31101,
-    "name": "LegalOS",
-    "slug": "legalos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfdd01c1d2dde8d7cec7f0d61a5c75e8551e254d.png",
-    "website": "https://www.legalos.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "LegalOS is an AI-native immigration law firm that combines cutting-edge technology with 40+ years of legal expertise.\r\n\r\nWe’ve studied 12,000 successful petitions to design our process - which allows us to deliver top-quality visa applications in as quickly as 48 hours. Our specialized AI agents draft petition narratives, compile evidence, and anticipate USCIS objections - work that traditionally takes attorneys weeks, if not months.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience, so companies get both speed and reliability. We support O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions.\r\n\r\nOur unique approach works. We’ve filed dozens of visa applications and have a 100% approval rate so far.\r\n\r\nThe U.S. processes 1M+ work visas annually—a market where incumbents still operate on fax machines, email, and 1990s case management software. We're building the modern immigration law firm.",
-    "one_liner": "The AI-Native Immigration Law Firm",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1765500266,
-    "tags": [
-      "B2B",
-      "Legal",
-      "HR Tech",
-      "Immigration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/legalos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
   },
   {
     "id": 31110,
@@ -47682,52 +47510,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
   },
   {
-    "id": 31114,
-    "name": "Piris Labs",
-    "slug": "pirislabs",
-    "former_names": [
-      "Piris Inc.",
-      "Pirislabs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
-    "website": "https://pirislabs.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
-    "one_liner": "Cerebras-speed inference but scalable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770857008,
-    "tags": [
-      "Hard Tech",
-      "B2B",
-      "Cloud Computing",
-      "AI",
-      "Networks"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pirislabs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
-  },
-  {
     "id": 31116,
     "name": "OpenSpec",
     "slug": "openspec",
@@ -47794,11 +47576,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47996,45 +47778,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json"
   },
   {
-    "id": 31138,
-    "name": "Aemon",
-    "slug": "aemon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3865c0d771194942bdee5eff869a97c2df94f0c.png",
-    "website": "https://aemon.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aemon is the first autonomous research engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
-    "one_liner": "The Forward-Deployed AI Research Engineer ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1772053698,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aemon",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/aemon.json"
-  },
-  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -48205,48 +47948,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compresr",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
-  },
-  {
-    "id": 31170,
-    "name": "Cajal",
-    "slug": "cajal-technologies",
-    "former_names": [
-      "Cajal Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff369359daa357b54e6a4db92f80988a4ca84392.png",
-    "website": "https://caj.al/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cajal (YC W26) is massively scaling formal verification to accelerate scientific discovery. We deploy superhuman AI mathematicians to high-impact applied domains, starting with quantum computing and finance.\r\n\r\nWe do this with Lean - a framework that allows us to formally verify any mathematical statement, grounding AI in truth and validating the tools discovered by our systems.",
-    "one_liner": "Scaling formal verification to accelerate scientific discovery",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771892744,
-    "tags": [
-      "B2B",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cajal-technologies",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cajal-technologies.json"
   },
   {
     "id": 31185,
@@ -48547,50 +48248,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/polymath.json"
   },
   {
-    "id": 31223,
-    "name": "Arzule",
-    "slug": "arzule",
-    "former_names": [
-      "Flow AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
-    "website": "https://www.arzule.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic regression models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond attribution, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
-    "one_liner": "Gong for ecosystem driven growth",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767154035,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzule",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
-  },
-  {
     "id": 31230,
     "name": "o11",
     "slug": "o11",
@@ -48763,48 +48420,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/the-token-company",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
-  },
-  {
-    "id": 31264,
-    "name": "Vela",
-    "slug": "vela",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
-    "website": "https://tryvela.ai/ps",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building Vela, the AI scheduling assistant for the most complex interactions. Everyone assumes scheduling is a calendaring problem. It's not. It's a human nuance problem: knowing who to prioritize, how hard to push, and which dynamics to navigate. Vela understands these nuances, and every interaction deepens that understanding.\r\n\r\nInstead of manually calling, texting, and emailing hundreds of candidates across spreadsheets, today teams connect their system of record to Vela and it handles outreach, scheduling, and confirmation automatically with the nuances of industries and teams built in.\r\n\r\nGobhanu and Saatvik are brothers who scaled a microfinance bank to 77 countries as kids. We previously built at AWS ML + SuperCompute and BCG AI.",
-    "one_liner": " AI Scheduling for the Most Complex Interactions",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770142827,
-    "tags": [
-      "B2B",
-      "Recruiting",
-      "Calendar",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vela",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
   },
   {
     "id": 31303,
@@ -49013,19 +48628,19 @@
     "name": "Callab AI",
     "slug": "callab-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e2860bae46dfe3b67a712425ca6e62a357822ec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
     "website": "https://callab.ai",
     "all_locations": "",
     "long_description": "Callab AI is an AI voice agent platform purpose-built to plug into the most complex telephony environments - from legacy CUCM and SIP trunk infrastructures to modern cloud contact centers. \r\n\r\nRather than requiring greenfield deployments, Callab AI integrates natively with existing PBX systems, IVR flows, and carrier-grade SIP endpoints, fitting seamlessly within the regulatory and technical constraints of enterprise telecom stacks.",
-    "one_liner": "AI-voice agents for contact centers",
+    "one_liner": "AI-voice agents for any telephony stack.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773416869,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Call Center",
-      "AI"
+      "Call Center"
     ],
     "tags_highlighted": [],
     "top_company": false,

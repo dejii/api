@@ -1,5 +1,49 @@
 [
   {
+    "id": 31063,
+    "name": "Clara",
+    "slug": "clara-2",
+    "former_names": [
+      "Clara Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
+    "website": "http://askclara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+    "one_liner": "AI primary care doctor",
+    "team_size": 9,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1774031425,
+    "tags": [
+      "Telehealth",
+      "Healthcare",
+      "Telemedicine",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clara-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
+  },
+  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -259,15 +303,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
     "website": "https://scienceswarm.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiasts. We believe AI's biggest impact won't be personal productivity — it will be unlocking scientific breakthroughs. We're disrupting the approach to research.",
+    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiasts. AI's biggest impact won't be personal productivity. It will be unlocking scientific breakthroughs that humans alone can't reach.",
     "one_liner": "Accelerating scientific discovery with AI",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1773359306,
     "tags": [
-      "Artificial Intelligence",
       "Swarm AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -716,19 +760,19 @@
     "name": "Callab AI",
     "slug": "callab-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e2860bae46dfe3b67a712425ca6e62a357822ec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
     "website": "https://callab.ai",
     "all_locations": "",
     "long_description": "Callab AI is an AI voice agent platform purpose-built to plug into the most complex telephony environments - from legacy CUCM and SIP trunk infrastructures to modern cloud contact centers. \r\n\r\nRather than requiring greenfield deployments, Callab AI integrates natively with existing PBX systems, IVR flows, and carrier-grade SIP endpoints, fitting seamlessly within the regulatory and technical constraints of enterprise telecom stacks.",
-    "one_liner": "AI-voice agents for contact centers",
+    "one_liner": "AI-voice agents for any telephony stack.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1773416869,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Call Center",
-      "AI"
+      "Call Center"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -751,6 +795,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callab-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
+  },
+  {
+    "id": 31420,
+    "name": "Kimpton AI",
+    "slug": "kimpton-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/472bbf99a385182b4cadc467c7e537399ce04100.png",
+    "website": "https://kimpton.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Kimpton is an AI-native investment research platform built by ex-quant fund operators. \r\n\r\nInstead of analysts staring at screens hunting for edge, Kimpton's system is a comprehensive agentic harness containing the context that matters to investors: real-time and historical data across 120,000+ assets, company fundamentals fragmented intelligence sources, and your actual portfolio from 2,500+ brokerages. \r\n\r\nIt conducts the research autonomously: visualizing, backtesting, forecasting with prediction markets, and proposing structured trades tailored to your thesis and risk profile. \r\n\r\nBuilt by former hedge fund operators who spent years building this stack for themselves, Kimpton makes the CIO role accessible to every investor. Humans make the decisions. AI does everything else.",
+    "one_liner": "The IDE for investors",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1774039716,
+    "tags": [
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kimpton-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton-ai.json"
   },
   {
     "id": 31421,

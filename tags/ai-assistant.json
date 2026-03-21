@@ -804,16 +804,16 @@
     "website": "https://avocadopos.com",
     "all_locations": "Austin, TX, USA",
     "long_description": "Avocado is a modern point-of-sale system for restaurants, powered by a built-in AI agent. More than just a POS, Avocado combines order management, KDS, kiosks, and online ordering in one platform - and lets restaurants control everything with simple voice or text commands. Want to change your menu, check your sales, or optimize pricing? Just ask. Avocado’s AI understands your business and takes action instantly, freeing up owners and staff to focus on what matters most: great food and service.",
-    "one_liner": "Restaurant POS with built-in AI agent",
+    "one_liner": "AI-Native Restaurant POS",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1614625915,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Generative AI",
       "Restaurant Tech",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5925,50 +5925,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bond.json"
   },
   {
-    "id": 30566,
-    "name": "Rid",
-    "slug": "rid",
-    "former_names": [
-      "Alpha's Game",
-      "Ludus",
-      "Ludus Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1583a51adf24cb86ab18bad935b2c25ef0f2170.png",
-    "website": "https://rid.me",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Rid we're determined to make selling easier than buying. All you have to do is text us what you're selling, and we'll take care of the rest -- researching the product, listing on marketplaces, negotiating with buyers, answering questions, and handling delivery. \r\n\r\nWe all have that thing we've been too lazy to sell. Rid makes it so easy we can't even be lazy. ",
-    "one_liner": "Sell with a text.",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1754272842,
-    "tags": [
-      "Marketplace",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/rid.json"
-  },
-  {
     "id": 30602,
     "name": "Meteor",
     "slug": "meteor",
@@ -6049,50 +6005,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epicenter",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/epicenter.json"
-  },
-  {
-    "id": 30715,
-    "name": "Autumn AI",
-    "slug": "autumn-ai",
-    "former_names": [
-      "Chiral Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
-    "website": "https://autumnai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autumn is building the first real-time signal intelligence platform for GTM teams. We monitor posts, commits, blogs, and announcements, surfacing buying signals the moment they appear. Define your ICP and the signals that matter, and we deliver a condensed, real-time feed filtered by intents.",
-    "one_liner": "Stalk your prospects at scale.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770313792,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Search",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autumn-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/autumn-ai.json"
   },
   {
     "id": 30719,
@@ -7050,7 +6962,7 @@
     "all_locations": "",
     "long_description": "Patientdesk is an AI bookings system that helps healthcare practices make more money. We do this by handling bookings, payments, and insurance to fill up a provider's calendar with high value appointments. ",
     "one_liner": "AI voice agent for patient calls & admin workflows",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1764074488,
@@ -7124,48 +7036,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/caretta.json"
   },
   {
-    "id": 31264,
-    "name": "Vela",
-    "slug": "vela",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
-    "website": "https://tryvela.ai/ps",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building Vela, the AI scheduling assistant for the most complex interactions. Everyone assumes scheduling is a calendaring problem. It's not. It's a human nuance problem: knowing who to prioritize, how hard to push, and which dynamics to navigate. Vela understands these nuances, and every interaction deepens that understanding.\r\n\r\nInstead of manually calling, texting, and emailing hundreds of candidates across spreadsheets, today teams connect their system of record to Vela and it handles outreach, scheduling, and confirmation automatically with the nuances of industries and teams built in.\r\n\r\nGobhanu and Saatvik are brothers who scaled a microfinance bank to 77 countries as kids. We previously built at AWS ML + SuperCompute and BCG AI.",
-    "one_liner": " AI Scheduling for the Most Complex Interactions",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770142827,
-    "tags": [
-      "B2B",
-      "Recruiting",
-      "Calendar",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vela",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
-  },
-  {
     "id": 31333,
     "name": "Gikl, Inc",
     "slug": "gikl-inc",
@@ -7173,15 +7043,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
     "website": "https://scienceswarm.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiasts. We believe AI's biggest impact won't be personal productivity — it will be unlocking scientific breakthroughs. We're disrupting the approach to research.",
+    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiasts. AI's biggest impact won't be personal productivity. It will be unlocking scientific breakthroughs that humans alone can't reach.",
     "one_liner": "Accelerating scientific discovery with AI",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1773359306,
     "tags": [
-      "Artificial Intelligence",
       "Swarm AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

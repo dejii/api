@@ -3202,7 +3202,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
     "website": "https://rev1.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
+    "long_description": "REV1 is Claude code for mechanical engineers, starting with automating the process of turning 3D designs into 2D manufacturing drawings – which is more than 25% of all of what a mechanical engineer does - our software does it in minutes. \r\nCompressing hours of work into minutes while delivering consistent, higher quality results.",
     "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 2,
     "industry": "B2B",
@@ -3319,49 +3319,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/usereframe",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/usereframe.json"
-  },
-  {
-    "id": 31224,
-    "name": "Servo7",
-    "slug": "servo7",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
-    "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
-    "one_liner": "Simple and rapidly deployed robots for industry work",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1769385653,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Logistics",
-      "Manufacturing",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Netherlands",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/servo7",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
   },
   {
     "id": 31294,

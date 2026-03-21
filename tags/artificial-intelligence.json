@@ -6607,7 +6607,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6981,59 +6981,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fountain9",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/fountain9.json"
-  },
-  {
-    "id": 22717,
-    "name": "Avocado",
-    "slug": "avocado",
-    "former_names": [
-      "Instamenu",
-      "Avocado",
-      "Avocado (prev Instamenu)",
-      "Avocado",
-      "Avocado (prev Instamenu)",
-      "Avocado",
-      "Avocado (prev Instamenu)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee598c4bd559ee64f6fb65373d9e54f75eda4260.png",
-    "website": "https://avocadopos.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "Avocado is a modern point-of-sale system for restaurants, powered by a built-in AI agent. More than just a POS, Avocado combines order management, KDS, kiosks, and online ordering in one platform - and lets restaurants control everything with simple voice or text commands. Want to change your menu, check your sales, or optimize pricing? Just ask. Avocado’s AI understands your business and takes action instantly, freeing up owners and staff to focus on what matters most: great food and service.",
-    "one_liner": "Restaurant POS with built-in AI agent",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1614625915,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Generative AI",
-      "Restaurant Tech",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avocado",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/avocado.json"
   },
   {
     "id": 22738,
@@ -18131,53 +18078,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/serra.json"
   },
   {
-    "id": 28882,
-    "name": "Repaint",
-    "slug": "repaint",
-    "former_names": [
-      "AutoEmber",
-      "Repaint",
-      "Vigilant"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a40c666dc622907d8af3f29f4b78c554dba156c9.png",
-    "website": "https://repaint.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Repaint lets you build professional websites by chatting with AI. It interviews you and searches information to plan your website. Then it builds it. You can edit anything through AI chat, and directly publish to a custom domain. It lets non-coders build sites without learning coding or a heavy design tool. Our vision is to make a new type of software creation that's accessible to the masses.",
-    "one_liner": "Build a website by chatting with AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1690825892,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Chatbot",
-      "Design",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/repaint",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json"
-  },
-  {
     "id": 28884,
     "name": "Rocketeer",
     "slug": "rocketeer",
@@ -18191,8 +18091,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c020e28a863a34018b960ce006440e0884dffd.png",
     "website": "https://rocketeer.build",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Rails and interfaces on top of Claude Code and Codex for common GTM flows - table views, company views, person views, enrichment, ranking, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
-    "one_liner": "Run a team of GTM agents from your laptop",
+    "long_description": "Run a team of GTM agents from your laptop. Rails and interfaces on top of Claude Code and Codex for common GTM engineering flows - table views, company views, person views, enrichment, ranking, outbound campaigns, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
+    "one_liner": "Claude Code for GTM",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -25314,7 +25214,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -28692,47 +28592,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/darkgrade.json"
   },
   {
-    "id": 30033,
-    "name": "OpenFunnel",
-    "slug": "openfunnel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
-    "website": "https://openfunnel.dev",
-    "all_locations": "",
-    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
-    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1728361776,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales Enablement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openfunnel",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
-  },
-  {
     "id": 30039,
     "name": "Raycaster",
     "slug": "raycaster",
@@ -31657,6 +31516,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/rebolt.json"
   },
   {
+    "id": 30329,
+    "name": "Opine",
+    "slug": "opine",
+    "former_names": [
+      "Opine",
+      "Waffle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ff33764ca4ba54e5d48b68723ba2f5c5e90324c.png",
+    "website": "https://www.opine.chat",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Talk to 100+ AI personas about relationships, health, career, and more",
+    "one_liner": "Opinionated AI",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1740162817,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opine",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/opine.json"
+  },
+  {
     "id": 30339,
     "name": "Ergo",
     "slug": "ergo",
@@ -33737,6 +33638,53 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/autonomous-technologies-group.json"
   },
   {
+    "id": 30592,
+    "name": "Prox",
+    "slug": "prox",
+    "former_names": [
+      "DART",
+      "Stealth",
+      "Dart Labs",
+      "prox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png",
+    "website": "https://prox.inc",
+    "all_locations": "",
+    "long_description": "Prox is building digital co-workers for 3PLs and fulfillment centers - companies that store, pack, and ship for brands. We automate back-office operations layer that burns billions of labor hours across the industry.\r\n\r\n",
+    "one_liner": "AI-native OS for Customer Experience",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1759337800,
+    "tags": [
+      "Artificial Intelligence",
+      "Customer Success",
+      "E-commerce",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prox",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/prox.json"
+  },
+  {
     "id": 30602,
     "name": "Meteor",
     "slug": "meteor",
@@ -34630,6 +34578,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/slashy.json"
   },
   {
+    "id": 30671,
+    "name": "AgentHub",
+    "slug": "agenthub-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
+    "website": "https://www.agenthublabs.com",
+    "all_locations": "",
+    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
+    "one_liner": "The simulation and evaluation engine for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753389326,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agenthub-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
+  },
+  {
     "id": 30676,
     "name": "Stellon Labs",
     "slug": "stellon-labs",
@@ -34841,47 +34829,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
-    "id": 30696,
-    "name": "GhostEye",
-    "slug": "ghosteye",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
-    "website": "https://ghosteye.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
-    "one_liner": "Vulnerability Management for Human Risk ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1753230986,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ghosteye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
-  },
-  {
     "id": 30697,
     "name": "Normal",
     "slug": "normal",
@@ -35046,6 +34993,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
   },
   {
+    "id": 30703,
+    "name": "GoRiff",
+    "slug": "goriff",
+    "former_names": [
+      "Riff"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
+    "website": "https://goriff.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Personalized digital greetings cards and gifts for your loved ones. ",
+    "one_liner": "Personalized AI Stories with Music",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1752283172,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Music"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/goriff",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/goriff.json"
+  },
+  {
     "id": 30707,
     "name": "Phases",
     "slug": "phases",
@@ -35127,50 +35116,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relling",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/relling.json"
-  },
-  {
-    "id": 30715,
-    "name": "Autumn AI",
-    "slug": "autumn-ai",
-    "former_names": [
-      "Chiral Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
-    "website": "https://autumnai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autumn is building the first real-time signal intelligence platform for GTM teams. We monitor posts, commits, blogs, and announcements, surfacing buying signals the moment they appear. Define your ICP and the signals that matter, and we deliver a condensed, real-time feed filtered by intents.",
-    "one_liner": "Stalk your prospects at scale.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770313792,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Search",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autumn-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/autumn-ai.json"
   },
   {
     "id": 30716,
@@ -35772,50 +35717,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/rebulk.json"
   },
   {
-    "id": 30765,
-    "name": "Pollen",
-    "slug": "pollen",
-    "former_names": [
-      "Daymi"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0773674b66df3e340de671d0a00eeaa6701eeca.png",
-    "website": "https://www.pollen.cx/",
-    "all_locations": "",
-    "long_description": "Pollen is building AI agents that automate customer success for founders. Pollen monitors every customer account to detect back-tested churn and upsell signals by connecting to your communications, support tickets, product usage, and CRM. Then, Pollen tells your team exactly which accounts need attention today and what to do next.",
-    "one_liner": "AI Agents That Automate Customer Success for Founders",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1754592638,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Customer Success",
-      "Customer Service"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pollen",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pollen.json"
-  },
-  {
     "id": 30770,
     "name": "Button Computer",
     "slug": "button-computer",
@@ -35900,6 +35801,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stagewise",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
+  },
+  {
+    "id": 30775,
+    "name": "Fleetline",
+    "slug": "fleetline",
+    "former_names": [
+      "Axel AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8008d7d50f1ead47eae177bcede0c9d614312ad4.png",
+    "website": "https://fleetline.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
+    "one_liner": "Optimizing fleet planning with data driven algorithms",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1754335865,
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics",
+      "Supply Chain",
+      "Data Science"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fleetline",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/fleetline.json"
   },
   {
     "id": 30782,
@@ -38610,6 +38555,58 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/openspec.json"
   },
   {
+    "id": 31123,
+    "name": "21st",
+    "slug": "21st",
+    "former_names": [
+      "21st",
+      "1code by 21st.dev",
+      "1code (21st.dev)",
+      "1code (ex: 21st.dev)",
+      "1code (21st.dev)",
+      "21st.dev"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
+    "website": "https://21st.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "21st.dev is the largest React component registry for AI applications, used by 1.4M developers (200K MAU).\r\nWe provide the building blocks to create AI agents and agent-powered apps: UI components, agent templates, and an SDK with built-in UI, tools, memory, observability, and managed infrastructure.",
+    "one_liner": "Infrastructure and UI building blocks for the agentic internet",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1765422527,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/21st",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
+  },
+  {
     "id": 31132,
     "name": "MouseCat",
     "slug": "mousecat",
@@ -38651,88 +38648,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mousecat",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mousecat.json"
-  },
-  {
-    "id": 31138,
-    "name": "Aemon",
-    "slug": "aemon",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3865c0d771194942bdee5eff869a97c2df94f0c.png",
-    "website": "https://aemon.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aemon is the first autonomous research engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
-    "one_liner": "The Forward-Deployed AI Research Engineer ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1772053698,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aemon",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/aemon.json"
-  },
-  {
-    "id": 31139,
-    "name": "Ashr",
-    "slug": "ashr",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
-    "website": "https://ashr.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ashr is a fully contained test and evals platform that improves AI agents by ensuring accuracy and quality across a wide range of user journeys through your product.\r\n\r\nAshr generates user journeys through your agents’ tool calls, results, and questions. We don’t generate one off tests, we generate large amounts of authentic user stories through your product, and pick up on errors, inconsistencies, and failures that would otherwise take hours of manual testing or get caught by a customer. We also work to ensure agent response quality in line with your business goals by offering custom evaluation metrics.\r\n\r\nAshr works with voice, text, automated website generation, image, file generation, and multimodal. We’re also willing to generate custom input types or make modifications for anyone interested. Currently, we integrate as an SDK, and are proactively working to make our documentation and resources as accessible and easy to use as possible.",
-    "one_liner": "Automated Multi-Modal Testing for Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1771535371,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "Data Engineering",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ashr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ashr.json"
   },
   {
     "id": 31140,
@@ -39586,93 +39501,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   },
   {
-    "id": 31223,
-    "name": "Arzule",
-    "slug": "arzule",
-    "former_names": [
-      "Flow AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
-    "website": "https://www.arzule.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic regression models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond attribution, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
-    "one_liner": "Gong for ecosystem driven growth",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767154035,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzule",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
-  },
-  {
-    "id": 31224,
-    "name": "Servo7",
-    "slug": "servo7",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
-    "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
-    "one_liner": "Simple and rapidly deployed robots for industry work",
-    "team_size": null,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1769385653,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Logistics",
-      "Manufacturing",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Netherlands",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/servo7",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/servo7.json"
-  },
-  {
     "id": 31230,
     "name": "o11",
     "slug": "o11",
@@ -39966,46 +39794,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/korso.json"
   },
   {
-    "id": 31333,
-    "name": "Gikl, Inc",
-    "slug": "gikl-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
-    "website": "https://scienceswarm.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiasts. We believe AI's biggest impact won't be personal productivity — it will be unlocking scientific breakthroughs. We're disrupting the approach to research.",
-    "one_liner": "Accelerating scientific discovery with AI",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1773359306,
-    "tags": [
-      "Artificial Intelligence",
-      "Swarm AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gikl-inc",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
-  },
-  {
     "id": 31362,
     "name": "matforge",
     "slug": "matforge",
@@ -40217,6 +40005,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/standout",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/standout.json"
+  },
+  {
+    "id": 31416,
+    "name": "Callab AI",
+    "slug": "callab-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
+    "website": "https://callab.ai",
+    "all_locations": "",
+    "long_description": "Callab AI is an AI voice agent platform purpose-built to plug into the most complex telephony environments - from legacy CUCM and SIP trunk infrastructures to modern cloud contact centers. \r\n\r\nRather than requiring greenfield deployments, Callab AI integrates natively with existing PBX systems, IVR flows, and carrier-grade SIP endpoints, fitting seamlessly within the regulatory and technical constraints of enterprise telecom stacks.",
+    "one_liner": "AI-voice agents for any telephony stack.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773416869,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Call Center"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/callab-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
   },
   {
     "id": 31511,

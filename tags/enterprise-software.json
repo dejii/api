@@ -4420,7 +4420,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
     "website": "https://rev1.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
+    "long_description": "REV1 is Claude code for mechanical engineers, starting with automating the process of turning 3D designs into 2D manufacturing drawings – which is more than 25% of all of what a mechanical engineer does - our software does it in minutes. \r\nCompressing hours of work into minutes while delivering consistent, higher quality results.",
     "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 2,
     "industry": "B2B",
@@ -4454,51 +4454,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rev1",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/rev1.json"
-  },
-  {
-    "id": 31121,
-    "name": "Avoice",
-    "slug": "avoice",
-    "former_names": [
-      "AVoice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png",
-    "website": "https://avoice.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Avoice is an AI-native workspace for architecture firms that automates the non-design work that takes time away from design. The platform uses AI agents that understand drawings, specifications, schedules, materials, codes, and research. Today, firms using Avoice manage over $300M in active projects on the platform.\r\n\r\nArchitecture is a massive market ($300B+) but a deeply underserved one: highly fragmented, dominated by small firms, and reliant on legacy tools that require heavy customization. AI creates a unique opportunity to deliver firm-specific automation at scale, and Avoice brings these workflows into become the operating system for architectural practice.",
-    "one_liner": "Harvey for Architecture",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1763995110,
-    "tags": [
-      "Construction",
-      "Enterprise Software",
-      "Architecture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avoice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
   },
   {
     "id": 31164,

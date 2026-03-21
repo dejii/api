@@ -4980,6 +4980,59 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/flux-auto.json"
   },
   {
+    "id": 22717,
+    "name": "Avocado",
+    "slug": "avocado",
+    "former_names": [
+      "Instamenu",
+      "Avocado",
+      "Avocado (prev Instamenu)",
+      "Avocado",
+      "Avocado (prev Instamenu)",
+      "Avocado",
+      "Avocado (prev Instamenu)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee598c4bd559ee64f6fb65373d9e54f75eda4260.png",
+    "website": "https://avocadopos.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Avocado is a modern point-of-sale system for restaurants, powered by a built-in AI agent. More than just a POS, Avocado combines order management, KDS, kiosks, and online ordering in one platform - and lets restaurants control everything with simple voice or text commands. Want to change your menu, check your sales, or optimize pricing? Just ask. Avocado’s AI understands your business and takes action instantly, freeing up owners and staff to focus on what matters most: great food and service.",
+    "one_liner": "AI-Native Restaurant POS",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1614625915,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "Restaurant Tech",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avocado",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/avocado.json"
+  },
+  {
     "id": 22738,
     "name": "Pragmatic Leaders (Ankai Inc)",
     "slug": "pragmatic-leaders-ankai-inc",
@@ -9639,7 +9692,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16092,6 +16145,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/fleetworks.json"
   },
   {
+    "id": 28882,
+    "name": "Repaint",
+    "slug": "repaint",
+    "former_names": [
+      "AutoEmber",
+      "Repaint",
+      "Vigilant"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a40c666dc622907d8af3f29f4b78c554dba156c9.png",
+    "website": "https://repaint.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Repaint lets you build professional websites by chatting with AI. It interviews you, researches you online, and generates a custom websites. Then you can edit anything by asking the AI. Our vision is to merge traditional website builders with AI coding tools, creating a new way for anyone to make more advanced software.",
+    "one_liner": "Build a website by chatting with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1690825892,
+    "tags": [
+      "SaaS",
+      "Chatbot",
+      "Design",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/repaint",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json"
+  },
+  {
     "id": 28884,
     "name": "Rocketeer",
     "slug": "rocketeer",
@@ -16105,8 +16205,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c020e28a863a34018b960ce006440e0884dffd.png",
     "website": "https://rocketeer.build",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Rails and interfaces on top of Claude Code and Codex for common GTM flows - table views, company views, person views, enrichment, ranking, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
-    "one_liner": "Run a team of GTM agents from your laptop",
+    "long_description": "Run a team of GTM agents from your laptop. Rails and interfaces on top of Claude Code and Codex for common GTM engineering flows - table views, company views, person views, enrichment, ranking, outbound campaigns, sync. Built-in skills for the top data and GTM APIs. All with the full flexibility of Claude Code or Codex still right there.",
+    "one_liner": "Claude Code for GTM",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -24894,6 +24994,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
   },
   {
+    "id": 30033,
+    "name": "OpenFunnel",
+    "slug": "openfunnel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
+    "website": "https://openfunnel.dev",
+    "all_locations": "",
+    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1728361776,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openfunnel",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
+  },
+  {
     "id": 30034,
     "name": "HealthSpark",
     "slug": "healthspark",
@@ -27433,48 +27574,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/roark.json"
   },
   {
-    "id": 30329,
-    "name": "Opine",
-    "slug": "opine",
-    "former_names": [
-      "Opine",
-      "Waffle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ff33764ca4ba54e5d48b68723ba2f5c5e90324c.png",
-    "website": "https://www.opine.chat",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Get advice about career, relationships, health, and more from 100+ AI personas.",
-    "one_liner": "Opinionated AI",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1740162817,
-    "tags": [
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opine",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/opine.json"
-  },
-  {
     "id": 30334,
     "name": "Bluebook",
     "slug": "bluebook",
@@ -29580,26 +29679,25 @@
   },
   {
     "id": 30566,
-    "name": "Rid",
-    "slug": "rid",
+    "name": "Chestnut Forty",
+    "slug": "chestnut-forty",
     "former_names": [
       "Alpha's Game",
       "Ludus",
-      "Ludus Labs"
+      "Ludus Labs",
+      "Rid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1583a51adf24cb86ab18bad935b2c25ef0f2170.png",
-    "website": "https://rid.me",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b50eeaec6516885328ae6b094795e471d93069f5.png",
+    "website": "https://chestnutforty.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Rid we're determined to make selling easier than buying. All you have to do is text us what you're selling, and we'll take care of the rest -- researching the product, listing on marketplaces, negotiating with buyers, answering questions, and handling delivery. \r\n\r\nWe all have that thing we've been too lazy to sell. Rid makes it so easy we can't even be lazy. ",
-    "one_liner": "Sell with a text.",
+    "long_description": "We build forecasting agents for global macro events. ",
+    "one_liner": "The AI forecasting company for global macro events. ",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1754272842,
     "tags": [
-      "Marketplace",
-      "AI",
-      "AI Assistant"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29619,8 +29717,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/rid.json"
+    "url": "https://www.ycombinator.com/companies/chestnut-forty",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/chestnut-forty.json"
   },
   {
     "id": 30569,
@@ -30404,46 +30502,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai.json"
   },
   {
-    "id": 30671,
-    "name": "AgentHub",
-    "slug": "agenthub-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
-    "website": "https://www.agenthublabs.com",
-    "all_locations": "",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
-    "one_liner": "The simulation and evaluation engine for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753389326,
-    "tags": [
-      "Reinforcement Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agenthub-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
-  },
-  {
     "id": 30673,
     "name": "Nexa Labs",
     "slug": "nexa-labs",
@@ -30663,34 +30721,33 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/costream.json"
   },
   {
-    "id": 30703,
-    "name": "GoRiff",
-    "slug": "goriff",
-    "former_names": [
-      "Riff"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
-    "website": "https://goriff.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reimagine gifting with AI Stories and Memories",
-    "one_liner": "AI Stories with Music",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1752283172,
+    "id": 30696,
+    "name": "GhostEye",
+    "slug": "ghosteye",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
+    "website": "https://ghosteye.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
+    "one_liner": "Vulnerability Management for the Human Layer ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1753230986,
     "tags": [
-      "Consumer",
-      "Music",
+      "B2B",
+      "Cybersecurity",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -30701,8 +30758,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/goriff",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/goriff.json"
+    "url": "https://www.ycombinator.com/companies/ghosteye",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
     "id": 30710,
@@ -30939,7 +30996,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -31309,50 +31366,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clodo",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/clodo.json"
-  },
-  {
-    "id": 30775,
-    "name": "Fleetline",
-    "slug": "fleetline",
-    "former_names": [
-      "Axel AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8008d7d50f1ead47eae177bcede0c9d614312ad4.png",
-    "website": "https://fleetline.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
-    "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1754335865,
-    "tags": [
-      "Logistics",
-      "Supply Chain",
-      "Data Science",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fleetline",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/fleetline.json"
   },
   {
     "id": 30792,
@@ -33537,44 +33550,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
   },
   {
-    "id": 31058,
-    "name": "Eos AI",
-    "slug": "eos-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
-    "website": "https://www.helloeos.ai/",
-    "all_locations": "",
-    "long_description": "Eos helps clinics turn their data into actionable insights to identify more eligible patients and early care interventions.\r\n\r\nWe harmonize historical data across all systems to create standardized patient data distributions, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of raw data stay where it is while allowing us to search and reason across it as one system.\r\n\r\nInstead of treating the visit or document as an isolated instance, we can look at it as a continuous story. We can predict how a case will resolve, trigger the required approvals and actions, and do so while reducing staff workload and recovering hospital revenue.",
-    "one_liner": "Autonomous OS for healthcare",
-    "team_size": 2,
+    "id": 31063,
+    "name": "Clara",
+    "slug": "clara-2",
+    "former_names": [
+      "Clara Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
+    "website": "http://askclara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+    "one_liner": "AI primary care doctor",
+    "team_size": 9,
     "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1772312996,
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1774031425,
     "tags": [
-      "B2B",
+      "Telehealth",
       "Healthcare",
-      "Infrastructure",
+      "Telemedicine",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/eos-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/eos-ai.json"
+    "url": "https://www.ycombinator.com/companies/clara-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
   },
   {
     "id": 31077,
@@ -33740,97 +33757,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
   },
   {
-    "id": 31101,
-    "name": "LegalOS",
-    "slug": "legalos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfdd01c1d2dde8d7cec7f0d61a5c75e8551e254d.png",
-    "website": "https://www.legalos.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "LegalOS is an AI-native immigration law firm that combines cutting-edge technology with 40+ years of legal expertise.\r\n\r\nWe’ve studied 12,000 successful petitions to design our process - which allows us to deliver top-quality visa applications in as quickly as 48 hours. Our specialized AI agents draft petition narratives, compile evidence, and anticipate USCIS objections - work that traditionally takes attorneys weeks, if not months.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience, so companies get both speed and reliability. We support O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions.\r\n\r\nOur unique approach works. We’ve filed dozens of visa applications and have a 100% approval rate so far.\r\n\r\nThe U.S. processes 1M+ work visas annually—a market where incumbents still operate on fax machines, email, and 1990s case management software. We're building the modern immigration law firm.",
-    "one_liner": "The AI-Native Immigration Law Firm",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1765500266,
-    "tags": [
-      "B2B",
-      "Legal",
-      "HR Tech",
-      "Immigration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/legalos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
-  },
-  {
-    "id": 31114,
-    "name": "Piris Labs",
-    "slug": "pirislabs",
-    "former_names": [
-      "Piris Inc.",
-      "Pirislabs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
-    "website": "https://pirislabs.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
-    "one_liner": "Cerebras-speed inference but scalable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770857008,
-    "tags": [
-      "Hard Tech",
-      "B2B",
-      "Cloud Computing",
-      "AI",
-      "Networks"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pirislabs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pirislabs.json"
-  },
-  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -33917,103 +33843,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carson",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carson.json"
-  },
-  {
-    "id": 31121,
-    "name": "Avoice",
-    "slug": "avoice",
-    "former_names": [
-      "AVoice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png",
-    "website": "https://avoice.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Avoice is an AI-native workspace for architecture firms that automates the non-design work that takes time away from design. The platform uses AI agents that understand drawings, specifications, schedules, materials, codes, and research. Today, firms using Avoice manage over $300M in active projects on the platform.\r\n\r\nArchitecture is a massive market ($300B+) but a deeply underserved one: highly fragmented, dominated by small firms, and reliant on legacy tools that require heavy customization. AI creates a unique opportunity to deliver firm-specific automation at scale, and Avoice brings these workflows into become the operating system for architectural practice.",
-    "one_liner": "Harvey for Architecture",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1763995110,
-    "tags": [
-      "Construction",
-      "Enterprise Software",
-      "Architecture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avoice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
-  },
-  {
-    "id": 31123,
-    "name": "21st",
-    "slug": "21st",
-    "former_names": [
-      "21st",
-      "1code by 21st.dev",
-      "1code (21st.dev)",
-      "1code (ex: 21st.dev)",
-      "1code (21st.dev)",
-      "21st.dev"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
-    "website": "https://21st.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "21st.dev is the largest React component registry for AI applications, used by 1.4M developers (200K MAU).\r\nWe provide the building blocks to create AI agents and agent-powered apps: UI components, agent templates, and an SDK with built-in UI, tools, memory, observability, and managed infrastructure.",
-    "one_liner": "Infrastructure and UI building blocks for the agentic internet",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1765422527,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Open Source",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/21st",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
     "id": 31127,
@@ -34438,48 +34267,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
   },
   {
-    "id": 31170,
-    "name": "Cajal",
-    "slug": "cajal-technologies",
-    "former_names": [
-      "Cajal Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff369359daa357b54e6a4db92f80988a4ca84392.png",
-    "website": "https://caj.al/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cajal (YC W26) is massively scaling formal verification to accelerate scientific discovery. We deploy superhuman AI mathematicians to high-impact applied domains, starting with quantum computing and finance.\r\n\r\nWe do this with Lean - a framework that allows us to formally verify any mathematical statement, grounding AI in truth and validating the tools discovered by our systems.",
-    "one_liner": "Scaling formal verification to accelerate scientific discovery",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771892744,
-    "tags": [
-      "B2B",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cajal-technologies",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cajal-technologies.json"
-  },
-  {
     "id": 31172,
     "name": "Terminal Use",
     "slug": "terminal-use",
@@ -34824,48 +34611,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/samora-ai.json"
   },
   {
-    "id": 31210,
-    "name": "Mendral",
-    "slug": "mendral",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb8ab79d58a9a62e857747309cac10d5d41fbb2.png",
-    "website": "https://mendral.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mendral is an AI DevOps Engineer that observes, diagnoses, acts, and learns continuously. It autonomously handles CI failures, flaky tests, slow builds, broken releases, and code reviews, improving with every build and run. Over time, Mendral evolves into a self-improving delivery system that manages performance, quality, security, and compliance, all without manual intervention.",
-    "one_liner": "AI DevOps Engineer",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769123342,
-    "tags": [
-      "Developer Tools",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mendral",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mendral.json"
-  },
-  {
     "id": 31217,
     "name": "Polymath",
     "slug": "polymath",
@@ -35075,49 +34820,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
   },
   {
-    "id": 31248,
-    "name": "BeeSafe AI",
-    "slug": "beesafe-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
-    "website": "https://beesafe.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BeeSafe AI is building the frontier model layer for social engineering defense. Cyberattacks have moved from code to conversation: attackers now use AI to carry out long-term, trust-based manipulation across SMS, voice, email, and social platforms, often inside encrypted channels where defenders cannot see, detect, or stop them.\r\n\r\nBeeSafe changes that by deploying undercover AI agents that engage attackers directly, expose hidden infrastructure, and convert live adversarial conversations into actionable intelligence. Each engagement adds to BeeSafe's proprietary dataset of real attacker behavior and trains foundational models that continually learn about counter-persuasion, deception, and manipulation in the wild.\r\n\r\nBeeSafe is starting in financial crime, where banks already value our data against Advanced Push Payment (APP) fraud and money laundering, but the opportunity is far broader. The same data and models that uncover mule networks today can protect consumers, secure enterprises, and strengthen governments against the next generation of AI-powered social engineering attacks tomorrow.",
-    "one_liner": "Stopping Scams Before They Reach Your Customers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1770327115,
-    "tags": [
-      "Security",
-      "Cybersecurity",
-      "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beesafe-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/beesafe-ai.json"
-  },
-  {
     "id": 31250,
     "name": "The Token Company",
     "slug": "the-token-company",
@@ -35206,49 +34908,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },
   {
-    "id": 31260,
-    "name": "Copperlane",
-    "slug": "copperlane",
-    "former_names": [
-      "Sevenfold",
-      "Rhombal",
-      "Coevolved"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
-    "website": "https://www.copperlane.ai",
-    "all_locations": "",
-    "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
-    "one_liner": "AI Mortgage Loan Officer",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1768253497,
-    "tags": [
-      "Fintech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/copperlane",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/copperlane.json"
-  },
-  {
     "id": 31262,
     "name": "Talking Computers",
     "slug": "talking-computers",
@@ -35290,85 +34949,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/talking-computers",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/talking-computers.json"
-  },
-  {
-    "id": 31264,
-    "name": "Vela",
-    "slug": "vela",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
-    "website": "https://tryvela.ai/ps",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building Vela, the AI scheduling assistant for the most complex interactions. Everyone assumes scheduling is a calendaring problem. It's not. It's a human nuance problem: knowing who to prioritize, how hard to push, and which dynamics to navigate. Vela understands these nuances, and every interaction deepens that understanding.\r\n\r\nInstead of manually calling, texting, and emailing hundreds of candidates across spreadsheets, today teams connect their system of record to Vela and it handles outreach, scheduling, and confirmation automatically with the nuances of industries and teams built in.\r\n\r\nGobhanu and Saatvik are brothers who scaled a microfinance bank to 77 countries as kids. We previously built at AWS ML + SuperCompute and BCG AI.",
-    "one_liner": " AI Scheduling for the Most Complex Interactions",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770142827,
-    "tags": [
-      "B2B",
-      "Recruiting",
-      "Calendar",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vela",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/vela.json"
-  },
-  {
-    "id": 31311,
-    "name": "Cardinal",
-    "slug": "trycardinal-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22419d42fabae470d3d3521bb8906e6552b1d0f1.png",
-    "website": "https://trycardinal.ai/",
-    "all_locations": "",
-    "long_description": "Hey YC! We're Devi and Jianna - the founders of Cardinal.\r\n\r\nTL;DR: Cardinal is the AI platform for precision outbound. We run outbound for 40+ YC companies, like Mintlify, Greptile, and Luminai.\r\n\r\nThe Problem\r\n\r\n“Spray and Pray” outbound is dead. The best teams at outbound do it with extreme precision. Finding things in common with your customers, staying in touch with them through their content, mapping inbound from signups and ads, tracking website visitors, monitoring various signals, etc. This sounds great in theory, but in reality involves stringing together 10+ tools and hiring a GTM engineer.\r\n\r\nThat’s where Cardinal comes in.\r\n\r\nCardinal is an AI platform for precision outbound. Our agents can create workflows that normally require the work of fulltime GTM engineers.\r\n\r\nIf you're a founder or sales leader looking to bring AI into your sales org, would love to chat!",
-    "one_liner": "AI Platform for Precision Outbound",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770774164,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trycardinal-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/trycardinal-ai.json"
   },
   {
     "id": 31329,
@@ -35414,6 +34994,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
+  },
+  {
+    "id": 31333,
+    "name": "Gikl, Inc",
+    "slug": "gikl-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/671f22915a13be6fba0e1479fe843328102d944c.png",
+    "website": "https://scienceswarm.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ScienceSwarm makes AI useful for what matters. Coding assistants turned millions of people into software developers — we're doing the same for science. Our platform lets anyone point their AI at unsolved problems in math, science, and engineering, submit approaches and hypotheses, and verify the work with a community of AI-powered enthusiasts. AI's biggest impact won't be personal productivity. It will be unlocking scientific breakthroughs that humans alone can't reach.",
+    "one_liner": "Accelerating scientific discovery with AI",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1773359306,
+    "tags": [
+      "Swarm AI",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gikl-inc",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
   },
   {
     "id": 31345,
@@ -35545,47 +35165,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hubxyz",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
-  },
-  {
-    "id": 31416,
-    "name": "Callab AI",
-    "slug": "callab-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e2860bae46dfe3b67a712425ca6e62a357822ec.png",
-    "website": "https://callab.ai",
-    "all_locations": "",
-    "long_description": "Callab AI is an AI voice agent platform purpose-built to plug into the most complex telephony environments - from legacy CUCM and SIP trunk infrastructures to modern cloud contact centers. \r\n\r\nRather than requiring greenfield deployments, Callab AI integrates natively with existing PBX systems, IVR flows, and carrier-grade SIP endpoints, fitting seamlessly within the regulatory and technical constraints of enterprise telecom stacks.",
-    "one_liner": "AI-voice agents for contact centers",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773416869,
-    "tags": [
-      "B2B",
-      "Call Center",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/callab-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
   },
   {
     "id": 31428,

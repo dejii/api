@@ -2398,7 +2398,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26890,7 +26890,7 @@
     "website": "https://overdrive.health",
     "all_locations": "",
     "long_description": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
-    "one_liner": "AI Powered Medical Billing Services",
+    "one_liner": "AI-Native Medical Billing Services",
     "team_size": 1,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -27236,7 +27236,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -27808,12 +27808,7 @@
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1772312996,
-    "tags": [
-      "B2B",
-      "Healthcare",
-      "Infrastructure",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -27833,6 +27828,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eos-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/eos-ai.json"
+  },
+  {
+    "id": 31063,
+    "name": "Clara",
+    "slug": "clara-2",
+    "former_names": [
+      "Clara Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
+    "website": "http://askclara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+    "one_liner": "AI primary care doctor",
+    "team_size": 9,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1774031425,
+    "tags": [
+      "Telehealth",
+      "Healthcare",
+      "Telemedicine",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clara-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
   },
   {
     "id": 31064,
@@ -27953,7 +27992,7 @@
     "website": "https://strandai.com",
     "all_locations": "",
     "long_description": "Strand AI develops foundation models to generate missing bio-data about patients. With this imputed data, pharmaceutical companies can select better patients for their drug trials and shave months from their drug launch timelines. We’ve already trained a multimodal foundation model that integrates spatial biology modalities, beating SOTA at a fraction of the cost.",
-    "one_liner": "Curated multimodal datasets for biology AI",
+    "one_liner": "Multimodal foundation models that generate missing patient data",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -28215,7 +28254,7 @@
     "all_locations": "",
     "long_description": "Patientdesk is an AI bookings system that helps healthcare practices make more money. We do this by handling bookings, payments, and insurance to fill up a provider's calendar with high value appointments. ",
     "one_liner": "AI voice agent for patient calls & admin workflows",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1764074488,

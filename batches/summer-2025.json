@@ -379,26 +379,25 @@
   },
   {
     "id": 30566,
-    "name": "Rid",
-    "slug": "rid",
+    "name": "Chestnut Forty",
+    "slug": "chestnut-forty",
     "former_names": [
       "Alpha's Game",
       "Ludus",
-      "Ludus Labs"
+      "Ludus Labs",
+      "Rid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1583a51adf24cb86ab18bad935b2c25ef0f2170.png",
-    "website": "https://rid.me",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b50eeaec6516885328ae6b094795e471d93069f5.png",
+    "website": "https://chestnutforty.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Rid we're determined to make selling easier than buying. All you have to do is text us what you're selling, and we'll take care of the rest -- researching the product, listing on marketplaces, negotiating with buyers, answering questions, and handling delivery. \r\n\r\nWe all have that thing we've been too lazy to sell. Rid makes it so easy we can't even be lazy. ",
-    "one_liner": "Sell with a text.",
+    "long_description": "We build forecasting agents for global macro events. ",
+    "one_liner": "The AI forecasting company for global macro events. ",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1754272842,
     "tags": [
-      "Marketplace",
-      "AI",
-      "AI Assistant"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -418,8 +417,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/rid.json"
+    "url": "https://www.ycombinator.com/companies/chestnut-forty",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/chestnut-forty.json"
   },
   {
     "id": 30582,
@@ -824,8 +823,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
     "all_locations": "",
-    "long_description": "TraceRoot.AI is the first open source AI agent that monitors production environments and automatically fixes bugs. It connects to telemetry data like traces, logs, metrics and repo to analyze and auto-resolve bugs.",
-    "one_liner": "Open source AI agents auto-fix your production bugs",
+    "long_description": "TraceRoot is open-source observability and self-healing layer for AI agents. It help engineering teams capture traces, debug with AI and ship with confidence.",
+    "one_liner": "Open source self-healing layer for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2753,10 +2752,10 @@
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3533,15 +3532,15 @@
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
-    "one_liner": "Vulnerability Management for Human Risk ",
+    "one_liner": "Vulnerability Management for the Human Layer ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3775,16 +3774,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
     "website": "https://goriff.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reimagine gifting with AI Stories and Memories",
-    "one_liner": "AI Stories with Music",
+    "long_description": "Personalized digital greetings cards and gifts for your loved ones. ",
+    "one_liner": "Personalized AI Stories with Music",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1752283172,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "Music",
-      "AI"
+      "Music"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4785,7 +4784,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -4867,7 +4866,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -5772,15 +5771,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754335865,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Data Science",
-      "AI"
+      "Data Science"
     ],
     "tags_highlighted": [],
     "top_company": false,

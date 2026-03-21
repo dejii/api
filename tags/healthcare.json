@@ -579,7 +579,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4103,7 +4103,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8699,44 +8699,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
   },
   {
-    "id": 31058,
-    "name": "Eos AI",
-    "slug": "eos-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fd0b037eb6046909b41c644a8cad8e8e5064ea8.png",
-    "website": "https://www.helloeos.ai/",
-    "all_locations": "",
-    "long_description": "Eos helps clinics turn their data into actionable insights to identify more eligible patients and early care interventions.\r\n\r\nWe harmonize historical data across all systems to create standardized patient data distributions, acting like a translation layer between different applications. Then we build a centralized index over it: a compressed representation that lets petabytes of raw data stay where it is while allowing us to search and reason across it as one system.\r\n\r\nInstead of treating the visit or document as an isolated instance, we can look at it as a continuous story. We can predict how a case will resolve, trigger the required approvals and actions, and do so while reducing staff workload and recovering hospital revenue.",
-    "one_liner": "Autonomous OS for healthcare",
-    "team_size": 2,
+    "id": 31063,
+    "name": "Clara",
+    "slug": "clara-2",
+    "former_names": [
+      "Clara Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
+    "website": "http://askclara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+    "one_liner": "AI primary care doctor",
+    "team_size": 9,
     "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1772312996,
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1774031425,
     "tags": [
-      "B2B",
+      "Telehealth",
       "Healthcare",
-      "Infrastructure",
+      "Telemedicine",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
-    "batch": "Winter 2026",
+    "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/eos-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/eos-ai.json"
+    "url": "https://www.ycombinator.com/companies/clara-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
   },
   {
     "id": 31085,
@@ -8819,47 +8823,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tepali",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/tepali.json"
-  },
-  {
-    "id": 31299,
-    "name": "Wayco",
-    "slug": "wayco",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00d9df2c4df7159bbd9cfe29bf68638efb2f8ed3.png",
-    "website": "https://wayco.ai",
-    "all_locations": "",
-    "long_description": "Wayco is building a unified data intelligence layer for medical treatment of legal cases. From the first intake to instant settlement.",
-    "one_liner": "AI operator for medlegal cases",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770576314,
-    "tags": [
-      "Healthcare",
-      "LegalTech",
-      "Insurance",
-      "Call Center"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wayco",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/wayco.json"
   },
   {
     "id": 31445,

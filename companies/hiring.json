@@ -8434,7 +8434,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17014,7 +17014,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25009,7 +25009,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27245,7 +27245,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28557,7 +28557,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29538,7 +29538,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38471,7 +38471,7 @@
     "website": "https://menza.ai/",
     "all_locations": "Remote",
     "long_description": "Menza is the always-on AI data team for fast-growing brands. We connect your Shopify, Klaviyo, ads, and 650+ other tools so anyone on your team can get instant answers, automated reports, and insights they'd never find manually.\r\n\r\nMenza replaces hours of spreadsheet wrangling and dashboard building with automated reporting, plain-English questions, and around-the-clock monitoring that catches revenue leaks and opportunities before you miss them. For insights in minutes, not meetings.\r\n\r\nEvolve Beauty saves 60+ hours per month on reporting and found £18k in misattributed revenue hiding in their GA4 setup. yhangry made 90% of their team data-driven without writing a single line of SQL, scaling their US expansion with a lean team. The Keto Shop found 10% of their revenue leaking monthly from stockouts, then built a custom reorder system to fix it.\r\n\r\nUsed and loved by DTC brands from beauty to food and beverage.\r\n\r\nRequest a demo today: https://menza.ai/",
-    "one_liner": "Your 24/7 Data Analyst",
+    "one_liner": "The AI data team for consumer brands",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -40357,7 +40357,7 @@
     "all_locations": "",
     "long_description": "Teams struggling with GPU availability use our platform to unlock capacity immediately for their growing AI workloads. Shadeform has a unified, easy-to-use API and platform to access and provision GPUs and deploy models for inference to any provider. With our aggregated availability and pricing data, we can help ensure your on-demand inference and training jobs will run on time at optimal cost.",
     "one_liner": "The GPU Cloud Marketplace",
-    "team_size": 6,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689812081,
@@ -42595,44 +42595,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/central",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/central.json"
-  },
-  {
-    "id": 29328,
-    "name": "Guide Labs",
-    "slug": "guide-labs",
-    "former_names": [
-      "Guide Labs Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
-    "website": "https://www.guidelabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
-    "one_liner": "Interpretable AI models and agents",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709806941,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guide-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/guide-labs.json"
   },
   {
     "id": 29334,
@@ -46502,6 +46464,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/leeroo.json"
   },
   {
+    "id": 29659,
+    "name": "Unbound",
+    "slug": "unbound",
+    "former_names": [
+      "Unbound Security"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36df07c499b1ae5e15e4171c4cc3ef24d462d03c.png",
+    "website": "https://getunbound.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Use AI tools without fear of data leakage",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1715812278,
+    "tags": [
+      "Artificial Intelligence",
+      "Privacy",
+      "Cybersecurity",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unbound",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/unbound.json"
+  },
+  {
     "id": 29661,
     "name": "Silurian",
     "slug": "silurian",
@@ -50032,6 +50040,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/candle",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
+  },
+  {
+    "id": 30033,
+    "name": "OpenFunnel",
+    "slug": "openfunnel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
+    "website": "https://openfunnel.dev",
+    "all_locations": "",
+    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1728361776,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openfunnel",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
   },
   {
     "id": 30037,
@@ -56068,12 +56117,17 @@
     "website": "https://prox.inc",
     "all_locations": "",
     "long_description": "Prox is building digital co-workers for 3PLs and fulfillment centers - companies that store, pack, and ship for brands. We automate back-office operations layer that burns billions of labor hours across the industry.\r\n\r\n",
-    "one_liner": "AI agents for third-party logistics",
+    "one_liner": "AI-native OS for Customer Experience",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "B2B -> Retail",
     "launched_at": 1759337800,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Customer Success",
+      "E-commerce",
+      "Customer Support"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -56082,7 +56136,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Retail"
     ],
     "regions": [
       "Remote",
@@ -56333,8 +56387,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
     "all_locations": "",
-    "long_description": "TraceRoot.AI is the first open source AI agent that monitors production environments and automatically fixes bugs. It connects to telemetry data like traces, logs, metrics and repo to analyze and auto-resolve bugs.",
-    "one_liner": "Open source AI agents auto-fix your production bugs",
+    "long_description": "TraceRoot is open-source observability and self-healing layer for AI agents. It help engineering teams capture traces, debug with AI and ship with confidence.",
+    "one_liner": "Open source self-healing layer for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -57074,10 +57128,10 @@
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57343,15 +57397,15 @@
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
-    "one_liner": "Vulnerability Management for Human Risk ",
+    "one_liner": "Vulnerability Management for the Human Layer ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57928,84 +57982,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nautilus.json"
   },
   {
-    "id": 30734,
-    "name": "Avelis Health",
-    "slug": "avelis-health",
-    "former_names": [
-      "Avelis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
-    "website": "https://avelishealth.com",
-    "all_locations": "",
-    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $300K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid. Healthcare is the 2nd largest company expense after payroll.\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
-    "one_liner": "We audit medical claims for self-insured employers and health plans.",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753718864,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avelis-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/avelis-health.json"
-  },
-  {
-    "id": 30738,
-    "name": "Altur",
-    "slug": "altur",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
-    "website": "https://altur.io",
-    "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Voice AI Agents for Debt Collection",
-    "one_liner": "Voice AI Agents for Debt Collection",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1750622964,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Mexico",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/altur",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
-  },
-  {
     "id": 30740,
     "name": "Metis",
     "slug": "metis",
@@ -58295,15 +58271,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754335865,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Data Science",
-      "AI"
+      "Data Science"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60303,6 +60279,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ndea-com.json"
   },
   {
+    "id": 31063,
+    "name": "Clara",
+    "slug": "clara-2",
+    "former_names": [
+      "Clara Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
+    "website": "http://askclara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
+    "one_liner": "AI primary care doctor",
+    "team_size": 9,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1774031425,
+    "tags": [
+      "Telehealth",
+      "Healthcare",
+      "Telemedicine",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clara-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
+  },
+  {
     "id": 31066,
     "name": "Payna",
     "slug": "payna",
@@ -60312,7 +60332,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
     "website": "",
     "all_locations": "",
-    "long_description": "",
+    "long_description": "Payna is building the AI licensing agent for regulated companies. We automate the filings, renewals, amendments, and regulator follow ups required to get licensed and stay licensed across jurisdictions, so teams no longer have to manage compliance through spreadsheets, email threads, and expensive outside firms. Starting with financial services categories like lending, debt collection, and money transmission, Payna helps companies move faster, stay compliant, and scale without adding compliance headcount linearly.",
     "one_liner": "",
     "team_size": 0,
     "industry": "B2B",
@@ -60721,7 +60741,7 @@
     "website": "https://constellationspace.ai/",
     "all_locations": "",
     "long_description": "Constellation Space is building the autonomous infrastructure layer for the next generation of space networking. As satellite constellations rapidly scale from hundreds of nodes to tens of thousands, traditional ground-based orchestration fundamentally breaks down. ConstellationOS bridges this gap by providing zero-intervention network handoffs, predictive thermal load-balancing, and sub-second optical routing.\r\n\r\nOur founding team spent years building and operating satellite systems at SpaceX, Blue Origin, and NASA. We started Constellation to solve the problem we kept running into: reactive monitoring doesn't scale.\r\n\r\nWe are building the sub-second routing protocols and hyperscale load-balancing infrastructure that will manage the future of off-world telecommunications and compute. \r\n\r\nhello@constellation-io.com",
-    "one_liner": "AI for space mission assurance.",
+    "one_liner": "AI operating system for mega-scale satellite networks. ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -60903,6 +60923,41 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/tsenta",
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
+  },
+  {
+    "id": 31311,
+    "name": "Cardinal",
+    "slug": "trycardinal-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22419d42fabae470d3d3521bb8906e6552b1d0f1.png",
+    "website": "https://trycardinal.ai/",
+    "all_locations": "",
+    "long_description": "Hey YC! We're Devi and Jianna - the founders of Cardinal.\r\n\r\nTL;DR: Cardinal is the AI platform for precision outbound. We run outbound for 40+ YC companies, like Mintlify, Greptile, and Luminai.\r\n\r\nThe Problem\r\n\r\n“Spray and Pray” outbound is dead. The best teams at outbound do it with extreme precision. Finding things in common with your customers, staying in touch with them through their content, mapping inbound from signups and ads, tracking website visitors, monitoring various signals, etc. This sounds great in theory, but in reality involves stringing together 10+ tools and hiring a GTM engineer.\r\n\r\nThat’s where Cardinal comes in.\r\n\r\nCardinal is an AI platform for precision outbound. Our agents can create workflows that normally require the work of fulltime GTM engineers.\r\n\r\nIf you're a founder or sales leader looking to bring AI into your sales org, would love to chat!",
+    "one_liner": "AI Platform for Precision Outbound",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770774164,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trycardinal-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/trycardinal-ai.json"
   },
   {
     "id": 31329,

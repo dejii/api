@@ -10,7 +10,7 @@
     "website": "https://menza.ai/",
     "all_locations": "Remote",
     "long_description": "Menza is the always-on AI data team for fast-growing brands. We connect your Shopify, Klaviyo, ads, and 650+ other tools so anyone on your team can get instant answers, automated reports, and insights they'd never find manually.\r\n\r\nMenza replaces hours of spreadsheet wrangling and dashboard building with automated reporting, plain-English questions, and around-the-clock monitoring that catches revenue leaks and opportunities before you miss them. For insights in minutes, not meetings.\r\n\r\nEvolve Beauty saves 60+ hours per month on reporting and found £18k in misattributed revenue hiding in their GA4 setup. yhangry made 90% of their team data-driven without writing a single line of SQL, scaling their US expansion with a lean team. The Keto Shop found 10% of their revenue leaking monthly from stockouts, then built a custom reorder system to fix it.\r\n\r\nUsed and loved by DTC brands from beauty to food and beverage.\r\n\r\nRequest a demo today: https://menza.ai/",
-    "one_liner": "Your 24/7 Data Analyst",
+    "one_liner": "The AI data team for consumer brands",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -182,7 +182,7 @@
     "website": "https://overdrive.health",
     "all_locations": "",
     "long_description": "Overdrive Health offers AI powered medical billing services, helping providers get paid more money in less time. Our technology enables us to provide the best quality insurance and patient billing services for a fraction of the usual cost",
-    "one_liner": "AI Powered Medical Billing Services",
+    "one_liner": "AI-Native Medical Billing Services",
     "team_size": 1,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -218,19 +218,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c561ac3ff3132e3dda05b6de7836b2d1b55ed1aa.png",
     "website": "https://autumnai.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Autumn is building the first real-time signal intelligence platform for GTM teams. We monitor posts, commits, blogs, and announcements, surfacing buying signals the moment they appear. Define your ICP and the signals that matter, and we deliver a condensed, real-time feed filtered by intents.",
     "one_liner": "Stalk your prospects at scale.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770313792,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Search",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -242,8 +237,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -269,13 +263,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1754592638,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Customer Success",
-      "Customer Service"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -574,7 +562,7 @@
     "website": "https://generalastro.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Robots for microgravity research and manufacturing.",
-    "one_liner": "The Space Robotics Company",
+    "one_liner": "Robotics for Space R&D",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -701,18 +689,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d04232f7799c42a8a176b06d7c366c511a6cab7.png",
     "website": "https://www.crosslayerlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Crosslayer Labs detects impersonation attacks on websites and APIs. We provide \"outside-in\" monitoring of customer infrastructure, comprehensively discovering and monitoring all Internet dependencies, including DNS, BGP, TLS certs, Javascript. We correlate signals from different layers of the Internet stack to identify attack patterns. Our alerts are actionable and contain root cause analysis/remediation recommendations. Our founding team is world renowned for previously inventing the MPIC standard adopted by all the major CAs including Google, Apple, Amazon. The MPIC standard is securing over 700 million websites via the issuance of over 3 billion digital certificates, and is now a global internet standard that protects every single HTTPS connection.",
     "one_liner": "Protect, monitor and defend your Internet presence",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1770673305,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Cybersecurity"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -724,8 +708,6 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -883,7 +865,7 @@
     "tags": [
       "Reinforcement Learning",
       "Logistics",
-      "Supply Chain",
+      "Data Engineering",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -1162,12 +1144,7 @@
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1772312996,
-    "tags": [
-      "B2B",
-      "Healthcare",
-      "Infrastructure",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1275,7 +1252,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3a28cf26f93d8a445e3e43a81921c8ba0399547.png",
     "website": "",
     "all_locations": "",
-    "long_description": "",
+    "long_description": "Payna is building the AI licensing agent for regulated companies. We automate the filings, renewals, amendments, and regulator follow ups required to get licensed and stay licensed across jurisdictions, so teams no longer have to manage compliance through spreadsheets, email threads, and expensive outside firms. Starting with financial services categories like lending, debt collection, and money transmission, Payna helps companies move faster, stay compliant, and scale without adding compliance headcount linearly.",
     "one_liner": "",
     "team_size": 0,
     "industry": "B2B",
@@ -1946,7 +1923,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
     "website": "https://rev1.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "REV1 automates the creation of manufacturing-ready 2D drawings from 3D CAD files. Mechanical engineers spend 25%+ of their time manually creating these drawings, a tedious but critical step for every manufactured part. \r\nREV1 reduces that process from hours to minutes, generating drawings with proper annotations and tolerancing so engineers can focus on design instead of documentation.",
+    "long_description": "REV1 is Claude code for mechanical engineers, starting with automating the process of turning 3D designs into 2D manufacturing drawings – which is more than 25% of all of what a mechanical engineer does - our software does it in minutes. \r\nCompressing hours of work into minutes while delivering consistent, higher quality results.",
     "one_liner": "Claude code for Mechanical Engineers",
     "team_size": 2,
     "industry": "B2B",
@@ -2068,20 +2045,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bfdd01c1d2dde8d7cec7f0d61a5c75e8551e254d.png",
     "website": "https://www.legalos.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "LegalOS is an AI-native immigration law firm that combines cutting-edge technology with 40+ years of legal expertise.\r\n\r\nWe’ve studied 12,000 successful petitions to design our process - which allows us to deliver top-quality visa applications in as quickly as 48 hours. Our specialized AI agents draft petition narratives, compile evidence, and anticipate USCIS objections - work that traditionally takes attorneys weeks, if not months.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience, so companies get both speed and reliability. We support O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions.\r\n\r\nOur unique approach works. We’ve filed dozens of visa applications and have a 100% approval rate so far.\r\n\r\nThe U.S. processes 1M+ work visas annually—a market where incumbents still operate on fax machines, email, and 1990s case management software. We're building the modern immigration law firm.",
     "one_liner": "The AI-Native Immigration Law Firm",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1765500266,
-    "tags": [
-      "B2B",
-      "Legal",
-      "HR Tech",
-      "Immigration",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2093,8 +2064,6 @@
       "Legal"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -2288,7 +2257,7 @@
     "website": "https://strandai.com",
     "all_locations": "",
     "long_description": "Strand AI develops foundation models to generate missing bio-data about patients. With this imputed data, pharmaceutical companies can select better patients for their drug trials and shave months from their drug launch timelines. We’ve already trained a multimodal foundation model that integrates spatial biology modalities, beating SOTA at a fraction of the cost.",
-    "one_liner": "Curated multimodal datasets for biology AI",
+    "one_liner": "Multimodal foundation models that generate missing patient data",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -2519,20 +2488,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbd3640d376f89f668901f7449636b7f882fdb6.png",
     "website": "https://pirislabs.io/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Piris Labs offers a full-stack inference service that eliminates the AI data movement bottleneck. By pairing proprietary photonic hardware with a vertically optimized software stack, we minimize the \"memory wall\" associated with expensive GPUs. This allows us to deliver the same performance as traditional clusters at a fraction of the cost. Our technology improves effective FLOP utilization and reduces latency, finally making the unit economics of trillion-parameter models sustainable. Founded by a team of MIT physicists and Meta AI experts.",
     "one_liner": "Cerebras-speed inference but scalable",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770857008,
-    "tags": [
-      "Hard Tech",
-      "B2B",
-      "Cloud Computing",
-      "AI",
-      "Networks"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2544,8 +2507,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2730,19 +2692,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09b00897bad7b286c988185a245a471be3726665.png",
     "website": "https://avoice.co/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Avoice is an AI-native workspace for architecture firms that automates the non-design work that takes time away from design. The platform uses AI agents that understand drawings, specifications, schedules, materials, codes, and research. Today, firms using Avoice manage over $300M in active projects on the platform.\r\n\r\nArchitecture is a massive market ($300B+) but a deeply underserved one: highly fragmented, dominated by small firms, and reliant on legacy tools that require heavy customization. AI creates a unique opportunity to deliver firm-specific automation at scale, and Avoice brings these workflows into become the operating system for architectural practice.",
     "one_liner": "Harvey for Architecture",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1763995110,
-    "tags": [
-      "Construction",
-      "Enterprise Software",
-      "Architecture",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2753,8 +2710,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2788,11 +2743,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1765422527,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3262,17 +3217,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3865c0d771194942bdee5eff869a97c2df94f0c.png",
     "website": "https://aemon.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Aemon is the first autonomous research engineer that delivers state-of-the-art solutions to your engineering problems. It generates, tests, and evolves thousands of approaches at machine speed to discover optimal solutions beyond what human experts can find.\r\n\r\nAemon already set a new world record on an NP-hard math optimization problem with <$10 of compute, beating the previous record set by Google DeepMind in 2025.\r\n\r\nRay and Richard (twin brothers) dropped out of UWaterloo and UIUC to build Aemon. They published at top AI conferences like ICLR and EMNLP before turning 20.",
     "one_liner": "The Forward-Deployed AI Research Engineer ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1772053698,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3283,8 +3235,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3301,20 +3252,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36b682fdfb87515f8ca423d8a006eaac7229e134.png",
     "website": "https://ashr.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Ashr is a fully contained test and evals platform that improves AI agents by ensuring accuracy and quality across a wide range of user journeys through your product.\r\n\r\nAshr generates user journeys through your agents’ tool calls, results, and questions. We don’t generate one off tests, we generate large amounts of authentic user stories through your product, and pick up on errors, inconsistencies, and failures that would otherwise take hours of manual testing or get caught by a customer. We also work to ensure agent response quality in line with your business goals by offering custom evaluation metrics.\r\n\r\nAshr works with voice, text, automated website generation, image, file generation, and multimodal. We’re also willing to generate custom input types or make modifications for anyone interested. Currently, we integrate as an SDK, and are proactively working to make our documentation and resources as accessible and easy to use as possible.",
     "one_liner": "Automated Multi-Modal Testing for Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1771535371,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "Data Engineering",
-      "DevOps"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3326,8 +3271,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3390,17 +3334,12 @@
     "website": "https://www.tryoctapulse.com/",
     "all_locations": "",
     "long_description": "OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry.\r\n\r\nAquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle.\r\n\r\n We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.\r\n",
-    "one_liner": "Robotics and computer vision to automate fish farming from hatchery…",
+    "one_liner": "CV and robotics to automate quality inspection in fish farms",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1766417530,
-    "tags": [
-      "Robotics",
-      "Computer Vision",
-      "Food Tech",
-      "Maritime"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4329,18 +4268,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff369359daa357b54e6a4db92f80988a4ca84392.png",
     "website": "https://caj.al/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Cajal (YC W26) is massively scaling formal verification to accelerate scientific discovery. We deploy superhuman AI mathematicians to high-impact applied domains, starting with quantum computing and finance.\r\n\r\nWe do this with Lean - a framework that allows us to formally verify any mathematical statement, grounding AI in truth and validating the tools discovered by our systems.",
     "one_liner": "Scaling formal verification to accelerate scientific discovery",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771892744,
-    "tags": [
-      "B2B",
-      "Big Data",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4351,8 +4286,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4785,7 +4719,7 @@
     "website": "https://syntheticsciences.ai/",
     "all_locations": "",
     "long_description": "We’re building the infrastructure for a future AI co-scientist, starting with computational research domains. Our thesis is that capable AI scientists require two things built in tandem: (1) a human-centric product suite that generates high-quality process data, and (2) the research infrastructure to turn that data into increasingly autonomous systems. We’re creating the product and training infrastructure needed for research agents that can execute the full scientific loop.\r\n\r\nSynthetic Sciences Web is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading → hypotheses → methods → experimentation → results → drafting, even while they sleep. In parallel, we develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows.",
-    "one_liner": "Synthetic Sciences is Claude Code for Science",
+    "one_liner": "Claude Code for Science",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4858,7 +4792,7 @@
     "all_locations": "",
     "long_description": "Patientdesk is an AI bookings system that helps healthcare practices make more money. We do this by handling bookings, payments, and insurance to fill up a provider's calendar with high value appointments. ",
     "one_liner": "AI voice agent for patient calls & admin workflows",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1764074488,
@@ -5722,18 +5656,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb8ab79d58a9a62e857747309cac10d5d41fbb2.png",
     "website": "https://mendral.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Mendral is an AI DevOps Engineer that observes, diagnoses, acts, and learns continuously. It autonomously handles CI failures, flaky tests, slow builds, broken releases, and code reviews, improving with every build and run. Over time, Mendral evolves into a self-improving delivery system that manages performance, quality, security, and compliance, all without manual intervention.",
     "one_liner": "AI DevOps Engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769123342,
-    "tags": [
-      "Developer Tools",
-      "DevOps",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5744,8 +5674,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5768,7 +5696,7 @@
     "website": "https://constellationspace.ai/",
     "all_locations": "",
     "long_description": "Constellation Space is building the autonomous infrastructure layer for the next generation of space networking. As satellite constellations rapidly scale from hundreds of nodes to tens of thousands, traditional ground-based orchestration fundamentally breaks down. ConstellationOS bridges this gap by providing zero-intervention network handoffs, predictive thermal load-balancing, and sub-second optical routing.\r\n\r\nOur founding team spent years building and operating satellite systems at SpaceX, Blue Origin, and NASA. We started Constellation to solve the problem we kept running into: reactive monitoring doesn't scale.\r\n\r\nWe are building the sub-second routing protocols and hyperscale load-balancing infrastructure that will manage the future of off-world telecommunications and compute. \r\n\r\nhello@constellation-io.com",
-    "one_liner": "AI for space mission assurance.",
+    "one_liner": "AI operating system for mega-scale satellite networks. ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -6003,20 +5931,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Arzule is an AI-native ecosystem revenue platform for B2B SaaS teams, starting with partnerships.\r\n\r\nArzule uses a quantitative approach to estimate ecosystem revenue impact by combining CRM deal outcomes with ecosystem signals such as shared customers, integrations, partner referrals, and co-selling activity. Using probabilistic regression models and influence chains across the ecosystem graph, Arzule estimates how much each partner or integration increases the likelihood of pipeline creation and deal conversion. This allows teams to prioritize the partnerships most likely to generate measurable revenue.\r\n\r\nBeyond attribution, Arzule structures and manages the entire partnership lifecycle from identifying the right partners, to prioritizing based on revenue potential, to activating and scaling those relationships.\r\n\r\nUsing always-on AI agents and proprietary data, Arzule builds dynamic profiles of companies and predicts which opportunities will drive measurable revenue, when to engage, and how to structure each relationship for maximum impact.\r\n\r\nIt also optimizes execution through automated outreach, partner coordination, and performance tracking, ensuring every partnership and ecosystem motion is tied to clear ROI.",
     "one_liner": "Gong for ecosystem driven growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1767154035,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "Market Research"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6027,8 +5949,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6045,20 +5966,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0947dcd80dc342c9f938f52c6f4959bc0b1b157.png",
     "website": "https://servo7.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
+    "all_locations": "",
     "long_description": "You’re wasting millions of dollars on custom industry robots that take months to implement.\r\n\r\nToday, robotic automation means redesigning your entire facility for the robot to work. You need to change the floor plan, adjust conveyor belts, and re-educate your staff. This is inefficient and unnecessary.\r\n\r\nWith Servo7, you don’t have to do any of that. Automating with Servo7 is simple and fast, because our robots:\r\n1) Deploy in existing operations\r\n2) Learn from simple demonstrations\r\n3) Keep improving on the job\r\n\r\nWe have previously worked on autonomous defense systems, LLMs, autonomous driving, and hyperloops. Not just in the lab, but actually deploying them in the field. We’re already working with warehouses to automate their fulfillment.\r\n\r\nIf you work in assembly, manufacturing, or logistics, email founders@servo7.com. We're onboarding our next partners now.",
     "one_liner": "Simple and rapidly deployed robots for industry work",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1769385653,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Logistics",
-      "Manufacturing",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6070,8 +5985,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Netherlands",
-      "Europe"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6340,17 +6254,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/976e66b565b5dad1eea4d546fd3c9cc6720f078b.png",
     "website": "https://chasi.co/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Chasi deploys AI agents that help equipment dealers sell more, respond faster, and maximize fleet utilization - 24/7.\r\n\r\nOne-third of the cost to build and maintain the physical world goes to equipment, yet fleet utilization across the industry often sits below 60%. Billions in assets sit idle while dealers drown in phone calls, emails, and manual data entry. Missed quotes, slow follow-ups, and disconnected systems mean lost revenue every day.\r\n\r\nChasi plugs into a dealer's existing stack to deploy AI agents that handle sales, rentals, and service requests around the clock. The result: faster response times, higher utilization, and stronger margins, without adding headcount. We automate the busywork so teams can focus on what actually grows the business: customer relationships.\r\n\r\nAkash Pavan and Sarman Aulakh have built tractors, race cars, and robots, and previously led AI deployments at Tesla, Boeing, and Cummins, where they saw firsthand how much operational value gets left on the table in equipment-heavy industries. Chasi is live across equipment businesses in the US and Europe. ",
     "one_liner": "AI Revenue Engine for the Equipment Industry ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1765343151,
-    "tags": [
-      "SaaS",
-      "Industrial"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6361,8 +6272,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6467,10 +6377,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1769746017,
-    "tags": [
-      "Legal",
-      "LegalTech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6733,20 +6640,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a94eb8ceff47b3a9989e9c3c4f0bff0ac9c2e0a.png",
     "website": "https://beesafe.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "BeeSafe AI is building the frontier model layer for social engineering defense. Cyberattacks have moved from code to conversation: attackers now use AI to carry out long-term, trust-based manipulation across SMS, voice, email, and social platforms, often inside encrypted channels where defenders cannot see, detect, or stop them.\r\n\r\nBeeSafe changes that by deploying undercover AI agents that engage attackers directly, expose hidden infrastructure, and convert live adversarial conversations into actionable intelligence. Each engagement adds to BeeSafe's proprietary dataset of real attacker behavior and trains foundational models that continually learn about counter-persuasion, deception, and manipulation in the wild.\r\n\r\nBeeSafe is starting in financial crime, where banks already value our data against Advanced Push Payment (APP) fraud and money laundering, but the opportunity is far broader. The same data and models that uncover mule networks today can protect consumers, secure enterprises, and strengthen governments against the next generation of AI-powered social engineering attacks tomorrow.",
-    "one_liner": "Stopping Scams Before They Reach Your Customers",
+    "one_liner": "Frontier AI Defenses for Social Engineering Attacks",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1770327115,
-    "tags": [
-      "Security",
-      "Cybersecurity",
-      "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6758,8 +6659,7 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7027,10 +6927,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1768253497,
-    "tags": [
-      "Fintech",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7137,20 +7034,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e0dd16c2af788adc332865c74ea59fa44d4b7d.png",
     "website": "https://tryvela.ai/ps",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We are building Vela, the AI scheduling assistant for the most complex interactions. Everyone assumes scheduling is a calendaring problem. It's not. It's a human nuance problem: knowing who to prioritize, how hard to push, and which dynamics to navigate. Vela understands these nuances, and every interaction deepens that understanding.\r\n\r\nInstead of manually calling, texting, and emailing hundreds of candidates across spreadsheets, today teams connect their system of record to Vela and it handles outreach, scheduling, and confirmation automatically with the nuances of industries and teams built in.\r\n\r\nGobhanu and Saatvik are brothers who scaled a microfinance bank to 77 countries as kids. We previously built at AWS ML + SuperCompute and BCG AI.",
     "one_liner": " AI Scheduling for the Most Complex Interactions",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770142827,
-    "tags": [
-      "B2B",
-      "Recruiting",
-      "Calendar",
-      "AI",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7161,8 +7052,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7258,16 +7148,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86338b0909975d76f85bd358ddf08742a3e504aa.png",
     "website": "https://www.spotpay.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "SpotPay is a global borderless neobank. We give users one account that works for everything payments related: receiving money from abroad, paying locally, spending anywhere with the SpotPay card and saving and earning on their balance.",
-    "one_liner": "Cross-border Personal Finance on Stablecoins",
+    "one_liner": "Stablecoin Global Bank Account",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1767931304,
-    "tags": [
-      "Fintech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7279,8 +7167,7 @@
       "Consumer Finance"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7427,11 +7314,7 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768869245,
-    "tags": [
-      "AIOps",
-      "Workflow Automation",
-      "Transportation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7652,6 +7535,43 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/daivin.json"
   },
   {
+    "id": 31289,
+    "name": "Fixture",
+    "slug": "fixture",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/254f079e6b0c874fa6ce2878fd0a9d39b229bdd5.png",
+    "website": "https://fixture.app",
+    "all_locations": "",
+    "long_description": "Fixture is an AI-native CRM built for startups. It integrates with all the tools you use to communicate with customers, tracks marketing channels (e.g. website traffic), and pulls everything into a single go-to-market context store. Our AI agents proactively help you move your deals forward, and you can use Fixture from our web UI or any of your favorite AI tools (e.g. Claude Code). ",
+    "one_liner": "An AI-first CRM built for Startups",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1774027325,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fixture",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fixture.json"
+  },
+  {
     "id": 31292,
     "name": "Aurorin CAD",
     "slug": "aurorin-cad",
@@ -7790,12 +7710,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1770576314,
-    "tags": [
-      "Healthcare",
-      "LegalTech",
-      "Insurance",
-      "Call Center"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7936,7 +7851,7 @@
     "website": "https://martini.film",
     "all_locations": "",
     "long_description": "Martini is a collaborative, AI-native platform for professional filmmaking in the era of generative media.\r\nBy integrating the best generative models into professional workflows, we enable world-class creatives to harness generative AI as a legitimate medium for film.",
-    "one_liner": "Collaborative AI-native filmmaking for professionals",
+    "one_liner": "AI Video Production for Professionals",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -8016,12 +7931,10 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1770774164,
-    "tags": [
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
