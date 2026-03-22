@@ -1271,7 +1271,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Humaans is a next generation HRIS supporting globally distributed organisations. Powered by a flexible data model, deep integrations, fast APIs, and enriched by AI, Humaans removes manual work, reduce compliance risk and enhance your employee experience. Humaans reduces ongoing administrative work by 65% and onboarding time by an average of 55%.\r\n\r\nWe've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lütke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
     "one_liner": "AI-Powered HRIS for high performing teams",
-    "team_size": 43,
+    "team_size": 48,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1616012350,
@@ -3764,18 +3764,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds the automations for you. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies.",
+    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds for you.",
     "one_liner": "Automate any security workflow with AI",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
+      "Artificial Intelligence",
       "Security",
       "Open Source",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4725,5 +4725,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/carson",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carson.json"
+  },
+  {
+    "id": 31187,
+    "name": "Fenrock AI",
+    "slug": "fenrock-ai",
+    "former_names": [
+      "new co",
+      "Fenrock.AI",
+      "Fenrock AI",
+      "Fenrock AI (YC W26)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
+    "website": "https://fenrock.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building the Harvey for traditional financial services, starting with compliance use cases for small- to mid-sized banks in the US.\r\n\r\nSpecialized AI agents for banks to 10x back office functions, which helps them pass regulatory exams and improve their efficiency ratios - the top 2 things every bank board cares about.\r\n\r\n",
+    "one_liner": "AI agents for banking back office",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1769406704,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fenrock-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai.json"
   }
 ]

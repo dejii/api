@@ -1,26 +1,22 @@
 {
   "id": 31107,
-  "name": "Clam (formerly Baseframe)",
+  "name": "Clam",
   "slug": "clam",
   "former_names": [
     "BaseFrame",
-    "Clam"
+    "Clam",
+    "Clam (formerly Baseframe)"
   ],
-  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5a9e3c752f35fdf71eba1c872ab536a75ec4db4.png",
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed37fe1286e15e733e3ec760a7dcd194f1dfdd31.png",
   "website": "https://tryclam.com",
-  "all_locations": "San Francisco, CA, USA",
-  "long_description": "AI frameworks like OpenClaw have a major issue: data security. \r\n\r\nWhether you're an enterprise or an individual exploring AI, your data should stay protected.\r\n\r\nClam brings enterprise-grade security through their “Semantic Firewall”, a security checkpoint that sits around the AI's environment at the network level. \r\n\r\nOur system runs a series of scans on anything your AI sends out into the world and everything that comes in to catch inconsistencies before they turn into problems. Each message is scanned for personal info leaks (SSNs, credit cards, private keys), prompt injection attempts (jailbreaks, instruction overrides), and malicious code (reverse shells, encoded execution). \r\n\r\nTo keep your data even safer, API keys and secrets are injected at the network level so the AI never sees or stores your credentials. \r\n\r\nDeploy and set up broad-access AI agents built on security with Clam. \r\n",
-  "one_liner": "Enterprise-grade security for broad-access AI Agents like OpenClaw",
+  "all_locations": "",
+  "long_description": "Every startup founder wants to 10x their non-technical teams with AI, but they do not have time to decide what to automate, build the workflows, and fix them when they break.\r\n\r\nClam is an AI integration engineer for startup employees. Our desktop app uses local models to analyze work already on your computer, identify repetitive tasks, generate the workflow in code, and run it in the cloud. No more drag and drop. \r\n\r\nWhen software changes cause workflows to fail, Clam repairs them automatically using our secure implementation of OpenClaw. It can write tests, run experiments, update the automation scripts, and even text you for more information. \r\n\r\nStartups want to focus on the outcome of the automation, not the automation itself. We give each use case a dynamic UI that lets you visualize the output in the best way possible for you. \r\n\r\nHow are we keeping our OpenClaw secure? Our system runs a series of scans at the network level to scrutinize every piece of data leaving and entering your system. Each message is scanned for personal info leaks, prompt injection attempts, and malicious code, and custom policies. \r\n",
+  "one_liner": "Self-fixing automations for fast-moving startups built on OpenClaw",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B",
   "launched_at": 1768518655,
-  "tags": [
-    "Artificial Intelligence",
-    "Workflow Automation",
-    "Security",
-    "AI Assistant"
-  ],
+  "tags": [],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": false,
@@ -31,8 +27,7 @@
     "B2B"
   ],
   "regions": [
-    "United States of America",
-    "America / Canada"
+    "Unspecified"
   ],
   "stage": "Early",
   "app_video_public": false,

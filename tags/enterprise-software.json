@@ -4325,6 +4325,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
   },
   {
+    "id": 30721,
+    "name": "Knowlify",
+    "slug": "knowlify",
+    "former_names": [
+      "Knowlify",
+      "Ritvik Varada"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c7327b2253f8bd8e5f5ae01e113ba12ee0e4bd.png",
+    "website": "https://www.knowlify.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Knowlify makes it easy for companies to create animated explainer videos using AI. Upload any document and/or prompt deck to get a professional explainer video in minutes - no designers, animators, or video editors needed. \r\n\r\nTeams use Knowlify to produce training videos, customer literacy videos, product explainers, onboarding content, and internal communications at a fraction of the traditional cost and timeline. \r\n\r\nAvailable as a self-serve platform or a fully managed service.",
+    "one_liner": "The AI Explainer Video Maker",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1754937543,
+    "tags": [
+      "Artificial Intelligence",
+      "Education",
+      "Generative AI",
+      "Video",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/knowlify",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/knowlify.json"
+  },
+  {
     "id": 30852,
     "name": "Nexus",
     "slug": "gpt",
@@ -4411,51 +4456,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/openroll.json"
   },
   {
-    "id": 31097,
-    "name": "REV1",
-    "slug": "rev1",
-    "former_names": [
-      "Hefaisto"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4441d91c221886a6f88c6d67b04646e2c34ade6c.png",
-    "website": "https://rev1.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "REV1 is Claude code for mechanical engineers, starting with automating the process of turning 3D designs into 2D manufacturing drawings – which is more than 25% of all of what a mechanical engineer does - our software does it in minutes. \r\nCompressing hours of work into minutes while delivering consistent, higher quality results.",
-    "one_liner": "Claude code for Mechanical Engineers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1769993376,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Design",
-      "Manufacturing",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rev1",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/rev1.json"
-  },
-  {
     "id": 31164,
     "name": "Compresr",
     "slug": "compresr",
@@ -4499,96 +4499,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compresr",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
-  },
-  {
-    "id": 31166,
-    "name": "Unisson",
-    "slug": "unisson",
-    "former_names": [
-      "InUnison",
-      "Unisson",
-      "unisson"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd03bcedbbd9356a9f36c34083e541508201f3c6.png",
-    "website": "https://www.unisson.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. \r\n\r\nWith Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours. ",
-    "one_liner": "AI agents that automate B2B software implementation",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1770359134,
-    "tags": [
-      "Workflow Automation",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unisson",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/unisson.json"
-  },
-  {
-    "id": 31185,
-    "name": "Chamber",
-    "slug": "chamber",
-    "former_names": [
-      "Astraio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1fc77901b81373bfd2cdb4b4fd70816597bb561.png",
-    "website": "https://www.usechamber.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chamber puts your AI infrastructure on autopilot. Our agentic AI enabled platform orchestrates, governs, and optimizes your AI infrastructure so teams can run ~50% more workloads on the same GPUs without manual intervention. It operates like an autonomous infrastructure team: continuously monitoring GPU clusters, forecasting demand, detecting unhealthy nodes, and reallocating resources in real time to where they create the most impact. Your ML teams move faster, infra waste drops, and GPU bottlenecks disappear.",
-    "one_liner": "Autopiloting your AI infrastructure",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768078423,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chamber",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/chamber.json"
   },
   {
     "id": 31192,

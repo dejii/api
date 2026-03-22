@@ -1244,51 +1244,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunavo.json"
   },
   {
-    "id": 31000,
-    "name": "Vector Legal",
-    "slug": "vector-legal",
-    "former_names": [
-      "Cadence",
-      "Raise"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
-    "website": "https://vectorlegal.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "A modern solution for Startup legal: Vector Legal is a hybrid AI law firm + legal tech platform. Our customers benefit from state of the art software for their legal operations + an experienced lawyer-in-the-loop. \r\n\r\nServices: fundraise & priced rounds | customer contracts | team growth & equity | AI draft & review | agentic data room | e-signatures | contract intelligence | legal health checks | mergers & acquisitions | co-founder separations | company formation.",
-    "one_liner": "AI Law Firm + Legal Tech Platform for Startups",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1771526564,
-    "tags": [
-      "Legal",
-      "LegalTech",
-      "Operations",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vector-legal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
-  },
-  {
     "id": 31030,
     "name": "Haladir",
     "slug": "haladir",
@@ -1328,88 +1283,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haladir",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
-  },
-  {
-    "id": 31156,
-    "name": "Ventura",
-    "slug": "ventura",
-    "former_names": [
-      "Autola"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da34d67bc7bfb583fad0d2c587e602fbe787b210.png",
-    "website": "https://www.ventura.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ventura (YC W26) is building the AI teammate for industrial distributors, starting with quoting. We're live with customers in the building materials supply industry.\r\n\r\nVentura works with your existing ERP and can be trained to execute new processes, like a new teammate.\r\n\r\nCEO Swen previously built and exited a wholesale distribution SaaS.\r\n\r\nCTO Jack was the Founding Engineer at Develop Health (company scaled 0→$7M ARR in 14 months with 5 employees).",
-    "one_liner": "AI Teammates for Industrial Distributors",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1772945697,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ventura",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ventura.json"
-  },
-  {
-    "id": 31200,
-    "name": "Ressl AI",
-    "slug": "ressl-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/186bc6483be3828abcf998b9a4ffedbef27ecfed.png",
-    "website": "https://ressl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We automate the back office so field crews can focus on the actual work.\r\n\r\nTrades businesses (HVAC, plumbing, electrical, collision repair, roofing) run on legacy software and \"glue\" employees: people whose entire job is clicking through systems, copy-pasting between tools, and managing inbound volume across channels. A collision shop has one person generating estimates in CCCOne, another chasing parts vendors, another answering calls and Yelp messages, another doing invoices in QuickBooks. None of that requires a human.\r\n\r\nWe build proactive background agents that run these operations autonomously -- quoting, estimating, procurement, insurance coordination, scheduling, follow-ups -- on top of the software these businesses already own. \r\n\r\nWe started as an AI consulting firm talking to businesses across every industry. After a month, the pattern was obvious - trades and field services had the most \"glue work\" and the least tech sophistication to solve it themselves. Every shop we walked into had 2–4 people doing work that software should be delivering as an outcome, not just enabling.\r\n\r\nOur GTM is direct to operators and through PE-backed roll-ups, who are actively looking for margin improvements across their portfolio companies. If this is of interest, please reach out arushi@ressl.ai",
-    "one_liner": "AI Workers for Field Services",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1765975223,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ressl-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
     "id": 31215,
@@ -1477,7 +1350,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",

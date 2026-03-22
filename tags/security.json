@@ -3041,18 +3041,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds the automations for you. Trusted by automation builders (open source and enterprise) across 500+ organizations from startups to Fortune 500 and federal agencies.",
+    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds for you.",
     "one_liner": "Automate any security workflow with AI",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
+      "Artificial Intelligence",
       "Security",
       "Open Source",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3784,136 +3784,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestrel-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json"
-  },
-  {
-    "id": 31106,
-    "name": "Protent",
-    "slug": "protent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08fe208eabd322adf04efcdf91f3bf0f7efc1a4a.png",
-    "website": "https://protent.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide real-time video intelligence that identifies escalating incidents as they unfold. Protent detects early escalation patterns and predictive threat signals, giving surveillance staff the immediate context they need to prioritize alerts and intervene before situations spiral out of control.",
-    "one_liner": "Protent turns passive surveillance into proactive intelligence.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1767579587,
-    "tags": [
-      "Hardware",
-      "Machine Learning",
-      "SaaS",
-      "GovTech",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/protent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
-  },
-  {
-    "id": 31107,
-    "name": "Clam (formerly Baseframe)",
-    "slug": "clam",
-    "former_names": [
-      "BaseFrame",
-      "Clam"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5a9e3c752f35fdf71eba1c872ab536a75ec4db4.png",
-    "website": "https://tryclam.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI frameworks like OpenClaw have a major issue: data security. \r\n\r\nWhether you're an enterprise or an individual exploring AI, your data should stay protected.\r\n\r\nClam brings enterprise-grade security through their “Semantic Firewall”, a security checkpoint that sits around the AI's environment at the network level. \r\n\r\nOur system runs a series of scans on anything your AI sends out into the world and everything that comes in to catch inconsistencies before they turn into problems. Each message is scanned for personal info leaks (SSNs, credit cards, private keys), prompt injection attempts (jailbreaks, instruction overrides), and malicious code (reverse shells, encoded execution). \r\n\r\nTo keep your data even safer, API keys and secrets are injected at the network level so the AI never sees or stores your credentials. \r\n\r\nDeploy and set up broad-access AI agents built on security with Clam. \r\n",
-    "one_liner": "Enterprise-grade security for broad-access AI Agents like OpenClaw",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768518655,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Security",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clam",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/clam.json"
-  },
-  {
-    "id": 31110,
-    "name": "Cascade",
-    "slug": "cascade",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc110e9433eb8ebeb8edd42c08cec81dca5f15c.png",
-    "website": "https://runcascade.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cascade builds software infrastructure for autonomous intelligence with self-improving safety and reliability models that continuously maintain, update, and prevent threats and failures at scale.",
-    "one_liner": "Making Autonomous Intelligence Safe & Reliable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770726393,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Security",
-      "Infrastructure",
-      "Trust & Safety"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cascade",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cascade.json"
   },
   {
     "id": 31118,

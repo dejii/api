@@ -4083,7 +4083,7 @@
     "website": "https://absurd.com/",
     "all_locations": "",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
-    "one_liner": "AI Brand and Performance Ads",
+    "one_liner": "Agents for creative production",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -4202,47 +4202,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
   },
   {
-    "id": 31173,
-    "name": "Laurence",
-    "slug": "laurence",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png",
-    "website": "https://trylaurence.com",
-    "all_locations": "",
-    "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints.\r\n\r\nWe use customers' existing ad copy and use reinforcement learning and train our own LLMs to run ads on autopilot, harvesting profits when we’re confident and borrowing signals from similar keywords when data is sparse.\r\n\r\nStarting with brands on Amazon, we are automating tens of millions in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
-    "one_liner": "RL for performance marketing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1767919574,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketing",
-      "Advertising",
-      "Trading"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/laurence",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/laurence.json"
-  },
-  {
     "id": 31203,
     "name": "sitefire",
     "slug": "sitefire",
@@ -4252,16 +4211,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
     "website": "https://sitefire.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify the content that drives AI visibility, and recommend actions that work: third-party sites, UGC content, and new blog posts. But we don’t stop there. sitefire synthesizes the top-cited web pages into AI-optimized, ready-to-publish web pages. You just publish and start winning leads.",
+    "long_description": "sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). sitefire identifies which content drives AI visibility, and automatically creates it. Unlike GEO tools, sitefire is an AI-native agency that executes on-page and off-page actions and delivers measurable top-line growth.",
     "one_liner": "Marketing suite for the agentic web",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1770178936,
     "tags": [
-      "Generative AI",
+      "SaaS",
+      "B2B",
+      "E-commerce",
       "Marketing",
-      "Search"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

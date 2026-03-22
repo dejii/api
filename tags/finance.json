@@ -3576,106 +3576,28 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/crunched.json"
   },
   {
-    "id": 31126,
-    "name": "Palus Finance",
-    "slug": "palus-finance",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0848c6eda1cd290639119a9922d58316825a98e4.png",
-    "website": "https://palus.finance",
-    "all_locations": "",
-    "long_description": "Palus Finance gives startups and SMBs access to institutional-grade bond portfolios, earning 1–1.5% more than money market funds with comparable safety and near-immediate liquidity.\r\n\r\nAfter a fundraise, startups park 18–24 months of cash in a money market fund and draw it down gradually, paying for same-day liquidity on cash they won't touch for months. Every existing treasury product does the same thing: sweep into an MMF and charge a fee. \r\n\r\nPalus replaces that with a bond portfolio optimized for startup treasuries, targeting 4.5–5% vs. ~3.5% from money market. On a $10M allocation, that's an extra $100–150K per year in runway. Fortune 500 treasury teams use these kinds of portfolios all the time, but they've never been easily accessible to startups until now.\r\n\r\nWe're the only startup treasury product with a differentiated investment strategy. Everyone else is just a wrapper on a money market fund. \r\n\r\nInstead of replacing your bank, we plug into it via Plaid, so founders can spend five minutes optimizing their treasury strategy with Palus and get back to building their company.",
-    "one_liner": "Better yields on idle cash for startups and SMBs",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1773084349,
-    "tags": [
-      "Fintech",
-      "Finance",
-      "B2B"
+    "id": 31236,
+    "name": "Balance",
+    "slug": "getbalance",
+    "former_names": [
+      "Balance",
+      "Balance AI"
     ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palus-finance",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/palus-finance.json"
-  },
-  {
-    "id": 31188,
-    "name": "Maywood",
-    "slug": "maywood",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25766f301c649782f67a8e41bd075b4e72544918.png",
-    "website": "https://maywoodai.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
-    "one_liner": "AI for M&A",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1770247865,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ea7352fed58904bc7cc1f143d4af52e98a52d64.png",
+    "website": "https://getbalance.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Balance is an AI accounting firm that helps SMBs close their monthly books. Our agents do the work of an in-house finance hire, reconciling books in real time and flagging issues before they become problems.",
+    "one_liner": "Full-Stack AI Accounting",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768976472,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
       "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maywood",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
-  },
-  {
-    "id": 31204,
-    "name": "Forum",
-    "slug": "forum",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d74562fedba22811a7ce25c1922d244abfba883.png",
-    "website": "https://www.forum.market/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Forum is building the first regulated exchange to trade on cultural attention.\r\n\r\nWe create indices from search, social, and streaming data to measure what the world cares about, enabling users to go long or short on changes in relevance.\r\n\r\nAttention is the primary driver of business success in the digital age, but it has never been directly tradable. Forum introduces attention as a new asset class for managing cultural and demand risk.",
-    "one_liner": "The first regulated exchange to trade on attention.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1768809553,
-    "tags": [
-      "Finance",
-      "Investing",
-      "Trading"
+      "B2B",
+      "Workflow Automation",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3684,19 +3606,20 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/forum",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/forum.json"
+    "url": "https://www.ycombinator.com/companies/getbalance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
   },
   {
     "id": 31429,

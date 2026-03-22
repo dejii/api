@@ -2302,52 +2302,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json"
   },
   {
-    "id": 31051,
-    "name": "Corvera",
-    "slug": "corvera",
-    "former_names": [
-      "Sarah.AI",
-      "Sarah AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
-    "website": "https://www.corvera.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) is the AI agent workforce for CPG back-office. We help brands increase profits by up to 40% by deploying digital workers that run their operations on autopilot.\r\n\r\nAs of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 130% week-on-week.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nOur mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nOur vision is even bolder: to be the orchestration layer of the $5.4T global CPG industry.\r\n\r\nVisit www.corvera.ai to learn more!",
-    "one_liner": "AI agents for CPG brands",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1763141207,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corvera",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/corvera.json"
-  },
-  {
     "id": 31100,
     "name": "Sentrial",
     "slug": "sentrial",
@@ -2392,52 +2346,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
   },
   {
-    "id": 31128,
-    "name": "Cumulus Labs",
-    "slug": "cumulus-labs",
-    "former_names": [
-      "Cumulus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
-    "website": "https://cumuluslabs.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cumulus Labs is a fast multimodal inference provider, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work on fine-tuned & open source models.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with configurations and babysitting infrastructure that slows/breaks at scale. Big providers like Fireworks are convenient but extremely expensive and idle GPUs.\r\n\r\nCumulus ships Ion, a proprietary inference engine that run LLMs, VLMs, and audio/video gen with high performance and lower cost by specifically optimizing for NVIDIA Grace chips.",
-    "one_liner": "Performant serverless GPU inference",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768427687,
-    "tags": [
-      "AIOps",
-      "B2B",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cumulus-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
-  },
-  {
     "id": 31165,
     "name": "IncidentFox",
     "slug": "brownie",
@@ -2479,48 +2387,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brownie",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/brownie.json"
-  },
-  {
-    "id": 31172,
-    "name": "Terminal Use",
-    "slug": "terminal-use",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
-    "website": "https://www.terminaluse.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Terminal Use is an orchestration platform for background agents. Purpose-built for agents that use filesystems. Our platform is CLI-first, making it easy for your coding agents to experiment and continuously improve your deployed agents.",
-    "one_liner": "Vercel for background agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770866075,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Workflow Automation",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terminal-use",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/terminal-use.json"
   }
 ]

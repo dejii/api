@@ -788,8 +788,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddad5e732e1515ab69da4100f7fa6d3a5d491e82.png",
     "website": "http://operator.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Operator is the easiest way for your agent to programmatically deploy, design, and assign tasks to a fleet of OpenClaw AI agents. \r\n",
-    "one_liner": "Design and deploy OpenClaw agents with one API",
+    "long_description": "Operator helps you build and test skills for your AI agents until they actually work. Describe what you need, run variants, keep what wins.",
+    "one_liner": "Build, test, and deploy skills for AI agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -10917,49 +10917,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/zeroeval.json"
   },
   {
-    "id": 30639,
-    "name": "Return Signals",
-    "slug": "return-signals",
-    "former_names": [
-      "Material Model"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/487ac0ad9f618f937dd875c80053d719f8a25d07.png",
-    "website": "https://www.returnsignals.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI customer support that proactively engages high-value users. By using LLM’s to engage customers in an authentic way before they reach out to customer support we minimize support tickets, build relationships and deliver upsells.\r\n\r\nBecause we are helpful and human-like, our SMS outbound has 4-10x higher response rate than Emotive/Attentive/Postscript or any other product on the market.",
-    "one_liner": "AI customer support that proactively engages high-value users",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771009461,
-    "tags": [
-      "Generative AI",
-      "Customer Success",
-      "Customer Support",
-      "SMS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/return-signals",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/return-signals.json"
-  },
-  {
     "id": 30684,
     "name": "Doe",
     "slug": "doe",
@@ -11000,6 +10957,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doe",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/doe.json"
+  },
+  {
+    "id": 30721,
+    "name": "Knowlify",
+    "slug": "knowlify",
+    "former_names": [
+      "Knowlify",
+      "Ritvik Varada"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c7327b2253f8bd8e5f5ae01e113ba12ee0e4bd.png",
+    "website": "https://www.knowlify.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Knowlify makes it easy for companies to create animated explainer videos using AI. Upload any document and/or prompt deck to get a professional explainer video in minutes - no designers, animators, or video editors needed. \r\n\r\nTeams use Knowlify to produce training videos, customer literacy videos, product explainers, onboarding content, and internal communications at a fraction of the traditional cost and timeline. \r\n\r\nAvailable as a self-serve platform or a fully managed service.",
+    "one_liner": "The AI Explainer Video Maker",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1754937543,
+    "tags": [
+      "Artificial Intelligence",
+      "Education",
+      "Generative AI",
+      "Video",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/knowlify",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/knowlify.json"
   },
   {
     "id": 30736,
@@ -11272,7 +11274,7 @@
     "website": "https://absurd.com/",
     "all_locations": "",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
-    "one_liner": "AI Brand and Performance Ads",
+    "one_liner": "Agents for creative production",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -11390,175 +11392,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bear",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bear.json"
-  },
-  {
-    "id": 31082,
-    "name": "Syntropy",
-    "slug": "syntropy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
-    "website": "https://syntropy.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntropy is an autonomous coding agent built for complex long-horizon tasks, that turns a feature description into a fully tested implementation. Instead of babysitting a terminal for hours writing prompts and managing context, just describe what you want, go out for lunch, and come back to a production-ready PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integrations.",
-    "one_liner": "Ship code like a power user from day one.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1772518250,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Workflow Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntropy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/syntropy.json"
-  },
-  {
-    "id": 31091,
-    "name": "Sonarly",
-    "slug": "sonarly",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
-    "website": "https://sonarly.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We want software to improve itself.\r\n\r\nSonarly connects to your monitoring stack - tools like Sentry, Datadog, and Grafana - and triages every alert to remove noise and duplicates. It then investigates logs, traces, metrics, and code to build a living map of your production system and find root cause. The result is either a ready-to-merge fix PR or a recommendation to update your alerting rules so the noise never comes back.",
-    "one_liner": "The AI that fixes prod autonomously",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1765492562,
-    "tags": [
-      "Developer Tools",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sonarly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sonarly.json"
-  },
-  {
-    "id": 31152,
-    "name": "Fern (Formerly Ishiki Labs)",
-    "slug": "ishikilabs",
-    "former_names": [
-      "ProactiveAI",
-      "Ishiki Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/937df36cb9a1992b6e2ab4f4415451f1ad6f7174.png",
-    "website": "https://getfern.ai",
-    "all_locations": "",
-    "long_description": "Fern is a real time AI that runs sales playbooks live in a sales call so any person can function as a top sales person. During the call, Fern will listen to the conversation and provide realtime coaching and help the sales person with questions about product, competitors and discovery. It’s like having a senior AE on every call giving suggestions in the background.\r\n",
-    "one_liner": "Realtime AI meeting assistant starting with sales",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768297786,
-    "tags": [
-      "Deep Learning",
-      "Generative AI",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ishikilabs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishikilabs.json"
-  },
-  {
-    "id": 31203,
-    "name": "sitefire",
-    "slug": "sitefire",
-    "former_names": [
-      "pulse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
-    "website": "https://sitefire.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "sitefire helps companies win customers on ChatGPT, Gemini, and other AI agents. We identify the content that drives AI visibility, and recommend actions that work: third-party sites, UGC content, and new blog posts. But we don’t stop there. sitefire synthesizes the top-cited web pages into AI-optimized, ready-to-publish web pages. You just publish and start winning leads.",
-    "one_liner": "Marketing suite for the agentic web",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1770178936,
-    "tags": [
-      "Generative AI",
-      "Marketing",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sitefire",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
   },
   {
     "id": 31276,

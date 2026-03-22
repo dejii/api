@@ -3286,6 +3286,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/serra.json"
   },
   {
+    "id": 28879,
+    "name": "Menza",
+    "slug": "menza",
+    "former_names": [
+      "Latentspace"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
+    "website": "https://menza.ai/",
+    "all_locations": "",
+    "long_description": "Menza is the AI data analyst for consumer brands. A brand like Hershey’s would connect all of their data sources and then we give them an AI analyst that works 24/7 looking for revenue opportunities, cost leaks, trends and anomalies.",
+    "one_liner": "The AI data analyst for consumer brands",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1691019522,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/menza",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/menza.json"
+  },
+  {
     "id": 28978,
     "name": "Khoj",
     "slug": "khoj",
@@ -6567,51 +6611,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
   },
   {
-    "id": 31000,
-    "name": "Vector Legal",
-    "slug": "vector-legal",
-    "former_names": [
-      "Cadence",
-      "Raise"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24fe2cfdacb0c9b085052b0bee9ce77035a7373e.png",
-    "website": "https://vectorlegal.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "A modern solution for Startup legal: Vector Legal is a hybrid AI law firm + legal tech platform. Our customers benefit from state of the art software for their legal operations + an experienced lawyer-in-the-loop. \r\n\r\nServices: fundraise & priced rounds | customer contracts | team growth & equity | AI draft & review | agentic data room | e-signatures | contract intelligence | legal health checks | mergers & acquisitions | co-founder separations | company formation.",
-    "one_liner": "AI Law Firm + Legal Tech Platform for Startups",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1771526564,
-    "tags": [
-      "Legal",
-      "LegalTech",
-      "Operations",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vector-legal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/vector-legal.json"
-  },
-  {
     "id": 31001,
     "name": "Fastshot",
     "slug": "fastshot",
@@ -6737,49 +6736,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/claimglide.json"
   },
   {
-    "id": 31082,
-    "name": "Syntropy",
-    "slug": "syntropy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e19b35070e7d07faf76c0c63ed399bd1286b5daf.png",
-    "website": "https://syntropy.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntropy is an autonomous coding agent built for complex long-horizon tasks, that turns a feature description into a fully tested implementation. Instead of babysitting a terminal for hours writing prompts and managing context, just describe what you want, go out for lunch, and come back to a production-ready PR. Syntropy joins your Slack to send you updates, and also supports custom MCP integrations.",
-    "one_liner": "Ship code like a power user from day one.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1772518250,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Workflow Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntropy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/syntropy.json"
-  },
-  {
     "id": 31104,
     "name": "Cofia",
     "slug": "cofia",
@@ -6819,50 +6775,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cofia",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cofia.json"
-  },
-  {
-    "id": 31107,
-    "name": "Clam (formerly Baseframe)",
-    "slug": "clam",
-    "former_names": [
-      "BaseFrame",
-      "Clam"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5a9e3c752f35fdf71eba1c872ab536a75ec4db4.png",
-    "website": "https://tryclam.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI frameworks like OpenClaw have a major issue: data security. \r\n\r\nWhether you're an enterprise or an individual exploring AI, your data should stay protected.\r\n\r\nClam brings enterprise-grade security through their “Semantic Firewall”, a security checkpoint that sits around the AI's environment at the network level. \r\n\r\nOur system runs a series of scans on anything your AI sends out into the world and everything that comes in to catch inconsistencies before they turn into problems. Each message is scanned for personal info leaks (SSNs, credit cards, private keys), prompt injection attempts (jailbreaks, instruction overrides), and malicious code (reverse shells, encoded execution). \r\n\r\nTo keep your data even safer, API keys and secrets are injected at the network level so the AI never sees or stores your credentials. \r\n\r\nDeploy and set up broad-access AI agents built on security with Clam. \r\n",
-    "one_liner": "Enterprise-grade security for broad-access AI Agents like OpenClaw",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768518655,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Security",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clam",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/clam.json"
   },
   {
     "id": 31117,
@@ -6953,64 +6865,27 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carson.json"
   },
   {
-    "id": 31183,
-    "name": "Patientdesk.ai",
-    "slug": "patientdeskai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61038c47ba4c75630383f542220a03d2ed7b93d4.png",
-    "website": "https://patientdesk.ai/",
-    "all_locations": "",
-    "long_description": "Patientdesk is an AI bookings system that helps healthcare practices make more money. We do this by handling bookings, payments, and insurance to fill up a provider's calendar with high value appointments. ",
-    "one_liner": "AI voice agent for patient calls & admin workflows",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1764074488,
-    "tags": [
-      "Customer Service",
-      "Call Center",
-      "Conversational AI",
-      "AI Assistant"
+    "id": 31236,
+    "name": "Balance",
+    "slug": "getbalance",
+    "former_names": [
+      "Balance",
+      "Balance AI"
     ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/patientdeskai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/patientdeskai.json"
-  },
-  {
-    "id": 31207,
-    "name": "Caretta",
-    "slug": "caretta",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b2cec49b6c47c5edddfb78c96e58a79924a1032.png",
-    "website": "https://www.caretta.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Caretta is a Sales Intelligence for revenue teams. It joins reps in live calls, helping them handle information requests, questions, and objections in real time. Caretta lives in Slack to join the team conversation.\r\n\r\nCaretta gets smarter automatically: every call expands its knowledge base and objection library, turning conversations into compounding organizational advantage.",
-    "one_liner": "Realtime AI for Sales Calls",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ea7352fed58904bc7cc1f143d4af52e98a52d64.png",
+    "website": "https://getbalance.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Balance is an AI accounting firm that helps SMBs close their monthly books. Our agents do the work of an in-house finance hire, reconciling books in real time and flagging issues before they become problems.",
+    "one_liner": "Full-Stack AI Accounting",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1765447039,
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768976472,
     "tags": [
-      "SaaS",
-      "Sales",
-      "Sales Enablement",
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Workflow Automation",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -7021,19 +6896,57 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "United Kingdom",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caretta",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/caretta.json"
+    "url": "https://www.ycombinator.com/companies/getbalance",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
+  },
+  {
+    "id": 31244,
+    "name": "Crow",
+    "slug": "crow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png",
+    "website": "https://www.usecrow.ai/",
+    "all_locations": "",
+    "long_description": "Crow lets users control your app through chat. Connect Crow's AI agent to your product, and users can type what they want instead of clicking through menus.\r\n\r\nCrow connects to your APIs and data sources, navigates your UI, and executes real actions. Set guardrails, define workflows, track every interaction, and deploy in under a week—no rebuilding required.",
+    "one_liner": "Let users control your app through chat",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768862675,
+    "tags": [
+      "SaaS",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/crow.json"
   },
   {
     "id": 31333,

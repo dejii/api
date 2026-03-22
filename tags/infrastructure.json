@@ -4126,49 +4126,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json"
   },
   {
-    "id": 31003,
-    "name": "Voltair",
-    "slug": "voltair",
-    "former_names": [
-      "Voltair Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a981c3ee0de6ecf9a915e188b211780fce335e44.png",
-    "website": "https://voltairlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voltair is building the world's first globally distributed network of autonomous drones for Earth observation.\r\n\r\nPower utilities are the perfect first customer. Aging infrastructure and extreme weather drive the need for millimeter-scale inspection data on the power grid. Utilities spend tens of billions of dollars every year just looking at their own equipment. Autonomous drone fleets will enable utilities to inspect 7 million miles of infrastructure more frequently, quickly, and accurately. Our long-range, weatherized flying robots work with charging pads installed directly on utility poles. Each new pad unlocks 1000 square miles of coverage.\r\n\r\nWith a charging network deployed on the power grid, we can serve existing multi-billion dollar data markets in road, rail and telecom inspection at 10x lower prices while enabling entirely new applications in hyperlocal weather monitoring, forestry, construction, search & rescue, and insurance.\r\n\r\nWe envision a future in which drone \"instances\" are requested on-demand through our platform, enabling any application builder to serve these critical markets without ever operating their own hardware.",
-    "one_liner": "Globally distributed network of autonomous drones for Earth…",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1766190509,
-    "tags": [
-      "Drones",
-      "Energy",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voltair",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/voltair.json"
-  },
-  {
     "id": 31010,
     "name": "Amika",
     "slug": "amika",
@@ -4213,69 +4170,25 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json"
   },
   {
-    "id": 31110,
-    "name": "Cascade",
-    "slug": "cascade",
+    "id": 31080,
+    "name": "Didit",
+    "slug": "didit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc110e9433eb8ebeb8edd42c08cec81dca5f15c.png",
-    "website": "https://runcascade.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
+    "website": "https://didit.me/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cascade builds software infrastructure for autonomous intelligence with self-improving safety and reliability models that continuously maintain, update, and prevent threats and failures at scale.",
-    "one_liner": "Making Autonomous Intelligence Safe & Reliable",
-    "team_size": 2,
+    "long_description": "Didit is an all-in-one identity platform that lets humans prove who they are starting with a face scan. It powers the fastest identity verification in the market, fights fraud by default, and unifies all identity checks with simple pay-per-use pricing.",
+    "one_liner": "Identity platform for fast human verification.",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770726393,
+    "launched_at": 1764601102,
     "tags": [
-      "Artificial Intelligence",
+      "SaaS",
       "B2B",
-      "Security",
+      "Identity",
       "Infrastructure",
-      "Trust & Safety"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cascade",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cascade.json"
-  },
-  {
-    "id": 31128,
-    "name": "Cumulus Labs",
-    "slug": "cumulus-labs",
-    "former_names": [
-      "Cumulus"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
-    "website": "https://cumuluslabs.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cumulus Labs is a fast multimodal inference provider, purpose-built for AI teams who want faster performance, lower costs, and zero infrastructure work on fine-tuned & open source models.\r\n\r\nMost teams today are stuck choosing between bad options. Self-hosting inference means wrestling with configurations and babysitting infrastructure that slows/breaks at scale. Big providers like Fireworks are convenient but extremely expensive and idle GPUs.\r\n\r\nCumulus ships Ion, a proprietary inference engine that run LLMs, VLMs, and audio/video gen with high performance and lower cost by specifically optimizing for NVIDIA Grace chips.",
-    "one_liner": "Performant serverless GPU inference",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768427687,
-    "tags": [
-      "AIOps",
-      "B2B",
-      "Cloud Computing",
-      "Infrastructure"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4298,8 +4211,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cumulus-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
+    "url": "https://www.ycombinator.com/companies/didit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   },
   {
     "id": 31147,
@@ -4343,89 +4256,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/salus",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/salus.json"
-  },
-  {
-    "id": 31171,
-    "name": "Overshoot",
-    "slug": "overshoot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cabbe8c8fd17d316132f3dc3a13e469c74ebb408.png",
-    "website": "https://overshoot.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overshoot makes it easy for developers to build and run real-time vision applications.\r\n\r\nAI can see and understand the physical world. This unlocks new applications in physical security, safety, gaming, robotics and general consumer products. Soon, video agents will watch your home and your pet when you’re away. \r\n\r\nHowever, existing platforms make it painful for developers to build these real-time applications. Slow inference. Limited model availability. Break at scale. \r\n\r\nOvershoot solves this.\r\n\r\nToday, 300+ developers connect live video feeds to the largest collection of Vision Language Models with 3 lines of code. And get responses in less than 200ms. 10x faster than any existing inference platform. Zero infra headache. \r\n\r\nOur moat is focus. Image and Video are fundamentally different modalities from text. By focusing on them, we are able to make strong technical leaps from codec, streaming protocols to inference engines.\r\n\r\nYounes and Zakaria are cousins. Zakaria graduated top of his class at LSE and MIT, and later built low-latency high-throughput pricing systems (surge) at Uber and inference engines at Meta. He previously built and sold a software product and won several prominent AI hackathons. Younes was a founding engineer at Cosmonio (later acquired by Intel). He built a training and serving Computer Vision platform from scratch. He witnessed firsthand customers abandoning traditional Computer Vision because it lacked the “general” intelligence LLMs have today. Together we’ve shipped large-scale systems and know where they break.",
-    "one_liner": "AI Infra for real-time vision applications",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1770705031,
-    "tags": [
-      "Artificial Intelligence",
-      "Computer Vision",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overshoot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/overshoot.json"
-  },
-  {
-    "id": 31172,
-    "name": "Terminal Use",
-    "slug": "terminal-use",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c1f9c6555570a59695390a5a40a26ba79862a09.png",
-    "website": "https://www.terminaluse.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Terminal Use is an orchestration platform for background agents. Purpose-built for agents that use filesystems. Our platform is CLI-first, making it easy for your coding agents to experiment and continuously improve your deployed agents.",
-    "one_liner": "Vercel for background agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1770866075,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Workflow Automation",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terminal-use",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/terminal-use.json"
   },
   {
     "id": 31192,
@@ -4472,46 +4302,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
   },
   {
-    "id": 31213,
-    "name": "Byteport",
-    "slug": "byteport",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/462f2cba50e8812c9f84433bea456da30ecab7fa.png",
-    "website": "https://byteport.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Founded in 2025, Byteport is a technology company that builds mission-critical network infrastructure for robotics, satellite, AI, and enterprise applications all over the world. Businesses of every size—from new startups to public companies—use our software to accelerate file transfer online.",
-    "one_liner": "Global upload acceleration for 1GB-100TB files.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768498499,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/byteport",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/byteport.json"
-  },
-  {
     "id": 31217,
     "name": "Polymath",
     "slug": "polymath",
@@ -4522,17 +4312,17 @@
     "website": "https://polymathlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re heading towards a future where AI agents will be able to perform useful work over long horizons, with little or no human supervision. To increase the reliability, performance, and safety of autonomous agents, they must be trained in simulation environments that reflect the real world. Polymath builds simulated worlds for agents to practice and learn through experience.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
-    "one_liner": "Applied Intuition for AI agents",
+    "one_liner": "Worlds for training & evaluating long-horizon agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1769103780,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B",
       "Big Data",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4601,48 +4391,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/the-token-company",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
-  },
-  {
-    "id": 31252,
-    "name": "Moda",
-    "slug": "moda",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76a18751e4b95b7b3cf621f7752449405d71aa5.png",
-    "website": "https://usemoda.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moda is the reliability & monitoring layer for agents. It surfaces patterns across agent hallucinations, laziness, forgetfulness, and tool call failures. While also providing analytics on user frustration, net promoter score, retention, and churn rates.\r\n\r\nIn the next 10 years, with more AI agents spawning and trying to get PMF, developing an agent that actually works for users is critical. Everyone has access to the same models, thus the ones that win on a product level will be the ones who learn fastest from real usage. Moda is that learning layer.",
-    "one_liner": "The reliability & monitoring layer your AI agents need.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1769121297,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Analytics",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moda",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/moda.json"
   },
   {
     "id": 31329,

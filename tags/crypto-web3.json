@@ -4100,93 +4100,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
-    "id": 31040,
-    "name": "CatchBack Cards",
-    "slug": "catchback-cards",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0644b8171c881f538c641dd16d392e4a337d36f5.png",
-    "website": "https://catchbackcards.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CatchBack Cards is a mobile app and website platform for maximizing the thrill of collecting Pokemon and Sports cards. We allow collectors to create custom mystery packs with personalized chases and customized odds with cryptographically trusted tooling. Users can rip open digital packs and get physical cards shipped to them, receive buyback offers on cards pulled from their mystery packs sent straight to Venmo and PayPal, and buy/sell cards in our $1 marketplace.\r\n",
-    "one_liner": "a platform for maximizing the thrill of collecting trading cards",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1769404688,
-    "tags": [
-      "Crypto / Web3",
-      "Consumer",
-      "NFT"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/catchback-cards",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/catchback-cards.json"
-  },
-  {
-    "id": 31154,
-    "name": "Orthogonal",
-    "slug": "orthogonal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec4d813cd81be3598547a305102414461123fea9.png",
-    "website": "https://orthogonal.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "APIs weren’t built for agents. Orthogonal fixes that. Developers and agents get instant access to hundreds of APIs through our MCP or SDK. No API key management, no billing headaches, pay as you go. API providers list once and become instantly discoverable.",
-    "one_liner": "Agentic Payments for APIs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1769466101,
-    "tags": [
-      "Artificial Intelligence",
-      "Crypto / Web3",
-      "Payments",
-      "API"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orthogonal",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/orthogonal.json"
-  },
-  {
     "id": 31227,
     "name": "Sequence Markets",
     "slug": "sequence-markets",
@@ -4194,17 +4107,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets helps crypto traders save millions in hidden slippage by sourcing liquidity across CEX and DEX venues in one workflow.\r\n\r\nDigital asset liquidity is fragmented across hundreds of venues. Teams are forced into manual venue-by-venue workflows, stitching order books in spreadsheets, with zero visibility into execution quality. The result? Inconsistent fills and millions in hidden slippage.\r\n\r\nWe built ultra-low-latency execution infrastructure (colocated servers, hardware accelerated networking, compiled code speed) with sub 12 microsecond internal latency (faster than NYSE). Our stack enables strategies that weren't possible before.\r\n\r\nSave millions by eliminating hidden slippage. Make billions by trading faster and smarter",
-    "one_liner": "Low latency infrastructure for fragmented crypto markets",
+    "long_description": "Sequence Markets lets traders execute across crypto exchanges, prediction markets, and tokenized-asset venues from one system.\r\n\r\nWe built proprietary low-latency infrastructure and routing software so users can package one market view into one trade instead of stitching together fragmented venues and workflows by hand.",
+    "one_liner": "One place to trade crypto, prediction markets, and tokenized assets.",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Crypto / Web3",
-      "Payments",
-      "AI"
+      "Crypto / Web3"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -4225,52 +4137,8 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
-  },
-  {
-    "id": 31296,
-    "name": "Unifold",
-    "slug": "unifold",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
-    "website": "https://unifold.io",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Launch crypto deposits in minutes. \r\n\r\nUnifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works.\r\n\r\nIf you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.\r\n",
-    "one_liner": "Multi-chain deposit and payment infrastructure",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1771008732,
-    "tags": [
-      "Fintech",
-      "Crypto / Web3",
-      "Payments",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unifold",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
   }
 ]

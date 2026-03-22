@@ -6445,7 +6445,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18513,7 +18513,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25889,18 +25889,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
     "website": "https://www.usekita.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
     "one_liner": "Automate credit review for lenders in emerging markets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767738733,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Emerging Markets"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25911,8 +25907,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25932,19 +25927,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
     "website": "https://axisanalysis.com",
     "all_locations": "",
-    "long_description": "Axis is building an AI Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market.\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.\r\n",
-    "one_liner": "An AI System for Institutional Trading Desks",
+    "long_description": "Axis is building an AI Native Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market.\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.\r\n",
+    "one_liner": "An AI-Native Trading System",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1769120993,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Analytics",
-      "Market Research",
-      "Trading"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25961,7 +25950,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/axis-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/axis-2.json"
   },
@@ -25974,7 +25963,7 @@
     "website": "https://zerosettle.io",
     "all_locations": "",
     "long_description": "ZeroSettle is a mobile SDK that switches customers from App Store billing to direct billing. It takes 15 minutes to set up and immediately unlocks zero App Store fees, higher retention/conversion, and instant payouts.",
-    "one_liner": "Keep 30% More of Your Mobile App Revenue with Direct Billing",
+    "one_liner": "Drop-in Direct Billing SDK for In-App Purchases",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -26009,17 +25998,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0848c6eda1cd290639119a9922d58316825a98e4.png",
     "website": "https://palus.finance",
     "all_locations": "",
-    "long_description": "Palus Finance gives startups and SMBs access to institutional-grade bond portfolios, earning 1–1.5% more than money market funds with comparable safety and near-immediate liquidity.\r\n\r\nAfter a fundraise, startups park 18–24 months of cash in a money market fund and draw it down gradually, paying for same-day liquidity on cash they won't touch for months. Every existing treasury product does the same thing: sweep into an MMF and charge a fee. \r\n\r\nPalus replaces that with a bond portfolio optimized for startup treasuries, targeting 4.5–5% vs. ~3.5% from money market. On a $10M allocation, that's an extra $100–150K per year in runway. Fortune 500 treasury teams use these kinds of portfolios all the time, but they've never been easily accessible to startups until now.\r\n\r\nWe're the only startup treasury product with a differentiated investment strategy. Everyone else is just a wrapper on a money market fund. \r\n\r\nInstead of replacing your bank, we plug into it via Plaid, so founders can spend five minutes optimizing their treasury strategy with Palus and get back to building their company.",
-    "one_liner": "Better yields on idle cash for startups and SMBs",
+    "long_description": "Palus Finance is the first treasury management platform with a higher-yield bond portfolio for companies’ idle cash. We launched in late February and are live with 33 companies, growing 110% week-over-week.\r\n\r\nExisting startup/SMB treasury products just sweep cash into a money market fund and charge a high management fee. Palus offers a short-duration bond portfolio which safely earns ~40% more yield than money market funds, with sub-3-day liquidity and easy integration with customers' existing bank accounts. We see treasury as a great wedge to eventually offer full-suite banking services to all high-growth companies.\r\n\r\nSam and Michael are technical cofounders who met at Caltech. Sam previously built the AI research platform for a $3T AUM asset manager; Michael built quantum computers for the defense industry.",
+    "one_liner": "40% higher yields on companies' idle cash.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1773084349,
-    "tags": [
-      "Fintech",
-      "Finance",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -26047,17 +26032,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
     "website": "https://www.verdexai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Verdex replaces manual inspections in insurance with real-time digital audits. We use high-resolution satellite imagery to help insurers verify and settle claims without ever leaving their desks, starting with crop insurance. We are currently helping to insure over 11% of all American farmland.\r\n",
-    "one_liner": "Satellite Imagery Verification for Insurance",
+    "one_liner": "AI Verification for Insurance",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1768239774,
-    "tags": [
-      "Insurance",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -26069,8 +26051,7 @@
       "Insurance"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26088,7 +26069,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
     "website": "https://proximitty.ai",
     "all_locations": "",
-    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nWe build unified lending data layers and personalised risk scoring models to power AI agents that dynamically learn, adapt and increase collection rates for banks, credit unions and fintechs, while automating complex servicing workflows with no-code browser agents.\r\n\r\nIn < 3 weeks, we're working with 4 large banks and fintechs that process over >$2B of delinquent loans.",
+    "long_description": "Proximitty helps build autonomous business loan servicing teams for fintechs and banks.\r\n\r\nOur AI agents monitor loan portfolios and collect commercial loans autonomously with our proprietary agent studio. In < 3 weeks, we're working with 4 large banks and F1000 fintechs that process over >$2B of delinquent loans.\r\n\r\nOur goal is to be the AI-native commercial debt buyer.",
     "one_liner": "Autonomous business loan servicing",
     "team_size": 2,
     "industry": "Fintech",
@@ -26129,17 +26110,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Specialized AI agents for banks to 10x back office functions.\r\n\r\n💰 Make a lot more money by processing loans in minutes, not months.  \r\n🤩  Offer stellar customer experiences by resolving complaints in seconds.  \r\n💪 Investigate 10X fraud and money-laundering cases with bulletproof audit logs, and pass every regulatory exam. ",
-    "one_liner": "The most powerful AI agents for back office at banks ",
+    "long_description": "We're building the Harvey for traditional financial services, starting with compliance use cases for small- to mid-sized banks in the US.\r\n\r\nSpecialized AI agents for banks to 10x back office functions, which helps them pass regulatory exams and improve their efficiency ratios - the top 2 things every bank board cares about.\r\n\r\n",
+    "one_liner": "AI agents for banking back office",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1769406704,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
-      "Compliance",
-      "AI"
+      "B2B",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26170,19 +26150,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25766f301c649782f67a8e41bd075b4e72544918.png",
     "website": "https://maywoodai.com/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Maywood automates deal execution for investment banks, from decks to diligence\r\n\r\nThe Maywood platform automatically generates finished, on-brand CIMs / presentations, models, and diligence responses that prioritizes editability and auditability, with best-in-class security ensuring information stays protected.\r\n\r\nMaywood reinvents the deal process with a single, living workspace for every deal.",
-    "one_liner": "AI for M&A",
+    "one_liner": "Automating the entire IB deal workflow",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1770247865,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -26194,8 +26169,6 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -26250,18 +26223,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d74562fedba22811a7ce25c1922d244abfba883.png",
     "website": "https://www.forum.market/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Forum is building the first regulated exchange to trade on cultural attention.\r\n\r\nWe create indices from search, social, and streaming data to measure what the world cares about, enabling users to go long or short on changes in relevance.\r\n\r\nAttention is the primary driver of business success in the digital age, but it has never been directly tradable. Forum introduces attention as a new asset class for managing cultural and demand risk.",
     "one_liner": "The first regulated exchange to trade on attention.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1768809553,
-    "tags": [
-      "Finance",
-      "Investing",
-      "Trading"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -26272,8 +26241,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26291,17 +26259,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets helps crypto traders save millions in hidden slippage by sourcing liquidity across CEX and DEX venues in one workflow.\r\n\r\nDigital asset liquidity is fragmented across hundreds of venues. Teams are forced into manual venue-by-venue workflows, stitching order books in spreadsheets, with zero visibility into execution quality. The result? Inconsistent fills and millions in hidden slippage.\r\n\r\nWe built ultra-low-latency execution infrastructure (colocated servers, hardware accelerated networking, compiled code speed) with sub 12 microsecond internal latency (faster than NYSE). Our stack enables strategies that weren't possible before.\r\n\r\nSave millions by eliminating hidden slippage. Make billions by trading faster and smarter",
-    "one_liner": "Low latency infrastructure for fragmented crypto markets",
+    "long_description": "Sequence Markets lets traders execute across crypto exchanges, prediction markets, and tokenized-asset venues from one system.\r\n\r\nWe built proprietary low-latency infrastructure and routing software so users can package one market view into one trade instead of stitching together fragmented venues and workflows by hand.",
+    "one_liner": "One place to trade crypto, prediction markets, and tokenized assets.",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767826402,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Crypto / Web3",
-      "Payments",
-      "AI"
+      "Crypto / Web3"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -26322,7 +26289,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
   },
@@ -26336,7 +26303,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
     "website": "https://usegrade.com",
     "all_locations": "",
-    "long_description": "Grade is the API for performance-based payroll. We make hiring and paying contractors risk free. Think of us like Deel or Gusto, but our payouts are for work completed, not hours.",
+    "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay contractors and AI agents based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts.",
     "one_liner": "API for performance-based payroll",
     "team_size": 2,
     "industry": "Fintech",
@@ -26407,22 +26374,15 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/710f285bfbafa7ec0d7936331011b69c72d32a9f.png",
     "website": "https://unifold.io",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Launch crypto deposits in minutes. \r\n\r\nUnifold is a developer-first API + SDK that makes it easy for any app to accept on-chain deposits – across any chain and token – with less than 10 lines of code. We handle the full deposit flow so teams can ship faster and give users a smooth experience that actually works.\r\n\r\nIf you’re building a consumer-facing on-chain product and want best-in-class deposits (or want to support more chains fast), we’d love to work with you.\r\n",
     "one_liner": "Multi-chain deposit and payment infrastructure",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1771008732,
-    "tags": [
-      "Fintech",
-      "Crypto / Web3",
-      "Payments",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags": [],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -26433,8 +26393,7 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

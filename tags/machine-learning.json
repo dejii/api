@@ -7982,13 +7982,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
     "one_liner": "Autonomous organizations without humans in the loop",
-    "team_size": 8,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1699380174,
     "tags": [
-      "Machine Learning",
-      "AI"
+      "Artificial Intelligence",
+      "Machine Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9866,91 +9866,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/amika.json"
   },
   {
-    "id": 31081,
-    "name": "One Robot",
-    "slug": "one-robot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e234115139eb6fced2e2703ae2ba2ee2d691412c.png",
-    "website": "https://www.onerobot.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "One Robot builds simulation environments that are realistic to see and realistic to interact with, so robotics teams can train and evaluate robot policies without being bottlenecked by robot time.\r\n\r\nToday, improving a VLA often means more real-world hours: setting up the scene, running trials, resetting, and repeating. This loop is slow, expensive, and hard to scale. For example, material handling and manufacturing assembly tasks, models need far more training and evaluation data than teams can collect in the real world.\r\n\r\nWe use task-specific data to build world model-based simulation environments for hard manipulation tasks (for example, textiles and box folding). These environments help teams run more training and evals, find failure modes faster, and accelerate iteration on action policies with less dependence on real-world data collection and robot availability.\r\n",
-    "one_liner": "World models for VLA evals and training.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1771897545,
-    "tags": [
-      "Hard Tech",
-      "Machine Learning",
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/one-robot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/one-robot.json"
-  },
-  {
-    "id": 31106,
-    "name": "Protent",
-    "slug": "protent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08fe208eabd322adf04efcdf91f3bf0f7efc1a4a.png",
-    "website": "https://protent.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide real-time video intelligence that identifies escalating incidents as they unfold. Protent detects early escalation patterns and predictive threat signals, giving surveillance staff the immediate context they need to prioritize alerts and intervene before situations spiral out of control.",
-    "one_liner": "Protent turns passive surveillance into proactive intelligence.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1767579587,
-    "tags": [
-      "Hardware",
-      "Machine Learning",
-      "SaaS",
-      "GovTech",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/protent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
-  },
-  {
     "id": 31145,
     "name": "RamAIn",
     "slug": "ramain",
@@ -10037,47 +9952,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
   },
   {
-    "id": 31242,
-    "name": "Booko",
-    "slug": "booko",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e9ec4aa927e0e98329effde763de82fc90df7c1.png",
-    "website": "https://bookoapp.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Booko helps businesses that sell bookable time slots make more money by dynamically pricing their time. Unlike physical inventory, unsold time slots disappear forever, yet most time-slot-based businesses still rely on static pricing. We integrate with existing booking systems to adjust prices and incentives based on historical utilization, availability, and demand. Early customers see ~20% revenue uplift by selling time that would have otherwise gone unsold.",
-    "one_liner": "Dynamic pricing for businesses that sell time slots",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769199393,
-    "tags": [
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/booko",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/booko.json"
-  },
-  {
     "id": 31250,
     "name": "The Token Company",
     "slug": "the-token-company",
@@ -10123,49 +9997,5 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/the-token-company",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
-  },
-  {
-    "id": 31283,
-    "name": "Librar Labs",
-    "slug": "librar-labs",
-    "former_names": [
-      "Librar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
-    "website": "https://www.librarlabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Librar Labs is the data and intelligence layer of literature.\r\n\r\nWe're working to solve the biggest bottleneck for the AI singularity: the world is full of massive amounts of unstructured knowledge that is hard for computers and AI to navigate. \r\n\r\nOur first commercial product is for the literature industry with a focus on school libraries. It captures and analyze unstructured (and pre-Librar unattainable) data using it to more than double reading rates at schools. Fastest growing library tech company ever backed by founders and operators of OpenAI, Depict, google maps, kahoot etc.\r\n",
-    "one_liner": "The data and intelligence layer of literature",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769303203,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Computer Vision",
-      "Data Labeling",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/librar-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/librar-labs.json"
   }
 ]
