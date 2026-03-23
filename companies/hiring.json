@@ -11014,7 +11014,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17407,7 +17407,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39748,46 +39748,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sendblue.json"
   },
   {
-    "id": 29026,
-    "name": "SyntheticFi",
-    "slug": "syntheticfi",
-    "former_names": [
-      "Cyclone",
-      "devmark"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21cd7289472fa982f68b9ab59329eb2acf583e66.png",
-    "website": "https://www.syntheticfi.com/",
-    "all_locations": "",
-    "long_description": "SyntheticFi offers a low-cost and low-hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.\r\n\r\nOur latest Hybrid Mortgage offering directly targets often the largest liability one takes in their life: the home mortgage. ",
-    "one_liner": "Low cost securities-backed lending for financial advisors and HNWI",
-    "team_size": 10,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1688426619,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntheticfi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/syntheticfi.json"
-  },
-  {
     "id": 29040,
     "name": "Inventive AI",
     "slug": "inventive-ai",
@@ -40101,9 +40061,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ParadeDB is an open source, ACID-compliant search and analytics database. Built on Postgres for update-heavy workloads.",
+    "long_description": "You want better search, not the burden of Elasticsearch. ParadeDB is the modern Elastic alternative built as a Postgres extension.",
     "one_liner": "Simple, Elastic-quality search for Postgres",
-    "team_size": 11,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -55531,18 +55491,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.\r\n\r\nTo learn more check out https://lumari.io/",
-    "one_liner": "AI Digital Workers for Supply Chain",
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "one_liner": "AI Digital Workers for Supply Chain ",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57401,16 +57361,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
+    "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
     "one_liner": "Vulnerability Management for the Human Layer ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57626,42 +57586,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/perseus-defense",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/perseus-defense.json"
-  },
-  {
-    "id": 30709,
-    "name": "Novaflow",
-    "slug": "novaflow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png",
-    "website": "https://www.novaflowapp.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months.\r\n\r\nResearchers at leading institutions like UCSF, Mount Sinai, UC Berkeley, and Harvard are already using Novaflow in their labs.",
-    "one_liner": "The AI data analyst for biology labs",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1753390612,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/novaflow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/novaflow.json"
   },
   {
     "id": 30710,
@@ -58432,7 +58356,7 @@
     "name": "Vulcan Technologies",
     "slug": "vulcan-technologies",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9dc164f31a43f3059a961dca44229c015bb26437.png",
     "website": "https://vulcan.ai/",
     "all_locations": "Austin, TX, USA",
     "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
@@ -60367,18 +60291,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6d1f298b9c57b01b04001ed5fb4e04350cf49c3.png",
     "website": "https://tryasimov.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "Asimov collects real-world human movement data from households and businesses to train humanoid robots. Unlike factory datasets that capture the same tasks in the same environments, we deliver the full diversity of real human environments, thousands of hours a day to leading labs.",
     "one_liner": "Real-world human movement data for humanoid robots",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1770974844,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Data Labeling"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60390,8 +60310,6 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -60493,19 +60411,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58aceddc6b7af2ca2c35058e943baf719c91fe1c.png",
     "website": "https://www.paxhistoria.co",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Pax Historia is an alternate-history sandbox game where players choose a country, a moment in time, and rewrite the course of history. What if Rome never fell? What if the Soviet Union survived? What if Genghis Khan ruled for another generation?\r\n\r\nWe go beyond history, too. What if aliens invaded Earth? What if you were a college dropout creating a tech startup? The ability to create, edit, and copy custom maps, actors, historical context, and more means that users can play nearly any scenario they can imagine.\r\n\r\nIn the last four months we've organically built a passionate fanbase of tens of thousands of daily active players and we're excited to expand on this early start. Consider joining us to help build vastly better tools for creators and experiences for players.",
     "one_liner": "The first AI-powered grand strategy platform",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1766621024,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "Consumer",
-      "Gaming"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60517,8 +60430,7 @@
       "Gaming"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -60653,18 +60565,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce063ef00a3ec0da3649fb79a819c0e6c1e88ebf.png",
     "website": "https://www.humanarchive.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
     "one_liner": "Multimodal data provider for robotics and world modeling",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1767518366,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Data Labeling"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60676,8 +60584,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -60842,19 +60749,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a3bd0b7bf890073bc7a6f793e377cb304145e60.png",
     "website": "https://scoutout.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Scout Out is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nScout Out replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Scout Out's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.\r\nWe're starting in Los Angeles, working closely with residential remodelers and contractors — including those managing post-fire rebuilds following the Palisades and Eaton fires.",
     "one_liner": "Keeping contractors on the job site, not behind a desk.",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1768343791,
-    "tags": [
-      "Real Estate",
-      "Construction",
-      "Proptech",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -60865,8 +60767,7 @@
       "Real Estate and Construction"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

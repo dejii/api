@@ -2217,9 +2217,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f0bdde9261c1483c617c9ca235a7378e3d7ba10.png",
     "website": "https://origin.bio/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Creating the largest patient-derived cancer single-cell dataset for licensing to pharmaceutical and AI companies. These datasets are unique as they rely on precise engineering of tumor and immune cells using our AI designed DNA switches.",
-    "one_liner": "AI and Data for Cell & Gene therapies",
+    "all_locations": "",
+    "long_description": "Creating the largest patient-derived cancer single-cell dataset for licensing to pharmaceutical and AI companies. These datasets are unique as they screen the effects of various drugs and genetic medicines under the control of our DNA switches.",
+    "one_liner": "AI and Data for Cancer Therapeutics",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -2236,8 +2236,7 @@
       "Drug Discovery and Delivery"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2256,7 +2255,7 @@
     "website": "https://strandai.com",
     "all_locations": "",
     "long_description": "Strand AI develops foundation models to generate missing bio-data about patients. With this imputed data, pharmaceutical companies can select better patients for their drug trials and shave months from their drug launch timelines. We’ve already trained a multimodal foundation model that integrates spatial biology modalities, beating SOTA at a fraction of the cost.",
-    "one_liner": "Multimodal foundation models to generate uncollected patient data",
+    "one_liner": "Multimodal foundation models to predict uncollected patient biology",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",

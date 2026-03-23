@@ -6445,7 +6445,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17390,7 +17390,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae92ae03ac6751b76d657b89f31e27c32bddc3d7.png",
     "website": "https://getpartna.com",
-    "all_locations": "Wilmington, DE, USA; LA, Nigeria; Remote",
+    "all_locations": "Wilmington, DE, USA; Remote",
     "long_description": "Modern companies use Partna's API and B2B payment tools to smoothly launch and operate in Africa",
     "one_liner": "Your Global payments partner for Africa",
     "team_size": 16,
@@ -17398,7 +17398,9 @@
     "subindustry": "Fintech",
     "launched_at": 1647334206,
     "tags": [
-      "Fintech"
+      "Fintech",
+      "Payments",
+      "Remittances"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17411,9 +17413,7 @@
     ],
     "regions": [
       "United States of America",
-      "Nigeria",
       "America / Canada",
-      "Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -22580,7 +22580,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -23927,6 +23927,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/finosu",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/finosu.json"
+  },
+  {
+    "id": 29810,
+    "name": "bluedoor",
+    "slug": "bluedoor",
+    "former_names": [
+      "OpenIndex",
+      "Actionbase",
+      "actionbase",
+      "Actionbase",
+      "Pumpkin",
+      "Leviathan"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2153ec2908ddcc519fbb6285abb74d57437686c4.png",
+    "website": "https://bluedoor.sh/",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "bluedoor is a CLI tool for stock research.",
+    "one_liner": "Professional-grade stock research in your terminal.",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1723408013,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluedoor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/bluedoor.json"
   },
   {
     "id": 29820,
@@ -25849,17 +25897,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dff0894649ff29064b020845633a9ebb22c2e9de.png",
     "website": "https://pantainsure.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
-    "one_liner": "Commercial insurance brokerage run by AI agents. Scales like software.",
-    "team_size": 4,
+    "one_liner": "AI Native Commercial Insurance Brokerage ",
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1766956081,
-    "tags": [
-      "Insurance",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25871,8 +25916,7 @@
       "Insurance"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25924,7 +25968,7 @@
     "former_names": [
       "Sweep"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98b9e8405a57cef88c6292e7c868cbaf3976efb5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df40cb588620cffc3ef3422877d0ebdcddbe4434.png",
     "website": "https://axisanalysis.com",
     "all_locations": "",
     "long_description": "Axis is building an AI Native Trading System, allowing a trader to deploy models that monitor and analyze relevant markets and strategies. We've chosen commodities as our first market.\r\nCommodities make up a third of global goods exports, and physical commodities traders decide the movement and storage of metals, agricultural products, and energy across the globe. They trade in public markets and bilateral OTC agreements. Engaging in these markets is complexing, covering derivatives positioning, refinery data, storage inventory, import/exports, geopolitical events and more. Axis is building an AI driven analytical layer for these markets.\r\n",
@@ -25998,8 +26042,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0848c6eda1cd290639119a9922d58316825a98e4.png",
     "website": "https://palus.finance",
     "all_locations": "",
-    "long_description": "Palus Finance is the first treasury management platform with a higher-yield bond portfolio for companies’ idle cash. We launched in late February and are live with 33 companies, growing 110% week-over-week.\r\n\r\nExisting startup/SMB treasury products just sweep cash into a money market fund and charge a high management fee. Palus offers a short-duration bond portfolio which safely earns ~40% more yield than money market funds, with sub-3-day liquidity and easy integration with customers' existing bank accounts. We see treasury as a great wedge to eventually offer full-suite banking services to all high-growth companies.\r\n\r\nSam and Michael are technical cofounders who met at Caltech. Sam previously built the AI research platform for a $3T AUM asset manager; Michael built quantum computers for the defense industry.",
-    "one_liner": "40% higher yields on companies' idle cash.",
+    "long_description": "Palus Finance is the first treasury management platform with a higher-yield bond portfolio for companies’ idle cash. We launched in late February and are live with 33 companies, growing 110% week-over-week.\r\n\r\nExisting startup/SMB treasury products just sweep cash into a money market fund and charge a high management fee. Palus offers a short-duration bond portfolio which safely earns ~40% more yield than money market funds, with sub-3-day liquidity, and 5-minute setup with customers' existing bank accounts. We see treasury as a great wedge to eventually offer full-suite banking services to all high-growth companies.\r\n\r\nSam and Michael are technical cofounders who met at Caltech. Sam previously built the AI research platform for a $3T AUM asset manager; Michael built quantum computers for the defense industry.",
+    "one_liner": "40% higher yields on company cash, in under 5 minutes.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -26033,7 +26077,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
     "website": "https://www.verdexai.com/",
     "all_locations": "",
-    "long_description": "Verdex replaces manual inspections in insurance with real-time digital audits. We use high-resolution satellite imagery to help insurers verify and settle claims without ever leaving their desks, starting with crop insurance. We are currently helping to insure over 11% of all American farmland.\r\n",
+    "long_description": "Verdex is an AI insurance adjuster. We use data streams like satellite imagery to verify claims, allowing insurers to process it immediately and save billions of dollars. We are currently helping insure over 11% of all American farmland.",
     "one_liner": "AI Verification for Insurance",
     "team_size": 2,
     "industry": "Fintech",
@@ -26109,18 +26153,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
     "website": "https://fenrock.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We're building the Harvey for traditional financial services, starting with compliance use cases for small- to mid-sized banks in the US.\r\n\r\nSpecialized AI agents for banks to 10x back office functions, which helps them pass regulatory exams and improve their efficiency ratios - the top 2 things every bank board cares about.\r\n\r\n",
     "one_liner": "AI agents for banking back office",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1769406704,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Enterprise"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -26132,8 +26172,7 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26258,21 +26297,15 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
     "website": "https://sequencemkts.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets lets traders execute across crypto exchanges, prediction markets, and tokenized-asset venues from one system.\r\n\r\nWe built proprietary low-latency infrastructure and routing software so users can package one market view into one trade instead of stitching together fragmented venues and workflows by hand.",
-    "one_liner": "One place to trade crypto, prediction markets, and tokenized assets.",
+    "all_locations": "",
+    "long_description": "Sequence Markets lets traders execute across crypto exchanges, prediction markets, and tokenized-asset venues from one system.\r\n\r\nWe built proprietary low-latency infrastructure and routing software so users can package one market view into one trade with the speed, access, and transparency execution requires.",
+    "one_liner": "Low-latency execution across crypto, prediction, and tokenized assets",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1767826402,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Crypto / Web3"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags": [],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -26282,8 +26315,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

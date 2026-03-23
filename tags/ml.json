@@ -528,13 +528,14 @@
   },
   {
     "id": 30501,
-    "name": "Jazzberry",
-    "slug": "jazzberry",
+    "name": "Cartpole",
+    "slug": "cartpole",
     "former_names": [
-      "Prophet"
+      "Prophet",
+      "Jazzberry"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
-    "website": "https://jazzberry.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/154693ac9eca92a2d8f93ead7153a0858c38d2b3.png",
+    "website": "https://cartpole.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating reinforcement learning environments for training frontier models.",
     "one_liner": "Building reinforcement learning environments",
@@ -543,10 +544,9 @@
     "subindustry": "B2B",
     "launched_at": 1744600545,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Reinforcement Learning",
-      "SaaS",
+      "Data Labeling",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -567,8 +567,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jazzberry",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
+    "url": "https://www.ycombinator.com/companies/cartpole",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cartpole.json"
   },
   {
     "id": 30559,

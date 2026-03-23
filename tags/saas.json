@@ -2473,7 +2473,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d59f731120bd004f3252c700f665371ea8be8b0e.png",
     "website": "http://www.guesty.com",
-    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "all_locations": "",
     "long_description": "Guesty’s property management software provides property managers and management companies with an end-to-end solution to simplify the complex operational needs of short term rentals. With Guesty, users can manage listings from multiple online travel agencies including Airbnb, Booking.com, Agoda and TripAdvisor, and utilize the company’s guest-centric tools including: Unified Inbox, Automation Tools, 24/7 Guest Communication Services, Payment Processing and more.",
     "one_liner": "The management platform for the short term rental industry.",
     "team_size": 700,
@@ -2497,8 +2497,7 @@
       "Housing and Real Estate"
     ],
     "regions": [
-      "Israel",
-      "Middle East and North Africa"
+      "Unspecified"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -17516,7 +17515,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46400,50 +46399,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/crimson.json"
   },
   {
-    "id": 30501,
-    "name": "Jazzberry",
-    "slug": "jazzberry",
-    "former_names": [
-      "Prophet"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
-    "website": "https://jazzberry.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're creating reinforcement learning environments for training frontier models.",
-    "one_liner": "Building reinforcement learning environments",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1744600545,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "SaaS",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jazzberry",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
-  },
-  {
     "id": 30506,
     "name": "Klavis AI",
     "slug": "klavis-ai",
@@ -48300,11 +48255,11 @@
       "InferEdge Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11bc5117eb236dd5cf2bbd42019008011ec1a59.png",
-    "website": "https://usemoss.dev",
+    "website": "https://moss.dev",
     "all_locations": "San Mateo, CA, USA",
     "long_description": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.\r\n\r\nIf you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs.\r\n\r\nMoss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
     "one_liner": "Real-time semantic search for Conversational AI",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761590258,
@@ -48324,7 +48279,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -48378,92 +48335,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bear.json"
   },
   {
-    "id": 31080,
-    "name": "Didit",
-    "slug": "didit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-    "website": "https://didit.me/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Didit is an all-in-one identity platform that lets humans prove who they are starting with a face scan. It powers the fastest identity verification in the market, fights fraud by default, and unifies all identity checks with simple pay-per-use pricing.",
-    "one_liner": "Identity platform for fast human verification.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1764601102,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Identity",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
-  },
-  {
-    "id": 31104,
-    "name": "Cofia",
-    "slug": "cofia",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4eaa13d214b16fc810b36ff373668440c966f1b5.png",
-    "website": "https://cofia.ai",
-    "all_locations": "",
-    "long_description": "We learn how you work, and proactively create tailor-made automations you can deploy without you ever writing a prompt or relying on X for automation inspo.",
-    "one_liner": "AI automations that write themselves",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1772226189,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Productivity",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cofia",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cofia.json"
-  },
-  {
     "id": 31155,
     "name": "Q2Q",
     "slug": "q2q",
@@ -48504,129 +48375,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/q2q",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
-  },
-  {
-    "id": 31176,
-    "name": "Rhizome AI",
-    "slug": "rhizome-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bcee7f777db1539a455395ef7d0f4174a507995.png",
-    "website": "https://rhizomeai.com/",
-    "all_locations": "Remote",
-    "long_description": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. \r\n\r\nToday, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. \r\n\r\nIt’s the best because we have the best retrieval engine. We’ve tuned it on our life science-specific dataset, and we find what others miss.\r\n\r\nAs more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences.\r\n\r\nChetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer.\r\n\r\nAgents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
-    "one_liner": "Agent Platform for Life Sciences",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769550752,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Biotech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rhizome-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/rhizome-ai.json"
-  },
-  {
-    "id": 31203,
-    "name": "sitefire",
-    "slug": "sitefire",
-    "former_names": [
-      "pulse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
-    "website": "https://sitefire.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). sitefire identifies which content drives AI visibility, and automatically creates it. Unlike GEO tools, sitefire is an AI-native agency that executes on-page and off-page actions and delivers measurable top-line growth.",
-    "one_liner": "Marketing suite for the agentic web",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1770178936,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sitefire",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
-  },
-  {
-    "id": 31244,
-    "name": "Crow",
-    "slug": "crow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83da57a5a7cd9d76b06d6dda92bb99843ca0edf1.png",
-    "website": "https://www.usecrow.ai/",
-    "all_locations": "",
-    "long_description": "Crow lets users control your app through chat. Connect Crow's AI agent to your product, and users can type what they want instead of clicking through menus.\r\n\r\nCrow connects to your APIs and data sources, navigates your UI, and executes real actions. Set guardrails, define workflows, track every interaction, and deploy in under a week—no rebuilding required.",
-    "one_liner": "Let users control your app through chat",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768862675,
-    "tags": [
-      "SaaS",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/crow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/crow.json"
   },
   {
     "id": 31327,

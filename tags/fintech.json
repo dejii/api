@@ -7085,7 +7085,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20806,7 +20806,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae92ae03ac6751b76d657b89f31e27c32bddc3d7.png",
     "website": "https://getpartna.com",
-    "all_locations": "Wilmington, DE, USA; LA, Nigeria; Remote",
+    "all_locations": "Wilmington, DE, USA; Remote",
     "long_description": "Modern companies use Partna's API and B2B payment tools to smoothly launch and operate in Africa",
     "one_liner": "Your Global payments partner for Africa",
     "team_size": 16,
@@ -20814,7 +20814,9 @@
     "subindustry": "Fintech",
     "launched_at": 1647334206,
     "tags": [
-      "Fintech"
+      "Fintech",
+      "Payments",
+      "Remittances"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20827,9 +20829,7 @@
     ],
     "regions": [
       "United States of America",
-      "Nigeria",
       "America / Canada",
-      "Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -30143,48 +30143,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/q2q",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
-  },
-  {
-    "id": 31227,
-    "name": "Sequence Markets",
-    "slug": "sequence-markets",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a96ab006079967d4861f55c708c029f8a76a6f.png",
-    "website": "https://sequencemkts.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Sequence Markets lets traders execute across crypto exchanges, prediction markets, and tokenized-asset venues from one system.\r\n\r\nWe built proprietary low-latency infrastructure and routing software so users can package one market view into one trade instead of stitching together fragmented venues and workflows by hand.",
-    "one_liner": "One place to trade crypto, prediction markets, and tokenized assets.",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1767826402,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Crypto / Web3"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sequence-markets",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
   },
   {
     "id": 31420,

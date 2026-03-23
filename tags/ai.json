@@ -4882,7 +4882,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23768,52 +23768,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dataleap.json"
   },
   {
-    "id": 29810,
-    "name": "Leviathan",
-    "slug": "leviathan",
-    "former_names": [
-      "OpenIndex",
-      "Actionbase",
-      "actionbase",
-      "Actionbase",
-      "Pumpkin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244a881e3f12196a930f96cb433cf3184d69ec52.png",
-    "website": "https://www.leviathanencyclopedia.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leviathan is an AI encyclopedia.",
-    "one_liner": "AI Wikipedia",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
-    "launched_at": 1723408013,
-    "tags": [
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Home and Personal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/leviathan",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/leviathan.json"
-  },
-  {
     "id": 29823,
     "name": "autarc",
     "slug": "autarc",
@@ -28810,6 +28764,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/qualgent.json"
   },
   {
+    "id": 30501,
+    "name": "Cartpole",
+    "slug": "cartpole",
+    "former_names": [
+      "Prophet",
+      "Jazzberry"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/154693ac9eca92a2d8f93ead7153a0858c38d2b3.png",
+    "website": "https://cartpole.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're creating reinforcement learning environments for training frontier models.",
+    "one_liner": "Building reinforcement learning environments",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1744600545,
+    "tags": [
+      "Reinforcement Learning",
+      "Data Labeling",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cartpole",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cartpole.json"
+  },
+  {
     "id": 30506,
     "name": "Klavis AI",
     "slug": "klavis-ai",
@@ -29325,51 +29323,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nimbic-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
-  },
-  {
-    "id": 30540,
-    "name": "Lumari",
-    "slug": "lumari",
-    "former_names": [
-      "Rextly"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
-    "website": "https://www.lumari.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.\r\n\r\nTo learn more check out https://lumari.io/",
-    "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1747084472,
-    "tags": [
-      "B2B",
-      "Manufacturing",
-      "Supply Chain",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumari",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
   },
   {
     "id": 30542,
@@ -30588,47 +30541,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/costream",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/costream.json"
-  },
-  {
-    "id": 30696,
-    "name": "GhostEye",
-    "slug": "ghosteye",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
-    "website": "https://ghosteye.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
-    "one_liner": "Vulnerability Management for the Human Layer ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1753230986,
-    "tags": [
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ghosteye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
     "id": 30710,
@@ -33168,11 +33080,11 @@
       "InferEdge Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11bc5117eb236dd5cf2bbd42019008011ec1a59.png",
-    "website": "https://usemoss.dev",
+    "website": "https://moss.dev",
     "all_locations": "San Mateo, CA, USA",
     "long_description": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.\r\n\r\nIf you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs.\r\n\r\nMoss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
     "one_liner": "Real-time semantic search for Conversational AI",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761590258,
@@ -33192,7 +33104,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -33420,93 +33334,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
   },
   {
-    "id": 31077,
-    "name": "Panta",
-    "slug": "panta",
-    "former_names": [
-      "Panta Insure"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dff0894649ff29064b020845633a9ebb22c2e9de.png",
-    "website": "https://pantainsure.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
-    "one_liner": "Commercial insurance brokerage run by AI agents. Scales like software.",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1766956081,
-    "tags": [
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/panta",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/panta.json"
-  },
-  {
-    "id": 31080,
-    "name": "Didit",
-    "slug": "didit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-    "website": "https://didit.me/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Didit is an all-in-one identity platform that lets humans prove who they are starting with a face scan. It powers the fastest identity verification in the market, fights fraud by default, and unifies all identity checks with simple pay-per-use pricing.",
-    "one_liner": "Identity platform for fast human verification.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1764601102,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Identity",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
-  },
-  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -33550,95 +33377,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/bujo.json"
   },
   {
-    "id": 31118,
-    "name": "Carson",
-    "slug": "carson",
-    "former_names": [
-      "Workable Solutions Inc.",
-      "Fix.Fast"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92a11d3a3ee3272d1d97560705cf903b54ea3437.png",
-    "website": "https://usecarson.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Carson is a desktop AI workspace that replaces MS Office with agents. It’s as powerful as Openclaw but doesn’t compromise on security.\r\n",
-    "one_liner": "Carson is a desktop AI workspace that replaces MS Office with agents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771920641,
-    "tags": [
-      "Productivity",
-      "Security",
-      "Enterprise",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/carson",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/carson.json"
-  },
-  {
-    "id": 31145,
-    "name": "RamAIn",
-    "slug": "ramain",
-    "former_names": [
-      "Ramain"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
-    "website": "https://ramain.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
-    "one_liner": "AI employees: Super-fast computer use agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767663208,
-    "tags": [
-      "Machine Learning",
-      "Computer Vision",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ramain",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
-  },
-  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -33680,45 +33418,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/salus",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/salus.json"
-  },
-  {
-    "id": 31153,
-    "name": "Perfectly",
-    "slug": "perfectly",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13607170eb2ca92be8c6b3fe617797b6b16e279a.png",
-    "website": "https://www.perfectly.so/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Perfectly is the first AI-native recruiting agency.\r\n\r\nSince starting YC, we’re already helping top startups like Giga, Corgi, LlamaIndex, Porter, and dozens more hire faster.\r\n\r\nWe’re seeing:\r\n-> 4× faster hiring\r\n-> 10× candidate volume\r\n-> 2× higher interview pass rates\r\n\r\nBehind the scenes, it’s even more impressive:\r\n-> 20x higher recruiting efficiency: from 20 hours to 1 hour\r\n-> 250% higher candidate interview retention\r\n\r\nWe automate the entire recruiting function: sourcing, outreach, screening, and qualification. Interview ready candidates just show up in Slack. \r\n\r\nWe recently launched our recruiting agent Paul that provides each candidate white glove treatment so they're closed even before your offer call\r\n\r\nHiring should work like a recommendation system.\r\n\r\nLearn more now at perfectly.so\r\n",
-    "one_liner": "The AI-native Recruiting Agency",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768534230,
-    "tags": [
-      "Recruiting",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/perfectly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/perfectly.json"
   },
   {
     "id": 31155,
@@ -33807,51 +33506,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
   },
   {
-    "id": 31203,
-    "name": "sitefire",
-    "slug": "sitefire",
-    "former_names": [
-      "pulse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
-    "website": "https://sitefire.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). sitefire identifies which content drives AI visibility, and automatically creates it. Unlike GEO tools, sitefire is an AI-native agency that executes on-page and off-page actions and delivers measurable top-line growth.",
-    "one_liner": "Marketing suite for the agentic web",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1770178936,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sitefire",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
-  },
-  {
     "id": 31222,
     "name": "Superset",
     "slug": "superset",
@@ -33888,94 +33542,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
-  },
-  {
-    "id": 31243,
-    "name": "Scout Out",
-    "slug": "scout-out",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a3bd0b7bf890073bc7a6f793e377cb304145e60.png",
-    "website": "https://scoutout.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scout Out is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nScout Out replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Scout Out's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.\r\nWe're starting in Los Angeles, working closely with residential remodelers and contractors — including those managing post-fire rebuilds following the Palisades and Eaton fires.",
-    "one_liner": "Keeping contractors on the job site, not behind a desk.",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1768343791,
-    "tags": [
-      "Real Estate",
-      "Construction",
-      "Proptech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scout-out",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
-  },
-  {
-    "id": 31250,
-    "name": "The Token Company",
-    "slug": "the-token-company",
-    "former_names": [
-      "Otsofy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6d23e94e331354b9f326725df83ff557b97c1a.png",
-    "website": "https://thetokencompany.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Compression middleware that removes context bloat in milliseconds, lowering costs and improving end-to-end latency.\r\n\r\nCompression is especially effective across natural language workloads. In a blind LLM arena case study with one of our customers, compressed requests increased user preference, lowered costs, and lifted purchase volume by 5%.",
-    "one_liner": "Compression middleware that improves LLM outputs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1772525778,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/the-token-company",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
   },
   {
     "id": 31259,

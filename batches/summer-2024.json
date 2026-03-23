@@ -7792,27 +7792,29 @@
   },
   {
     "id": 29810,
-    "name": "Leviathan",
-    "slug": "leviathan",
+    "name": "bluedoor",
+    "slug": "bluedoor",
     "former_names": [
       "OpenIndex",
       "Actionbase",
       "actionbase",
       "Actionbase",
-      "Pumpkin"
+      "Pumpkin",
+      "Leviathan"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/244a881e3f12196a930f96cb433cf3184d69ec52.png",
-    "website": "https://www.leviathanencyclopedia.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leviathan is an AI encyclopedia.",
-    "one_liner": "AI Wikipedia",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2153ec2908ddcc519fbb6285abb74d57437686c4.png",
+    "website": "https://bluedoor.sh/",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "bluedoor is a CLI tool for stock research.",
+    "one_liner": "Professional-grade stock research in your terminal.",
     "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1723408013,
     "tags": [
-      "Automation",
-      "AI"
+      "Artificial Intelligence",
+      "Finance",
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7821,8 +7823,8 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Home and Personal"
+      "Fintech",
+      "Consumer Finance"
     ],
     "regions": [
       "United States of America",
@@ -7833,8 +7835,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/leviathan",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/leviathan.json"
+    "url": "https://www.ycombinator.com/companies/bluedoor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/bluedoor.json"
   },
   {
     "id": 29812,

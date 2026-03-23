@@ -1263,7 +1263,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d59f731120bd004f3252c700f665371ea8be8b0e.png",
     "website": "http://www.guesty.com",
-    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "all_locations": "",
     "long_description": "Guesty’s property management software provides property managers and management companies with an end-to-end solution to simplify the complex operational needs of short term rentals. With Guesty, users can manage listings from multiple online travel agencies including Airbnb, Booking.com, Agoda and TripAdvisor, and utilize the company’s guest-centric tools including: Unified Inbox, Automation Tools, 24/7 Guest Communication Services, Payment Processing and more.",
     "one_liner": "The management platform for the short term rental industry.",
     "team_size": 700,
@@ -1287,8 +1287,7 @@
       "Housing and Real Estate"
     ],
     "regions": [
-      "Israel",
-      "Middle East and North Africa"
+      "Unspecified"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -11665,7 +11664,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43813,18 +43812,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari provides agentic AI automation for direct materials procurement and supply chain execution. The platform deploys always-on digital workers that run sourcing workflows, coordinate supplier communication, manage RFQs and track purchase orders end-to-end while continuously identifying risks across open orders.\r\n\r\nBuilt to operate directly within existing tools like email and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks and build more resilient supply chains.\r\n\r\nTo learn more check out https://lumari.io/",
-    "one_liner": "AI Digital Workers for Supply Chain",
+    "long_description": "Lumari is the world's first AI-powered procurement automation platform purpose-built for direct materials and supply chain execution. \r\n\r\nBacked by Y Combinator, Lumari is a well-funded startup that deploys 100s of always-on AI agents that run sourcing workflows, manage RFQs, expedite purchase orders, and coordinate supplier communication end-to-end -- compressing cycle times and giving teams full visibility into active orders, RFQs, and supplier performance.\r\n\r\nFounded by engineers from Google, Tesla, Amazon, and Stripe who have built and scaled supply chain systems serving millions of users. \r\n\r\nBuilt to operate directly on top of existing tools and ERP systems, Lumari helps procurement teams move faster, eliminate operational bottlenecks, and build more resilient supply chains. No rip-and-replace, no supplier onboarding. Lumari handles the manual chase: quote follow-ups, PO confirmations, delivery status updates, and risk escalation.\r\n\r\nLumari helps companies from Fortune 500s to fast-growing startups automate work from sourcing to delivery, streamline supplier communication and order management, and bring full visibility to their procurement operations.\r\n\r\nTo learn more check out https://lumari.io/",
+    "one_liner": "AI Digital Workers for Supply Chain ",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44931,16 +44930,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "GhostEye builds an exposure map of your employees, then simulates personalized attacks across email, voice, SMS, deepfakes, and help desks.",
+    "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
     "one_liner": "Vulnerability Management for the Human Layer ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47252,95 +47251,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
   },
   {
-    "id": 31080,
-    "name": "Didit",
-    "slug": "didit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202e6cd94d0ec2c8de835c56ce6b880f99f033d5.png",
-    "website": "https://didit.me/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Didit is an all-in-one identity platform that lets humans prove who they are starting with a face scan. It powers the fastest identity verification in the market, fights fraud by default, and unifies all identity checks with simple pay-per-use pricing.",
-    "one_liner": "Identity platform for fast human verification.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1764601102,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Identity",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/didit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
-  },
-  {
-    "id": 31100,
-    "name": "Sentrial",
-    "slug": "sentrial",
-    "former_names": [
-      "Realm"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/956fdffad84d5a7ebfd35aeb95f159f91959bc37.png",
-    "website": "https://sentrial.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
-    "one_liner": "Production Monitoring for AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1770083112,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sentrial",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
-  },
-  {
     "id": 31111,
     "name": "Envariant",
     "slug": "envariant",
@@ -47468,203 +47378,27 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
-    "id": 31164,
-    "name": "Compresr",
-    "slug": "compresr",
+    "id": 31269,
+    "name": "MochaCare",
+    "slug": "mochacare",
     "former_names": [
-      "Cmprsr",
-      "compresr"
+      "HelpingHome"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7768e73d87dc6915fd2a78cbdff56013e194c8de.png",
-    "website": "https://compresr.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Compresr provides an API that compresses LLM context without losing what matters. It’s a drop-in for agents and RAG that cuts token costs and improves accuracy.",
-    "one_liner": "LLM-native context compression ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768812885,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/compresr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
-  },
-  {
-    "id": 31176,
-    "name": "Rhizome AI",
-    "slug": "rhizome-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bcee7f777db1539a455395ef7d0f4174a507995.png",
-    "website": "https://rhizomeai.com/",
-    "all_locations": "Remote",
-    "long_description": "It takes 500,000 days of office work to bring a drug to market. We want to make it 5. To get there, we need agents doing most of the work. \r\n\r\nToday, our research agent is the best way to know what the FDA thinks. Users ask a question and get an answer backed by up to 1,000 documents, where each statement has a citation. \r\n\r\nIt’s the best because we have the best retrieval engine. We’ve tuned it on our life science-specific dataset, and we find what others miss.\r\n\r\nAs more teams use Rhizome, we gain more data on what regulatory professionals actually need, which makes retrieval even better. This flywheel is how we become the retrieval engine that powers all human and agent work in life sciences.\r\n\r\nChetan started his career as a research engineer, but quickly realized he enjoyed building more than research. He joined EvolutionaryScale as their sole founding product engineer, launching their developer-scientist platform and scaling to tens of thousands of users and billions of API calls. He was also #16 at Instabase helping banks with document processing, closing $7m as the technical closer.\r\n\r\nAgents can do magical things today, but most in life sciences only use them to edit emails. Agents are missing the context they need to 100x the number of drugs we can bring to market. Rhizome AI is focused on that critical problem.",
-    "one_liner": "Agent Platform for Life Sciences",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769550752,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Biotech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rhizome-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/rhizome-ai.json"
-  },
-  {
-    "id": 31187,
-    "name": "Fenrock AI",
-    "slug": "fenrock-ai",
-    "former_names": [
-      "new co",
-      "Fenrock.AI",
-      "Fenrock AI",
-      "Fenrock AI (YC W26)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49628c649d0cbcd7910ecb380ad944b7613d8242.png",
-    "website": "https://fenrock.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the Harvey for traditional financial services, starting with compliance use cases for small- to mid-sized banks in the US.\r\n\r\nSpecialized AI agents for banks to 10x back office functions, which helps them pass regulatory exams and improve their efficiency ratios - the top 2 things every bank board cares about.\r\n\r\n",
-    "one_liner": "AI agents for banking back office",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1769406704,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fenrock-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/fenrock-ai.json"
-  },
-  {
-    "id": 31203,
-    "name": "sitefire",
-    "slug": "sitefire",
-    "former_names": [
-      "pulse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
-    "website": "https://sitefire.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). sitefire identifies which content drives AI visibility, and automatically creates it. Unlike GEO tools, sitefire is an AI-native agency that executes on-page and off-page actions and delivers measurable top-line growth.",
-    "one_liner": "Marketing suite for the agentic web",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
+    "website": "https://www.mochacare.com/",
+    "all_locations": "",
+    "long_description": "MochaCare is an agentic management service for care organizations. We handle hiring, scheduling, and client intake end-to-end so our partners can focus on growth.",
+    "one_liner": "Agentic Management Service for Care Organizations",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1770178936,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sitefire",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sitefire.json"
-  },
-  {
-    "id": 31217,
-    "name": "Polymath",
-    "slug": "polymath",
-    "former_names": [
-      "Palette AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
-    "website": "https://polymathlabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re heading towards a future where AI agents will be able to perform useful work over long horizons, with little or no human supervision. To increase the reliability, performance, and safety of autonomous agents, they must be trained in simulation environments that reflect the real world. Polymath builds simulated worlds for agents to practice and learn through experience.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
-    "one_liner": "Worlds for training & evaluating long-horizon agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769103780,
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1771654500,
     "tags": [
       "Artificial Intelligence",
-      "Reinforcement Learning",
+      "Health Tech",
       "B2B",
-      "Big Data",
-      "Infrastructure"
+      "Healthcare",
+      "Home Services"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47673,112 +47407,19 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polymath",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymath.json"
-  },
-  {
-    "id": 31236,
-    "name": "Balance",
-    "slug": "getbalance",
-    "former_names": [
-      "Balance",
-      "Balance AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ea7352fed58904bc7cc1f143d4af52e98a52d64.png",
-    "website": "https://getbalance.ai",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Balance is an AI accounting firm that helps SMBs close their monthly books. Our agents do the work of an in-house finance hire, reconciling books in real time and flagging issues before they become problems.",
-    "one_liner": "Full-Stack AI Accounting",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1768976472,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "B2B",
-      "Workflow Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/getbalance",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/getbalance.json"
-  },
-  {
-    "id": 31250,
-    "name": "The Token Company",
-    "slug": "the-token-company",
-    "former_names": [
-      "Otsofy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6d23e94e331354b9f326725df83ff557b97c1a.png",
-    "website": "https://thetokencompany.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Compression middleware that removes context bloat in milliseconds, lowering costs and improving end-to-end latency.\r\n\r\nCompression is especially effective across natural language workloads. In a blind LLM arena case study with one of our customers, compressed requests increased user preference, lowered costs, and lifted purchase volume by 5%.",
-    "one_liner": "Compression middleware that improves LLM outputs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1772525778,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/the-token-company",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
+    "url": "https://www.ycombinator.com/companies/mochacare",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
   },
   {
     "id": 31345,

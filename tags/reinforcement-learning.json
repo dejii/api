@@ -848,13 +848,14 @@
   },
   {
     "id": 30501,
-    "name": "Jazzberry",
-    "slug": "jazzberry",
+    "name": "Cartpole",
+    "slug": "cartpole",
     "former_names": [
-      "Prophet"
+      "Prophet",
+      "Jazzberry"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
-    "website": "https://jazzberry.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/154693ac9eca92a2d8f93ead7153a0858c38d2b3.png",
+    "website": "https://cartpole.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating reinforcement learning environments for training frontier models.",
     "one_liner": "Building reinforcement learning environments",
@@ -863,10 +864,9 @@
     "subindustry": "B2B",
     "launched_at": 1744600545,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Reinforcement Learning",
-      "SaaS",
+      "Data Labeling",
+      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -887,8 +887,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jazzberry",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
+    "url": "https://www.ycombinator.com/companies/cartpole",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cartpole.json"
   },
   {
     "id": 30521,
@@ -1262,134 +1262,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haladir",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
-  },
-  {
-    "id": 31174,
-    "name": "Hex Security",
-    "slug": "hex-security",
-    "former_names": [
-      "Anytool"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/814cf30167622bfb5c6d35815a24f51d91529f3b.png",
-    "website": "https://hex.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
-    "one_liner": "Agentic Offensive Security at Scale",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1768943987,
-    "tags": [
-      "Reinforcement Learning",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hex-security",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/hex-security.json"
-  },
-  {
-    "id": 31191,
-    "name": "Traverse",
-    "slug": "traverse",
-    "former_names": [
-      "Clice AI",
-      "Clice"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15b7b6ab2a29ad8ce788a73a92e36fd7733b6a.png",
-    "website": "https://www.traverse.so",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Research lab for non-verifiable work",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1767260558,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Reinforcement Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/traverse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/traverse.json"
-  },
-  {
-    "id": 31217,
-    "name": "Polymath",
-    "slug": "polymath",
-    "former_names": [
-      "Palette AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f7ef12c2171865c4753a3c1623133d92e4becc.png",
-    "website": "https://polymathlabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re heading towards a future where AI agents will be able to perform useful work over long horizons, with little or no human supervision. To increase the reliability, performance, and safety of autonomous agents, they must be trained in simulation environments that reflect the real world. Polymath builds simulated worlds for agents to practice and learn through experience.\r\n\r\nWe're a team of researchers and engineers from UC Berkeley, Hume AI, Plaid, and Amazon. We have years of experience post-training frontier models in industry, and building large scale data systems. Polymath is backed by Y Combinator.",
-    "one_liner": "Worlds for training & evaluating long-horizon agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1769103780,
-    "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning",
-      "B2B",
-      "Big Data",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/polymath",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/polymath.json"
   },
   {
     "id": 31295,

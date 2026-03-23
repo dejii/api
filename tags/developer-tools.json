@@ -15938,9 +15938,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
     "website": "https://paradedb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ParadeDB is an open source, ACID-compliant search and analytics database. Built on Postgres for update-heavy workloads.",
+    "long_description": "You want better search, not the burden of Elasticsearch. ParadeDB is the modern Elastic alternative built as a Postgres extension.",
     "one_liner": "Simple, Elastic-quality search for Postgres",
-    "team_size": 11,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -21066,50 +21066,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/human-behavior.json"
   },
   {
-    "id": 30501,
-    "name": "Jazzberry",
-    "slug": "jazzberry",
-    "former_names": [
-      "Prophet"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
-    "website": "https://jazzberry.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're creating reinforcement learning environments for training frontier models.",
-    "one_liner": "Building reinforcement learning environments",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1744600545,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "SaaS",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jazzberry",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
-  },
-  {
     "id": 30507,
     "name": "ParaQuery",
     "slug": "paraquery",
@@ -23050,11 +23006,11 @@
       "InferEdge Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11bc5117eb236dd5cf2bbd42019008011ec1a59.png",
-    "website": "https://usemoss.dev",
+    "website": "https://moss.dev",
     "all_locations": "San Mateo, CA, USA",
     "long_description": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.\r\n\r\nIf you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs.\r\n\r\nMoss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
     "one_liner": "Real-time semantic search for Conversational AI",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761590258,
@@ -23074,7 +23030,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23127,50 +23085,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasts",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
-  },
-  {
-    "id": 31100,
-    "name": "Sentrial",
-    "slug": "sentrial",
-    "former_names": [
-      "Realm"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/956fdffad84d5a7ebfd35aeb95f159f91959bc37.png",
-    "website": "https://sentrial.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
-    "one_liner": "Production Monitoring for AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1770083112,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sentrial",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/sentrial.json"
   },
   {
     "id": 31111,
@@ -23258,51 +23172,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/salus.json"
   },
   {
-    "id": 31164,
-    "name": "Compresr",
-    "slug": "compresr",
-    "former_names": [
-      "Cmprsr",
-      "compresr"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7768e73d87dc6915fd2a78cbdff56013e194c8de.png",
-    "website": "https://compresr.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Compresr provides an API that compresses LLM context without losing what matters. It’s a drop-in for agents and RAG that cuts token costs and improves accuracy.",
-    "one_liner": "LLM-native context compression ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1768812885,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/compresr",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/compresr.json"
-  },
-  {
     "id": 31165,
     "name": "IncidentFox",
     "slug": "brownie",
@@ -23386,53 +23255,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glue",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/glue.json"
-  },
-  {
-    "id": 31250,
-    "name": "The Token Company",
-    "slug": "the-token-company",
-    "former_names": [
-      "Otsofy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6d23e94e331354b9f326725df83ff557b97c1a.png",
-    "website": "https://thetokencompany.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Compression middleware that removes context bloat in milliseconds, lowering costs and improving end-to-end latency.\r\n\r\nCompression is especially effective across natural language workloads. In a blind LLM arena case study with one of our customers, compressed requests increased user preference, lowered costs, and lifted purchase volume by 5%.",
-    "one_liner": "Compression middleware that improves LLM outputs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1772525778,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/the-token-company",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/the-token-company.json"
   },
   {
     "id": 31329,

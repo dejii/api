@@ -24631,7 +24631,7 @@
     "website": "https://www.shortkit.dev",
     "all_locations": "",
     "long_description": "ShortKit lets any consumer app launch a TikTok-grade short-form video feed. \r\n\r\nMichael, spent 6 years at YouTube building the infrastructure that powers YouTube Shorts. Neil, prev. scaled a SaaS company from 0 to $6M ARR as employee #1. \r\n\r\nWe handle the full short-form stack— client SDKs, video infrastructure, rec systems, and content marketplaces — so product teams don't have to.",
-    "one_liner": "Short-form video SDK for consumer apps",
+    "one_liner": "Short-form video infra for consumer apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24705,19 +24705,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/956fdffad84d5a7ebfd35aeb95f159f91959bc37.png",
     "website": "https://sentrial.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Sentrial is the monitoring platform for AI products in production. \r\n\r\nWhen your AI product/agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams iterate based on production reality, not just offline evals.",
-    "one_liner": "Production Monitoring for AI Agents",
+    "one_liner": "Datadog for Agent Reliability",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770083112,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -24729,8 +24724,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24905,7 +24899,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d12b5cddde967f28e71a5bdfa173bbd8e7a0b10c.png",
     "website": "https://syntheticsciences.ai/",
     "all_locations": "",
-    "long_description": "We’re building the infrastructure for a future AI co-scientist, starting with computational research domains. Our thesis is that capable AI scientists require two things built in tandem: (1) a human-centric product suite that generates high-quality process data, and (2) the research infrastructure to turn that data into increasingly autonomous systems. We’re creating the product and training infrastructure needed for research agents that can execute the full scientific loop.\r\n\r\nSynthetic Sciences Web is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading → hypotheses → methods → experimentation → results → drafting, even while they sleep. In parallel, we develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows.",
+    "long_description": "We’re building the infrastructure for the future AI co-scientist, starting with computational research. Our core thesis is that powerful AI scientists require two things built together: a human-centered product that generates high-quality process data, and the research infrastructure to turn that data into increasingly autonomous systems. We’re building both.\r\n\r\nSynSci is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading → hypotheses → methods → experimentation → results → drafting, even while they sleep.",
     "one_liner": "Claude Code for Scientific Research",
     "team_size": 2,
     "industry": "B2B",
@@ -25012,6 +25006,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/approxima",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
+  },
+  {
+    "id": 31195,
+    "name": "Reframe",
+    "slug": "usereframe",
+    "former_names": [
+      "Milotic AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf91d138b76358671fb6075cfe46848aa81bd6cc.png",
+    "website": "http://usereframe.ai",
+    "all_locations": "",
+    "long_description": "Reframe is the only AI-native marketplace for hardware teams to procure both COTS and custom manufactured components. We have access to trusted suppliers that have made parts for the most reliable hardware products that people use today (iPhones, Teslas, and more). We use Agents to automate end-to-end procurement so that hardware teams can scale while remaining lean.",
+    "one_liner": "AI-native, hardware procurement marketplace",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1770935313,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/usereframe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/usereframe.json"
   },
   {
     "id": 31222,
