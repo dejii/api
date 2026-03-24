@@ -777,7 +777,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -1230,26 +1230,27 @@
   },
   {
     "id": 30047,
-    "name": "Cosmic",
-    "slug": "cosmic-new",
+    "name": "Endstack",
+    "slug": "endstack",
     "former_names": [
       "Lune AI",
-      "Lune"
+      "Lune",
+      "Cosmic"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b682e5ea520f8569ed33fc24bbbdaf361e7d7b.png",
-    "website": "https://www.cosmic.new/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI platform that has everything you need to build, monetize, and deploy full-stack websites in minutes. \r\n\r\nBeautiful UIs, auth, database, payment processing, deployments, and more natively integrated in one place.",
-    "one_liner": "Build, monetize, and deploy full-stack websites in minutes",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b2d3d74e1b66a985b5ff4da594128358d243158.png",
+    "website": "https://www.endstack.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Endstack is a desktop OS optimized for humans and agents running in the cloud.\r\n\r\nYour desktop is powered by endOS, giving you a real desktop workspace in the browser backed by Linux in the cloud. Files, notes, browser tabs, native apps, terminals, and all your agents in one beautiful, familiar, interface.\r\n\r\nYou get a powerful agent running 24/7, integrated at the system level into endOS that you can also reach via Slack, email, or SMS. \r\n\r\nEndstack desktops are also natively multiplayer, allowing for realtime collaboration with teammates.",
+    "one_liner": "Cloud desktop OS for humans and agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1731874326,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Web Development",
-      "AI"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1269,8 +1270,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cosmic-new",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/cosmic-new.json"
+    "url": "https://www.ycombinator.com/companies/endstack",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/endstack.json"
   },
   {
     "id": 30048,

@@ -4390,17 +4390,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
     "website": "https://flowglad.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "The Easiest Way to Make Internet Money.\r\n\r\nA payments layer for your app that you can program in natural language.\r\n\r\nUnlimited pricing models, one source of truth, zero webhooks.",
+    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits.\r\n\r\nIt gives AI agents and software the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely.\r\n\r\nDevelopers can embed payments directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
     "one_liner": "The payment processor for natural language software",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1583962983,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
-      "Payments",
-      "API"
+      "Payments"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8817,9 +8817,11 @@
   },
   {
     "id": 24153,
-    "name": "DailyBot",
+    "name": "Dailybot",
     "slug": "dailybot",
-    "former_names": [],
+    "former_names": [
+      "DailyBot"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a4562eea5bec9eaf52ff9e3598861ff6e24fdf0.png",
     "website": "https://www.dailybot.com/",
     "all_locations": "Remote, OR, USA; Remote",
@@ -8830,10 +8832,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1625092395,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -19292,26 +19294,27 @@
   },
   {
     "id": 30047,
-    "name": "Cosmic",
-    "slug": "cosmic-new",
+    "name": "Endstack",
+    "slug": "endstack",
     "former_names": [
       "Lune AI",
-      "Lune"
+      "Lune",
+      "Cosmic"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b682e5ea520f8569ed33fc24bbbdaf361e7d7b.png",
-    "website": "https://www.cosmic.new/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI platform that has everything you need to build, monetize, and deploy full-stack websites in minutes. \r\n\r\nBeautiful UIs, auth, database, payment processing, deployments, and more natively integrated in one place.",
-    "one_liner": "Build, monetize, and deploy full-stack websites in minutes",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b2d3d74e1b66a985b5ff4da594128358d243158.png",
+    "website": "https://www.endstack.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Endstack is a desktop OS optimized for humans and agents running in the cloud.\r\n\r\nYour desktop is powered by endOS, giving you a real desktop workspace in the browser backed by Linux in the cloud. Files, notes, browser tabs, native apps, terminals, and all your agents in one beautiful, familiar, interface.\r\n\r\nYou get a powerful agent running 24/7, integrated at the system level into endOS that you can also reach via Slack, email, or SMS. \r\n\r\nEndstack desktops are also natively multiplayer, allowing for realtime collaboration with teammates.",
+    "one_liner": "Cloud desktop OS for humans and agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1731874326,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Web Development",
-      "AI"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19331,8 +19334,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cosmic-new",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/cosmic-new.json"
+    "url": "https://www.ycombinator.com/companies/endstack",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/endstack.json"
   },
   {
     "id": 30060,
@@ -22280,19 +22283,19 @@
     "former_names": [
       "Ordinary Intelligence"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8874713141e02cb143838e685aab73861963b373.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f9845a726fcc8f4b24f4e6fbdbe17fc46f07039.png",
     "website": "https://interfere.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "The greatest product teams use Interfere to spend more time building what’s next instead of maintaining what was. ",
+    "long_description": "Interfere is the experience layer for modern product teams. Detect, triage, and fix bugs automatically – no human required. Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.\r\n",
     "one_liner": "Build software that never breaks",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Design"
+      "Design",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23300,6 +23303,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
+  },
+  {
+    "id": 31332,
+    "name": "Stage",
+    "slug": "stage",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/651678718cc0436dc7af01c6a4293c6ee03d08c7.png",
+    "website": "https://www.stagereview.app/",
+    "all_locations": "",
+    "long_description": "Teams are shipping faster than ever with AI, but engineers are merging changes that neither they nor their reviewers fully understand, leading to bugs in production and overwhelming cognitive debt.\r\n\r\nStage is a new code review platform built for today’s fast moving teams. Instead of forcing readers to piece things together from unorganized diffs, Stage breaks changes down into structured chapters so teams can understand what's happening and ship with confidence.",
+    "one_liner": "Code review platform for today’s engineers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1774297910,
+    "tags": [
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stage",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
   },
   {
     "id": 31345,

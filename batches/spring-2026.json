@@ -296,6 +296,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
   },
   {
+    "id": 31332,
+    "name": "Stage",
+    "slug": "stage",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/651678718cc0436dc7af01c6a4293c6ee03d08c7.png",
+    "website": "https://www.stagereview.app/",
+    "all_locations": "",
+    "long_description": "Teams are shipping faster than ever with AI, but engineers are merging changes that neither they nor their reviewers fully understand, leading to bugs in production and overwhelming cognitive debt.\r\n\r\nStage is a new code review platform built for today’s fast moving teams. Instead of forcing readers to piece things together from unorganized diffs, Stage breaks changes down into structured chapters so teams can understand what's happening and ship with confidence.",
+    "one_liner": "Code review platform for today’s engineers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1774297910,
+    "tags": [
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stage",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
+  },
+  {
     "id": 31333,
     "name": "Gikl, Inc",
     "slug": "gikl-inc",
@@ -960,6 +999,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
   },
   {
+    "id": 31432,
+    "name": "Keyframe Labs",
+    "slug": "keyframe-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
+    "website": "https://keyframelabs.com",
+    "all_locations": "",
+    "long_description": "Our interactive video models turn agents into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
+    "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774290085,
+    "tags": [
+      "B2B",
+      "Video",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keyframe-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/keyframe-labs.json"
+  },
+  {
     "id": 31434,
     "name": "Adialante",
     "slug": "adialante",
@@ -1053,9 +1132,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
     "website": "https://minicor.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
+    "long_description": "AI companies selling into legacy industries can't go live because their customers' systems of record are Windows desktop apps with no APIs. The only way in is clicking through the UI, and it breaks constantly.\r\n\r\nMinicor is a platform for building self-healing desktop automations at scale. Speak the automation into existence through your favourite coding agent via our MCP, or to us directly, and get an API endpoint to trigger it. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix.\r\n\r\nVideo replay, error logging, and scaling built in.",
     "one_liner": "Managed, self healing desktop automation at scale",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772756028,
@@ -1136,16 +1215,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foaster is an AI-native consulting firm.\r\n\r\nTraditional consulting firms rely on teams of analysts and associates to spend weeks or months gathering information, interviewing employees, structuring findings, and producing recommendations. That model can produce valuable work, but it is slow, expensive, and limited by the amount of human time that can be deployed on each engagement.\r\n\r\nAt Foaster, AI agents do most of the analytical work. They interview employees at scale, reconstruct how the organization actually works, identify bottlenecks and inefficiencies, and generate recommendations. A human consultant then reviews the output, challenges the reasoning where needed, and delivers the final recommendations to the client. That consultant also helps improve the system over time.\r\n\r\nThis means dramatically less human time is required to deliver high-quality consulting work. What used to require months of work from entire teams can now be done in a few days with one consultant supported by AI.\r\n\r\nThe result is a model that is faster, more precise, and more affordable than traditional consulting. For example, building a tailored AI roadmap for a company can be done in a few days instead of months.\r\n\r\nBecause our agents can process far more organizational detail than a traditional team could realistically gather and analyze, we can reach a level of speed and precision that classical consulting firms struggle to match.",
+    "long_description": "Consulting hasn’t evolved much in decades. Yet it is still slow, expensive, and built on partial visibility.\r\n\r\nAI finally makes a new model possible.\r\n\r\nAt Foaster.ai, our agents interview employees at scale, reconstruct a detailed map of how the company actually works, and reason on top of it to generate recommendations. \r\n\r\nUnlike traditional consulting, which usually relies on a limited set of interviews and an incomplete view of operations, this lets us tackle much more complex problems with far greater precision. \r\n\r\nHuman experts stay in the loop to validate the output, challenge the reasoning when needed, deliver the final recommendations, and improve the system over time.\r\n\r\nWe can already work with companies today on:\r\n• Process mapping: map operations you have never fully understood, yet that are critical to the business\r\n• AI roadmap design: identify at scale where AI could have the highest impact across your organization\r\n• Cost reduction: surface inefficiencies buried across workflows, teams, and day-to-day operations\r\n\r\nWhat used to take weeks or months can now be explored in a few days, with much greater visibility into how the company actually works. And once that operational map exists, we can solve more and more business problems on top of the same foundation without starting from scratch.",
     "one_liner": "AI-native consulting firm",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1210,6 +1289,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/testerarmy",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json"
+  },
+  {
+    "id": 31505,
+    "name": "OpenWork",
+    "slug": "openwork",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79f117b2c0a8e5660f929ae9a8070ce8dd61d0ff.png",
+    "website": "https://openworklabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenWork is a desktop app that lets people connect to their existing skills, MCPs, and agents. Users can download the app for free, try it with over 50+ model providers, and easily share their setup with their team.",
+    "one_liner": "The open source alternative to Claude Cowork",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1774277464,
+    "tags": [
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openwork",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/openwork.json"
   },
   {
     "id": 31507,

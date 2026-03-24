@@ -4283,7 +4283,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5265,6 +5265,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/motion.json"
   },
   {
+    "id": 12974,
+    "name": "Flowglad",
+    "slug": "flowglad",
+    "former_names": [
+      "NUMI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
+    "website": "https://flowglad.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits.\r\n\r\nIt gives AI agents and software the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely.\r\n\r\nDevelopers can embed payments directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
+    "one_liner": "The payment processor for natural language software",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1583962983,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Fintech",
+      "Payments"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flowglad",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/flowglad.json"
+  },
+  {
     "id": 13074,
     "name": "Phonic",
     "slug": "phonic",
@@ -6122,6 +6165,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shuttle",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/shuttle.json"
+  },
+  {
+    "id": 21857,
+    "name": "Hypotenuse AI",
+    "slug": "hypotenuse-ai",
+    "former_names": [
+      "Hypotenuse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e709f345af0105b77cf1718bbd11559604606b2.png",
+    "website": "https://hypotenuse.ai/",
+    "all_locations": "Singapore, Singapore",
+    "long_description": "Hypotenuse AI is an AI agent platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster.",
+    "one_liner": "Manage, create & optimize your ecommerce product content using AI",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1597658049,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Machine Learning",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hypotenuse-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/hypotenuse-ai.json"
   },
   {
     "id": 21881,
@@ -9216,6 +9304,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/anakin.json"
   },
   {
+    "id": 24153,
+    "name": "Dailybot",
+    "slug": "dailybot",
+    "former_names": [
+      "DailyBot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a4562eea5bec9eaf52ff9e3598861ff6e24fdf0.png",
+    "website": "https://www.dailybot.com/",
+    "all_locations": "Remote, OR, USA; Remote",
+    "long_description": "DailyBot is a chat AI Assistant and Workflow Automation platform. It takes chat to a new level by providing automation and chat use-cases that are underserved by the current messaging platforms. It helps users get more things done within the chat to be more efficient and save time.\r\n\r\nThe new generation lives in chat. Remote/hybrid teams use DailyBot to automate daily workflows like stand-ups, team check-ins, give kudos to teammates or even to create their own chat-automation for their back-office with no-code/low-code in an environment similar to Amazon Alexa. DailyBot offers numerous add-ons to make the work experience better.\r\n\r\nDailyBot provides a ChatGPT assistant and a unique AI Workflows tool. Users can build multi-step workflows that use AI to generate content, process information and run actions.\r\n\r\nDailyBot is cross platform and already available for Slack, Microsoft Teams, Google Chat and Discord.\r\n\r\nKeywords: chatops chat-ops async nocode assistant workflow automation developer",
+    "one_liner": "AI Assistant and Chat Add-ons for Work",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1625092395,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Collaboration",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dailybot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/dailybot.json"
+  },
+  {
     "id": 24162,
     "name": "Konta.com",
     "slug": "konta-com",
@@ -11176,6 +11311,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/emobi",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/emobi.json"
+  },
+  {
+    "id": 25603,
+    "name": "Reforged Labs",
+    "slug": "reforged-labs",
+    "former_names": [
+      "Nook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d777f64a6f8aa21e8a0f44f260c8cb87a5ac203.png",
+    "website": "https://reforgedlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
+    "one_liner": "Turn intuition into insights, in minutes",
+    "team_size": 19,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1644566628,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Gaming",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reforged-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/reforged-labs.json"
   },
   {
     "id": 25614,
@@ -28860,6 +29042,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/revyl.json"
   },
   {
+    "id": 30047,
+    "name": "Endstack",
+    "slug": "endstack",
+    "former_names": [
+      "Lune AI",
+      "Lune",
+      "Cosmic"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b2d3d74e1b66a985b5ff4da594128358d243158.png",
+    "website": "https://www.endstack.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Endstack is a desktop OS optimized for humans and agents running in the cloud.\r\n\r\nYour desktop is powered by endOS, giving you a real desktop workspace in the browser backed by Linux in the cloud. Files, notes, browser tabs, native apps, terminals, and all your agents in one beautiful, familiar, interface.\r\n\r\nYou get a powerful agent running 24/7, integrated at the system level into endOS that you can also reach via Slack, email, or SMS. \r\n\r\nEndstack desktops are also natively multiplayer, allowing for realtime collaboration with teammates.",
+    "one_liner": "Cloud desktop OS for humans and agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1731874326,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/endstack",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/endstack.json"
+  },
+  {
     "id": 30054,
     "name": "CTGT",
     "slug": "ctgt",
@@ -33000,49 +33227,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/human-behavior.json"
   },
   {
-    "id": 30500,
-    "name": "Besimple AI",
-    "slug": "besimple-ai",
-    "former_names": [
-      "Simple Annotation",
-      "besimple ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
-    "website": "https://besimple.ai",
-    "all_locations": "Redwood City, CA, USA",
-    "long_description": "We are building the data layer for AI, starting with audio.  \r\n\r\nWe start with data collection, curating our own proprietary set of diverse conversational data covering a wide range of languages, dialects and accents.  We then leverage human expert audio annotators and our own annotation platform to process audio data for Automatic Speech Recognition.  \r\n\r\nWith human level transcription and diarization, our data help push the audio model frontier.  Today we have over millions of hours of conversational data, and growing. \r\n\r\nIf you need audio data for training or evaluating your voice models or voice agents, reach out!  We offer flexible licensing deals that work for startups and enterprises, with minimal process.  \r\n\r\nAudio data should besimple :) ",
-    "one_liner": "Voice data for AI",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747861843,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Data Labeling"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/besimple-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json"
-  },
-  {
     "id": 30506,
     "name": "Klavis AI",
     "slug": "klavis-ai",
@@ -33509,6 +33693,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/code-four",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
+  },
+  {
+    "id": 30542,
+    "name": "Vision Lab",
+    "slug": "vision-lab",
+    "former_names": [
+      "Comply Genie",
+      "Vision Nexus",
+      "LineWise"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c8aab3bb47bc9402833acb64276f52de063681.png",
+    "website": "https://thevisionlab.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We capture and structure real factory workflows at scale by combining first-person industrial video with SOP-level process knowledge.\r\n\r\nThis enables robotics and AI labs to train on real production data, not just controlled lab environments.",
+    "one_liner": "Industrial data layer for robotics training",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1743036496,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Manufacturing",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vision-lab",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vision-lab.json"
   },
   {
     "id": 30543,
@@ -34007,7 +34237,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -36110,49 +36340,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/rowflow.json"
   },
   {
-    "id": 30789,
-    "name": "Interfere",
-    "slug": "interfere",
-    "former_names": [
-      "Ordinary Intelligence"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8874713141e02cb143838e685aab73861963b373.png",
-    "website": "https://interfere.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "The greatest product teams use Interfere to spend more time building what’s next instead of maintaining what was. ",
-    "one_liner": "Build software that never breaks",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752094986,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Design"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/interfere",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
-  },
-  {
     "id": 30795,
     "name": "NOSO LABS",
     "slug": "noso-labs",
@@ -37311,47 +37498,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
   },
   {
-    "id": 30931,
-    "name": "Pixley AI",
-    "slug": "pixley-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c23f15ce17b5566bb443e85decbca310887c19c.png",
-    "website": "https://pixleyai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pixley is the first platform where kids can turn their drawings and ideas into fully animated cartoons in minutes. In just 3 weeks after launch, over 1000 families across 75 countries have already started creating stories.\r\n\r\nWe’re starting with a clear wedge: personalized kids’ entertainment. Parents are tired of overstimulating, low-value content from YouTube and Netflix. Pixley gives them safe and personalized stories that encourage learning and imagination.\r\n\r\nBut kids’ cartoons are just the beginning. As video generation improves, all video content will shift from manual production to being personalized and generated. Our long-term goal is to build the AI Netflix: a platform where shows and movies aren’t recommended, but instead generated around each viewer’s interests and habits.\r\n\r\nWe’re 19 year old CS dropouts who’ve known each other since elementary school and won 4 hackathons at 15. After seeing AI flood the internet with low-quality content, we created Pixley – a safe, personalized way for kids to turn their ideas into animated stories.",
-    "one_liner": "The first platform where parents & kids can co-create AI cartoon shows",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1759526048,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pixley-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/pixley-ai.json"
-  },
-  {
     "id": 30932,
     "name": "Leadbay",
     "slug": "leadbay",
@@ -38301,50 +38447,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   },
   {
-    "id": 31269,
-    "name": "MochaCare",
-    "slug": "mochacare",
-    "former_names": [
-      "HelpingHome"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47ffd397ae9768c410e6f2ccb34010e6de9587b6.png",
-    "website": "https://www.mochacare.com/",
-    "all_locations": "",
-    "long_description": "MochaCare is an agentic management service for care organizations. We handle hiring, scheduling, and client intake end-to-end so our partners can focus on growth.",
-    "one_liner": "Agentic Management Service for Care Organizations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1771654500,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Home Services"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mochacare",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/mochacare.json"
-  },
-  {
     "id": 31295,
     "name": "Carrot Labs",
     "slug": "carrot-labs",
@@ -38680,6 +38782,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callab-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
+  },
+  {
+    "id": 31488,
+    "name": "Foaster",
+    "slug": "foaster",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
+    "website": "https://foaster.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Consulting hasn’t evolved much in decades. Yet it is still slow, expensive, and built on partial visibility.\r\n\r\nAI finally makes a new model possible.\r\n\r\nAt Foaster.ai, our agents interview employees at scale, reconstruct a detailed map of how the company actually works, and reason on top of it to generate recommendations. \r\n\r\nUnlike traditional consulting, which usually relies on a limited set of interviews and an incomplete view of operations, this lets us tackle much more complex problems with far greater precision. \r\n\r\nHuman experts stay in the loop to validate the output, challenge the reasoning when needed, deliver the final recommendations, and improve the system over time.\r\n\r\nWe can already work with companies today on:\r\n• Process mapping: map operations you have never fully understood, yet that are critical to the business\r\n• AI roadmap design: identify at scale where AI could have the highest impact across your organization\r\n• Cost reduction: surface inefficiencies buried across workflows, teams, and day-to-day operations\r\n\r\nWhat used to take weeks or months can now be explored in a few days, with much greater visibility into how the company actually works. And once that operational map exists, we can solve more and more business problems on top of the same foundation without starting from scratch.",
+    "one_liner": "AI-native consulting firm",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773744030,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foaster",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
   },
   {
     "id": 31511,

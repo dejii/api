@@ -22738,7 +22738,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc86727a443ac448343eba0a5ce27b88d63b2f8f.png",
     "website": "https://traceroot.ai",
     "all_locations": "",
-    "long_description": "TraceRoot is open-source observability and self-healing layer for AI agents. It help engineering teams capture traces, debug with AI and ship with confidence.",
+    "long_description": "TraceRoot is an open-source observability and self-healing layer for AI agents. It captures traces, debug with AI that sees your source code and GitHub history.",
     "one_liner": "Open source self-healing layer for AI agents",
     "team_size": 2,
     "industry": "B2B",
@@ -23651,19 +23651,19 @@
     "former_names": [
       "Ordinary Intelligence"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8874713141e02cb143838e685aab73861963b373.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f9845a726fcc8f4b24f4e6fbdbe17fc46f07039.png",
     "website": "https://interfere.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "The greatest product teams use Interfere to spend more time building what’s next instead of maintaining what was. ",
+    "long_description": "Interfere is the experience layer for modern product teams. Detect, triage, and fix bugs automatically – no human required. Interfere finds issues in your app, understands what's happening, and owns resolution from first signal to production.\r\n",
     "one_liner": "Build software that never breaks",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Design"
+      "Design",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25274,6 +25274,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/martini",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/martini.json"
+  },
+  {
+    "id": 31332,
+    "name": "Stage",
+    "slug": "stage",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/651678718cc0436dc7af01c6a4293c6ee03d08c7.png",
+    "website": "https://www.stagereview.app/",
+    "all_locations": "",
+    "long_description": "Teams are shipping faster than ever with AI, but engineers are merging changes that neither they nor their reviewers fully understand, leading to bugs in production and overwhelming cognitive debt.\r\n\r\nStage is a new code review platform built for today’s fast moving teams. Instead of forcing readers to piece things together from unorganized diffs, Stage breaks changes down into structured chapters so teams can understand what's happening and ship with confidence.",
+    "one_liner": "Code review platform for today’s engineers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1774297910,
+    "tags": [
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stage",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/stage.json"
   },
   {
     "id": 31345,

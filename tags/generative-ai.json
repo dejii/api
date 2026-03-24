@@ -1017,7 +1017,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e709f345af0105b77cf1718bbd11559604606b2.png",
     "website": "https://hypotenuse.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Singapore, Singapore",
     "long_description": "Hypotenuse AI is an AI agent platform for managing, creating and optimizing your ecommerce product data and content. Fortune 500 ecommerce brands use us to enrich their product data, edit images, and create high-quality product copy at scale to make their teams 10x faster.",
     "one_liner": "Manage, create & optimize your ecommerce product content using AI",
     "team_size": 15,
@@ -1025,10 +1025,10 @@
     "subindustry": "B2B",
     "launched_at": 1597658049,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1040,8 +1040,8 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
+      "Singapore",
+      "Southeast Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -2473,53 +2473,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/dart.json"
   },
   {
-    "id": 25603,
-    "name": "Reforged Labs",
-    "slug": "reforged-labs",
-    "former_names": [
-      "Nook"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d777f64a6f8aa21e8a0f44f260c8cb87a5ac203.png",
-    "website": "https://reforgedlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
-    "one_liner": "Turn intuition into insights, in minutes",
-    "team_size": 18,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1644566628,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Gaming",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reforged-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/reforged-labs.json"
-  },
-  {
     "id": 25674,
     "name": "Toko",
     "slug": "toko",
@@ -3552,7 +3505,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -9505,26 +9458,27 @@
   },
   {
     "id": 30047,
-    "name": "Cosmic",
-    "slug": "cosmic-new",
+    "name": "Endstack",
+    "slug": "endstack",
     "former_names": [
       "Lune AI",
-      "Lune"
+      "Lune",
+      "Cosmic"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b682e5ea520f8569ed33fc24bbbdaf361e7d7b.png",
-    "website": "https://www.cosmic.new/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI platform that has everything you need to build, monetize, and deploy full-stack websites in minutes. \r\n\r\nBeautiful UIs, auth, database, payment processing, deployments, and more natively integrated in one place.",
-    "one_liner": "Build, monetize, and deploy full-stack websites in minutes",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b2d3d74e1b66a985b5ff4da594128358d243158.png",
+    "website": "https://www.endstack.com",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Endstack is a desktop OS optimized for humans and agents running in the cloud.\r\n\r\nYour desktop is powered by endOS, giving you a real desktop workspace in the browser backed by Linux in the cloud. Files, notes, browser tabs, native apps, terminals, and all your agents in one beautiful, familiar, interface.\r\n\r\nYou get a powerful agent running 24/7, integrated at the system level into endOS that you can also reach via Slack, email, or SMS. \r\n\r\nEndstack desktops are also natively multiplayer, allowing for realtime collaboration with teammates.",
+    "one_liner": "Cloud desktop OS for humans and agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1731874326,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Web Development",
-      "AI"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9544,8 +9498,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cosmic-new",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/cosmic-new.json"
+    "url": "https://www.ycombinator.com/companies/endstack",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/endstack.json"
   },
   {
     "id": 30049,
@@ -11150,8 +11104,8 @@
     "launched_at": 1759526048,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11449,9 +11403,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e14eb470879a4e71c717ad6774095600e8b0de85.png",
     "website": "https://minicor.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Minicor is a platform for building and running desktop automations at scale. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix. Deploy your automations with self-healing, video replay, and horizontal scaling built in. \r\n\r\nGo live with any customer using desktop software at scale.",
+    "long_description": "AI companies selling into legacy industries can't go live because their customers' systems of record are Windows desktop apps with no APIs. The only way in is clicking through the UI, and it breaks constantly.\r\n\r\nMinicor is a platform for building self-healing desktop automations at scale. Speak the automation into existence through your favourite coding agent via our MCP, or to us directly, and get an API endpoint to trigger it. One API call triggers a full desktop workflow on a Windows VM. On-premise, cloud, or Citrix.\r\n\r\nVideo replay, error logging, and scaling built in.",
     "one_liner": "Managed, self healing desktop automation at scale",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1772756028,
