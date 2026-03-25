@@ -788,8 +788,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddad5e732e1515ab69da4100f7fa6d3a5d491e82.png",
     "website": "http://operator.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Operator helps you build and test skills for your AI agents until they actually work. Describe what you need, run variants, keep what wins.",
-    "one_liner": "Build, test, and deploy skills for AI agents",
+    "long_description": "Operator helps you train autonomous agents until they actually work. Describe what you need, run variants, then deploy them.",
+    "one_liner": "Build your OpenClaw team",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3590,7 +3590,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -6345,55 +6345,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/contour",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/contour.json"
-  },
-  {
-    "id": 28818,
-    "name": "Mandel AI",
-    "slug": "mandel-ai",
-    "former_names": [
-      "Enbank",
-      "Fynt",
-      "Fynt AI",
-      "Fynt",
-      "Fynt AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
-    "website": "https://www.mandel.ai/",
-    "all_locations": "",
-    "long_description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
-    "one_liner": "AI Supply Chain Coordinator",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1691105932,
-    "tags": [
-      "Generative AI",
-      "Logistics",
-      "Manufacturing",
-      "Supply Chain",
-      "Procurement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mandel-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/mandel-ai.json"
   },
   {
     "id": 28835,
@@ -10196,48 +10147,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/bezel.json"
   },
   {
-    "id": 30248,
-    "name": "Operand",
-    "slug": "operand",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87e36d9c531e8bea073d0ff4ca8ceaced1c215a5.png",
-    "website": "https://www.operand.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operand builds and deploys AI systems that help companies run their business better—using data, machine learning, and decision systems to drive day-to-day strategy execution. They work with leading retailers, manufacturers, distributors, and capital allocators on guiding everything from pricing, forecasting, allocation, diligence, and more.  ",
-    "one_liner": "AI to run Business Strategy",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1738206906,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "E-commerce",
-      "Retail"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operand",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/operand.json"
-  },
-  {
     "id": 30283,
     "name": "Confident AI",
     "slug": "confident-ai",
@@ -11228,7 +11137,7 @@
     "website": "https://absurd.com/",
     "all_locations": "",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
-    "one_liner": "Agents for creative production",
+    "one_liner": "Agents for video production",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -11437,5 +11346,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/minicor",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/minicor.json"
+  },
+  {
+    "id": 31497,
+    "name": "Amboras",
+    "slug": "amboras",
+    "former_names": [
+      "Amboras Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ed7c8489d6f5c3dbac6599b7042a3c9668cb002.png",
+    "website": "https://amboras.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Amboras puts your entire e-commerce on autopilot. It builds your store, continuously optimizes it, reads your analytics, and learns what converts - all autonomously. No developers. No agencies. No guessing. Today it sells to humans. Tomorrow it sells to AI agents.\r\n",
+    "one_liner": "Let AI sell your stuff on autopilot",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774323217,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amboras",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/amboras.json"
   }
 ]

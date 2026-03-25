@@ -4283,7 +4283,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5263,49 +5263,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/motion",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/motion.json"
-  },
-  {
-    "id": 12974,
-    "name": "Flowglad",
-    "slug": "flowglad",
-    "former_names": [
-      "NUMI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
-    "website": "https://flowglad.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits.\r\n\r\nIt gives AI agents and software the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely.\r\n\r\nDevelopers can embed payments directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
-    "one_liner": "The payment processor for natural language software",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1583962983,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Fintech",
-      "Payments"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flowglad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/flowglad.json"
   },
   {
     "id": 13074,
@@ -7128,18 +7085,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Encord is the leading data platform for AI. We help top AI teams get models into production faster with human-in-the-loop workflows for labeling and RLHF, infrastructure for data-centric model testing, and powerful data curation and management.",
-    "one_liner": "Building the data backbone for the (artificial) intelligence…",
-    "team_size": 100,
+    "long_description": "Encord is the data layer for physical AI. We're how the world's most ambitious AI teams turn messy, multimodal data into production systems - from humanoid robots to autonomous vehicles to smart infrastructure. 300+ teams including Toyota, Skydio, and Maxar rely on Encord to curate, manage, and align the data their models actually need. $110M raised. San Francisco, New York, and London.",
+    "one_liner": "The data layer for physical AI",
+    "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1613768381,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "Machine Learning",
-      "Computer Vision",
-      "AI"
+      "Robotics",
+      "Enterprise Software",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7155,7 +7112,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17698,6 +17655,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/pointhound.json"
   },
   {
+    "id": 28809,
+    "name": "Readily",
+    "slug": "readily",
+    "former_names": [
+      "Pandan",
+      "diligent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
+    "website": "https://readily.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Readily uses AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care. We've helped $B healthcare organizations cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
+    "one_liner": "AI Compliance Platform for Healthcare Organizations",
+    "team_size": 14,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1684821530,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Compliance",
+      "Healthcare",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/readily",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/readily.json"
+  },
+  {
     "id": 28811,
     "name": "Casca",
     "slug": "casca",
@@ -18260,50 +18262,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/serra.json"
   },
   {
-    "id": 28879,
-    "name": "Menza",
-    "slug": "menza",
-    "former_names": [
-      "Latentspace"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
-    "website": "https://menza.ai/",
-    "all_locations": "",
-    "long_description": "Menza is the AI data analyst for consumer brands. A brand like Hershey’s would connect all of their data sources and then we give them an AI analyst that works 24/7 looking for revenue opportunities, cost leaks, trends and anomalies.",
-    "one_liner": "The AI data analyst for consumer brands",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1691019522,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Analytics",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/menza",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/menza.json"
-  },
-  {
     "id": 28884,
     "name": "Rocketeer",
     "slug": "rocketeer",
@@ -18493,21 +18451,23 @@
   },
   {
     "id": 28891,
-    "name": "Cleancard",
-    "slug": "cleancard",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b82979e8cd1a007de394d4f1a3a8e665968d02.png",
-    "website": "https://www.cleancard.bio",
+    "name": "Numen",
+    "slug": "numen",
+    "former_names": [
+      "Cleancard"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/801ff758c035f5849acfdcd35329ec161bd30cef.png",
+    "website": "https://www.numen.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard's mission is to bring lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine. We are currently developing fully at-home, 30-minute tests for cancer using this methodology. We are constantly expanding the number of conditions we can detect from a single sample with our platform technology.",
-    "one_liner": "Making cancer detection as easy as a pregnancy test",
+    "long_description": "",
+    "one_liner": "Engineering a future without cancer deaths.",
     "team_size": 16,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1691571179,
     "tags": [
       "Artificial Intelligence",
-      "Computer Vision",
+      "Machine Learning",
       "Biotech",
       "Healthcare",
       "Diagnostics"
@@ -18524,15 +18484,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cleancard",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cleancard.json"
+    "url": "https://www.ycombinator.com/companies/numen",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/numen.json"
   },
   {
     "id": 28894,
@@ -21414,26 +21376,24 @@
   },
   {
     "id": 29265,
-    "name": "Lumen Payments",
-    "slug": "lumen-payments",
+    "name": "Pretzel AI",
+    "slug": "pretzel-ai",
     "former_names": [
-      "Pretzel AI"
+      "Pretzel AI",
+      "Lumen Payments"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9374ac7f590e35b961fa334f50707ea210eda158.png",
-    "website": "https://getlumen.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c404e22972d59aa653091f4cf9a5eab3fa2894e.png",
+    "website": "https://withpretzel.com",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Lumen let's you implement complex pricing models in under 10 minutes.\r\n\r\nLumen will take care of webhooks, user credits, tracking usage in real-time, usage based billing, taxes and more so you can focus on your product.",
-    "one_liner": "Fastest way to implement payments in your product.",
+    "long_description": "",
+    "one_liner": "AI tooling",
     "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1710864971,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "Open Source",
-      "Billing"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21442,7 +21402,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "Germany",
@@ -21453,8 +21414,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumen-payments",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/lumen-payments.json"
+    "url": "https://www.ycombinator.com/companies/pretzel-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/pretzel-ai.json"
   },
   {
     "id": 29266,
@@ -21719,6 +21680,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simplex",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simplex.json"
+  },
+  {
+    "id": 29297,
+    "name": "Eggnog",
+    "slug": "eggnog",
+    "former_names": [
+      "Fielder"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8db4ae69ffa9fe27a2e056c7825fa07368367d7.png",
+    "website": "https://www.eggnog.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI video apps that bring joy. Taffy, our latest app, is used by friends and lovers to make animations of favorite memories and inside jokes.",
+    "one_liner": "Fun with AI video",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1710803454,
+    "tags": [
+      "Artificial Intelligence",
+      "Entertainment",
+      "Social Media",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/eggnog",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/eggnog.json"
   },
   {
     "id": 29298,
@@ -28594,6 +28598,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
+  },
+  {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.",
+    "one_liner": "AI chart review for speciality medical clinics.",
+    "team_size": 9,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Artificial Intelligence",
+      "Big Data",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
   },
   {
     "id": 29989,
@@ -36685,6 +36734,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
   },
   {
+    "id": 30845,
+    "name": "Structured AI",
+    "slug": "structured-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png",
+    "website": "https://www.getstructured.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders.\r\n\r\n⚙️ Automates QA/QC across mechanical, electrical, structural and more\r\n🧩 Used by multi-disciplinary design firms to deliver projects faster with less risk\r\n🚀 Mission: Free engineers to focus on creative design, not repetitive admin",
+    "one_liner": "AI workforce for Construction Engineering",
+    "team_size": 8,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1759212406,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "Construction",
+      "Architecture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/structured-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/structured-ai.json"
+  },
+  {
     "id": 30850,
     "name": "Zavo",
     "slug": "zavo",
@@ -38319,48 +38410,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/noetic.json"
   },
   {
-    "id": 31111,
-    "name": "Envariant",
-    "slug": "envariant",
-    "former_names": [
-      "Facture"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
-    "website": "https://envariant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Envariant is an AI interpretability and reasoning SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
-    "one_liner": "Interpretability and reasoning infra for foundation models.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1772291164,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/envariant",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
-  },
-  {
     "id": 31165,
     "name": "IncidentFox",
     "slug": "brownie",
@@ -38402,49 +38451,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brownie",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/brownie.json"
-  },
-  {
-    "id": 31215,
-    "name": "Bubble Lab",
-    "slug": "bubble-lab",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
-    "website": "https://bubblelab.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bubble Lab lets companies deploy Pearl, an ops super-employee that lives in Slack.\r\n\r\nPearl connects to SaaS tools like Notion, Jira, HubSpot, Stripe, and Google Workspace so teams can simply ask for work to happen — generating reports, updating CRMs, or chasing invoices.\r\n\r\nTasks start as flexible AI agents, but when they become repeatable, Bubble Lab automatically converts them into deterministic workflows that run instantly, reliably, and at zero cost.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work and scale operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
-    "one_liner": "The ops super-employee in Slack",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1764881455,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Enterprise Software",
-      "Automation",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bubble-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   },
   {
     "id": 31295,

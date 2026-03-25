@@ -1369,9 +1369,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28d703d7d5920b0a08a9902602fdc87b96bb313b.png",
     "website": "https://www.snapmagic.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Built by electrical engineers for electrical engineers, SnapMagic removes monotony so that engineers can do their best work. SnapMagic’s electronic component data is used by over 1.5 million engineers across the world’s largest organizations. Its new AI Copilot will change the way that every engineer designs electronics. Join at www.snapmagic.com.",
-    "one_liner": "AI copilot for electronics design",
-    "team_size": 32,
+    "long_description": "Built by electrical engineers for electrical engineers, SnapMagic removes monotony so that engineers can do their best work. SnapMagic’s electronic component data is used by over 2 million engineers across the world’s largest organizations. Our new AI-assisted design tool is changing the way that every engineer designs electronics. Join at www.snapmagic.com.",
+    "one_liner": "AI-assisted electronics design",
+    "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1429997721,
@@ -4164,12 +4164,12 @@
     "name": "zeroheight",
     "slug": "zeroheight",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef6f80a359194cc5d9bf39162453b281c3ff8ccc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed2baeb51a0f0a58c1fedf8a9565de188c435f34.png",
     "website": "https://zeroheight.com",
-    "all_locations": "London, England, United Kingdom; San Francisco, CA, USA; Remote",
-    "long_description": "UX teams are scaling exponentially, but in order to scale effectively, they need to be able to reuse each other’s work. The problem is that right now, UX designers and developers don’t know what’s been done before and they end up rebuilding the same things – over and over. zeroheight integrates with UX tools and allows teams to document their work, so that it can be reused and they can deliver UX faster.",
-    "one_liner": "The DevOps platform for UX",
-    "team_size": 75,
+    "all_locations": "London, England, United Kingdom; Remote",
+    "long_description": "In a world where anyone can build software and sloppy products are abundant, the products that rise above the rest are the ones that solve real problems with a polished UX and strong brand identity. The key to delivering those things is a high quality, reliable, AI-optimised design system.\r\n\r\nzeroheight enables product teams to effortlessly document, manage, and fine-tune their design systems for AI development, so that they can ship at 10x speed without compromising on user experience.",
+    "one_liner": "The design system layer for coding agents",
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1559266318,
@@ -4190,13 +4190,11 @@
     ],
     "regions": [
       "United Kingdom",
-      "United States of America",
       "Europe",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4390,17 +4388,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
     "website": "https://flowglad.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits.\r\n\r\nIt gives AI agents and software the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely.\r\n\r\nDevelopers can embed payments directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
-    "one_liner": "The payment processor for natural language software",
+    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits. Bring your own agent or use ours. Flowglad gives agents the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely. Embed spend policy directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
+    "one_liner": "Agent payment infra. Program spend + approvals. BYO or use our agents.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1583962983,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
-      "Payments"
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6914,52 +6912,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/segments-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/segments-ai.json"
-  },
-  {
-    "id": 22744,
-    "name": "Encord",
-    "slug": "encord",
-    "former_names": [
-      "Cord Technologies",
-      "Cord"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
-    "website": "https://encord.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Encord is the leading data platform for AI. We help top AI teams get models into production faster with human-in-the-loop workflows for labeling and RLHF, infrastructure for data-centric model testing, and powerful data curation and management.",
-    "one_liner": "Building the data backbone for the (artificial) intelligence…",
-    "team_size": 100,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1613768381,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "Computer Vision",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/encord",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/encord.json"
   },
   {
     "id": 22771,
@@ -23088,48 +23040,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasts",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
-  },
-  {
-    "id": 31111,
-    "name": "Envariant",
-    "slug": "envariant",
-    "former_names": [
-      "Facture"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
-    "website": "https://envariant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Envariant is an AI interpretability and reasoning SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
-    "one_liner": "Interpretability and reasoning infra for foundation models.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1772291164,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/envariant",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
   },
   {
     "id": 31147,

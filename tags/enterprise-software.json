@@ -890,6 +890,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/taktile.json"
   },
   {
+    "id": 22744,
+    "name": "Encord",
+    "slug": "encord",
+    "former_names": [
+      "Cord Technologies",
+      "Cord"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
+    "website": "https://encord.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Encord is the data layer for physical AI. We're how the world's most ambitious AI teams turn messy, multimodal data into production systems - from humanoid robots to autonomous vehicles to smart infrastructure. 300+ teams including Toyota, Skydio, and Maxar rely on Encord to curate, manage, and align the data their models actually need. $110M raised. San Francisco, New York, and London.",
+    "one_liner": "The data layer for physical AI",
+    "team_size": 150,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1613768381,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/encord",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/encord.json"
+  },
+  {
     "id": 22789,
     "name": "Gridware",
     "slug": "gridware",
@@ -1980,9 +2026,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
     "website": "http://helloconduit.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dock Scheduling, Yard Management, Driver Sign In, and more. \r\n\r\nWe make software for warehouses and logistics teams to save time and money managing docks, gates, and yards. With dock, gate, and yard management modules, each module can easily be added on or used on its own. This makes Conduit the perfect fit for all types of operations. Best of all, if you have multiple facilities then Conduit can be configured differently at each facility, but provide you with a comprehensive view of your entire network.\r\n\r\nWe are proud to be able to help supply chains of all sizes optimize their labor, increase throughput, and prepare for the work ahead. ",
-    "one_liner": "Air Traffic Control for Warehouses",
-    "team_size": 9,
+    "long_description": "Conduit systemizes the planning and execution of dock and yard operations into one platform — dock scheduling, driver check-in, yard management, and compliance documentation. Our workflows give operators leverage to increase throughput and reduce waste. Our platform produces the clean, structured data that makes AI possible — data that doesn't exist elsewhere.\r\n\r\nThe dock is where physical custody of goods changes hands — the most consequential moment in the supply chain, and the least invested-in. WMS stops at staging. TMS doesn't reach the dock. Everything in between is still running on email, spreadsheets, and clipboards. We're closing that gap for the 99% of warehouses that legacy systems were never designed to serve.",
+    "one_liner": "Replacing the spreadsheets and email chains that run every warehouse…",
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1674704550,
@@ -1990,8 +2036,8 @@
       "SaaS",
       "B2B",
       "Logistics",
-      "Transportation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4498,49 +4544,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/approxima",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
-  },
-  {
-    "id": 31215,
-    "name": "Bubble Lab",
-    "slug": "bubble-lab",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
-    "website": "https://bubblelab.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bubble Lab lets companies deploy Pearl, an ops super-employee that lives in Slack.\r\n\r\nPearl connects to SaaS tools like Notion, Jira, HubSpot, Stripe, and Google Workspace so teams can simply ask for work to happen — generating reports, updating CRMs, or chasing invoices.\r\n\r\nTasks start as flexible AI agents, but when they become repeatable, Bubble Lab automatically converts them into deterministic workflows that run instantly, reliably, and at zero cost.\r\n\r\nOperations teams use Bubble Lab to eliminate manual work and scale operations without scaling headcount.\r\n\r\nAlready trusted by thousands of operators across BizOps, RevOps, and fast-growing teams.",
-    "one_liner": "The ops super-employee in Slack",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1764881455,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Enterprise Software",
-      "Automation",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bubble-lab",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   },
   {
     "id": 31276,

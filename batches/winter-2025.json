@@ -3095,21 +3095,16 @@
     "name": "Operand",
     "slug": "operand",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87e36d9c531e8bea073d0ff4ca8ceaced1c215a5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80bb33f9be2a3037ed8fdc3e03f07687031bbfcd.png",
     "website": "https://www.operand.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operand builds and deploys AI systems that help companies run their business better—using data, machine learning, and decision systems to drive day-to-day strategy execution. They work with leading retailers, manufacturers, distributors, and capital allocators on guiding everything from pricing, forecasting, allocation, diligence, and more.  ",
-    "one_liner": "AI to run Business Strategy",
-    "team_size": 5,
+    "long_description": "Operand works with leading private equity funds across the deal lifecycle, from commercial due diligence through post-close value creation. \r\n\r\nOperand uses proprietary data collection agents and machine learning systems to generate informational alpha for funds, including four of the ten largest private equity mega-funds in the US. \r\n\r\nIn October 2025, the Operand 'Quant' topped OpenAI's MLE-Benchmark, achieving state-of-the-art performance and beating OpenAI, Microsoft, and Google. MLE-Benchmark measures the abilities of long-horizon, autonomous agents on competition-style machine learning and data science problems.",
+    "one_liner": "Private Markets Intelligence",
+    "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B",
     "launched_at": 1738206906,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "E-commerce",
-      "Retail"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3117,8 +3112,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Analytics"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -4754,6 +4748,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
   },
   {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737526775,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
+  },
+  {
     "id": 30290,
     "name": "Tire Swing",
     "slug": "tire-swing",
@@ -5172,8 +5210,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31bcea60ffb3d8a33af2866a492802486933e372.png",
     "website": "https://tryfuse.ai/",
     "all_locations": "",
-    "long_description": "FuseAI is the sales superintelligence platform for modern revenue teams.\r\n\r\nBuilt for high-performance outbound, FuseAI consolidates your entire GTM stack - data, enrichment, multi-channel automation, real-time buying signals, and AI-driven execution  into one seamless system.\r\n\r\nWith powerful integrations and intelligent workflows, FuseAI doesn’t just help you run campaigns. It turns every signal into pipeline, and every rep into a top performer.",
-    "one_liner": "The only sales software you will ever need. ",
+    "long_description": "FuseAI is the all-in-one sales platform for modern revenue teams.\r\n\r\nBuilt for high-performance outbound, FuseAI consolidates your entire GTM stack - data, enrichment, multi-channel automation, real-time buying signals, and AI-driven execution  into one seamless system.\r\n\r\nWith powerful integrations and intelligent workflows, FuseAI doesn’t just help you run campaigns. It turns every signal into pipeline, and every rep into a top performer.",
+    "one_liner": "The #1 AI Platform for Outbound Sales.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",

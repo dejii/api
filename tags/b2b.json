@@ -28431,7 +28431,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -32049,9 +32049,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
     "website": "http://helloconduit.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dock Scheduling, Yard Management, Driver Sign In, and more. \r\n\r\nWe make software for warehouses and logistics teams to save time and money managing docks, gates, and yards. With dock, gate, and yard management modules, each module can easily be added on or used on its own. This makes Conduit the perfect fit for all types of operations. Best of all, if you have multiple facilities then Conduit can be configured differently at each facility, but provide you with a comprehensive view of your entire network.\r\n\r\nWe are proud to be able to help supply chains of all sizes optimize their labor, increase throughput, and prepare for the work ahead. ",
-    "one_liner": "Air Traffic Control for Warehouses",
-    "team_size": 9,
+    "long_description": "Conduit systemizes the planning and execution of dock and yard operations into one platform — dock scheduling, driver check-in, yard management, and compliance documentation. Our workflows give operators leverage to increase throughput and reduce waste. Our platform produces the clean, structured data that makes AI possible — data that doesn't exist elsewhere.\r\n\r\nThe dock is where physical custody of goods changes hands — the most consequential moment in the supply chain, and the least invested-in. WMS stops at staging. TMS doesn't reach the dock. Everything in between is still running on email, spreadsheets, and clipboards. We're closing that gap for the 99% of warehouses that legacy systems were never designed to serve.",
+    "one_liner": "Replacing the spreadsheets and email chains that run every warehouse…",
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1674704550,
@@ -32059,8 +32059,8 @@
       "SaaS",
       "B2B",
       "Logistics",
-      "Transportation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33058,16 +33058,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Readily uses AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care. We've helped $B healthcare organizations cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
     "one_liner": "AI Compliance Platform for Healthcare Organizations",
-    "team_size": 8,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1684821530,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Healthcare",
-      "Regtech",
-      "AI"
+      "Regtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33701,50 +33701,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/health-harbor",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/health-harbor.json"
-  },
-  {
-    "id": 28879,
-    "name": "Menza",
-    "slug": "menza",
-    "former_names": [
-      "Latentspace"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
-    "website": "https://menza.ai/",
-    "all_locations": "",
-    "long_description": "Menza is the AI data analyst for consumer brands. A brand like Hershey’s would connect all of their data sources and then we give them an AI analyst that works 24/7 looking for revenue opportunities, cost leaks, trends and anomalies.",
-    "one_liner": "The AI data analyst for consumer brands",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1691019522,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Analytics",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/menza",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/menza.json"
   },
   {
     "id": 28884,
@@ -41896,48 +41852,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
   },
   {
-    "id": 30248,
-    "name": "Operand",
-    "slug": "operand",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87e36d9c531e8bea073d0ff4ca8ceaced1c215a5.png",
-    "website": "https://www.operand.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operand builds and deploys AI systems that help companies run their business better—using data, machine learning, and decision systems to drive day-to-day strategy execution. They work with leading retailers, manufacturers, distributors, and capital allocators on guiding everything from pricing, forecasting, allocation, diligence, and more.  ",
-    "one_liner": "AI to run Business Strategy",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1738206906,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "E-commerce",
-      "Retail"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operand",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/operand.json"
-  },
-  {
     "id": 30252,
     "name": "Cuckoo Labs",
     "slug": "cuckoo-labs",
@@ -42373,6 +42287,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/calltree",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/calltree.json"
+  },
+  {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737526775,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
   },
   {
     "id": 30291,
@@ -46341,6 +46299,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/redapto.json"
   },
   {
+    "id": 30913,
+    "name": "Captain",
+    "slug": "captain",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
+    "website": "https://runcaptain.com",
+    "all_locations": "",
+    "long_description": "Captain delivers the most accurate file search engine built for AI agents. We’ll index data from the sources folks already use like S3, SharePoint, and Google Drive, and easily scale multimodal, petabyte-level content search. We’re the Snowflake for Unstructured Data.\r\n\r\nCaptain tops the Open-RAG-Benchmark with over 20% higher accuracy than standard RAG pipelines. We achieve this through robust data processing techniques like embedding normalization across modalities, ensuring that representations cluster by semantic content rather than data type.",
+    "one_liner": "Give AI agents accurate knowledge search that scales",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1762492786,
+    "tags": [
+      "B2B",
+      "API",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/captain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/captain.json"
+  },
+  {
     "id": 30916,
     "name": "Rovr",
     "slug": "rovr",
@@ -47293,48 +47292,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
   },
   {
-    "id": 31111,
-    "name": "Envariant",
-    "slug": "envariant",
-    "former_names": [
-      "Facture"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abf1430afe9764675d165ce0908d003bf6893b19.png",
-    "website": "https://envariant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Envariant is an AI interpretability and reasoning SDK enabling foundation model builders to analyze, steer, and control their model's behaviors.",
-    "one_liner": "Interpretability and reasoning infra for foundation models.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1772291164,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/envariant",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/envariant.json"
-  },
-  {
     "id": 31147,
     "name": "Salus",
     "slug": "salus",
@@ -47828,6 +47785,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/foaster",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/foaster.json"
+  },
+  {
+    "id": 31497,
+    "name": "Amboras",
+    "slug": "amboras",
+    "former_names": [
+      "Amboras Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ed7c8489d6f5c3dbac6599b7042a3c9668cb002.png",
+    "website": "https://amboras.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Amboras puts your entire e-commerce on autopilot. It builds your store, continuously optimizes it, reads your analytics, and learns what converts - all autonomously. No developers. No agencies. No guessing. Today it sells to humans. Tomorrow it sells to AI agents.\r\n",
+    "one_liner": "Let AI sell your stuff on autopilot",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774323217,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amboras",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/amboras.json"
   },
   {
     "id": 31505,

@@ -1702,26 +1702,24 @@
   },
   {
     "id": 29265,
-    "name": "Lumen Payments",
-    "slug": "lumen-payments",
+    "name": "Pretzel AI",
+    "slug": "pretzel-ai",
     "former_names": [
-      "Pretzel AI"
+      "Pretzel AI",
+      "Lumen Payments"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9374ac7f590e35b961fa334f50707ea210eda158.png",
-    "website": "https://getlumen.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c404e22972d59aa653091f4cf9a5eab3fa2894e.png",
+    "website": "https://withpretzel.com",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Lumen let's you implement complex pricing models in under 10 minutes.\r\n\r\nLumen will take care of webhooks, user credits, tracking usage in real-time, usage based billing, taxes and more so you can focus on your product.",
-    "one_liner": "Fastest way to implement payments in your product.",
+    "long_description": "",
+    "one_liner": "AI tooling",
     "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1710864971,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "Open Source",
-      "Billing"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1730,7 +1728,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "Germany",
@@ -1741,8 +1740,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumen-payments",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/lumen-payments.json"
+    "url": "https://www.ycombinator.com/companies/pretzel-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/pretzel-ai.json"
   },
   {
     "id": 29266,
@@ -2801,17 +2800,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8db4ae69ffa9fe27a2e056c7825fa07368367d7.png",
     "website": "https://www.eggnog.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eggnog is the Youtube for AI-generated content. The initial product is the only AI video platform on the market that generates consistent characters. The vision is to have the largest library of remixable characters and sets for users to collaboratively build and watch AI-generated content. Eggnog launched a week ago, and videos made on the platform are getting 100k views on Twitter.\r\n\r\nTeam: Sam (BS, Applied Math from Harvard) was a data scientist at Facebook and Quora working on newsfeed and creator monetization. Jitesh (BS, MEng from MIT CS) was a consultant at McKinsey and PM at Flexport. \r\n",
-    "one_liner": "Youtube for AI-generated content",
+    "long_description": "We build AI video apps that bring joy. Taffy, our latest app, is used by friends and lovers to make animations of favorite memories and inside jokes.",
+    "one_liner": "Fun with AI video",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1710803454,
     "tags": [
+      "Artificial Intelligence",
       "Entertainment",
       "Social Media",
-      "Video",
-      "AI"
+      "Video"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3583,7 +3582,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -5382,7 +5381,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "DraftAid is the world's first generative AI for CAD manufacturing drawings, akin to GitHub Copilot but for CAD. It drastically shortens drawing creation time, turning hours into seconds.\r\n\r\nEvery product that is manufactured - from construction to aerospace, automotive, durable goods, and electronics—relies on drawings. Currently, engineers and designers painstakingly make these essential drawings manually. Draftaid streamlines this process saving teams millions in time and quality. \r\n\r\nThe idea was born out of Abdullah's experience as a mechanical design team member, where he created thousands of drawings and longed for a more efficient process. Partnering with Tahsin, a neighbour with a PhD in AI, and Mohammed, a seasoned engineering VP with experience in construction software, they turned the dream into reality.\r\n\r\nSince their launch in August, DraftAid has engaged customers through targeted outreach and word-of-mouth, securing paid pilots with subsequent contracts valued at $150,000.\r\n\r\nBe a part of ushering in the new era of CAD designs!",
     "one_liner": "Go from 3D models to CAD drawings using AI",
-    "team_size": 3,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704853466,

@@ -537,9 +537,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28d703d7d5920b0a08a9902602fdc87b96bb313b.png",
     "website": "https://www.snapmagic.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Built by electrical engineers for electrical engineers, SnapMagic removes monotony so that engineers can do their best work. SnapMagic’s electronic component data is used by over 1.5 million engineers across the world’s largest organizations. Its new AI Copilot will change the way that every engineer designs electronics. Join at www.snapmagic.com.",
-    "one_liner": "AI copilot for electronics design",
-    "team_size": 32,
+    "long_description": "Built by electrical engineers for electrical engineers, SnapMagic removes monotony so that engineers can do their best work. SnapMagic’s electronic component data is used by over 2 million engineers across the world’s largest organizations. Our new AI-assisted design tool is changing the way that every engineer designs electronics. Join at www.snapmagic.com.",
+    "one_liner": "AI-assisted electronics design",
+    "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1429997721,
@@ -918,7 +918,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1904,7 +1904,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -3301,6 +3301,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/motion",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/motion.json"
+  },
+  {
+    "id": 12974,
+    "name": "Flowglad",
+    "slug": "flowglad",
+    "former_names": [
+      "NUMI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
+    "website": "https://flowglad.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits. Bring your own agent or use ours. Flowglad gives agents the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely. Embed spend policy directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
+    "one_liner": "Agent payment infra. Program spend + approvals. BYO or use our agents.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1583962983,
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "Payments",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flowglad",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/flowglad.json"
   },
   {
     "id": 13098,
@@ -5033,52 +5076,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pragmatic-leaders-ankai-inc",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pragmatic-leaders-ankai-inc.json"
-  },
-  {
-    "id": 22744,
-    "name": "Encord",
-    "slug": "encord",
-    "former_names": [
-      "Cord Technologies",
-      "Cord"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
-    "website": "https://encord.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Encord is the leading data platform for AI. We help top AI teams get models into production faster with human-in-the-loop workflows for labeling and RLHF, infrastructure for data-centric model testing, and powerful data curation and management.",
-    "one_liner": "Building the data backbone for the (artificial) intelligence…",
-    "team_size": 100,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1613768381,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "Computer Vision",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/encord",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/encord.json"
   },
   {
     "id": 22781,
@@ -11589,7 +11586,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -14665,6 +14662,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/codeparrot-ai.json"
   },
   {
+    "id": 28110,
+    "name": "Conduit",
+    "slug": "conduit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fd269cc7d10c65c452d836b7ba980b58a0c084.png",
+    "website": "http://helloconduit.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Conduit systemizes the planning and execution of dock and yard operations into one platform — dock scheduling, driver check-in, yard management, and compliance documentation. Our workflows give operators leverage to increase throughput and reduce waste. Our platform produces the clean, structured data that makes AI possible — data that doesn't exist elsewhere.\r\n\r\nThe dock is where physical custody of goods changes hands — the most consequential moment in the supply chain, and the least invested-in. WMS stops at staging. TMS doesn't reach the dock. Everything in between is still running on email, spreadsheets, and clipboards. We're closing that gap for the 99% of warehouses that legacy systems were never designed to serve.",
+    "one_liner": "Replacing the spreadsheets and email chains that run every warehouse…",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1674704550,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Logistics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conduit",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/conduit.json"
+  },
+  {
     "id": 28111,
     "name": "Berry",
     "slug": "berry",
@@ -15204,51 +15246,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/remy.json"
   },
   {
-    "id": 28809,
-    "name": "Readily",
-    "slug": "readily",
-    "former_names": [
-      "Pandan",
-      "diligent"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
-    "website": "https://readily.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Readily uses AI to free 20 million healthcare professionals from manual compliance work so they can focus on patient care. We've helped $B healthcare organizations cut regulatory analysis, policy drafting, and audit work by up to 90%, reducing consulting spend and compliance risk.",
-    "one_liner": "AI Compliance Platform for Healthcare Organizations",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1684821530,
-    "tags": [
-      "B2B",
-      "Compliance",
-      "Healthcare",
-      "Regtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/readily",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/readily.json"
-  },
-  {
     "id": 28812,
     "name": "Cedana",
     "slug": "cedana",
@@ -15339,6 +15336,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atla",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/atla.json"
+  },
+  {
+    "id": 28818,
+    "name": "Mandel AI",
+    "slug": "mandel-ai",
+    "former_names": [
+      "Enbank",
+      "Fynt",
+      "Fynt AI",
+      "Fynt",
+      "Fynt AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
+    "website": "https://www.mandel.ai/",
+    "all_locations": "",
+    "long_description": "Manufacturing procurement teams spend 70% of their day buried in supplier emails and spreadsheets. Mandel fixes that. We're an AI supply chain coordinator that reads every supplier email, extracts the data that matters - POs, quotes, delivery dates, pricing - and catches disruptions before they cost you. \r\n",
+    "one_liner": "AI Supply Chain Coordinator",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1691105932,
+    "tags": [
+      "Logistics",
+      "Manufacturing",
+      "Supply Chain",
+      "Procurement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mandel-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/mandel-ai.json"
   },
   {
     "id": 28821,
@@ -18676,49 +18722,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/artisan.json"
   },
   {
-    "id": 29297,
-    "name": "Eggnog",
-    "slug": "eggnog",
-    "former_names": [
-      "Fielder"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8db4ae69ffa9fe27a2e056c7825fa07368367d7.png",
-    "website": "https://www.eggnog.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eggnog is the Youtube for AI-generated content. The initial product is the only AI video platform on the market that generates consistent characters. The vision is to have the largest library of remixable characters and sets for users to collaboratively build and watch AI-generated content. Eggnog launched a week ago, and videos made on the platform are getting 100k views on Twitter.\r\n\r\nTeam: Sam (BS, Applied Math from Harvard) was a data scientist at Facebook and Quora working on newsfeed and creator monetization. Jitesh (BS, MEng from MIT CS) was a consultant at McKinsey and PM at Flexport. \r\n",
-    "one_liner": "Youtube for AI-generated content",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1710803454,
-    "tags": [
-      "Entertainment",
-      "Social Media",
-      "Video",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/eggnog",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/eggnog.json"
-  },
-  {
     "id": 29300,
     "name": "Trellis AI",
     "slug": "trellis-ai",
@@ -18920,7 +18923,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -24420,51 +24423,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
   },
   {
-    "id": 29987,
-    "name": "Syntra",
-    "slug": "syntra",
-    "former_names": [
-      "Lightning Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
-    "website": "https://www.syntra.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
-    "one_liner": "AI chart review for speciality medical clinics.",
-    "team_size": 9,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1723733582,
-    "tags": [
-      "Healthcare IT",
-      "Billing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntra",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
-  },
-  {
     "id": 29988,
     "name": "Delineate",
     "slug": "delineate",
@@ -26915,6 +26873,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
   },
   {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737526775,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
+  },
+  {
     "id": 30292,
     "name": "Mesh",
     "slug": "mesh-2",
@@ -27487,7 +27489,7 @@
     "former_names": [
       "Detta"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/631ee284ae72491a5ece65b4b063ba64ec1a008c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dd28657c6905e0ff5663b74202f4b3352633204.png",
     "website": "https://chestnutmortgage.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Chestnut is the first AI mortgage lender. We automate 99% of human work with AI agents, saving customers 0.5%+ in interest. This is Spencer's second mortgage startup; the first processes 2% of US mortgages annually. So far, Chestnut is licensed in Texas and Colorado where we power purchases, refinances, cash-outs, and more.",
@@ -31520,47 +31522,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps.json"
   },
   {
-    "id": 30845,
-    "name": "Structured AI",
-    "slug": "structured-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png",
-    "website": "https://www.getstructured.ai/",
-    "all_locations": "",
-    "long_description": "Structured AI is building the AI workforce for construction design engineering, starting with AI agents that perform quality control on technical documents and drawings. Our agents learn your standards, apply the right building codes, and automatically review your drawings, so you see fewer clashes, fewer inconsistencies, and fewer costly RFIs and change orders.\r\n\r\n⚙️ Automates QA/QC across mechanical, electrical, structural and more\r\n🧩 Used by multi-disciplinary design firms to deliver projects faster with less risk\r\n🚀 Mission: Free engineers to focus on creative design, not repetitive admin",
-    "one_liner": "AI workforce for Construction Engineering",
-    "team_size": 8,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1759212406,
-    "tags": [
-      "Computer Vision",
-      "Construction",
-      "Architecture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/structured-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/structured-ai.json"
-  },
-  {
     "id": 30849,
     "name": "MOVEdot",
     "slug": "movedot",
@@ -33485,6 +33446,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superset",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
+  },
+  {
+    "id": 31255,
+    "name": "Grade",
+    "slug": "grade",
+    "former_names": [
+      "Creator Check"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
+    "website": "https://usegrade.com",
+    "all_locations": "",
+    "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay AI agents and contractors based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts. Grade powers payouts for AI agents and contractors we are at $452k ARR, $520K+ paid in the last 3 weeks, growing 46% MoM across 23 live companies.",
+    "one_liner": "API for performance-based payroll",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1768947933,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Payroll",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/grade",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json"
   },
   {
     "id": 31259,

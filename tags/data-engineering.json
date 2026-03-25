@@ -850,8 +850,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddad5e732e1515ab69da4100f7fa6d3a5d491e82.png",
     "website": "http://operator.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Operator helps you build and test skills for your AI agents until they actually work. Describe what you need, run variants, keep what wins.",
-    "one_liner": "Build, test, and deploy skills for AI agents",
+    "long_description": "Operator helps you train autonomous agents until they actually work. Describe what you need, run variants, then deploy them.",
+    "one_liner": "Build your OpenClaw team",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1658,8 +1658,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04169b13bb38d8ba7da4e38bb6ab9eafa9c93938.png",
     "website": "https://getclearapp.com/",
     "all_locations": "London, England, United Kingdom; Remote",
-    "long_description": "Clear is the free mobile app that helps you track and share your skincare routine. \r\n\r\nWe are fuelling innovation and empowering consumers in the skincare industry via data, technology and community. We were also the 2022 L'Oréal Beauty Tech for Good winners, and were featured under \"Best New Apps and Updates\" on the App Store in 2023.\r\n\r\nThe skincare industry is worth $200B and social commerce is going to drive the future growth of every brand in the industry. We're going to be fuelling that growth.",
-    "one_liner": "The social commerce app for skincare.",
+    "long_description": "On the surface, Clear is a free mobile app where consumers track routines, products and selfies, get brand-agnostic recommendations, and learn from others in the community. Underneath, we’re building a vertically focused AI/data platform that helps consumers, clinicians, and brands understand what actually works, for whom, and why.\r\n\r\nThe skincare industry is worth over $200B globally, yet it still runs largely on guesswork: consumers waste money on trial-and-error, brands lack real-world evidence, and dermatologists have limited visibility into day-to-day product use and outcomes.\r\n\r\nClear is brand-agnostic, data-rich, and community-driven. Every routine log, product review, and progress update helps create a unique longitudinal dataset across skin concerns, routines, and outcomes - powering better decisions for users and better innovation for the wider industry.\r\n\r\nWe were the 2022 L’Oréal Beauty Tech for Good winners, have been recognised by Beiersdorf, and have been featured multiple times by Apple, including App of the Day and Best New Apps.",
+    "one_liner": "The unbiased AI and data layer for skin health.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
@@ -3936,6 +3936,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/melder.json"
   },
   {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737526775,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
+  },
+  {
     "id": 30542,
     "name": "Vision Lab",
     "slug": "vision-lab",
@@ -4062,6 +4106,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/velum-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/velum-labs.json"
+  },
+  {
+    "id": 30913,
+    "name": "Captain",
+    "slug": "captain",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
+    "website": "https://runcaptain.com",
+    "all_locations": "",
+    "long_description": "Captain delivers the most accurate file search engine built for AI agents. We’ll index data from the sources folks already use like S3, SharePoint, and Google Drive, and easily scale multimodal, petabyte-level content search. We’re the Snowflake for Unstructured Data.\r\n\r\nCaptain tops the Open-RAG-Benchmark with over 20% higher accuracy than standard RAG pipelines. We achieve this through robust data processing techniques like embedding normalization across modalities, ensuring that representations cluster by semantic content rather than data type.",
+    "one_liner": "Give AI agents accurate knowledge search that scales",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1762492786,
+    "tags": [
+      "B2B",
+      "API",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/captain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/captain.json"
   },
   {
     "id": 31030,

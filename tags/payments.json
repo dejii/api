@@ -1989,17 +1989,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a33924c9ef04561b7f186705a82e3da8b6e9251d.png",
     "website": "https://flowglad.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits.\r\n\r\nIt gives AI agents and software the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely.\r\n\r\nDevelopers can embed payments directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
-    "one_liner": "The payment processor for natural language software",
+    "long_description": "Flowglad is payment infrastructure for agents, with built-in human controls and hard spend limits. Bring your own agent or use ours. Flowglad gives agents the virtual cards, banking, approval flows, and programmable controls they need to spend real money safely. Embed spend policy directly into agent workflows while keeping clear boundaries around who can spend, how much, and under what conditions.",
+    "one_liner": "Agent payment infra. Program spend + approvals. BYO or use our agents.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1583962983,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Fintech",
-      "Payments"
+      "Payments",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5010,7 +5010,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -5886,50 +5886,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/chequpi.json"
   },
   {
-    "id": 29265,
-    "name": "Lumen Payments",
-    "slug": "lumen-payments",
-    "former_names": [
-      "Pretzel AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9374ac7f590e35b961fa334f50707ea210eda158.png",
-    "website": "https://getlumen.dev",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Lumen let's you implement complex pricing models in under 10 minutes.\r\n\r\nLumen will take care of webhooks, user credits, tracking usage in real-time, usage based billing, taxes and more so you can focus on your product.",
-    "one_liner": "Fastest way to implement payments in your product.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1710864971,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "Open Source",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumen-payments",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/lumen-payments.json"
-  },
-  {
     "id": 29338,
     "name": "Consul",
     "slug": "consul",
@@ -6512,5 +6468,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zavo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
+  },
+  {
+    "id": 31255,
+    "name": "Grade",
+    "slug": "grade",
+    "former_names": [
+      "Creator Check"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97bee8995323297bfa4540365e98ff74a62aa5fd.png",
+    "website": "https://usegrade.com",
+    "all_locations": "",
+    "long_description": "Grade is the API for performance-based payroll. Think of us like Deel or Gusto, but our payouts are for work completed, not hours. Companies use Grade to pay AI agents and contractors based on results: tasks completed, targets hit, work delivered. We handle compliance, tax reporting, and global payouts. Grade powers payouts for AI agents and contractors we are at $452k ARR, $520K+ paid in the last 3 weeks, growing 46% MoM across 23 live companies.",
+    "one_liner": "API for performance-based payroll",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1768947933,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Payroll",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/grade",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/grade.json"
   }
 ]
