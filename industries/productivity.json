@@ -6720,50 +6720,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/credal-ai.json"
   },
   {
-    "id": 27814,
-    "name": "Narrative",
-    "slug": "narrative",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd0c9a9869afd6e8a0abc998980922778315939f.png",
-    "website": "https://www.trynarrative.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Transforms plain-English requirements into fast, reliable, and self-healing tests, built to replace manual testing and reduce regressions, ",
-    "one_liner": "AI-powered QA testing platform",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1678820348,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/narrative",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/narrative.json"
-  },
-  {
     "id": 27836,
     "name": "LinkGrep",
     "slug": "linkgrep",
@@ -7659,7 +7615,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -8470,7 +8426,7 @@
     "website": "https://www.stampmail.ai/",
     "all_locations": "",
     "long_description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
-    "one_liner": "The AI Native Email Client",
+    "one_liner": "The AI Secretary for Email and Calendar.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -8730,24 +8686,23 @@
   },
   {
     "id": 30518,
-    "name": "Zero",
-    "slug": "zero",
+    "name": "Orchid",
+    "slug": "orchid-ai",
     "former_names": [
-      "Mail0"
+      "Mail0",
+      "Zero"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a6f23712cebc8751d7d54d0dda9e0fefd595ba2.png",
-    "website": "https://0.email",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a9494b7b3b62fcb0adb7a5568c37003e022974d.png",
+    "website": "https://orchid.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zero empowers knowledge workers by transforming the way they manage their email. It intelligently summarizes important messages, helps complete tasks, and even enables users to chat directly with their inbox.",
-    "one_liner": "AI powered email client that manages your email so you don't have to.",
-    "team_size": 2,
+    "long_description": "Orchid is a proactive work agent that connects to your inbox and calendar, handles tasks autonomously, and surfaces only the decisions that need you.",
+    "one_liner": "Proactive agent for work",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1746733443,
     "tags": [
       "Artificial Intelligence",
-      "Open Source",
-      "Email",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -8771,8 +8726,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zero",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/zero.json"
+    "url": "https://www.ycombinator.com/companies/orchid-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/orchid-ai.json"
   },
   {
     "id": 30538,

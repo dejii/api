@@ -369,7 +369,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2015",
     "status": "Active",
@@ -2201,49 +2201,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tenderd",
     "api": "https://yc-oss.github.io/api/batches/summer-2018/tenderd.json"
-  },
-  {
-    "id": 2014,
-    "name": "Mutiny",
-    "slug": "mutiny",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
-    "website": "https://www.mutinyhq.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Mutiny is your AI agent for creating anything customer-facing, in minutes. From ABM campaigns to executive business cases to ROI reports, you'll never have to wait on another team to get your deal from cold to closed. Our customers include Figma, Rippling, Uber, Snowflake. We are backed by Sequoia Capital, Tiger Global, Insight Partners, and Y Combinator.",
-    "one_liner": "AI for Enterprise GTM",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1526439893,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mutiny",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/mutiny.json"
   },
   {
     "id": 2023,
@@ -5119,53 +5076,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cyble",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/cyble.json"
-  },
-  {
-    "id": 22785,
-    "name": "Supadock",
-    "slug": "supadock",
-    "former_names": [
-      "401 LABS Inc.",
-      "401 Labs",
-      "Javelin Robotics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba044f166f0d448b96ee68727d9064e936c25a6e.png",
-    "website": "https://getsupadock.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Supadock builds AI workers for logistics operations. In freight, every call, document, and signature exists to prove diligence — not just save time. Check calls, proof-of-delivery reconciliations, ID verification, and invoice audits all ensure compliance, reduce liability, and protect margins.\r\n\r\nSupadock automates these high-accountability workflows while ensuring accuracy, compliance, and risk reduction. Our AI agents use cameras, voice, email, and document processing to handle tasks like verifying driver IDs, coordinating warehouse entry, assigning shipments to carriers, checking freight status, reconciling pickup and delivery paperwork, and following up on late invoices.\r\n",
-    "one_liner": "AI workers for logistics operations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1673215529,
-    "tags": [
-      "Logistics",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/supadock",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/supadock.json"
   },
   {
     "id": 22787,
@@ -9858,7 +9768,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -13124,50 +13034,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/dataglade.json"
   },
   {
-    "id": 27814,
-    "name": "Narrative",
-    "slug": "narrative",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd0c9a9869afd6e8a0abc998980922778315939f.png",
-    "website": "https://www.trynarrative.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Transforms plain-English requirements into fast, reliable, and self-healing tests, built to replace manual testing and reduce regressions, ",
-    "one_liner": "AI-powered QA testing platform",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1678820348,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/narrative",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/narrative.json"
-  },
-  {
     "id": 27817,
     "name": "JustPaid",
     "slug": "justpaid",
@@ -15202,6 +15068,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/metoro.json"
   },
   {
+    "id": 28786,
+    "name": "Accend",
+    "slug": "accend",
+    "former_names": [
+      "Accend Technology, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31a4d8ba6cbc31b7799b329fce2d820cfe3ca234.png",
+    "website": "https://www.withaccend.com/",
+    "all_locations": "",
+    "long_description": "Accend helps commercial banks and fintechs underwrite business customers faster, win more deals and increase revenue. We provide an end-to-end platform to automate document intake, financial statement / tax spreading, cash flow modeling, credit memos and portfolio management, with audit-ready AI and human-in-the-loop accuracy. Companies like Corpay, Brex, Rippling, Rho, Column, Settle, and many others have reduced application processing time by 80% with Accend, significantly enhancing their credit underwriting efficiency\r\n\r\nBefore starting Accend, the founders led Product & Engineering on the Risk team at Brex as well as at Deutsche Bank and Credit Suisse so they have firsthand experienced issues with operational efficiency in credit/underwriting teams. Accend has raised a $3.2M seed round from Y Combinator, Adverb Ventures, General Catalyst and 645 Ventures.",
+    "one_liner": "AI agents for commercial underwriting at banks and fintechs",
+    "team_size": 18,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1691559472,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/accend",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/accend.json"
+  },
+  {
     "id": 28799,
     "name": "Remy",
     "slug": "remy",
@@ -16639,6 +16547,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bolto",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/bolto.json"
+  },
+  {
+    "id": 28982,
+    "name": "Flint",
+    "slug": "flint-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1d23e86e87d65a7410c416cf73e10dd2adf94c8.png",
+    "website": "http://flintk12.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Flint is an AI-powered personalized learning platform for K-12 schools, helping teachers deliver individualized instruction at scale. Trusted by 500,000+ educators and students, Flint has powered learning activities that increase student engagement, academic performance, and collaboration.\r\n\r\nThrough AI-driven tutoring, real-time feedback, and interactive learning experiences, Flint enables every student to receive personalized support without adding to teacher workload.\r\n\r\nWith AI-native student analytics, educators gain full visibility into student progress, strengths, and areas for improvement, while saving time on grading, lesson planning, and differentiation. Students receive a 24/7 AI tutor that adapts to their level without giving away answers, supporting deeper understanding and independent thinking.\r\n\r\nFor schools and districts, Flint provides robust AI guardrails, including customizable moderation, grade-level controls, and full transparency into student usage, ensuring safe and responsible AI adoption.",
+    "one_liner": "Personalized learning built for schools",
+    "team_size": 18,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1686701426,
+    "tags": [
+      "Education",
+      "Generative AI",
+      "Edtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flint-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/flint-2.json"
   },
   {
     "id": 28994,
@@ -19203,6 +19154,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trypillar",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/trypillar.json"
+  },
+  {
+    "id": 29333,
+    "name": "LemonSlice",
+    "slug": "lemonslice",
+    "former_names": [
+      "Infinity AI",
+      "Lemon Slice"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05eb67ac8202d3dd3c90fdda089940b58b254645.png",
+    "website": "https://www.lemonslice.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lemon Slice is a frontier AI research and product lab building the future of interactive video. Our interactive avatar models allow you to turn a single photo into a real-time video call like FaceTime.  \r\n",
+    "one_liner": "Give your voice agents a face",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709320242,
+    "tags": [
+      "Consumer",
+      "Video",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lemonslice",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lemonslice.json"
   },
   {
     "id": 29334,
@@ -21953,6 +21947,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/maitai.json"
   },
   {
+    "id": 29654,
+    "name": "Stardrift",
+    "slug": "stardrift",
+    "former_names": [
+      "Kopfkino",
+      "Moonglow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/509f2048cdd77eab05ee8a3d68e8bbc31e9d9af1.png",
+    "website": "https://stardrift.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stardrift is an AI travel agent. We help our users plan flights, hotels and activities for their trips.",
+    "one_liner": "Your AI travel agent",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "launched_at": 1721868567,
+    "tags": [
+      "Consumer",
+      "Travel",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Travel, Leisure and Tourism"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stardrift",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/stardrift.json"
+  },
+  {
     "id": 29666,
     "name": "Willow",
     "slug": "willow",
@@ -22392,6 +22430,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fazeshift",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/fazeshift.json"
+  },
+  {
+    "id": 29719,
+    "name": "Manaflow",
+    "slug": "manaflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
+    "website": "https://www.cmux.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Manaflow is an open-source applied AI lab building AI dev tools. We're the creators of cmux, the open source terminal for coding agents.",
+    "one_liner": "Building the open-source terminal for coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1715992295,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/manaflow",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/manaflow.json"
   },
   {
     "id": 29721,
@@ -26497,7 +26575,7 @@
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Asteroid builds and hosts AI browser agents for back-office tasks. With guardrails, evaluations, and human oversight, we deliver enterprise-grade reliability across millions of operations, even in regulated industries. Companies can build agents themselves or rely on us to deliver and maintain them.",
-    "one_liner": "AI Browser Workforce for Operation Teams",
+    "one_liner": "AI Browser Workforce for Operations Teams",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -26511,7 +26589,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -27138,20 +27216,18 @@
     "name": "Woz",
     "slug": "woz",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0c9ada6111e7b8097807a72d2e056755c4323f.png",
-    "website": "https://withwoz.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ec5c6a24f1037c7183c8ce6c5dc019a1f42ec3d.png",
+    "website": "https://www.wozcode.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Woz is an AI platform that enables anyone to build and scale real software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nTo start, we’re helping entrepreneurs build high quality mobile apps and launch them directly to the app store. For example, one of our first customers is a personal trainer building a fitness app for his clients. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. ",
-    "one_liner": "AI platform enabling anyone to build and scale software businesses",
-    "team_size": 6,
+    "long_description": "WozCode is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WozCode plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-50% cheaper\r\nSpeed: 30-40% faster overall and up 10x on database tasks\r\nPerformance: beats Claude code on Terminal Bench 2.0 (63% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
+    "one_liner": "Claude Code plugin that reduces token consumption and cost by 50%",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737406523,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Design",
-      "No-code",
       "AI"
     ],
     "tags_highlighted": [],
@@ -27168,8 +27244,8 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/woz",
@@ -27347,6 +27423,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/copycat",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
+  },
+  {
+    "id": 30345,
+    "name": "emojis.com",
+    "slug": "emojiscom",
+    "former_names": [
+      "851 Inc.",
+      "851",
+      "AI Emojis",
+      "emojis",
+      "emojis.com",
+      "Lightbox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2856a2400cd442e41da1b7d192d4e3100bff5938.png",
+    "website": "https://www.emojis.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Generate and discover custom emojis for discord, slack, or iMessage.",
+    "one_liner": "Generate and discover custom emojis for discord, slack, or iMessage",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1740542821,
+    "tags": [
+      "Design",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/emojiscom",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/emojiscom.json"
   },
   {
     "id": 30351,
@@ -28972,6 +29095,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/janus.json"
   },
   {
+    "id": 30522,
+    "name": "Naive",
+    "slug": "naive",
+    "former_names": [
+      "Relixir.ai",
+      "Relixir"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06af5d16e9099ea20940c7e2eeb917bb2f11454a.png",
+    "website": "https://usenaive.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Naïve is an autonomous company runtime. \r\n\r\nYou describe what your business does, and Naïve deploys AI employees that actually execute — building your app, closing deals, running campaigns, serving customers. \r\n\r\nIt works for new companies being built from zero and existing companies looking to automate entire functions by one-click connecting to your entire stack. \r\n\r\nDeployed @ 500+ companies like Airwallex, Hackerrank, and more.",
+    "one_liner": "Hire AI employees that actually run your company",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747424808,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/naive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
+  },
+  {
     "id": 30523,
     "name": "Mesmer",
     "slug": "mesmer",
@@ -29619,53 +29784,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shor",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
-  },
-  {
-    "id": 30622,
-    "name": "Liva AI",
-    "slug": "liva-ai",
-    "former_names": [
-      "Symbia",
-      "Liva"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
-    "website": "https://www.theliva.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Speech and video models trained on internet data still lack realistic and domain-specific results. We solve this by collecting targeted training data for model labs. We hope to create a world where AI feels more human.",
-    "one_liner": "Audio & Video Data",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753401226,
-    "tags": [
-      "Marketplace",
-      "B2B",
-      "Data Labeling",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/liva-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/liva-ai.json"
   },
   {
     "id": 30623,
@@ -32807,6 +32925,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/nerviom.json"
   },
   {
+    "id": 30997,
+    "name": "LunaBill",
+    "slug": "lunabill",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/847fd92cf2043da7d18f115344b4d983d4eccc7c.png",
+    "website": "https://lunabill.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "LunaBill is building AI Voice callers for healthcare billing teams. Insurance claim follow-up calls account for the 80% of the daily workload of a healthcare billing team, with each call averaging 30 minutes.\r\n\r\nSince our launch in July we are now at $764K in contracted ARR, of which $428K is live revenue and the rest will go live by January 2026. Our customers see a 10x increase in claims followed up per biller in the first week and we have converted 100% of pilots to paying customers. We have automated 50,000+ calls and signed partnerships with top healthcare leaders like UC health systems, Mayo, Experian Health and more.\r\n\r\nThe founders have known each other for over a year. Suhail is a 2x founder, with 3+ years of experience building in healthcare including operating a medical billing company with 200+ healthcare clients. David founded Skiesoft, Taiwan’s biggest healthcare AI scribe company, used by 120k+ healthcare professionals. He also worked as a data scientist at UCSF, building models to audit medical-coding accuracy. Yash was a researcher at various hospital systems including Mayo Clinic.\r\n",
+    "one_liner": "AI Voice callers for healthcare billing teams",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1759865815,
+    "tags": [
+      "Generative AI",
+      "Health Tech",
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lunabill",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
     "id": 31001,
     "name": "Fastshot",
     "slug": "fastshot",
@@ -33195,49 +33356,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
   },
   {
-    "id": 31098,
-    "name": "10x Science",
-    "slug": "10x-science",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
-    "website": "https://10xscience.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "10x Science develops frontier AI models with deep memory to redefine how scientists understand and engineer biology across the life sciences, starting with drug development.\r\n\r\nAI-powered drug discovery is flooding the pipeline with new candidates faster than ever. But before any of them can advance to the clinic, scientists must deeply characterize the protein therapeutic to understand whether it will work. Today, that process takes months of manual, error-prone analysis that cannot keep pace with discovery. Our AI-native platform automates it, giving drug developers the confidence to advance the right candidates and stop the wrong ones early.\r\n\r\nWe have strong commercial traction with enterprise pharma customers. Our founding team built the field of next-generation protein characterization out of Carolyn Bertozzi's Nobel laureate lab at Stanford. Collectively, we have 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next generation of modern AI development in the life sciences. ",
-    "one_liner": "The AI-native platform for next-generation protein characterization.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768312668,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/10x-science",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
-  },
-  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -33408,6 +33526,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/approxima",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/approxima.json"
+  },
+  {
+    "id": 31197,
+    "name": "InventoryQuant",
+    "slug": "inventoryquant",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f74c63aa46c6a7b210639069202e83296edae78d.png",
+    "website": "https://www.inventoryquant.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We automate inventory and contents processing for insurance and insurance-adjacent industries, including public adjusters, restoration contents, and insurance companies. We also handle various inventory and estimate adjacent processes that cost many billions of dollars a year and thousands of years of man hours.",
+    "one_liner": "We automate the inventory process in insurance",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774477383,
+    "tags": [
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inventoryquant",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/inventoryquant.json"
   },
   {
     "id": 31222,
@@ -33831,6 +33988,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ontora.json"
   },
   {
+    "id": 31429,
+    "name": "Benchspan",
+    "slug": "benchspan",
+    "former_names": [
+      "Oddpool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
+    "website": "https://www.benchspan.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Benchspan is a benchmarking platform for AI agents. If you're building an agent, you need to know if it's getting better. But running benchmarks is slow, expensive, and fragile. You spend days writing glue code every time you want to run a new benchmark, runs take forever on your laptop, and when they fail halfway through you burn hundreds of dollars in tokens with nothing to show for it.\r\n\r\nBenchspan fixes all of it. Onboard your agent once, and it works with every benchmark on the platform. We onboarded Claude Code in 37 lines of code. Running a benchmark becomes a single command, executed in parallel in the cloud. Every result goes to one place your whole team can see, with full trajectories, token usage, latency, and custom metrics. When runs partially fail, rerun just the subset that errored instead of starting from scratch. Compare runs side by side to see exactly where your agent is improving and where it's regressing.",
+    "one_liner": "Run agent benchmarks in minutes, not hours",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773859660,
+    "tags": [
+      "AIOps",
+      "Analytics",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchspan",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/benchspan.json"
+  },
+  {
     "id": 31432,
     "name": "Keyframe Labs",
     "slug": "keyframe-labs",
@@ -33869,6 +34070,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keyframe-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/keyframe-labs.json"
+  },
+  {
+    "id": 31436,
+    "name": "Prototyping.io",
+    "slug": "prototypingio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
+    "website": "https://www.prototyping.io",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Prototyping.io is a manufacturing intelligence platform that understands mechanical designs, identifies manufacturability issues early, provides actionable insights and delivers custom mechanical parts (CNC machining, sheet metal, 3D printing, injection molding, etc.) with faster lead times, lower cost, and high quality.\r\n",
+    "one_liner": "AI-native mechanical manufacturing platform",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774425608,
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prototypingio",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json"
   },
   {
     "id": 31491,

@@ -6178,6 +6178,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/reworkd.json"
   },
   {
+    "id": 28786,
+    "name": "Accend",
+    "slug": "accend",
+    "former_names": [
+      "Accend Technology, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31a4d8ba6cbc31b7799b329fce2d820cfe3ca234.png",
+    "website": "https://www.withaccend.com/",
+    "all_locations": "",
+    "long_description": "Accend helps commercial banks and fintechs underwrite business customers faster, win more deals and increase revenue. We provide an end-to-end platform to automate document intake, financial statement / tax spreading, cash flow modeling, credit memos and portfolio management, with audit-ready AI and human-in-the-loop accuracy. Companies like Corpay, Brex, Rippling, Rho, Column, Settle, and many others have reduced application processing time by 80% with Accend, significantly enhancing their credit underwriting efficiency\r\n\r\nBefore starting Accend, the founders led Product & Engineering on the Risk team at Brex as well as at Deutsche Bank and Credit Suisse so they have firsthand experienced issues with operational efficiency in credit/underwriting teams. Accend has raised a $3.2M seed round from Y Combinator, Adverb Ventures, General Catalyst and 645 Ventures.",
+    "one_liner": "AI agents for commercial underwriting at banks and fintechs",
+    "team_size": 18,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1691559472,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/accend",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/accend.json"
+  },
+  {
     "id": 28795,
     "name": "Magic Loops",
     "slug": "magic-loops",
@@ -6893,17 +6935,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1d23e86e87d65a7410c416cf73e10dd2adf94c8.png",
     "website": "http://flintk12.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Flint is the leading personalized learning platform proven to increase student engagement, performance, and collaboration. With AI-native student analytics, instant feedback, and interactive activities, Flint is there for teachers who want to provide individualized attention, students who want a 24/7 tutor that's perfectly attuned to their needs, and admins who want proper AI guardrails and responsible AI use in their school community.",
+    "long_description": "Flint is an AI-powered personalized learning platform for K-12 schools, helping teachers deliver individualized instruction at scale. Trusted by 500,000+ educators and students, Flint has powered learning activities that increase student engagement, academic performance, and collaboration.\r\n\r\nThrough AI-driven tutoring, real-time feedback, and interactive learning experiences, Flint enables every student to receive personalized support without adding to teacher workload.\r\n\r\nWith AI-native student analytics, educators gain full visibility into student progress, strengths, and areas for improvement, while saving time on grading, lesson planning, and differentiation. Students receive a 24/7 AI tutor that adapts to their level without giving away answers, supporting deeper understanding and independent thinking.\r\n\r\nFor schools and districts, Flint provides robust AI guardrails, including customizable moderation, grade-level controls, and full transparency into student usage, ensuring safe and responsible AI adoption.",
     "one_liner": "Personalized learning built for schools",
     "team_size": 18,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1686701426,
     "tags": [
-      "Artificial Intelligence",
       "Education",
       "Generative AI",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11185,11 +11227,11 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1759865815,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Health Tech",
       "Healthcare",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11354,7 +11396,7 @@
     "former_names": [
       "Amboras Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ed7c8489d6f5c3dbac6599b7042a3c9668cb002.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd994ad828ec46d6b44c0128b2abd68ee001c47.png",
     "website": "https://amboras.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Amboras puts your entire e-commerce on autopilot. It builds your store, continuously optimizes it, reads your analytics, and learns what converts - all autonomously. No developers. No agencies. No guessing. Today it sells to humans. Tomorrow it sells to AI agents.\r\n",

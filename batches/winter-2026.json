@@ -1846,14 +1846,14 @@
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -4878,6 +4878,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/congruent.json"
   },
   {
+    "id": 31197,
+    "name": "InventoryQuant",
+    "slug": "inventoryquant",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f74c63aa46c6a7b210639069202e83296edae78d.png",
+    "website": "https://www.inventoryquant.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We automate inventory and contents processing for insurance and insurance-adjacent industries, including public adjusters, restoration contents, and insurance companies. We also handle various inventory and estimate adjacent processes that cost many billions of dollars a year and thousands of years of man hours.",
+    "one_liner": "We automate the inventory process in insurance",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774477383,
+    "tags": [
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inventoryquant",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/inventoryquant.json"
+  },
+  {
     "id": 31199,
     "name": "Emdash",
     "slug": "emdash",
@@ -6394,7 +6433,7 @@
     "all_locations": "",
     "long_description": "AI coding tools have made developers 100x faster but customer-facing incidents are up 43% YoY, QA hasn't kept up. Canary is the first AI QA engineer that understands your codebase. Instead of relying on flaky DOM scraping or screenshot analysis, Canary reads your source code directly to understand developer intent and catch broken user flows before they hit production. Engineering teams go from weeks of manual testing to 90%+ coverage in days. Built by a team that built coding agents at Windsurf, Cognition and Google.\r\n",
     "one_liner": "The first AI QA engineer that understands your code",
-    "team_size": 4,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770954754,
@@ -7225,13 +7264,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
     "all_locations": "",
-    "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions with no scene changes, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
+    "long_description": "We are building the world’s largest video library. We've aggregated billions of videos into a searchable index and use agents to find and label the exact datasets a lab needs on demand.\r\n\r\nIf a lab needs 100K hours of cooking videos where someone is holding a pan, with reasoning annotations on top, our agents search the index, extract the matching subset, route it through our labeling pipeline, and deliver a custom dataset in days, not months.",
     "one_liner": "The World's Largest Video Library",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,

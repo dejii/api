@@ -1088,19 +1088,19 @@
     "name": "Mutiny",
     "slug": "mutiny",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbf89554c6427af53173ae6918c6b17b2d7f50b9.png",
     "website": "https://www.mutinyhq.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Mutiny is your AI agent for creating anything customer-facing, in minutes. From ABM campaigns to executive business cases to ROI reports, you'll never have to wait on another team to get your deal from cold to closed. Our customers include Figma, Rippling, Uber, Snowflake. We are backed by Sequoia Capital, Tiger Global, Insight Partners, and Y Combinator.",
-    "one_liner": "AI for Enterprise GTM",
+    "one_liner": "Your AI agent for creating anything customer-facing, in minutes.",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1526439893,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5560,21 +5560,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
     "website": "https://imagineai.me",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Imagine AI builds B2B content pipelines for entire teams so prospects find you, trust you, and book meetings before competitors even get a reply.\r\n\r\nMost B2B companies try LinkedIn GTM with one founder posting alone. It works, but it's slow. One voice. One network. Limited reach. What actually moves the needle is coordinated team effort, where multiple executives post aligned content, amplify each other, and create a ripple effect across the org.\r\n\r\nHere's how it works:\r\n\r\nWe build 100+ page Persona Reports from your transcripts, interviews, posts, and conversations for each person on your team. These capture how you actually think and talk. That persona powers every post and comment, so the content sounds like you wrote it. Not a polished version of you. You.\r\n\r\nOne calendar for your whole team. Your CEO posts the vision, your VP of Sales posts the proof, your Head of Marketing posts the framework. Same theme, different angles, coordinated cadence. Every client gets a dedicated Content Engineer who owns your strategy with an AI platform behind them.\r\n\r\nWe serve 40+ paying B2B companies from pre-seed to publicly traded such as Rippling, Corgi Insurnace, Fondo, Campfire AI, Paramify, etc\r\n\r\nResults across all clients:\r\n-> $31M in revenue generated\r\n-> 431 qualified inbounds in 1 month for one client\r\n-> $53K inbound revenue in 1.5 weeks for another\r\n-> 12M total impressions\r\n-> 10,400 hours saved\r\n\r\nBook a demo: https://imagineai.me \r\nEmail: sky@imagineai.me \r\nSky: https://linkedin.com/in/skyyang \r\nNeo: https://linkedin.com/in/neo-lky",
     "one_liner": "We build B2B content for your entire team",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1757695309,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -5583,8 +5579,7 @@
       "Sales"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5826,5 +5821,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kinro",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kinro.json"
+  },
+  {
+    "id": 31426,
+    "name": "Gojiberry AI",
+    "slug": "gojiberry-ai",
+    "former_names": [
+      "GojiberryAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91696171ccb5358864302c756237e3240c19488e.png",
+    "website": "https://www.gojiberry.ai",
+    "all_locations": "Remote",
+    "long_description": "GojiberryAI is a GTM Brain that helps sales teams find and convert high-intent leads by continuously learning what works across their go-to-market. Instead of relying on cold lists, it detects real buying signals like competitor engagement and social signals, job changes, hiring spikes, or funding events, then prioritizes the best prospects based on ICP fit and intent. It analyzes each lead’s context, generates personalized messages, starts conversations, and follows up automatically until a meeting is booked, while constantly optimizing targeting, messaging, and timing so performance compounds over time. \r\n\r\nThe result is simple: 2 to 5x more replies, more qualified conversations, and a predictable pipeline without wasting time on low-intent prospects.",
+    "one_liner": "GTM Brain for small sales teams ",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1774430148,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gojiberry-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gojiberry-ai.json"
   }
 ]

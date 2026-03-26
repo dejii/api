@@ -4314,7 +4314,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5542,6 +5542,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/blank-bio.json"
   },
   {
+    "id": 30747,
+    "name": "Convexia",
+    "slug": "convexia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68bf871c0fe363c6048343df283d9282ab990f4.png",
+    "website": "https://convexia.bio",
+    "all_locations": "",
+    "long_description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, Boltz-2, AlphaFold) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nPoS Agent: Evaluates the most critical factors that impact the likelihood of clinical trial success. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
+    "one_liner": "The world's first AI-maximalist pharma company",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1752301183,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Biotech",
+      "Drug Delivery"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/convexia",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
+  },
+  {
     "id": 30856,
     "name": "Scoop",
     "slug": "scoop",
@@ -5686,14 +5726,14 @@
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -5713,5 +5753,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/10x-science",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
+  },
+  {
+    "id": 31439,
+    "name": "Alchemy",
+    "slug": "alchemyai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d5d92304f2eaa0377d188245540fde04aec2281.png",
+    "website": "https://www.alchemyai.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alchemy automates image analysis for life science researchers who spend hours every day turning images into useful numerical data, often manually. Through a combination of our customized pipeline tailored to the researcher's needs and our suite of ML models, we've helped labs reduce analysis time by over 90%, while enabling analyses that were previously impossible. All a researcher has to do is upload their images, describe what you need in plain language, and our agents help assemble your tailored analysis pipeline, selects the right models for your specific images, and lets you verify every step before exporting reproducible, publication-ready results.",
+    "one_liner": "AI-powered image analysis for life sciences",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774445922,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Machine Learning",
+      "SaaS",
+      "Biotech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alchemyai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemyai.json"
   }
 ]

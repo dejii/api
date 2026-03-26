@@ -8514,19 +8514,19 @@
     "name": "Mutiny",
     "slug": "mutiny",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbf89554c6427af53173ae6918c6b17b2d7f50b9.png",
     "website": "https://www.mutinyhq.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Mutiny is your AI agent for creating anything customer-facing, in minutes. From ABM campaigns to executive business cases to ROI reports, you'll never have to wait on another team to get your deal from cold to closed. Our customers include Figma, Rippling, Uber, Snowflake. We are backed by Sequoia Capital, Tiger Global, Insight Partners, and Y Combinator.",
-    "one_liner": "AI for Enterprise GTM",
+    "one_liner": "Your AI agent for creating anything customer-facing, in minutes.",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1526439893,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11487,7 +11487,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -36153,50 +36153,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/omnistrate.json"
   },
   {
-    "id": 27814,
-    "name": "Narrative",
-    "slug": "narrative",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd0c9a9869afd6e8a0abc998980922778315939f.png",
-    "website": "https://www.trynarrative.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Transforms plain-English requirements into fast, reliable, and self-healing tests, built to replace manual testing and reduce regressions, ",
-    "one_liner": "AI-powered QA testing platform",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1678820348,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Logistics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/narrative",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/narrative.json"
-  },
-  {
     "id": 27819,
     "name": "FlexWash",
     "slug": "flexwash",
@@ -41896,7 +41852,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -45936,20 +45892,18 @@
     "name": "Woz",
     "slug": "woz",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0c9ada6111e7b8097807a72d2e056755c4323f.png",
-    "website": "https://withwoz.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ec5c6a24f1037c7183c8ce6c5dc019a1f42ec3d.png",
+    "website": "https://www.wozcode.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Woz is an AI platform that enables anyone to build and scale real software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nTo start, we’re helping entrepreneurs build high quality mobile apps and launch them directly to the app store. For example, one of our first customers is a personal trainer building a fitness app for his clients. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. ",
-    "one_liner": "AI platform enabling anyone to build and scale software businesses",
-    "team_size": 6,
+    "long_description": "WozCode is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WozCode plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-50% cheaper\r\nSpeed: 30-40% faster overall and up 10x on database tasks\r\nPerformance: beats Claude code on Terminal Bench 2.0 (63% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
+    "one_liner": "Claude Code plugin that reduces token consumption and cost by 50%",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737406523,
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Design",
-      "No-code",
       "AI"
     ],
     "tags_highlighted": [],
@@ -45966,8 +45920,8 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/woz",
@@ -48072,47 +48026,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/patent-watch.json"
   },
   {
-    "id": 30938,
-    "name": "Imagine AI",
-    "slug": "imagine-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
-    "website": "https://imagineai.me",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine AI builds B2B content pipelines for entire teams so prospects find you, trust you, and book meetings before competitors even get a reply.\r\n\r\nMost B2B companies try LinkedIn GTM with one founder posting alone. It works, but it's slow. One voice. One network. Limited reach. What actually moves the needle is coordinated team effort, where multiple executives post aligned content, amplify each other, and create a ripple effect across the org.\r\n\r\nHere's how it works:\r\n\r\nWe build 100+ page Persona Reports from your transcripts, interviews, posts, and conversations for each person on your team. These capture how you actually think and talk. That persona powers every post and comment, so the content sounds like you wrote it. Not a polished version of you. You.\r\n\r\nOne calendar for your whole team. Your CEO posts the vision, your VP of Sales posts the proof, your Head of Marketing posts the framework. Same theme, different angles, coordinated cadence. Every client gets a dedicated Content Engineer who owns your strategy with an AI platform behind them.\r\n\r\nWe serve 40+ paying B2B companies from pre-seed to publicly traded such as Rippling, Corgi Insurnace, Fondo, Campfire AI, Paramify, etc\r\n\r\nResults across all clients:\r\n-> $31M in revenue generated\r\n-> 431 qualified inbounds in 1 month for one client\r\n-> $53K inbound revenue in 1.5 weeks for another\r\n-> 12M total impressions\r\n-> 10,400 hours saved\r\n\r\nBook a demo: https://imagineai.me \r\nEmail: sky@imagineai.me \r\nSky: https://linkedin.com/in/skyyang \r\nNeo: https://linkedin.com/in/neo-lky",
-    "one_liner": "We build B2B content for your entire team",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1757695309,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/imagine-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/imagine-ai.json"
-  },
-  {
     "id": 30939,
     "name": "Expected Parrot",
     "slug": "expected-parrot",
@@ -48393,14 +48306,14 @@
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -48625,6 +48538,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arga-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
+  },
+  {
+    "id": 31439,
+    "name": "Alchemy",
+    "slug": "alchemyai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d5d92304f2eaa0377d188245540fde04aec2281.png",
+    "website": "https://www.alchemyai.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alchemy automates image analysis for life science researchers who spend hours every day turning images into useful numerical data, often manually. Through a combination of our customized pipeline tailored to the researcher's needs and our suite of ML models, we've helped labs reduce analysis time by over 90%, while enabling analyses that were previously impossible. All a researcher has to do is upload their images, describe what you need in plain language, and our agents help assemble your tailored analysis pipeline, selects the right models for your specific images, and lets you verify every step before exporting reproducible, publication-ready results.",
+    "one_liner": "AI-powered image analysis for life sciences",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774445922,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Machine Learning",
+      "SaaS",
+      "Biotech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alchemyai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemyai.json"
   },
   {
     "id": 31445,

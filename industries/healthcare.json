@@ -6696,7 +6696,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -10814,7 +10814,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14084,7 +14084,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nirva is the lifestyle medicine layer for clinicians. For the first time, any doctor can offer daily care between appointments and earn recurring revenue. 87% of patients improve in weeks, and our system is discovering things like which foods trigger hot flashes, insights that no existing research has found.",
     "one_liner": "The lifestyle medicine layer for clinicians.",
-    "team_size": 9,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1615890768,
@@ -22506,7 +22506,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27201,7 +27201,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -27272,7 +27272,11 @@
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1752301183,
-    "tags": [],
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Biotech",
+      "Drug Delivery"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -27726,11 +27730,11 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1759865815,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Health Tech",
       "Healthcare",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

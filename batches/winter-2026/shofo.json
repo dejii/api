@@ -6,13 +6,16 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
   "website": "https://shofo.ai/",
   "all_locations": "",
-  "long_description": "We're building the world's largest library of videos by combining public videos collected from the open web and private videos aggregated from thousands of different sources. Both feed into a single, continuously updating index of billions of videos that we clean, search, and label to build custom datasets for AI teams. If a lab needs 100K hours of cooking videos featuring hand-object interactions with no scene changes, we query our index, extract the matching subset, and deliver a clean, structured dataset in days.",
+  "long_description": "We are building the world’s largest video library. We've aggregated billions of videos into a searchable index and use agents to find and label the exact datasets a lab needs on demand.\r\n\r\nIf a lab needs 100K hours of cooking videos where someone is holding a pan, with reasoning annotations on top, our agents search the index, extract the matching subset, route it through our labeling pipeline, and deliver a custom dataset in days, not months.",
   "one_liner": "The World's Largest Video Library",
   "team_size": 4,
   "industry": "B2B",
   "subindustry": "B2B -> Infrastructure",
   "launched_at": 1768432806,
-  "tags": [],
+  "tags": [
+    "Artificial Intelligence",
+    "Infrastructure"
+  ],
   "tags_highlighted": [],
   "top_company": false,
   "isHiring": false,

@@ -6323,7 +6323,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13617,6 +13617,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/versive.json"
   },
   {
+    "id": 27814,
+    "name": "Narrative",
+    "slug": "narrative",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd0c9a9869afd6e8a0abc998980922778315939f.png",
+    "website": "https://www.trynarrative.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Narrative is the easiest way to create end-to-end tests, replacing Playwright, Selenium, and Cypress with self-healing tests.\r\n\r\nRecord your user journeys to deploy tests in minutes, and let our agents handle flaky selectors and timing issues. When a test fails, you get a bug report in plain English that's easy to triage.\r\n\r\nTrusted by Nanonets, Commenda, Drumkit, Metal, and Vega.\r\n\r\nLearn more at www.trynarrative.com",
+    "one_liner": "AI agents for end-to-end testing",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1678820348,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/narrative",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/narrative.json"
+  },
+  {
     "id": 27821,
     "name": "PoplarML",
     "slug": "poplarml",
@@ -19976,7 +20017,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25214,7 +25255,7 @@
     "all_locations": "",
     "long_description": "AI coding tools have made developers 100x faster but customer-facing incidents are up 43% YoY, QA hasn't kept up. Canary is the first AI QA engineer that understands your codebase. Instead of relying on flaky DOM scraping or screenshot analysis, Canary reads your source code directly to understand developer intent and catch broken user flows before they hit production. Engineering teams go from weeks of manual testing to 90%+ coverage in days. Built by a team that built coding agents at Windsurf, Cognition and Google.\r\n",
     "one_liner": "The first AI QA engineer that understands your code",
-    "team_size": 4,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1770954754,
@@ -25437,6 +25478,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lamina-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lamina-labs.json"
+  },
+  {
+    "id": 31429,
+    "name": "Benchspan",
+    "slug": "benchspan",
+    "former_names": [
+      "Oddpool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
+    "website": "https://www.benchspan.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Benchspan is a benchmarking platform for AI agents. If you're building an agent, you need to know if it's getting better. But running benchmarks is slow, expensive, and fragile. You spend days writing glue code every time you want to run a new benchmark, runs take forever on your laptop, and when they fail halfway through you burn hundreds of dollars in tokens with nothing to show for it.\r\n\r\nBenchspan fixes all of it. Onboard your agent once, and it works with every benchmark on the platform. We onboarded Claude Code in 37 lines of code. Running a benchmark becomes a single command, executed in parallel in the cloud. Every result goes to one place your whole team can see, with full trajectories, token usage, latency, and custom metrics. When runs partially fail, rerun just the subset that errored instead of starting from scratch. Compare runs side by side to see exactly where your agent is improving and where it's regressing.",
+    "one_liner": "Run agent benchmarks in minutes, not hours",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773859660,
+    "tags": [
+      "AIOps",
+      "Analytics",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchspan",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/benchspan.json"
   },
   {
     "id": 31491,

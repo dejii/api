@@ -26087,6 +26087,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/theya.json"
   },
   {
+    "id": 28786,
+    "name": "Accend",
+    "slug": "accend",
+    "former_names": [
+      "Accend Technology, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31a4d8ba6cbc31b7799b329fce2d820cfe3ca234.png",
+    "website": "https://www.withaccend.com/",
+    "all_locations": "",
+    "long_description": "Accend helps commercial banks and fintechs underwrite business customers faster, win more deals and increase revenue. We provide an end-to-end platform to automate document intake, financial statement / tax spreading, cash flow modeling, credit memos and portfolio management, with audit-ready AI and human-in-the-loop accuracy. Companies like Corpay, Brex, Rippling, Rho, Column, Settle, and many others have reduced application processing time by 80% with Accend, significantly enhancing their credit underwriting efficiency\r\n\r\nBefore starting Accend, the founders led Product & Engineering on the Risk team at Brex as well as at Deutsche Bank and Credit Suisse so they have firsthand experienced issues with operational efficiency in credit/underwriting teams. Accend has raised a $3.2M seed round from Y Combinator, Adverb Ventures, General Catalyst and 645 Ventures.",
+    "one_liner": "AI agents for commercial underwriting at banks and fintechs",
+    "team_size": 18,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1691559472,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/accend",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/accend.json"
+  },
+  {
     "id": 28805,
     "name": "Diligent",
     "slug": "diligent",
@@ -28143,7 +28185,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29074,7 +29116,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -30182,45 +30224,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kimpton-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton-ai.json"
-  },
-  {
-    "id": 31429,
-    "name": "Oddpool",
-    "slug": "oddpool",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf632092b0f7b913a4b789b8c20bc2d7772690a5.png",
-    "website": "https://www.oddpool.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oddpool is probability infrastructure for prediction markets. We capture full orderbook microstructure across venues and normalize it into structured, queryable data for quantitative and institutional workflows. Parquet-native, with full provenance.\r\n\r\nA Federal Reserve research paper found that prediction markets provide a statistically significant improvement over traditional forecasts for major macro events. But the data is fragmented across venues, unstandardized, and has no institutional-grade historical record. Oddpool provides the normalized cross-venue data layer, the canonical event mapping that links the same outcome across exchanges, and the historical depth that compounds over time and can't be rebuilt retroactively.",
-    "one_liner": "Institutional data layer for prediction markets",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1773859660,
-    "tags": [
-      "Fintech",
-      "Finance",
-      "Consumer Finance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oddpool",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
   }
 ]
