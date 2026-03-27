@@ -16283,6 +16283,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/bretton-ai.json"
   },
   {
+    "id": 28930,
+    "name": "Midrender",
+    "slug": "midrender",
+    "former_names": [
+      "Haven",
+      "Revideo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae8f20158b0233edf45f926bd2ba47a325fa7fd6.png",
+    "website": "https://midrender.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Midrender is a visual editor for creating motion graphics, powered by AI. Point the agent at your codebase, it reads your code, understands the feature, and creates an animated walkthrough you can ship. A full timeline and design editor lets you fine-tune every detail.",
+    "one_liner": "Turn product features into launch videos",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688598945,
+    "tags": [
+      "Design",
+      "Design Tools",
+      "Video",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/midrender",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/midrender.json"
+  },
+  {
     "id": 28931,
     "name": "Vizly",
     "slug": "vizly",
@@ -17079,12 +17125,12 @@
     "name": "Tiptap",
     "slug": "tiptap",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a420bd235fd41d8ee714d37c421a5f053f3657.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ea1ff4314cdf63ee3867e1d262f8d1119847e40.png",
     "website": "https://tiptap.dev/",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
-    "one_liner": "Developer toolkit for building collaborative apps.",
-    "team_size": 16,
+    "one_liner": "The open-source document editor for humans and AI agents.",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687103873,
@@ -17572,53 +17618,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/constructable",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/constructable.json"
-  },
-  {
-    "id": 29134,
-    "name": "Cognitio Labs",
-    "slug": "cognitio-labs",
-    "former_names": [
-      "Flair Technology Services Inc.",
-      "Flair",
-      "Flair Health",
-      "Flair Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
-    "website": "https://www.flairhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1690407835,
-    "tags": [
-      "AIOps",
-      "B2B",
-      "Data Science",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cognitio-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
   },
   {
     "id": 29150,
@@ -25075,8 +25074,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster by getting them the insurance they need to sell into enterprise customers, pass procurement, move through onboarding, and meet retail vendor requirements. We use AI-driven workflows and licensed broker review to compare top-rated U.S. carriers and help founders secure D&O, Tech E&O, Cyber, General Liability, Product Liability, and Certificates of Insurance (COIs). We serve AI/SaaS, fintech, biotech, web3, and consumer brands selling into retail across the U.S.",
-    "one_liner": "AI-native commercial insurance broker.",
+    "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster by getting them the insurance they need to sell into enterprise customers, pass procurement, move through onboarding, and meet retail vendor requirements. We use AI-driven workflows and licensed broker review to compare top-rated U.S. carriers and help founders secure D&O, Tech E&O, Cyber, General Liability, Product Liability, and Certificates of Insurance (COIs). We serve AI/SaaS, Space, Fintech and Web3 startups. ",
+    "one_liner": "AI-native commercial insurance broker specializing in emerging risks.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -25151,6 +25150,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keye",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/keye.json"
+  },
+  {
+    "id": 30060,
+    "name": "Lingo.dev",
+    "slug": "lingodotdev",
+    "former_names": [
+      "Replexica"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
+    "website": "https://lingo.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs and devtools, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile apps.",
+    "one_liner": "Localization workflow infrastructure for developers and enterprises.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728389519,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "International",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lingodotdev",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
   },
   {
     "id": 30066,
@@ -27335,6 +27381,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/roark",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/roark.json"
+  },
+  {
+    "id": 30329,
+    "name": "Waffle",
+    "slug": "waffle",
+    "former_names": [
+      "Opine",
+      "Waffle",
+      "Opine"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2861a984e502a76a5886684436e1887e14b08c0f.png",
+    "website": "https://www.waffle.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Talk to 100+ AI personas about relationships, health, career, and more",
+    "one_liner": "Make an AI version of yourself",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1740162817,
+    "tags": [
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/waffle",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/waffle.json"
   },
   {
     "id": 30334,
@@ -30044,6 +30133,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
   },
   {
+    "id": 30644,
+    "name": "Wafer",
+    "slug": "wafer",
+    "former_names": [
+      "Herdora",
+      "wafer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
+    "website": "https://www.wafer.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wafer builds AI agents that work as autonomous performance engineers, optimizing GPU kernels for AI inference. Our customers are chip companies and cloud providers who need their AI models running at peak performance on any type of hardware. Our founding team includes engineers from Google (Spanner, Gemini), Two Sigma, AWS, and Argonne National Lab, with NeurIPS publications in ML.",
+    "one_liner": "AI that makes AI fast",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751530242,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wafer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
+  },
+  {
     "id": 30649,
     "name": "Lilac",
     "slug": "lilac",
@@ -30997,6 +31128,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kernel",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
+  },
+  {
+    "id": 30763,
+    "name": "Rebulk",
+    "slug": "rebulk",
+    "former_names": [
+      "dScribe AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37f1f3fac3b53d55834007e8aa34e2f8bb7a1198.png",
+    "website": "https://www.rebulk.com",
+    "all_locations": "Olathe, KS, USA",
+    "long_description": "Rebulk accurately measures and monitors bulk inventory like piles of feed, sand, and other assets that do not fit into boxes and barcodes using cameras, LiDAR, and computer vision.\r\n\r\nMost bulk inventory is still managed with rough estimates, manual checks, delayed updates, and too much guesswork. Because it lives in piles, bays, yards, and truck beds instead of boxes with barcodes, it is much harder to track accurately. When teams do not know what is actually on site, it leads to shrink, stockouts, bad planning, and unnecessary fire drills.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and is working with one of the largest agricultural company in North America and Charm Industrial. As industries demand real-time visibility into the physical world, RebuIk is positioned to become the operating system for bulk assets from inventory tracking to procurement and logistics.",
+    "one_liner": "Accurately measure and monitor bulk inventory",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1752017595,
+    "tags": [
+      "Computer Vision",
+      "Supply Chain",
+      "Agriculture",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rebulk",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/rebulk.json"
   },
   {
     "id": 30768,
@@ -32155,47 +32331,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
   },
   {
-    "id": 30887,
-    "name": "SellRaze",
-    "slug": "sellraze",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d0c3af40b49318f2b71a98f2764633829b06a75.png",
-    "website": "https://sellraze.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "SellRaze is an AI-powered selling assistant that helps anyone sell anything in seconds. Point your camera at any item and we'll identify it, price it, and create an engaging listing across multiple marketplaces, including our own.\r\n\r\nEach day, more than 2,500 items are added to SellRaze, representing over $326,000 in inventory value.",
-    "one_liner": "The fastest way to sell online.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1759197803,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "E-commerce",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sellraze",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sellraze.json"
-  },
-  {
     "id": 30889,
     "name": "Nivara",
     "slug": "nivara",
@@ -32625,6 +32760,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/scott-ai.json"
   },
   {
+    "id": 30943,
+    "name": "Aside",
+    "slug": "aside",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+    "website": "https://asidehq.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aside is an AI browser that acts on your behalf. Give it your passwords, browsing history, and browser context. It gets real work done end to end in the apps you already use, with no integrations required.\r\n\r\n- 🌐 Browser-native automation: Works directly in Gmail, Notion, Slack, Figma, banking apps, and internal tools, without any integrations.\r\n- 🔑 Passwords into tools: Lets AI use logins, sessions, passkeys, and credentials to take action.\r\n- 📚 Browsing history into memory: Gives AI persistent context across sessions.\r\n- 🧡 Push notifications into a heartbeat: Lets agents react to events and resume work in real time.",
+    "one_liner": "Operating system for the AI era",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1760485553,
+    "tags": [
+      "SaaS",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/aside",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
+  },
+  {
     "id": 30944,
     "name": "HireGlide",
     "slug": "hireglide",
@@ -32670,16 +32845,17 @@
   },
   {
     "id": 30947,
-    "name": "Spatial AI",
-    "slug": "spatial-ai",
+    "name": "Philon",
+    "slug": "philon",
     "former_names": [
-      "Philon"
+      "Philon",
+      "Spatial AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48ccf720589ff151d68e0ac6f27d06b351f3fb69.png",
-    "website": "https://spatial-ai.com/",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Building the data infrastructure for robots. Large-scale, real-world data is the missing ingredient for general-purpose embodied agents.",
-    "one_liner": "Data for robot foundational models",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9409424e7a4382c4c1dbec5ad6bcfa7c4ada98b2.png",
+    "website": "https://philon.ai/",
+    "all_locations": "Athens, Greece",
+    "long_description": "Building open-source general-purpose robots capable of performing unsafe, repetitive or boring tasks.",
+    "one_liner": "General Purpose Robots",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -32698,16 +32874,16 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Greece",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spatial-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/spatial-ai.json"
+    "url": "https://www.ycombinator.com/companies/philon",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/philon.json"
   },
   {
     "id": 30950,

@@ -12668,7 +12668,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15821,7 +15821,7 @@
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://m.me/higoosebump",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Goosebump is a messenger app that helps users find live music events online.",
+    "long_description": "Goosebump is a chatbot that helps users find live music events online.\r\n\r\nPS: yes, we were building a chatbot before it was cool",
     "one_liner": "Find the best electronic music events in a single message.",
     "team_size": 2,
     "industry": "Consumer",
@@ -34214,24 +34214,25 @@
   },
   {
     "id": 30329,
-    "name": "Opine",
-    "slug": "opine",
+    "name": "Waffle",
+    "slug": "waffle",
     "former_names": [
       "Opine",
-      "Waffle"
+      "Waffle",
+      "Opine"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ff33764ca4ba54e5d48b68723ba2f5c5e90324c.png",
-    "website": "https://www.opine.chat",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2861a984e502a76a5886684436e1887e14b08c0f.png",
+    "website": "https://www.waffle.ai",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Talk to 100+ AI personas about relationships, health, career, and more",
-    "one_liner": "Opinionated AI",
+    "one_liner": "Make an AI version of yourself",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1740162817,
     "tags": [
-      "Artificial Intelligence",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34251,8 +34252,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opine",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/opine.json"
+    "url": "https://www.ycombinator.com/companies/waffle",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/waffle.json"
   },
   {
     "id": 30345,
@@ -35405,13 +35406,15 @@
   },
   {
     "id": 30874,
-    "name": "Iris",
-    "slug": "iriscal",
-    "former_names": [],
+    "name": "Minro",
+    "slug": "minro",
+    "former_names": [
+      "Iris"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
-    "website": "https://textiris.com/",
+    "website": "https://minro.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Iris observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
+    "long_description": "Minro observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
     "one_liner": "The Digital Extension of Yourself",
     "team_size": 2,
     "industry": "Consumer",
@@ -35442,8 +35445,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/iriscal",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/iriscal.json"
+    "url": "https://www.ycombinator.com/companies/minro",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/minro.json"
   },
   {
     "id": 30880,
@@ -35533,15 +35536,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SellRaze is an AI-powered selling assistant that helps anyone sell anything in seconds. Point your camera at any item and we'll identify it, price it, and create an engaging listing across multiple marketplaces, including our own.\r\n\r\nEach day, more than 2,500 items are added to SellRaze, representing over $326,000 in inventory value.",
     "one_liner": "The fastest way to sell online.",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1759197803,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35756,6 +35759,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tornyol",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/tornyol.json"
+  },
+  {
+    "id": 30943,
+    "name": "Aside",
+    "slug": "aside",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e9196c93cd4fc802b51eabcb6432760d1efd3fb.png",
+    "website": "https://asidehq.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aside is an AI browser that acts on your behalf. Give it your passwords, browsing history, and browser context. It gets real work done end to end in the apps you already use, with no integrations required.\r\n\r\n- 🌐 Browser-native automation: Works directly in Gmail, Notion, Slack, Figma, banking apps, and internal tools, without any integrations.\r\n- 🔑 Passwords into tools: Lets AI use logins, sessions, passkeys, and credentials to take action.\r\n- 📚 Browsing history into memory: Gives AI persistent context across sessions.\r\n- 🧡 Push notifications into a heartbeat: Lets agents react to events and resume work in real time.",
+    "one_liner": "Operating system for the AI era",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1760485553,
+    "tags": [
+      "SaaS",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/aside",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
   },
   {
     "id": 30957,

@@ -1790,7 +1790,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -3602,20 +3602,20 @@
       "Flair Health",
       "Flair Technologies"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
-    "website": "https://www.flairhealth.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef89599f5919a67db2c626d5aa12b8e6f38bf8da.png",
+    "website": "https://cognitioiq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
+    "long_description": "Cognitio Labs is an applied AI research lab building real-time compliance infrastructure for regulated supply chains, serving as the first line of defense against recalls and regulatory failure.\r\n\r\nWhen a food contamination event happens, time is everything. Today, traceability relies on spreadsheets, PDFs, and manual logs, turning recalls into multi-day investigations. Entire product categories get destroyed, brands lose trust, and a single recall can cost $10M to $100M+.\r\n\r\nWhy now: The FDA’s FSMA 204 rule requires companies to produce standardized digital traceability records within 24 hours by 2028, impacting over 60,000 U.S. food facilities. The regulatory bar is rising, but the infrastructure to meet it does not exist.\r\n\r\nOur first product line uses sensors and AI to automatically capture key events such as temperature, handling, and lot-level movements across production, storage, and transit. We convert fragmented operational data into standardized, FSMA 204-compliant traceability records in real time.\r\n\r\nCompliance is generated as operations happen, not after.\r\n\r\nThis becomes the first line of defense by enabling faster recalls, reducing spoilage, eliminating manual compliance work, and protecting contracts, insurance, and brand equity.\r\n\r\nWe are starting with food and expanding into other regulated, high-risk supply chains.",
+    "one_liner": "Automating FDA-grade Traceability Requirements with Sensors and AI.",
     "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "industry": "Industrials",
+    "subindustry": "Industrials",
     "launched_at": 1690407835,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Data Science",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3625,7 +3625,7 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -6316,13 +6316,15 @@
   },
   {
     "id": 30874,
-    "name": "Iris",
-    "slug": "iriscal",
-    "former_names": [],
+    "name": "Minro",
+    "slug": "minro",
+    "former_names": [
+      "Iris"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
-    "website": "https://textiris.com/",
+    "website": "https://minro.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Iris observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
+    "long_description": "Minro observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
     "one_liner": "The Digital Extension of Yourself",
     "team_size": 2,
     "industry": "Consumer",
@@ -6353,8 +6355,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/iriscal",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/iriscal.json"
+    "url": "https://www.ycombinator.com/companies/minro",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/minro.json"
   },
   {
     "id": 30899,
@@ -6485,48 +6487,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bravi",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
-  },
-  {
-    "id": 30943,
-    "name": "Aside",
-    "slug": "aside",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5583787b8c6dc46895f26ea073266ec40bae7ea0.png",
-    "website": "https://asidehq.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aside listens to your sales calls and surfaces real-time answers pulled from your docs, HubSpot, or past calls. It's like pressing 𝚌𝚝𝚛𝚕+𝚟 on your company’s knowledge into every rep – so anyone can sound like your best rep.\r\n\r\n- 🔎 Shows answers from your docs, Slack, and past winning calls\r\n- 📝 Live coaching that catches what reps miss: Aside spots what reps skip during calls and guides every rep to apply your playbook - BANT, SPICED, or your own - not after, live.\r\n- 💬 Preload your cheatsheets as Live Cards: Turn your playbooks, FAQs, and notes into instant, in-call cards.\r\n- 🎓 Coaching feedback, remembered by AI: Aside reviews every call, gives feedback, and turns it into live suggestions for your next one - so you never repeat the same mistake.",
-    "one_liner": "Live answer copilot for enterprise tech sales",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1760485553,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales Enablement",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/aside",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
   },
   {
     "id": 30962,

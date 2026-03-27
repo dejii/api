@@ -15663,24 +15663,27 @@
   },
   {
     "id": 28930,
-    "name": "Revideo",
-    "slug": "revideo",
+    "name": "Midrender",
+    "slug": "midrender",
     "former_names": [
-      "Haven"
+      "Haven",
+      "Revideo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cb70cba7444eeea174f9161b4ba2165b9a69ffa.png",
-    "website": "https://re.video",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "We are building tools for programmatic video creation. Revideo, our open-source framework, lets you create video templates in Typescript and render them via an API. It also provides a React player component to display changes in the browser in real-time.",
-    "one_liner": "Create Videos with Code",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae8f20158b0233edf45f926bd2ba47a325fa7fd6.png",
+    "website": "https://midrender.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Midrender is a visual editor for creating motion graphics, powered by AI. Point the agent at your codebase, it reads your code, understands the feature, and creates an animated walkthrough you can ship. A full timeline and design editor lets you fine-tune every detail.",
+    "one_liner": "Turn product features into launch videos",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688598945,
     "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Video"
+      "Design",
+      "Design Tools",
+      "Video",
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15693,16 +15696,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Germany",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/revideo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/revideo.json"
+    "url": "https://www.ycombinator.com/companies/midrender",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/midrender.json"
   },
   {
     "id": 28957,
@@ -16069,12 +16072,12 @@
     "name": "Tiptap",
     "slug": "tiptap",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a420bd235fd41d8ee714d37c421a5f053f3657.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ea1ff4314cdf63ee3867e1d262f8d1119847e40.png",
     "website": "https://tiptap.dev/",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
-    "one_liner": "Developer toolkit for building collaborative apps.",
-    "team_size": 16,
+    "one_liner": "The open-source document editor for humans and AI agents.",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687103873,
@@ -17802,7 +17805,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
     "one_liner": "Real-time and two-way sync between CRMs and Databases",
-    "team_size": 9,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1702317253,
@@ -20342,21 +20345,21 @@
     "former_names": [
       "Replexica"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/442160d6f92366e746a7964f1d333e2ba927a962.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev helps dev teams use LLMs for app localization and content translation. Lingo.dev Compiler helps React developers localize apps without rewriting the existing code. Lingo.dev CLI helps web and mobile teams use AI for producing perfect translations for their user interfaces and docs. Lingo.dev SDK helps use LLMs for real-time translations.",
-    "one_liner": "Open-source, AI-powered i18n toolkit for instant localization.",
+    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs and devtools, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile apps.",
+    "one_liner": "Localization workflow infrastructure for developers and enterprises.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728389519,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "International"
+      "International",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23031,14 +23034,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
     "website": "https://www.wafer.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI that optimizes AI",
+    "long_description": "Wafer builds AI agents that work as autonomous performance engineers, optimizing GPU kernels for AI inference. Our customers are chip companies and cloud providers who need their AI models running at peak performance on any type of hardware. Our founding team includes engineers from Google (Spanner, Gemini), Two Sigma, AWS, and Argonne National Lab, with NeurIPS publications in ML.",
     "one_liner": "AI that makes AI fast",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

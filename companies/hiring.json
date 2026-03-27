@@ -4316,7 +4316,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9526,7 +9526,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Kalshi (www.kalshi.com) is the first federally regulated exchange where you can trade on the outcome of events.  We built Kalshi because we believe that people should be able to capitalize on what they know and have opinions on. We make this possible by expanding what people can trade on and allowing them trade in the domain of everyday knowledge. \r\n\r\nKalshi is developing a new asset class, “event contracts,” and a financial exchange for trading on the outcome of events: we are federally regulated by the CFTC as the first-ever legal futures exchange in the U.S. for trading on a broad category of events.",
     "one_liner": "1st federally regulated exchange where people can trade on events",
-    "team_size": 100,
+    "team_size": 125,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1541037761,
@@ -9548,7 +9548,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9738,7 +9738,7 @@
     "former_names": [
       "Cleri"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fedf74c9ad94dc349198477810eed3f94568f7ec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/879ec58e53bd019120172a74e682fd8ffb5ad873.png",
     "website": "http://www.middesk.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Middesk's mission is to enable every business to access the products and services they need to grow and thrive. We believe that if we can make it easy for a business to access financial products, hire new employees, and transact with other businesses, that we increase the odds of success for that business to contribute to its community and the broader economy.\r\n\r\nOur Identity provides accurate, complete information that financial services companies need to make efficient onboarding decisions. Our Agent product makes it easy for employers to file with the state and federal agencies needed to establish their business across the country. Our customers include Affirm, Brex, Plaid, Mercury, Divvy, Rippling, Gusto, and others.\r\n\r\nBased in San Francisco, CA, Middesk is backed by Sequoia Capital, Accel Partners, and Y Combinator.",
@@ -18006,52 +18006,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/bluelight.json"
   },
   {
-    "id": 22707,
-    "name": "Wyndly",
-    "slug": "wyndly",
-    "former_names": [
-      "Wyndly Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efc133877839e6a4953617e91a7ef726172acf80.png",
-    "website": "https://www.wyndly.com",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Wyndly (https://www.wyndly.com) fixes allergies by training patients' bodies to ignore their allergy triggers. Frustrated allergy suffers come to us when they no longer want to deal with pills and sprays. We diagnose the patient’s unique allergy profile and create a personalized treatment plan to give the patient lifelong allergy relief. Specifically, Wyndly is increasing access to  sublingual immunotherapy (SLIT) for allergy care. For our patients, we're combining the convenience of telehealth and direct-to-consumer care with an exceptional patient experience that never loses the context of care.\r\n\r\nWyndly represents an opportunity to change allergy care forever. With 60 million Americans suffering from allergies today, and with this number doubling over the coming years, there's simply an incredible need for the convenient care Wyndly provides. \r\n\r\nYou can read more about us in [Techcrunch](https://techcrunch.com/2021/02/12/wyndly-aims-to-bring-allergy-drops-to-the-masses/).\r\n\r\nThe Wyndly Model \r\n\r\nAt Wyndly, we believe that better connections lead to better care, and we’re committed to making both happen at every step of the patient journey. Our allergy practice allows our patients to work with expert providers to develop personalized treatment plans for long-term allergy relief using clinically proven therapies. From a patient’s initial consultation to their final treatment delivery, we want the Wyndly experience to be a breath of fresh air for allergy sufferers – truly effective allergy relief, simply and efficiently delivered.\r\n\r\nOnce we've conquered allergies, we're transforming the care model for every chronic condition. While transactional care for purchasing pills has flourished in telehealth, no one has gone after chronic care. Patients with chronic conditions are shuffled between providers, insurance, and more -- and they never feel heard. These patients deserve better, and we're going to give it to them. Wyndly is starting with allergies, but we'll expand into asthma, sleep apnea, and other conditions in the near future.\r\n\r\nOur values\r\n\r\n**Compassion**: We approach all our patients and partners with an open mind and a genuine desire to be of service.\r\n\r\n**Focus**: We do a few things very well, and are always clear about our boundaries and direction of travel.\r\n\r\n**Courage**: We embrace ambiguity and discomfort because we know that’s how we grow.\r\n\r\n**Progress**: We make something better every single day.\r\n\r\n*It boils down to empathy and forward momentum in everything we do.*\r\n\r\nThe team\r\n\r\nWyndly is proudly backed by Y Combinator and a leading group of angel investors and VCs. The founders are Dr. Manan Shah (Chief Medical Officer), an ear-nose-and-throat surgeon who’s a leading practitioner of telehealth in his specialty, and his cousin Aakash Shah (CEO), who led growth  engineering at SparkGift (acquired by Stockpile in 2016) and Parse.ly (acquired by Automattic in 2021).",
-    "one_liner": "Life's better without allergies",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1612583606,
-    "tags": [
-      "Consumer Health Services",
-      "Consumer",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wyndly",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/wyndly.json"
-  },
-  {
     "id": 22713,
     "name": "SpruceID",
     "slug": "spruceid",
@@ -25055,7 +25009,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25646,49 +25600,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/elevate",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/elevate.json"
-  },
-  {
-    "id": 25152,
-    "name": "Mederva Health",
-    "slug": "mederva-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a74cfe1478d73715e0a38d1643969f6ddafe1d.png",
-    "website": "https://medervahealth.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mederva is bringing AI-enabled healthspan care to primary care. We partner with clinics to turn lifestyle and behavior change into continuous, reimbursed care, extending healthy years of life between visits.",
-    "one_liner": "Longevity medicine for the 99%.",
-    "team_size": 13,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1647802207,
-    "tags": [
-      "Consumer Health Services",
-      "Telehealth",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mederva-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva-health.json"
   },
   {
     "id": 25174,
@@ -28104,7 +28015,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Courtyard.io (YC W’22) is a marketplace and tokenization service that enables anyone to easily own and trade physical collectibles on the blockchain, unlocking greater transparency, liquidity, and a powerful new form of ownership. For vaulting, we’re partnered with Brink’s – one of the global leaders in security and logistics. We’re currently focused on graded cards, and offer a variety of slab Vending Machines along with curated mystery pack Drops to provide a fun, fair, and transparent way for enthusiasts and new collectors alike to grow their collections.",
     "one_liner": "A frictionless, safe, and fun experience to invest in collectibles",
-    "team_size": 13,
+    "team_size": 80,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1642471735,
@@ -28129,7 +28040,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29019,6 +28930,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/postal",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/postal.json"
+  },
+  {
+    "id": 26016,
+    "name": "Finku",
+    "slug": "finku",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd2fc34605d4558d713fd1df46893a192df5b825.png",
+    "website": "http://finku.id",
+    "all_locations": "Jakarta, Jakarta, Indonesia",
+    "long_description": "Finku is an AI powered personal finance app (budget & money manager) focused on geographies without Open Banking, such as Indonesia. \r\n\r\nFinku makes it easy for users to learn about their spending behaviors and recommends ways for user to achieve their goals faster (i.e saving more, etc.). Finku has helped 1 million Indonesian by offering a more seamless and innovative method of storing financial transactions, by processing these data-points & offering insightful suggestions for users, by providing access to a virtual financial assistant, hence creating a rewarding & sticky experience for our users.\r\n\r\nFinku is backed by B Capital, Partech, Golden Gate Ventures, Goodwater Capital, Trihill Capital and YCombinator.",
+    "one_liner": "AI powered personal finance app for Indonesia",
+    "team_size": 20,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1640796466,
+    "tags": [
+      "Fintech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Indonesia",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/finku",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/finku.json"
   },
   {
     "id": 26021,
@@ -42501,7 +42453,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcc29b79cc413f63314e6b00a79442a446cd544d.png",
     "website": "https://cloudcruise.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CloudCruise is the easiest way for developers to build fast and reliable browser agents. Simply design your workflow once, trigger it over our API, and CloudCruise automatically repairs any issues to keep it running smoothly.",
+    "long_description": "Build healthcare browser automations faster. Run self-healing payer portal and EHR workflows on a fully managed infrastructure.",
     "one_liner": "The developer platform for fast and reliable browser agents",
     "team_size": 3,
     "industry": "B2B",
@@ -44432,7 +44384,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
     "one_liner": "Real-time and two-way sync between CRMs and Databases",
-    "team_size": 9,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1702317253,
@@ -48813,7 +48765,7 @@
     "all_locations": "",
     "long_description": "Hi - Mark and Gab here!\r\n\r\nWe met while working at Alt, a marketplace for collectibles, where we built a $200 million specialty finance business line. At Alt, we faced the complex challenges that come with servicing consumer loans. We spent countless hours and resources developing internal tools to manage loan payments, communicate with borrowers, and keep track of loan performance—all while ensuring a positive experience for our customers.\r\n\r\nHowever, after dealing with the headaches of manual data entry, fragmented systems, delayed payments, lack of personalized borrower engagement, and the stress of maintaining accurate records, we knew there had to be a better way to service consumer loans.\r\n\r\nSo, we started Finosu to build the servicer we wish we had—an AI-powered consumer loan servicer designed to streamline and enhance every aspect of the loan servicing process. \r\n\r\nOur mission is to transform loan servicing into a seamless, efficient, and customer-centric experience.\r\n\r\nThe operational cost of servicing loans reaches into the tens of billions a year and that is money out of the pocket of lenders, borrowers, investors, and ultimately the consumers as a cost of doing business – we are changing that.",
     "one_liner": "AI Native Consumer Loan Servicer",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1723762134,
@@ -55186,7 +55138,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad91c0390b62c24c8473857d3ed3043cad61263.png",
     "website": "https://casco.com",
     "all_locations": "",
-    "long_description": "Casco performs autonomous security testing for your web apps, APIs, infrastructure, and AI systems. Human supervision optionally available. Use Casco for year-round security and get a penetration test report for your SOC2 and ISO27001 compliance certifications. \r\n\r\nTrusted by 100+ companies from enterprises to fast-moving startups, such as Gusto, CrewAI, Novig, and Delve.\r\n\r\nHack yourself at: https://casco.com\r\n\r\n---\r\n\r\nWe already secure software deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
+    "long_description": "Casco performs autonomous security testing for your web apps, APIs, infrastructure, and AI systems. Human supervision optionally available. Use Casco for year-round security and get a penetration test report for your SOC2 and ISO27001 compliance certifications. \r\n\r\nTrusted by 100+ companies from enterprises to fast-moving startups, such as Gusto, CrewAI, Novig, and Accrual.\r\n\r\nHack yourself at: https://casco.com\r\n\r\n---\r\n\r\nWe already secure software deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
     "one_liner": "Autonomous security testing for web apps, APIs, cloud, and AI systems",
     "team_size": 10,
     "industry": "B2B",
@@ -56984,14 +56936,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
     "website": "https://www.wafer.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI that optimizes AI",
+    "long_description": "Wafer builds AI agents that work as autonomous performance engineers, optimizing GPU kernels for AI inference. Our customers are chip companies and cloud providers who need their AI models running at peak performance on any type of hardware. Our founding team includes engineers from Google (Spanner, Gemini), Two Sigma, AWS, and Argonne National Lab, with NeurIPS publications in ML.",
     "one_liner": "AI that makes AI fast",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58390,10 +58342,10 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1752017595,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "Supply Chain",
       "Agriculture",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],

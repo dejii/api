@@ -4626,24 +4626,27 @@
   },
   {
     "id": 28930,
-    "name": "Revideo",
-    "slug": "revideo",
+    "name": "Midrender",
+    "slug": "midrender",
     "former_names": [
-      "Haven"
+      "Haven",
+      "Revideo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cb70cba7444eeea174f9161b4ba2165b9a69ffa.png",
-    "website": "https://re.video",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "We are building tools for programmatic video creation. Revideo, our open-source framework, lets you create video templates in Typescript and render them via an API. It also provides a React player component to display changes in the browser in real-time.",
-    "one_liner": "Create Videos with Code",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae8f20158b0233edf45f926bd2ba47a325fa7fd6.png",
+    "website": "https://midrender.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Midrender is a visual editor for creating motion graphics, powered by AI. Point the agent at your codebase, it reads your code, understands the feature, and creates an animated walkthrough you can ship. A full timeline and design editor lets you fine-tune every detail.",
+    "one_liner": "Turn product features into launch videos",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688598945,
     "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Video"
+      "Design",
+      "Design Tools",
+      "Video",
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4656,16 +4659,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Germany",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/revideo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/revideo.json"
+    "url": "https://www.ycombinator.com/companies/midrender",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/midrender.json"
   },
   {
     "id": 28931,
@@ -7347,12 +7350,12 @@
     "name": "Tiptap",
     "slug": "tiptap",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a420bd235fd41d8ee714d37c421a5f053f3657.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ea1ff4314cdf63ee3867e1d262f8d1119847e40.png",
     "website": "https://tiptap.dev/",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
-    "one_liner": "Developer toolkit for building collaborative apps.",
-    "team_size": 16,
+    "one_liner": "The open-source document editor for humans and AI agents.",
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687103873,
@@ -8943,20 +8946,20 @@
       "Flair Health",
       "Flair Technologies"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
-    "website": "https://www.flairhealth.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef89599f5919a67db2c626d5aa12b8e6f38bf8da.png",
+    "website": "https://cognitioiq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI for Contract Audits, Negotiation & Payment Compliance",
+    "long_description": "Cognitio Labs is an applied AI research lab building real-time compliance infrastructure for regulated supply chains, serving as the first line of defense against recalls and regulatory failure.\r\n\r\nWhen a food contamination event happens, time is everything. Today, traceability relies on spreadsheets, PDFs, and manual logs, turning recalls into multi-day investigations. Entire product categories get destroyed, brands lose trust, and a single recall can cost $10M to $100M+.\r\n\r\nWhy now: The FDA’s FSMA 204 rule requires companies to produce standardized digital traceability records within 24 hours by 2028, impacting over 60,000 U.S. food facilities. The regulatory bar is rising, but the infrastructure to meet it does not exist.\r\n\r\nOur first product line uses sensors and AI to automatically capture key events such as temperature, handling, and lot-level movements across production, storage, and transit. We convert fragmented operational data into standardized, FSMA 204-compliant traceability records in real time.\r\n\r\nCompliance is generated as operations happen, not after.\r\n\r\nThis becomes the first line of defense by enabling faster recalls, reducing spoilage, eliminating manual compliance work, and protecting contracts, insurance, and brand equity.\r\n\r\nWe are starting with food and expanding into other regulated, high-risk supply chains.",
+    "one_liner": "Automating FDA-grade Traceability Requirements with Sensors and AI.",
     "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "industry": "Industrials",
+    "subindustry": "Industrials",
     "launched_at": 1690407835,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Data Science",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -8966,7 +8969,7 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Industrials"
     ],
     "regions": [
       "United States of America",

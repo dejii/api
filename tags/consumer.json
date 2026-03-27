@@ -379,7 +379,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2408,7 +2408,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -4521,7 +4521,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Courtyard.io (YC W’22) is a marketplace and tokenization service that enables anyone to easily own and trade physical collectibles on the blockchain, unlocking greater transparency, liquidity, and a powerful new form of ownership. For vaulting, we’re partnered with Brink’s – one of the global leaders in security and logistics. We’re currently focused on graded cards, and offer a variety of slab Vending Machines along with curated mystery pack Drops to provide a fun, fair, and transparent way for enthusiasts and new collectors alike to grow their collections.",
     "one_liner": "A frictionless, safe, and fun experience to invest in collectibles",
-    "team_size": 13,
+    "team_size": 80,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1642471735,
@@ -4546,7 +4546,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9253,24 +9253,25 @@
   },
   {
     "id": 30329,
-    "name": "Opine",
-    "slug": "opine",
+    "name": "Waffle",
+    "slug": "waffle",
     "former_names": [
       "Opine",
-      "Waffle"
+      "Waffle",
+      "Opine"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ff33764ca4ba54e5d48b68723ba2f5c5e90324c.png",
-    "website": "https://www.opine.chat",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2861a984e502a76a5886684436e1887e14b08c0f.png",
+    "website": "https://www.waffle.ai",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Talk to 100+ AI personas about relationships, health, career, and more",
-    "one_liner": "Opinionated AI",
+    "one_liner": "Make an AI version of yourself",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1740162817,
     "tags": [
-      "Artificial Intelligence",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9290,8 +9291,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opine",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/opine.json"
+    "url": "https://www.ycombinator.com/companies/waffle",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/waffle.json"
   },
   {
     "id": 30365,
@@ -10237,13 +10238,15 @@
   },
   {
     "id": 30874,
-    "name": "Iris",
-    "slug": "iriscal",
-    "former_names": [],
+    "name": "Minro",
+    "slug": "minro",
+    "former_names": [
+      "Iris"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98d1bce38b63e0d5e40cfd13c435d352bb7d7f54.png",
-    "website": "https://textiris.com/",
+    "website": "https://minro.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Iris observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
+    "long_description": "Minro observes how you handle your day - how you reply, decide, prioritize - and prepares the next set of actions. Our key insight: if you model real behavior, you can replicate judgment, not just tasks using personal agents and knowledge graphs. Iris knows what needs your attention across your accounts, pre-fills the actions, and you can simply swipe right to hand it off to your agent.\r\n\r\nWe started with connecting calendars and emails. We launched four weeks ago. Over 1,200 people have downloaded Iris, 168 use it every day, and they’ve taken more than 36,000 actions so far growing 48% week over week.\r\n\r\nIn the future, everyone will have a personal proxy running their digital life with near perfect accuracy. Iris is the first real version of that future.",
     "one_liner": "The Digital Extension of Yourself",
     "team_size": 2,
     "industry": "Consumer",
@@ -10274,8 +10277,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/iriscal",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/iriscal.json"
+    "url": "https://www.ycombinator.com/companies/minro",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/minro.json"
   },
   {
     "id": 30880,
@@ -10329,15 +10332,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SellRaze is an AI-powered selling assistant that helps anyone sell anything in seconds. Point your camera at any item and we'll identify it, price it, and create an engaging listing across multiple marketplaces, including our own.\r\n\r\nEach day, more than 2,500 items are added to SellRaze, representing over $326,000 in inventory value.",
     "one_liner": "The fastest way to sell online.",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1759197803,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -354,14 +354,16 @@
   },
   {
     "id": 12648,
-    "name": "Flo Recruit",
-    "slug": "flo-recruit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/784e322314b424b51a956f67ca758620ef053f13.png",
-    "website": "https://florecruit.com",
+    "name": "Flo",
+    "slug": "flo",
+    "former_names": [
+      "Flo Recruit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d34ba9366f64d6a8b9a2854394d58a3073d1af15.png",
+    "website": "https://joinflo.com",
     "all_locations": "Austin, TX, USA",
     "long_description": "",
-    "one_liner": "We help law firms hire the best legal talent faster",
+    "one_liner": "The talent platform for legal",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -369,7 +371,8 @@
     "tags": [
       "Recruiting",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "Talent Acquisition"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -387,13 +390,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flo-recruit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/flo-recruit.json"
+    "url": "https://www.ycombinator.com/companies/flo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/flo.json"
   },
   {
     "id": 22790,

@@ -20368,6 +20368,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/truemetrics.json"
   },
   {
+    "id": 29134,
+    "name": "Cognitio Labs",
+    "slug": "cognitio-labs",
+    "former_names": [
+      "Flair Technology Services Inc.",
+      "Flair",
+      "Flair Health",
+      "Flair Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef89599f5919a67db2c626d5aa12b8e6f38bf8da.png",
+    "website": "https://cognitioiq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cognitio Labs is an applied AI research lab building real-time compliance infrastructure for regulated supply chains, serving as the first line of defense against recalls and regulatory failure.\r\n\r\nWhen a food contamination event happens, time is everything. Today, traceability relies on spreadsheets, PDFs, and manual logs, turning recalls into multi-day investigations. Entire product categories get destroyed, brands lose trust, and a single recall can cost $10M to $100M+.\r\n\r\nWhy now: The FDA’s FSMA 204 rule requires companies to produce standardized digital traceability records within 24 hours by 2028, impacting over 60,000 U.S. food facilities. The regulatory bar is rising, but the infrastructure to meet it does not exist.\r\n\r\nOur first product line uses sensors and AI to automatically capture key events such as temperature, handling, and lot-level movements across production, storage, and transit. We convert fragmented operational data into standardized, FSMA 204-compliant traceability records in real time.\r\n\r\nCompliance is generated as operations happen, not after.\r\n\r\nThis becomes the first line of defense by enabling faster recalls, reducing spoilage, eliminating manual compliance work, and protecting contracts, insurance, and brand equity.\r\n\r\nWe are starting with food and expanding into other regulated, high-risk supply chains.",
+    "one_liner": "Automating FDA-grade Traceability Requirements with Sensors and AI.",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1690407835,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "B2B",
+      "Data Science",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cognitio-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cognitio-labs.json"
+  },
+  {
     "id": 29136,
     "name": "Autotab",
     "slug": "autotab",
@@ -29224,53 +29271,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
-    "id": 30060,
-    "name": "Lingo.dev",
-    "slug": "lingodotdev",
-    "former_names": [
-      "Replexica"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/442160d6f92366e746a7964f1d333e2ba927a962.png",
-    "website": "https://lingo.dev",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev helps dev teams use LLMs for app localization and content translation. Lingo.dev Compiler helps React developers localize apps without rewriting the existing code. Lingo.dev CLI helps web and mobile teams use AI for producing perfect translations for their user interfaces and docs. Lingo.dev SDK helps use LLMs for real-time translations.",
-    "one_liner": "Open-source, AI-powered i18n toolkit for instant localization.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728389519,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Open Source",
-      "International"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lingodotdev",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
-  },
-  {
     "id": 30064,
     "name": "HYBRD",
     "slug": "hybrd",
@@ -31931,48 +31931,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/rebolt.json"
   },
   {
-    "id": 30329,
-    "name": "Opine",
-    "slug": "opine",
-    "former_names": [
-      "Opine",
-      "Waffle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ff33764ca4ba54e5d48b68723ba2f5c5e90324c.png",
-    "website": "https://www.opine.chat",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Talk to 100+ AI personas about relationships, health, career, and more",
-    "one_liner": "Opinionated AI",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1740162817,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opine",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/opine.json"
-  },
-  {
     "id": 30339,
     "name": "Ergo",
     "slug": "ergo",
@@ -34478,48 +34436,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
   },
   {
-    "id": 30644,
-    "name": "Wafer",
-    "slug": "wafer",
-    "former_names": [
-      "Herdora",
-      "wafer"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
-    "website": "https://www.wafer.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI that optimizes AI",
-    "one_liner": "AI that makes AI fast",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751530242,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wafer",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
-  },
-  {
     "id": 30645,
     "name": "Panels",
     "slug": "panels",
@@ -36091,51 +36007,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
   },
   {
-    "id": 30763,
-    "name": "Rebulk",
-    "slug": "rebulk",
-    "former_names": [
-      "dScribe AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37f1f3fac3b53d55834007e8aa34e2f8bb7a1198.png",
-    "website": "https://www.rebulk.com",
-    "all_locations": "Olathe, KS, USA",
-    "long_description": "Rebulk accurately measures and monitors bulk inventory like piles of feed, sand, and other assets that do not fit into boxes and barcodes using cameras, LiDAR, and computer vision.\r\n\r\nMost bulk inventory is still managed with rough estimates, manual checks, delayed updates, and too much guesswork. Because it lives in piles, bays, yards, and truck beds instead of boxes with barcodes, it is much harder to track accurately. When teams do not know what is actually on site, it leads to shrink, stockouts, bad planning, and unnecessary fire drills.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and is working with one of the largest agricultural company in North America and Charm Industrial. As industries demand real-time visibility into the physical world, RebuIk is positioned to become the operating system for bulk assets from inventory tracking to procurement and logistics.",
-    "one_liner": "Accurately measure and monitor bulk inventory",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1752017595,
-    "tags": [
-      "Artificial Intelligence",
-      "Computer Vision",
-      "Supply Chain",
-      "Agriculture",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rebulk",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/rebulk.json"
-  },
-  {
     "id": 30772,
     "name": "stagewise",
     "slug": "stagewise",
@@ -37075,6 +36946,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mod-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
+  },
+  {
+    "id": 30887,
+    "name": "SellRaze",
+    "slug": "sellraze",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d0c3af40b49318f2b71a98f2764633829b06a75.png",
+    "website": "https://sellraze.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SellRaze is an AI-powered selling assistant that helps anyone sell anything in seconds. Point your camera at any item and we'll identify it, price it, and create an engaging listing across multiple marketplaces, including our own.\r\n\r\nEach day, more than 2,500 items are added to SellRaze, representing over $326,000 in inventory value.",
+    "one_liner": "The fastest way to sell online.",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1759197803,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Consumer",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sellraze",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sellraze.json"
   },
   {
     "id": 30894,
