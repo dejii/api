@@ -3715,7 +3715,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10464,6 +10464,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/makeasite.json"
   },
   {
+    "id": 26712,
+    "name": "CodeCanary",
+    "slug": "codecanary",
+    "former_names": [
+      "Bunting Labs",
+      "Atonomo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
+    "website": "https://www.codecanary.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CodeCanary is an AI product engineer that proactively finds and fixes bugs, improves conversion rate, and gathers insights about your product. CodeCanary runs regularly and connects directly to Slack, GitHub, and PostHog.",
+    "one_liner": "Find and fix bugs from session replays with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1659469853,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codecanary",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecanary.json"
+  },
+  {
     "id": 26713,
     "name": "Pasito",
     "slug": "pasito",
@@ -16057,6 +16101,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/rocketeer.json"
   },
   {
+    "id": 28886,
+    "name": "Cardinal Gray",
+    "slug": "cardinal-gray",
+    "former_names": [
+      "Cardinal Gray Incorporated"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
+    "website": "https://www.cardinalgray.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
+    "one_liner": "Automating lenders' interactions with the DMV",
+    "team_size": 6,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1687970738,
+    "tags": [
+      "Enterprise Software",
+      "Consumer Finance",
+      "Automation",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardinal-gray",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cardinal-gray.json"
+  },
+  {
     "id": 28893,
     "name": "VetRec",
     "slug": "vetrec",
@@ -16863,49 +16952,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/envelope",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/envelope.json"
-  },
-  {
-    "id": 29010,
-    "name": "Silimate",
-    "slug": "silimate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
-    "website": "https://www.silimate.com",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
-    "one_liner": "The copilot for chip designers",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1691095117,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "Semiconductors",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/silimate",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json"
   },
   {
     "id": 29018,
@@ -22349,6 +22395,57 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
   },
   {
+    "id": 29695,
+    "name": "Dench.com",
+    "slug": "dench-com",
+    "former_names": [
+      "Merse",
+      "Merse Originals, Inc.",
+      "Merse",
+      "Dench.com",
+      "Dench"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef306ea6f1d72c351b58047f5bd3c1644904cbd2.png",
+    "website": "https://dench.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An OpenClaw Framwork that builds an AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
+    "one_liner": "Open Source AI CRM built on top of OpenClaw",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1720334032,
+    "tags": [
+      "Workflow Automation",
+      "Open Source",
+      "CRM",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dench-com",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
+  },
+  {
     "id": 29702,
     "name": "LedgerUp",
     "slug": "ledgerup",
@@ -25161,7 +25258,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs and devtools, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile apps.",
+    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
     "one_liner": "Localization workflow infrastructure for developers and enterprises.",
     "team_size": 7,
     "industry": "B2B",
@@ -27216,48 +27313,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mastra.json"
   },
   {
-    "id": 30318,
-    "name": "Wildcard",
-    "slug": "wildcard",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
-    "website": "https://wild-card.ai",
-    "all_locations": "",
-    "long_description": "Wildcard is the infrastructure platform for e-commerce brands to succeed in ChatGPT and AI shopping. We give brands SKU-level visibility into how their products appear and perform inside AI assistants—showing when they surface, why they don’t, and how to fix product attributes to improve discovery and conversion.\r\n\r\nAs AI shopping standardizes, Wildcard will help merchants activate next-generation experiences through the Agentic Commerce Protocol (ACP).",
-    "one_liner": "Sell Products in ChatGPT Shopping",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1738308751,
-    "tags": [
-      "Generative AI",
-      "E-commerce",
-      "Marketing",
-      "Retail Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wildcard",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/wildcard.json"
-  },
-  {
     "id": 30321,
     "name": "Woz",
     "slug": "woz",
@@ -27651,48 +27706,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fluidize",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json"
-  },
-  {
-    "id": 30366,
-    "name": "Blaxel",
-    "slug": "blaxel",
-    "former_names": [
-      "Beamlit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
-    "website": "https://blaxel.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blaxel is the perpetual sandbox platform for AI agents that need to run code fast.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.\r\n\r\nWe also co-locate your agent logic alongside these sandboxes to eliminate network overhead, delivering near-instant latency for end users.",
-    "one_liner": "The perpetual sandbox platform",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1745276338,
-    "tags": [
-      "Cloud Computing",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blaxel",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/blaxel.json"
   },
   {
     "id": 30384,
@@ -29269,49 +29282,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
   },
   {
-    "id": 30524,
-    "name": "Lapel",
-    "slug": "lapel",
-    "former_names": [
-      "Echo Exploration Company, Inc.",
-      "Echo Exploration Co."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b4720ee8b1c90bf120b33611e6eebe044cd993.png",
-    "website": "https://lapel.com/",
-    "all_locations": "",
-    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: tools to power every touchpoint across sales, success, and support.\r\n\r\nToday, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. We believe online customer relationships should feel personal, not transactional.\r\n\r\nLearn more at lapel.com",
-    "one_liner": "Scale personalized service to every customer.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747773891,
-    "tags": [
-      "Customer Success",
-      "Sales",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lapel",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
-  },
-  {
     "id": 30529,
     "name": "Adentris",
     "slug": "adentris",
@@ -30481,6 +30451,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
   },
   {
+    "id": 30686,
+    "name": "Interface",
+    "slug": "theinterface",
+    "former_names": [
+      "Preempt",
+      "The Interface"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
+    "website": "https://www.theinterface.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Interface is a frontier research lab focused on high-fidelity visual simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
+    "one_liner": "The world model research lab",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1754968088,
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "Media",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theinterface",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/theinterface.json"
+  },
+  {
     "id": 30687,
     "name": "Trace",
     "slug": "trace-so",
@@ -30737,6 +30751,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
+  },
+  {
+    "id": 30720,
+    "name": "Autosana",
+    "slug": "autosana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
+    "website": "https://autosana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
+    "one_liner": "Close the E2E testing loop across mobile & web",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751416575,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autosana",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   },
   {
     "id": 30722,
@@ -33293,7 +33349,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",

@@ -12935,49 +12935,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/sigmamind-ai.json"
   },
   {
-    "id": 26712,
-    "name": "Atonomo",
-    "slug": "atonomo",
-    "former_names": [
-      "Bunting Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b874ad123c5c3db82b6109936874a16a044dbf19.png",
-    "website": "https://atonomo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Atonomo is an AI team member which continuously ingests product analytics to provide a once-weekly conversion rate optimization you can ship or A/B test, prioritized by ROI (+KPIs). Atonomo submits a PR or gives you a Claude Code/Cursor prompt.",
-    "one_liner": "Autonomous conversion rate optimization for startups",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1659469853,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/atonomo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/atonomo.json"
-  },
-  {
     "id": 26718,
     "name": "Cerrion",
     "slug": "cerrion",
@@ -18441,51 +18398,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/rocketeer.json"
   },
   {
-    "id": 28886,
-    "name": "Cardinal Gray",
-    "slug": "cardinal-gray",
-    "former_names": [
-      "Cardinal Gray Incorporated"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
-    "website": "https://www.cardinalgray.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
-    "one_liner": "Automating lenders' interactions with the DMV",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1687970738,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software",
-      "Consumer Finance",
-      "Automation",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cardinal-gray",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cardinal-gray.json"
-  },
-  {
     "id": 28887,
     "name": "Skyvern",
     "slug": "skyvern",
@@ -19376,6 +19288,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andromeda-surgical",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/andromeda-surgical.json"
+  },
+  {
+    "id": 29010,
+    "name": "Silimate",
+    "slug": "silimate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
+    "website": "https://www.silimate.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "We're building AI-native core tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Silimate is helping Fortune 500s and chip unicorns create & iterate to correct, optimized designs 40x faster. Our goal is to enable autonomous spec-to-design for silicon.",
+    "one_liner": "The copilot for chip designers",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1691095117,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silimate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json"
   },
   {
     "id": 29013,
@@ -21022,7 +20977,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26089,57 +26044,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/kenley.json"
   },
   {
-    "id": 29695,
-    "name": "Dench.com",
-    "slug": "dench-com",
-    "former_names": [
-      "Merse",
-      "Merse Originals, Inc.",
-      "Merse",
-      "Dench.com",
-      "Dench"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
-    "website": "https://dench.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "An OpenClaw Framwork that builds an AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
-    "one_liner": "Open Source AI CRM built on top of OpenClaw",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1720334032,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Open Source",
-      "CRM",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dench-com",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
-  },
-  {
     "id": 29697,
     "name": "Stormy AI",
     "slug": "stormy-ai",
@@ -29773,7 +29677,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -31810,6 +31714,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pinch.json"
   },
   {
+    "id": 30318,
+    "name": "Wildcard",
+    "slug": "wildcard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
+    "website": "https://wild-card.ai",
+    "all_locations": "",
+    "long_description": "Wildcard is the infrastructure platform for e-commerce brands to succeed in ChatGPT and AI shopping. We give brands SKU-level visibility into how their products appear and perform inside AI assistants—showing when they surface, why they don’t, and how to fix product attributes to improve discovery and conversion.\r\n\r\nAs AI shopping standardizes, Wildcard will help merchants activate next-generation experiences through the Agentic Commerce Protocol (ACP).",
+    "one_liner": "Sell Products in ChatGPT Shopping",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1738308751,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "E-commerce",
+      "Marketing",
+      "Retail Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wildcard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/wildcard.json"
+  },
+  {
     "id": 30320,
     "name": "Proception Inc",
     "slug": "proception-inc",
@@ -32149,6 +32095,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentra",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mentra.json"
+  },
+  {
+    "id": 30366,
+    "name": "Blaxel",
+    "slug": "blaxel",
+    "former_names": [
+      "Beamlit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
+    "website": "https://blaxel.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blaxel is the perpetual sandbox platform for AI agents that need to run code fast.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.\r\n\r\nWe also co-locate your agent logic alongside these sandboxes to eliminate network overhead, delivering near-instant latency for end users.",
+    "one_liner": "The perpetual sandbox platform",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1745276338,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blaxel",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/blaxel.json"
   },
   {
     "id": 30399,
@@ -35038,50 +35027,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/doe.json"
   },
   {
-    "id": 30686,
-    "name": "Interface",
-    "slug": "theinterface",
-    "former_names": [
-      "Preempt",
-      "The Interface"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
-    "website": "https://www.theinterface.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Interface is a frontier research lab focused on high-fidelity human and object simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
-    "one_liner": "The frontier lab for visual simulation",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1754968088,
-    "tags": [
-      "Artificial Intelligence",
-      "Entertainment",
-      "Gaming",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/theinterface",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/theinterface.json"
-  },
-  {
     "id": 30695,
     "name": "Channel3",
     "slug": "channel3",
@@ -35101,7 +35046,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -35901,7 +35846,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -36231,7 +36176,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Voice AI for Enterprises",
-    "team_size": 5,
+    "team_size": 14,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1754641408,
@@ -38656,6 +38601,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/callab-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
+  },
+  {
+    "id": 31420,
+    "name": "Kimpton AI",
+    "slug": "kimpton-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/472bbf99a385182b4cadc467c7e537399ce04100.png",
+    "website": "https://kimpton.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Kimpton is an AI-native investment research platform built by ex-quant fund operators. \r\n\r\nInstead of analysts staring at screens hunting for edge, Kimpton's system is a comprehensive agentic harness containing the context that matters to investors: real-time and historical data across 120,000+ assets, company fundamentals fragmented intelligence sources, and your actual portfolio from 2,500+ brokerages. \r\n\r\nIt conducts the research autonomously: visualizing, backtesting, forecasting with prediction markets, and proposing structured trades tailored to your thesis and risk profile. \r\n\r\nBuilt by former hedge fund operators who spent years building this stack for themselves, Kimpton makes the CIO role accessible to every investor. Humans make the decisions. AI does everything else.",
+    "one_liner": "The IDE for investors",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1774039716,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kimpton-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton-ai.json"
   },
   {
     "id": 31488,

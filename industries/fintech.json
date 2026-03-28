@@ -5605,7 +5605,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17462,7 +17462,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18235,7 +18235,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -22235,15 +22235,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
     "one_liner": "Automating lenders' interactions with the DMV",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1687970738,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise Software",
       "Consumer Finance",
       "Automation",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -25540,7 +25540,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Voice AI for Enterprises",
-    "team_size": 5,
+    "team_size": 14,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1754641408,
@@ -26456,7 +26456,9 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1774039716,
     "tags": [
-      "Fintech"
+      "Artificial Intelligence",
+      "Fintech",
+      "Investing"
     ],
     "tags_highlighted": [],
     "top_company": false,

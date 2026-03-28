@@ -5166,7 +5166,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5297,7 +5297,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23780,7 +23780,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25169,7 +25169,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The first AI-powered demo platform designed to sell, market and implement technical products with ease. Our visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world’s largest enterprises.",
     "one_liner": "Demo Platform for API-First Companies",
-    "team_size": 25,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1647531815,
@@ -32389,25 +32389,26 @@
   },
   {
     "id": 26712,
-    "name": "Atonomo",
-    "slug": "atonomo",
+    "name": "CodeCanary",
+    "slug": "codecanary",
     "former_names": [
-      "Bunting Labs"
+      "Bunting Labs",
+      "Atonomo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b874ad123c5c3db82b6109936874a16a044dbf19.png",
-    "website": "https://atonomo.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/936fc756bb90a52a74ebf1328770458b263316df.png",
+    "website": "https://www.codecanary.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Atonomo is an AI team member which continuously ingests product analytics to provide a once-weekly conversion rate optimization you can ship or A/B test, prioritized by ROI (+KPIs). Atonomo submits a PR or gives you a Claude Code/Cursor prompt.",
-    "one_liner": "Autonomous conversion rate optimization for startups",
+    "long_description": "CodeCanary is an AI product engineer that proactively finds and fixes bugs, improves conversion rate, and gathers insights about your product. CodeCanary runs regularly and connects directly to Slack, GitHub, and PostHog.",
+    "one_liner": "Find and fix bugs from session replays with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1659469853,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32427,8 +32428,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/atonomo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/atonomo.json"
+    "url": "https://www.ycombinator.com/companies/codecanary",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/codecanary.json"
   },
   {
     "id": 26717,
@@ -40282,7 +40283,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Trayd is a B2B construction payroll platform and back office management system designed for same-day pay. We allow the 7M construction workers in the US to get access to their earned wages 7-10 days sooner than legacy payroll providers. With a unique spin on traditional payroll, Trayd is on a mission to create back office efficiencies for commercial subcontractors while simultaneously addressing the significant labor shortage affecting the $2.1TR North American construction industry. \r\n\r\nTrayd is bigger than construction payroll. It's the promise that the hardest working people get access to their money, as and when they need it, creating greater financial wellness across the board. Not only that, we are pioneering digital cash access for a demographic traditionally overlooked while simultaneously modernizing operations in an industry that has been slow to adapt. The challenges and opportunities with Trayd are abundant, promising an engaging journey ahead.",
     "one_liner": "A construction payroll platform designed for same-day pay.",
-    "team_size": 4,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1689535318,
@@ -48225,7 +48226,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",

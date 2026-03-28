@@ -4316,7 +4316,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9548,7 +9548,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24240,7 +24240,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The first AI-powered demo platform designed to sell, market and implement technical products with ease. Our visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world’s largest enterprises.",
     "one_liner": "Demo Platform for API-First Companies",
-    "team_size": 25,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1647531815,
@@ -28040,7 +28040,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28930,47 +28930,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/postal",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/postal.json"
-  },
-  {
-    "id": 26016,
-    "name": "Finku",
-    "slug": "finku",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd2fc34605d4558d713fd1df46893a192df5b825.png",
-    "website": "http://finku.id",
-    "all_locations": "Jakarta, Jakarta, Indonesia",
-    "long_description": "Finku is an AI powered personal finance app (budget & money manager) focused on geographies without Open Banking, such as Indonesia. \r\n\r\nFinku makes it easy for users to learn about their spending behaviors and recommends ways for user to achieve their goals faster (i.e saving more, etc.). Finku has helped 1 million Indonesian by offering a more seamless and innovative method of storing financial transactions, by processing these data-points & offering insightful suggestions for users, by providing access to a virtual financial assistant, hence creating a rewarding & sticky experience for our users.\r\n\r\nFinku is backed by B Capital, Partech, Golden Gate Ventures, Goodwater Capital, Trihill Capital and YCombinator.",
-    "one_liner": "AI powered personal finance app for Indonesia",
-    "team_size": 20,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1640796466,
-    "tags": [
-      "Fintech",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Indonesia",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/finku",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/finku.json"
   },
   {
     "id": 26021,
@@ -38054,7 +38013,7 @@
     "all_locations": "",
     "long_description": "Revamp helps eCommerce brands and agencies understand customer behavior by creating smarter segments for targeted email and paid acquisition campaigns.",
     "one_liner": "AI-Powered Customer Segmentation for eCommerce",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1689724181,
@@ -38689,15 +38648,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
     "one_liner": "Automating lenders' interactions with the DMV",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1687970738,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise Software",
       "Consumer Finance",
       "Automation",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -39722,18 +39681,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
     "website": "https://www.silimate.com",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
+    "long_description": "We're building AI-native core tools & agent-driven workflows for frontend chip design. \r\n\r\nToday, Silimate is helping Fortune 500s and chip unicorns create & iterate to correct, optimized designs 40x faster. Our goal is to enable autonomous spec-to-design for silicon.",
     "one_liner": "The copilot for chip designers",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40287,7 +40246,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Trayd is a B2B construction payroll platform and back office management system designed for same-day pay. We allow the 7M construction workers in the US to get access to their earned wages 7-10 days sooner than legacy payroll providers. With a unique spin on traditional payroll, Trayd is on a mission to create back office efficiencies for commercial subcontractors while simultaneously addressing the significant labor shortage affecting the $2.1TR North American construction industry. \r\n\r\nTrayd is bigger than construction payroll. It's the promise that the hardest working people get access to their money, as and when they need it, creating greater financial wellness across the board. Not only that, we are pioneering digital cash access for a demographic traditionally overlooked while simultaneously modernizing operations in an industry that has been slow to adapt. The challenges and opportunities with Trayd are abundant, promising an engaging journey ahead.",
     "one_liner": "A construction payroll platform designed for same-day pay.",
-    "team_size": 4,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1689535318,
@@ -41256,7 +41215,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -47028,7 +46987,7 @@
       "Dench.com",
       "Dench"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef306ea6f1d72c351b58047f5bd3c1644904cbd2.png",
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An OpenClaw Framwork that builds an AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
@@ -47038,10 +46997,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1720334032,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Open Source",
       "CRM",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -51130,6 +51089,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ryvn.json"
   },
   {
+    "id": 30115,
+    "name": "SRE.ai",
+    "slug": "sre-ai",
+    "former_names": [
+      "SRE.ai",
+      "sre.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1f2b79da0bdbfdd0ca1eda2e6a7f66a6dd2ae7.png",
+    "website": "https://sre.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reliability on autopilot. Free you team to build what's next.",
+    "one_liner": "AI DevOps Agents",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1731196685,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sre-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/sre-ai.json"
+  },
+  {
     "id": 30118,
     "name": "Ember",
     "slug": "ember",
@@ -53596,6 +53601,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/reditus-space.json"
   },
   {
+    "id": 30318,
+    "name": "Wildcard",
+    "slug": "wildcard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
+    "website": "https://wild-card.ai",
+    "all_locations": "",
+    "long_description": "Wildcard is the infrastructure platform for e-commerce brands to succeed in ChatGPT and AI shopping. We give brands SKU-level visibility into how their products appear and perform inside AI assistants—showing when they surface, why they don’t, and how to fix product attributes to improve discovery and conversion.\r\n\r\nAs AI shopping standardizes, Wildcard will help merchants activate next-generation experiences through the Agentic Commerce Protocol (ACP).",
+    "one_liner": "Sell Products in ChatGPT Shopping",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1738308751,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "E-commerce",
+      "Marketing",
+      "Retail Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wildcard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/wildcard.json"
+  },
+  {
     "id": 30320,
     "name": "Proception Inc",
     "slug": "proception-inc",
@@ -54217,9 +54264,10 @@
     "subindustry": "B2B",
     "launched_at": 1745276338,
     "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -55620,49 +55668,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/naive.json"
   },
   {
-    "id": 30524,
-    "name": "Lapel",
-    "slug": "lapel",
-    "former_names": [
-      "Echo Exploration Company, Inc.",
-      "Echo Exploration Co."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b4720ee8b1c90bf120b33611e6eebe044cd993.png",
-    "website": "https://lapel.com/",
-    "all_locations": "",
-    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: tools to power every touchpoint across sales, success, and support.\r\n\r\nToday, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. We believe online customer relationships should feel personal, not transactional.\r\n\r\nLearn more at lapel.com",
-    "one_liner": "Scale personalized service to every customer.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747773891,
-    "tags": [
-      "Customer Success",
-      "Sales",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lapel",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
-  },
-  {
     "id": 30527,
     "name": "MindFort",
     "slug": "mindfort",
@@ -56218,7 +56223,7 @@
     "all_locations": "",
     "long_description": "Pingo AI is an AI language learning app that helps users build fluency through speaking. It immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo — a companion who understands your goals, remembers your progress, and keeps you motivated.",
     "one_liner": "AI companion that helps you learn languages",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1753741789,
@@ -56571,7 +56576,7 @@
     "all_locations": "",
     "long_description": "TraceRoot is an open-source observability and self-healing layer for AI agents. It captures traces, debug with AI that sees your source code and GitHub history.",
     "one_liner": "Open source self-healing layer for AI agents",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753318246,
@@ -57459,17 +57464,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
     "website": "https://www.theinterface.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Interface is a frontier research lab focused on high-fidelity human and object simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
-    "one_liner": "The frontier lab for visual simulation",
+    "long_description": "Interface is a frontier research lab focused on high-fidelity visual simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
+    "one_liner": "The world model research lab",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1754968088,
     "tags": [
-      "Artificial Intelligence",
       "Entertainment",
       "Gaming",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57529,46 +57534,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/flai.json"
-  },
-  {
-    "id": 30695,
-    "name": "Channel3",
-    "slug": "channel3",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ab8f3604e8e37628ae61b0f2bc76124389ada3.png",
-    "website": "https://trychannel3.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
-    "one_liner": "Database of every product on the internet",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1752182938,
-    "tags": [
-      "Artificial Intelligence",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/channel3",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
     "id": 30696,
@@ -58202,49 +58167,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/convexia",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
-  },
-  {
-    "id": 30755,
-    "name": "Pally",
-    "slug": "pally",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8122df650e86be44e74129b9b3b90d553a670985.png",
-    "website": "https://pally.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We spend our lives in messaging apps. Slack. iMessage. WhatsApp. We face a constant stream of information, introductions, and things we need to do.\r\n\r\nWhat if you could bring together every message, from every platform, in a Superhuman-like experience, with AI agents that automatically complete your action items?\r\n\r\nThat’s exactly what we’re building at Pally; a future where you never need to check another inbox again. ",
-    "one_liner": "Intelligent Unified Inbox + Personal CRM",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1750346506,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "B2B",
-      "Productivity",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pally",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
   },
   {
     "id": 30758,
@@ -60338,6 +60260,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/voltair",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/voltair.json"
+  },
+  {
+    "id": 31008,
+    "name": "Moss",
+    "slug": "moss",
+    "former_names": [
+      "InferEdge Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11bc5117eb236dd5cf2bbd42019008011ec1a59.png",
+    "website": "https://moss.dev",
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "Moss is building the real-time semantic search runtime for conversational and multimodal AI. Our system enables voice agents, copilots, and chat interfaces to retrieve, reason, and respond in sub-10 ms, delivering the responsiveness that makes AI interactions feel truly natural.\r\n\r\nIf you’ve ever built a conversational or voice AI product, you’ve felt the lag. That moment when an agent pauses and the illusion of intelligence breaks. The bottleneck is almost always retrieval. Each query hops across networks and databases, adding delay and cost. Moss eliminates that gap by keeping retrieval close to where the agent runs.\r\n\r\nMoss runs natively across browsers, mobile devices, and servers with an optimized vector index built in Rust and WebAssembly. It enables teams to build AI products that feel instant, contextual, and adaptive. The experiences that sustain engagement and unlock new kinds of interaction. For our customers, this translates into tangible business value: stronger user retention, higher conversion, and entirely new product categories made possible by real-time understanding. Moss is already powering production pilots across voice AI and developer platforms, achieving sub-10 ms retrieval and 70–90% token savings compared to traditional pipelines.",
+    "one_liner": "Real-time semantic search for Conversational AI",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1761590258,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moss",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/moss.json"
   },
   {
     "id": 31018,
