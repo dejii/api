@@ -7823,7 +7823,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -19686,6 +19686,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/quill-bills.json"
   },
   {
+    "id": 29088,
+    "name": "Cair Health",
+    "slug": "cair-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
+    "website": "https://www.cairhealth.com/",
+    "all_locations": "",
+    "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
+    "one_liner": "AI Agents for Healthcare RCM",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1690913334,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Health Insurance",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cair-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cair-health.json"
+  },
+  {
     "id": 29091,
     "name": "Webhound",
     "slug": "webhound",
@@ -20977,7 +21019,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23250,7 +23292,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29175,6 +29217,53 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
   },
   {
+    "id": 30060,
+    "name": "Lingo.dev",
+    "slug": "lingodotdev",
+    "former_names": [
+      "Replexica"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
+    "website": "https://lingo.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
+    "one_liner": "Professional translation infrastructure for developers and enterprises",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728389519,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "International"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lingodotdev",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
+  },
+  {
     "id": 30064,
     "name": "HYBRD",
     "slug": "hybrd",
@@ -31845,8 +31934,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c24ec3a4e8dad0268813a9fa6aad15a4b1d9c34.png",
     "website": "https://rebolt.ai",
     "all_locations": "",
-    "long_description": "Rebolt lets everyone in the company build apps, and agents by speaking with AI.\r\n\r\nIntegrated with your company tools, data and authentication. Replacing no-code tools, bloated SaaS and complex spreadsheets, for automating all the boring work.",
-    "one_liner": "Build apps and agents by speaking with AI",
+    "long_description": "Rebolt sits on top of your systems and builds tailor-made AI software - to drive outcomes",
+    "one_liner": "AI-Powered Company OS",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -35189,51 +35278,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
   },
   {
-    "id": 30700,
-    "name": "Nozomio",
-    "slug": "nozomio",
-    "former_names": [
-      "Nozomio Inc.",
-      "Nozomio",
-      "Nozomio (Nia AI)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
-    "website": "https://www.trynia.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
-    "one_liner": "Context retrieval for AI",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751302971,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nozomio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
-  },
-  {
     "id": 30701,
     "name": "Mimos",
     "slug": "mimos",
@@ -37234,46 +37278,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
   },
   {
-    "id": 30928,
-    "name": "Thesis",
-    "slug": "thesis",
-    "former_names": [
-      "Thesis Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
-    "website": "https://thesislabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our aim is to help uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved.\r\n\r\nThesis lets anyone build powerful machine learning models for anything they can imagine. The mission is to democratize invention by putting machine intelligence in everyone’s hands.\r\n\r\nEvery major breakthrough in the next decade, in science, industry, or AI, will be built on systems like Thesis. \r\n\r\nWe intend to define that category.",
-    "one_liner": "An AI lab at your fingertips.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762476616,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/thesis",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
-  },
-  {
     "id": 30929,
     "name": "Inspector",
     "slug": "inspector",
@@ -38392,6 +38396,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/matforge",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
+  },
+  {
+    "id": 31373,
+    "name": "RefortifAI",
+    "slug": "refortifai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
+    "website": "https://refortif.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RefortifAI provides DRM and IP protection for AI models by obfuscating model weights so they only run inside their hardened runtime, letting companies distribute models to untrusted environments without exposing their IP. It works as a drop-in replacement for existing inference engines (vLLM, SGLang, etc.), so customers deploy normally while weights stay protected.",
+    "one_liner": "Secure Deployment & DRM for AI model providers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1774743443,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refortifai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
   },
   {
     "id": 31375,

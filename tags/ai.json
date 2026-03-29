@@ -3715,7 +3715,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17254,48 +17254,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/strada.json"
   },
   {
-    "id": 29088,
-    "name": "Cair Health",
-    "slug": "cair-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
-    "website": "https://www.cairhealth.com/",
-    "all_locations": "",
-    "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
-    "one_liner": "Predictive analytics and automation for medical claims",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1690913334,
-    "tags": [
-      "Health Tech",
-      "Healthcare",
-      "Health Insurance",
-      "AI",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cair-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cair-health.json"
-  },
-  {
     "id": 29091,
     "name": "Webhound",
     "slug": "webhound",
@@ -25249,53 +25207,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/keye.json"
   },
   {
-    "id": 30060,
-    "name": "Lingo.dev",
-    "slug": "lingodotdev",
-    "former_names": [
-      "Replexica"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a284047c475d06365013890a991877b3bdad21e.png",
-    "website": "https://lingo.dev",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
-    "one_liner": "Localization workflow infrastructure for developers and enterprises.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728389519,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Open Source",
-      "International",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lingodotdev",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/lingodotdev.json"
-  },
-  {
     "id": 30066,
     "name": "Unusual",
     "slug": "unusual",
@@ -30624,6 +30535,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/costream.json"
   },
   {
+    "id": 30700,
+    "name": "Nozomio",
+    "slug": "nozomio",
+    "former_names": [
+      "Nozomio Inc.",
+      "Nozomio",
+      "Nozomio (Nia AI)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
+    "website": "https://www.trynia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
+    "one_liner": "index anything. search it with ai.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751302971,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nozomio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
+  },
+  {
     "id": 30710,
     "name": "Manufact (formerly mcp-use)",
     "slug": "manufact",
@@ -32127,6 +32083,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json"
   },
   {
+    "id": 30867,
+    "name": "Soren",
+    "slug": "soren",
+    "former_names": [
+      "Remediate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66adc42c53024ebb1bfc81c3de3961890ae2b2a8.png",
+    "website": "https://soren-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to adopt modern AI without worrying about data privacy or security.",
+    "one_liner": "Private AI for Financial Institutions",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759390917,
+    "tags": [
+      "Finance",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soren",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
+  },
+  {
     "id": 30871,
     "name": "PlayVision",
     "slug": "playvision",
@@ -32684,6 +32683,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/compyle",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
+  },
+  {
+    "id": 30928,
+    "name": "Thesis",
+    "slug": "thesis",
+    "former_names": [
+      "Thesis Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our aim is to help uncover the next AlphaFold or build the next Transformer, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved.\r\n\r\nThesis lets anyone build powerful machine learning models for anything they can imagine. The mission is to democratize invention by putting machine intelligence in everyone’s hands.\r\n\r\nEvery major breakthrough in the next decade, in science, industry, or AI, will be built on systems like Thesis. \r\n\r\nWe intend to define that category.",
+    "one_liner": "An AI research lab at your fingertips.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762476616,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
   },
   {
     "id": 30931,

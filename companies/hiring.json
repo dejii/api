@@ -19815,6 +19815,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/stoke-space.json"
   },
   {
+    "id": 23062,
+    "name": "InpharmD",
+    "slug": "inpharmd",
+    "former_names": [
+      "InpharmD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdd566ff352849d50819def6325c32942797c68b.png",
+    "website": "https://www.inpharmd.com",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Every hospital hires clinical pharmacists to answer clinical questions from doctors. \r\n\r\nThey outsource this to us because we’re more efficient.",
+    "one_liner": "We provide a curated, evidence- based answer to any clinical question.",
+    "team_size": 16,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1611246656,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Telemedicine"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inpharmd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/inpharmd.json"
+  },
+  {
     "id": 23064,
     "name": "Tint",
     "slug": "tint",
@@ -21643,50 +21688,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/karbon-card",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/karbon-card.json"
-  },
-  {
-    "id": 24038,
-    "name": "FrontPage",
-    "slug": "frontpage",
-    "former_names": [
-      "Crowdware Labs Private Limited"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29ac95e715a7bf8e21b677a36c6d3cebf4e933ad.png",
-    "website": "https://front.page",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Frontpage is building a community for 100M Indian traders and investors. Millions of new traders and investors are looking to participate in financial markets. FrontPage harnesses power of community where traders and investors can connect with each other, share their ideas, and learn from each other.\r\n\r\n\r\n\r\n\r\n\r\n",
-    "one_liner": "Community for 100M Indian Financial Market Traders & Investors",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1627473725,
-    "tags": [
-      "Fintech",
-      "Community"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frontpage",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/frontpage.json"
   },
   {
     "id": 24039,
@@ -36485,7 +36486,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40200,16 +40201,16 @@
     "website": "https://www.cairhealth.com/",
     "all_locations": "",
     "long_description": "Cair Health empowers billing companies, care management platforms, EHRs, offshore BPOs, provider groups, and specialty pharmacies with AI-driven RCM solutions.  Our suite of AI Agents helps RCM teams streamline operations, reduce manual costs, and improve consistency—while maintaining full control over core workflows. Cair is trusted by 100+ practices across the country — including iconic VC-backed digital health startups, leading specialty EHRs, and some of the largest billing companies and BPOs\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, Translink Capital & many others.. ",
-    "one_liner": "Predictive analytics and automation for medical claims",
+    "one_liner": "AI Agents for Healthcare RCM",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1690913334,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
       "Health Insurance",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -41215,7 +41216,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43546,7 +43547,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -53774,8 +53775,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c24ec3a4e8dad0268813a9fa6aad15a4b1d9c34.png",
     "website": "https://rebolt.ai",
     "all_locations": "",
-    "long_description": "Rebolt lets everyone in the company build apps, and agents by speaking with AI.\r\n\r\nIntegrated with your company tools, data and authentication. Replacing no-code tools, bloated SaaS and complex spreadsheets, for automating all the boring work.",
-    "one_liner": "Build apps and agents by speaking with AI",
+    "long_description": "Rebolt sits on top of your systems and builds tailor-made AI software - to drive outcomes",
+    "one_liner": "AI-Powered Company OS",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -55971,9 +55972,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257567a4b9d73aa0377d1adf521ba46dc6b0340f.png",
     "website": "https://airweave.ai",
     "all_locations": "",
-    "long_description": "Open-source context retrieval for AI agents across apps and databases. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
-    "one_liner": "Open source context retrieval layer for AI agents",
-    "team_size": 5,
+    "long_description": "Open-source context retrieval for AI agents across workspaces. It connects to productivity tools, email, document stores, or any private data source and transforms their contents into searchable knowledge bases for agents.",
+    "one_liner": "The open-source context retrieval layer for agents",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
@@ -57665,15 +57666,15 @@
     "website": "https://www.trynia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
-    "one_liner": "Context retrieval for AI",
+    "one_liner": "index anything. search it with ai.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -60822,6 +60823,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/human-archive",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/human-archive.json"
+  },
+  {
+    "id": 31206,
+    "name": "Samora AI",
+    "slug": "samora-ai",
+    "former_names": [
+      "Samora.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eaba07a75fd30d319628002a37abd8993ba036e.png",
+    "website": "https://samora.ai/",
+    "all_locations": "",
+    "long_description": "Samora runs multilingual voice operations for organizations with high-volume calling without requiring engineering teams, call centers, or AI expertise.\r\n\r\nMany important tasks still depend on phone calls, including customer support, outreach, follow-ups, screening, and intake. But voice AI often fails in production because real callers interrupt, go off-script, switch languages mid-sentence, and speak in local dialects. Teams also worry about safety and compliance, especially when an agent can accidentally make the wrong promise.\r\n\r\nSamora solves this with voice agents that sound local and follow strict rules. Samora agents handle inbound and outbound calls, collect information, and update internal systems like CRMs, ticketing tools, and ATS platforms. When a call becomes sensitive or uncertain, the agent hands off to a human. It can also follow up over WhatsApp, SMS, or email when needed.\r\n\r\nWith Samora, teams get:\r\n1. Voice agents that work in real conversations, including dialects and code-switching\r\n2. Strict safety controls so agents don’t make unauthorized offers, discounts, or promises\r\n3. Calls that result in completed actions, system updates, and safe human handoff",
+    "one_liner": "Multilingual voice agents that outperform humans",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770130182,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/samora-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/samora-ai.json"
   },
   {
     "id": 31208,

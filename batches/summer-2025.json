@@ -506,7 +506,7 @@
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
-    "one_liner": "8-hour Produce Distribution for Retailers of Any Size",
+    "one_liner": "Distribution at the Speed of Compute",
     "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -1111,17 +1111,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/918421e6cceeb8c0fe7223230f5345ddad2d5145.png",
     "website": "https://video.golpoai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The world's best AI video generator that turns your documents and/or prompts into whiteboard explainer videos. In addition, we have a similar product that generates podcast-style audio explainers from your documents/prompts. API access available for both video and conversational audio. Product of Red Tree Inc. Please reach out at founders@golpoai.com",
-    "one_liner": "Most Powerful AI Video Gen Model for Explainer Videos From Documents",
+    "long_description": "Golpo AI is the world's best platform to create fully produced whiteboard explainer videos from just a prompt or document. Instead of hiring an agency, you simply input a prompt or document explaining what you want, and in minutes you get a whiteboard explainer video in a style similar to Khan Academy or RSA Animate. After creation, you have the ability to edit all aspects of the video with just prompts. \r\n\r\nIt's perfect for training, faceless YouTube, marketing, technical, and educational videos — any video where understanding is important. Trusted by over 90,000 users, Golpo features include but are not limited to: \r\n\r\n1) Convert your narration into an explainer video (with your narration as audio and the video time aligned) \r\n2) Input your document or prompt. Document can be of virtually any format or type (text, audio, video etc.) \r\n3) Script-to-video with matching audio\r\n4) Videos up to 10 minutes\r\n5) 50+ languages\r\n6) dead-simple editing after generation\r\n7) Insert your own videos and images into the generation, used as-is without alteration.\r\n8) 10+ visuals styles, including pen in hand, voice cloning, vertical video, custom branding and more! API access available. \r\n",
+    "one_liner": "Create Whiteboard Explainer Videos with AI from a Prompt or Document",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1753141974,
     "tags": [
-      "Developer Tools",
       "Education",
-      "B2B",
+      "eLearning",
       "Video",
+      "Sales Enablement",
       "Marketing"
     ],
     "tags_highlighted": [],
@@ -3027,18 +3027,19 @@
   },
   {
     "id": 30683,
-    "name": "Louiza Labs",
-    "slug": "louiza-labs",
+    "name": "Theora",
+    "slug": "theora",
     "former_names": [
       "Ouiza",
       "Louiza Labs",
-      "Ouiza"
+      "Ouiza",
+      "Louiza Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89a5d27698a033316145c05810e2edc1dbb57e96.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09fa077504ffa74fa4dfd4ddd54dca0ee40c3525.png",
     "website": "https://www.louizalabs.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ensuring every approved drug reaches patients who need it.\r\n\r\nAuditable AI to satisfy regulators and payors 10x faster. We Synthesize fragmented pharma and device data to prove safety, optimize market access, and anticipate regulatory response.\r\n\r\nMembers of our team worked in software engineering at Apple and AI at NVIDIA, helped start a large-cap pharma clinical trial, and trained at Harvard Medical School.\r\n\r\n",
-    "one_liner": "Hebbia for Pharmaceutical Evidence",
+    "one_liner": "OpenEvidence for Pharmaceutical Evidence",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -3066,8 +3067,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/louiza-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/louiza-labs.json"
+    "url": "https://www.ycombinator.com/companies/theora",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/theora.json"
   },
   {
     "id": 30684,
@@ -3691,15 +3692,15 @@
     "website": "https://www.trynia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nozomio is a product and research lab solving context, starting with Nia.\r\n\r\nNia is a search and index API. We continuously provide context from docs, research papers, datasets, codebases, and more so agents never rely on stale data. Scalable, 5x cheaper, and reliable.",
-    "one_liner": "Context retrieval for AI",
+    "one_liner": "index anything. search it with ai.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751302971,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -13670,7 +13670,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -36387,7 +36387,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -40819,17 +40819,17 @@
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
-    "one_liner": "Localization workflow infrastructure for developers and enterprises.",
+    "one_liner": "Professional translation infrastructure for developers and enterprises",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728389519,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "International",
-      "AI"
+      "International"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43988,7 +43988,7 @@
     "website": "https://www.getasap.us",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
-    "one_liner": "8-hour Produce Distribution for Retailers of Any Size",
+    "one_liner": "Distribution at the Speed of Compute",
     "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -44189,49 +44189,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gitdot",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/gitdot.json"
-  },
-  {
-    "id": 30618,
-    "name": "Golpo",
-    "slug": "golpo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/918421e6cceeb8c0fe7223230f5345ddad2d5145.png",
-    "website": "https://video.golpoai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The world's best AI video generator that turns your documents and/or prompts into whiteboard explainer videos. In addition, we have a similar product that generates podcast-style audio explainers from your documents/prompts. API access available for both video and conversational audio. Product of Red Tree Inc. Please reach out at founders@golpoai.com",
-    "one_liner": "Most Powerful AI Video Gen Model for Explainer Videos From Documents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1753141974,
-    "tags": [
-      "Developer Tools",
-      "Education",
-      "B2B",
-      "Video",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/golpo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/golpo.json"
   },
   {
     "id": 30619,
@@ -45998,6 +45955,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/dari.json"
   },
   {
+    "id": 30867,
+    "name": "Soren",
+    "slug": "soren",
+    "former_names": [
+      "Remediate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66adc42c53024ebb1bfc81c3de3961890ae2b2a8.png",
+    "website": "https://soren-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to adopt modern AI without worrying about data privacy or security.",
+    "one_liner": "Private AI for Financial Institutions",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759390917,
+    "tags": [
+      "Finance",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soren",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
+  },
+  {
     "id": 30878,
     "name": "Cranston AI",
     "slug": "cranston-ai",
@@ -47333,6 +47333,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replicas",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
+  },
+  {
+    "id": 31373,
+    "name": "RefortifAI",
+    "slug": "refortifai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b37c6cc458022b158a3f2abce590be2ed10116fb.png",
+    "website": "https://refortif.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RefortifAI provides DRM and IP protection for AI models by obfuscating model weights so they only run inside their hardened runtime, letting companies distribute models to untrusted environments without exposing their IP. It works as a drop-in replacement for existing inference engines (vLLM, SGLang, etc.), so customers deploy normally while weights stay protected.",
+    "one_liner": "Secure Deployment & DRM for AI model providers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1774743443,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refortifai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/refortifai.json"
   },
   {
     "id": 31382,
