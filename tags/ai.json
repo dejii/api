@@ -10959,7 +10959,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14254,6 +14254,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superkalam",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/superkalam.json"
+  },
+  {
+    "id": 28069,
+    "name": "Pylon",
+    "slug": "pylon-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+    "website": "https://usepylon.com/?utm_source=bookface&utm_medium=referral&utm_campaign=pylon-profile",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
+    "one_liner": "The only customer support platform built for B2B.",
+    "team_size": 90,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1676268747,
+    "tags": [
+      "B2B",
+      "Customer Success",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pylon-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/pylon-2.json"
   },
   {
     "id": 28071,
@@ -18585,6 +18627,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/patchwork.json"
   },
   {
+    "id": 29286,
+    "name": "PointOne",
+    "slug": "pointone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f848e072de817e8a37aeb1ad8a912f9e2f5d9c52.png",
+    "website": "https://pointone.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "PointOne is the leading AI Time platform. With automated time entry, compliance, and analytics, PointOne offers AI-native",
+    "one_liner": "AI Time Platform for Law Firms",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1705177845,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Legal",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pointone",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/pointone.json"
+  },
+  {
     "id": 29288,
     "name": "Arini",
     "slug": "arini",
@@ -20429,48 +20513,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/camelai.json"
   },
   {
-    "id": 29440,
-    "name": "Rove",
-    "slug": "rove",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ce5fb2bc6ecc51b550577fdf7ed50f0b62b585d.png",
-    "website": "http://rovecard.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Rove is building the first accessible and universal airline mile, redeemable across dozens of international airlines and hotel chains worldwide.",
-    "one_liner": "Travel the world for free.",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
-    "launched_at": 1701568382,
-    "tags": [
-      "Fintech",
-      "Consumer",
-      "Travel",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Travel, Leisure and Tourism"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rove",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/rove.json"
-  },
-  {
     "id": 29441,
     "name": "Retell AI",
     "slug": "retell-ai",
@@ -20482,7 +20524,7 @@
     "all_locations": "",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 24,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700513197,
@@ -31229,50 +31271,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
   },
   {
-    "id": 30774,
-    "name": "Clodo",
-    "slug": "clodo",
-    "former_names": [
-      "Disclodocs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png",
-    "website": "https://clodo.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clodo is the planet's best people search. Used by GTM, Recruiting, Marketing, and Ops at AI Natives, B2Bs, and Fortune 500s in SaaS, Manufacturing/Industrials, BioTech, Healthcare, Fintech, Compliance, and more",
-    "one_liner": "Planet-scale people search. GTM, Sales, Recruiting, Marketing, and Ops",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1754475903,
-    "tags": [
-      "B2B",
-      "Sales",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clodo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/clodo.json"
-  },
-  {
     "id": 30789,
     "name": "Interfere",
     "slug": "interfere",
@@ -31423,7 +31421,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",

@@ -8040,7 +8040,7 @@
     "name": "PointOne",
     "slug": "pointone",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d2b1ddf28226da2f8d8938a45c15ffe3f10eb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f848e072de817e8a37aeb1ad8a912f9e2f5d9c52.png",
     "website": "https://pointone.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "PointOne is the leading AI Time platform. With automated time entry, compliance, and analytics, PointOne offers AI-native",
@@ -8050,10 +8050,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1705177845,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Legal"
+      "Legal",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8495,7 +8495,7 @@
     "all_locations": "",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 24,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700513197,
@@ -11608,7 +11608,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -11710,6 +11710,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
+  },
+  {
+    "id": 31386,
+    "name": "Interfaze",
+    "slug": "interfaze",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbbb1bb306037fdebdde3c7b1d20cb434879fb79.png",
+    "website": "https://interfaze.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with LLMs for developer tasks that require deterministic output and high consistency like OCR, web scraping, classification, Speech-to-text (STT) and more.\r\n\r\nRead paper:https://arxiv.org/abs/2602.04101",
+    "one_liner": "AI model built for deterministic developer tasks",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1774812127,
+    "tags": [
+      "Deep Learning",
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/interfaze",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/interfaze.json"
   },
   {
     "id": 31453,

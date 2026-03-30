@@ -414,6 +414,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gikl-inc.json"
   },
   {
+    "id": 31344,
+    "name": "Totalis",
+    "slug": "totalis",
+    "former_names": [
+      "UCALLEDIT®"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511d877345852eb10f307bb1381829f64760f295.png",
+    "website": "https://www.totalis.trade",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "derivative layer for prediction markets",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1774744766,
+    "tags": [
+      "DeFi",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/totalis",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/totalis.json"
+  },
+  {
     "id": 31345,
     "name": "Replicas",
     "slug": "replicas",
@@ -585,6 +626,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
   },
   {
+    "id": 31369,
+    "name": "InLoop Robotics",
+    "slug": "inloop-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f586c0db7df7371426565793ae565ba0423774.png",
+    "website": "https://inloop-robotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
+    "one_liner": "Deploying robots that ask for help!",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1774801488,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Logistics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inloop-robotics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/inloop-robotics.json"
+  },
+  {
     "id": 31373,
     "name": "RefortifAI",
     "slug": "refortifai",
@@ -751,6 +834,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zolvo",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/zolvo.json"
+  },
+  {
+    "id": 31386,
+    "name": "Interfaze",
+    "slug": "interfaze",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbbb1bb306037fdebdde3c7b1d20cb434879fb79.png",
+    "website": "https://interfaze.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Interfaze is an AI model built on a new architecture that merges specialized DNN/CNN models with LLMs for developer tasks that require deterministic output and high consistency like OCR, web scraping, classification, Speech-to-text (STT) and more.\r\n\r\nRead paper:https://arxiv.org/abs/2602.04101",
+    "one_liner": "AI model built for deterministic developer tasks",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1774812127,
+    "tags": [
+      "Deep Learning",
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/interfaze",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/interfaze.json"
   },
   {
     "id": 31396,
@@ -1422,21 +1548,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a993952405cff56ad7f559e6e6fcf8b0c2191ed2.png",
     "website": "https://www.getbiostack.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "BioStack is building the data engine for healthcare and drug discovery AI. The bottleneck is not models. It is access to high-quality biological data. Clinical and experimental data is fragmented, unstructured, and locked inside hospitals, labs, and CROs, while generating new data is slow and expensive. BioStack fixes this with proprietary clinical and preclinical data pipelines that turn real biomedical workflows into ML-ready training environments.\r\n\r\nWe structure longitudinal multimodal data across imaging, EHR, and experimental assays, then package it for post-training and reinforcement learning so models can learn how research and care actually happen. Instead of static datasets, BioStack gives AI labs workflow-aligned data and environments that improve reasoning, decision-making, and real-world performance in biology and medicine.",
     "one_liner": "Real world training envs for healthcare AI models",
     "team_size": 0,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1774518776,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Reinforcement Learning",
-      "Healthcare"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -1444,8 +1566,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
