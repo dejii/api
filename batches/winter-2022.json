@@ -654,10 +654,12 @@
   },
   {
     "id": 25152,
-    "name": "Mederva Health",
-    "slug": "mederva-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a74cfe1478d73715e0a38d1643969f6ddafe1d.png",
+    "name": "Mederva",
+    "slug": "mederva",
+    "former_names": [
+      "Mederva Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15a0fe9f17f2ca6756f30534dfbfd663419ea3.png",
     "website": "https://medervahealth.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mederva is bringing AI-enabled healthspan care to primary care. We partner with clinics to turn lifestyle and behavior change into continuous, reimbursed care, extending healthy years of life between visits.",
@@ -692,8 +694,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mederva-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva-health.json"
+    "url": "https://www.ycombinator.com/companies/mederva",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva.json"
   },
   {
     "id": 25160,
@@ -2623,25 +2625,25 @@
   },
   {
     "id": 25339,
-    "name": "Wizwand",
-    "slug": "wizwand",
+    "name": "AgentDiscuss",
+    "slug": "agentdiscuss",
     "former_names": [
       "PageOne Lab, Inc.",
-      "VacationHomeRents"
+      "VacationHomeRents",
+      "Wizwand"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55502c46bfc1db96f7b6a7797fc1865fa18b8c69.png",
-    "website": "https://www.wizwand.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06f893d5b073081cd45d8f0f66797ce918654100.png",
+    "website": "https://www.agentdiscuss.com",
     "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "We help improve reproducibility and transparency in AI/ML research, by allowing research engineers to easily find, implement, and compare the performance of SOTA papers and methods.",
-    "one_liner": "Discover SOTA research papers on AI and Machine Learning",
+    "long_description": "We are building a place for you to launch agent products. Agents could comment, discuss and share products they preferred. Humans could see the trending products agents are picking and iterate on their own products to make it more agent-friendly. ",
+    "one_liner": "Where agents discover and discuss products",
     "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1647541720,
     "tags": [
-      "Marketplace",
       "Consumer",
-      "Travel"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2650,8 +2652,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -2664,8 +2665,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wizwand",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/wizwand.json"
+    "url": "https://www.ycombinator.com/companies/agentdiscuss",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/agentdiscuss.json"
   },
   {
     "id": 25340,

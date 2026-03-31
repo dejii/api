@@ -4937,7 +4937,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10184,52 +10184,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/lumina.json"
   },
   {
-    "id": 25339,
-    "name": "Wizwand",
-    "slug": "wizwand",
-    "former_names": [
-      "PageOne Lab, Inc.",
-      "VacationHomeRents"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55502c46bfc1db96f7b6a7797fc1865fa18b8c69.png",
-    "website": "https://www.wizwand.com",
-    "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "We help improve reproducibility and transparency in AI/ML research, by allowing research engineers to easily find, implement, and compare the performance of SOTA papers and methods.",
-    "one_liner": "Discover SOTA research papers on AI and Machine Learning",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1647541720,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "Travel"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wizwand",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/wizwand.json"
-  },
-  {
     "id": 25360,
     "name": "Pursuit",
     "slug": "pursuit-2",
@@ -11578,6 +11532,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/jamble.json"
   },
   {
+    "id": 27219,
+    "name": "FlatX",
+    "slug": "flatx",
+    "former_names": [
+      "Shelf"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284ae5d823ab5142f0c92e0c84972d5c3c79ca8d.png",
+    "website": "https://www.flatx.co/",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "FlatX is the first AI-powered rental platform in India focused on Young Renters. It helps them find the right flat and the right flatmate faster, and makes it effortless to rent in any city without brokers, scams, or the usual chaos.",
+    "one_liner": "AI-Powered Rental Platform for Urban Renters",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1657631667,
+    "tags": [
+      "Marketplace",
+      "Real Estate",
+      "Housing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flatx",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/flatx.json"
+  },
+  {
     "id": 27222,
     "name": "Kamion",
     "slug": "kamion",
@@ -12922,5 +12919,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andustry",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/andustry.json"
+  },
+  {
+    "id": 31481,
+    "name": "Saudara AI",
+    "slug": "saudara-ai",
+    "former_names": [
+      "Saudara AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
+    "website": "https://saudara.ai",
+    "all_locations": "",
+    "long_description": "Indonesian exports to the US grew 23% in 2025 up to over $30B. The shift is happening. Most brands just don't have the on-ramp yet.\r\n\r\nSaudara AI is an AI-native sourcing agency connecting American brands with Indonesian suppliers across apparel, textiles, home goods, supplements, and raw materials. Our AI agent finds your factory, handles vetting, sampling, and delivery. A human is in the loop at every stage.\r\n\r\nNo more ghosting. No more waiting months for supplier updates. You always know where your order stands.\r\n\r\nWe are the on-ramp.",
+    "one_liner": "AI-native Sourcing Agency",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774887463,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saudara-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saudara-ai.json"
   }
 ]

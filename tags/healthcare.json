@@ -2758,7 +2758,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We help hospitals 🏥 hire nurses 🧑🏻‍⚕️ from all around the world 🌏 and with technology make the complexity of immigration and licensing simple.",
     "one_liner": "Securing Nurses for Your Future",
-    "team_size": 8,
+    "team_size": 50,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1597851640,
@@ -4301,10 +4301,12 @@
   },
   {
     "id": 25152,
-    "name": "Mederva Health",
-    "slug": "mederva-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a74cfe1478d73715e0a38d1643969f6ddafe1d.png",
+    "name": "Mederva",
+    "slug": "mederva",
+    "former_names": [
+      "Mederva Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e15a0fe9f17f2ca6756f30534dfbfd663419ea3.png",
     "website": "https://medervahealth.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mederva is bringing AI-enabled healthspan care to primary care. We partner with clinics to turn lifestyle and behavior change into continuous, reimbursed care, extending healthy years of life between visits.",
@@ -4339,8 +4341,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mederva-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva-health.json"
+    "url": "https://www.ycombinator.com/companies/mederva",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/mederva.json"
   },
   {
     "id": 25303,
@@ -6928,6 +6930,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kabilah",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/kabilah.json"
+  },
+  {
+    "id": 29258,
+    "name": "Saga AI",
+    "slug": "saga-ai",
+    "former_names": [
+      "Odyssey",
+      "Tile",
+      "Tiles",
+      "Tile"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/072186e7f08d3f47c6fb58088ebab611a4e67cd8.png",
+    "website": "https://usesaga.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saga AI deploys voice agents for healthcare practices, ACOs, and health systems to handle scheduling, patient intake, and care gap outreach. Agents connect directly to your EHR in real time.",
+    "one_liner": "Voice Agents for Healthcare Operations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1710167593,
+    "tags": [
+      "SaaS",
+      "Healthcare",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saga-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/saga-ai.json"
   },
   {
     "id": 29313,

@@ -11061,7 +11061,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11706,49 +11706,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/yummy-future",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/yummy-future.json"
-  },
-  {
-    "id": 12625,
-    "name": "UpEquity",
-    "slug": "upequity",
-    "former_names": [
-      "LnderLab",
-      "UpEquity (formerly LnderLab)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5870e54989fa2ad2924601c8cdded8fa7e18963.png",
-    "website": "http://www.upequity.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "UpEquity is removing contingencies for home buyers so that they have more negotiating leverage when purchasing their next home. ",
-    "one_liner": "UpEquity gives homebuyers more certainty and power. ",
-    "team_size": 90,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1600817277,
-    "tags": [
-      "Fintech",
-      "Real Estate"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upequity",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/upequity.json"
   },
   {
     "id": 12639,
@@ -16069,7 +16026,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We help hospitals 🏥 hire nurses 🧑🏻‍⚕️ from all around the world 🌏 and with technology make the complexity of immigration and licensing simple.",
     "one_liner": "Securing Nurses for Your Future",
-    "team_size": 8,
+    "team_size": 50,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1597851640,
@@ -17104,7 +17061,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24363,18 +24320,19 @@
     "former_names": [
       "Mach9 Robotics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/232339d6edde0605ea880f4aaef47c45acf14848.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05390d32227edd1416d7dc545801c3fc59e2ac15.png",
     "website": "https://www.mach9.ai/",
-    "all_locations": "San Francisco, CA, USA; Pittsburgh, PA, USA",
-    "long_description": "Mach9 is at the forefront of leveraging advanced machine learning and computer vision techniques to transform geospatial data into actionable insights for urban development and infrastructure management. Our cutting-edge technology automates the detection and analysis of key urban features, aiding in the planning and maintenance of transportation networks.",
-    "one_liner": "The Fastest Tool for Automating Geospatial Production",
-    "team_size": 15,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mach9 accelerates how teams model and understand the world with automated feature extraction technology. Founded in 2021 and headquartered in San Francisco, Mach9's flagship Digital Surveyor platform helps transportation agencies, utility companies, and engineering firms extract miles of road corridor projects in a fraction of traditional processing time. Built on decades of research from Carnegie Mellon University's Robotics Institute, Mach9 empowers the architecture, engineering, and construction industries to tackle large-scale infrastructure projects with unprecedented speed and accuracy. Leading survey and geospatial organizations, including Langan, Olsson, Woolpert, HDR, and major state DOTs trust Digital Surveyor to create engineering-grade maps for infrastructure design and operations.",
+    "one_liner": "AI software for infrastructure engineering",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628526474,
     "tags": [
       "Machine Learning",
       "Computer Vision",
+      "Design Tools",
       "Infrastructure",
       "AI"
     ],
@@ -25647,6 +25605,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/growthbook",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/growthbook.json"
+  },
+  {
+    "id": 25249,
+    "name": "SilkChart",
+    "slug": "silkchart",
+    "former_names": [
+      "SandyLane"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72e4b035942c238f7d9c3a1d28e95b05b81a8d48.png",
+    "website": "https://www.silkchart.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "SilkChart analyzes sales calls and measures how well playbooks are executed. It proactively surfaces coaching opportunities to managers, and provides reps with actionable feedback to close more deals.",
+    "one_liner": "AI Sales Assistant to increase playbook adoption and win more deals",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1657442843,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silkchart",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/silkchart.json"
   },
   {
     "id": 25262,
@@ -35499,8 +35504,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3c9f60cb1b588e41fbba65990acd0b8578f152.png",
     "website": "https://hona.com",
     "all_locations": "Orem, UT, USA",
-    "long_description": "Hona is a client experience platform built for law firms to simplify and strengthen communication with their clients. Legal work can be complex and difficult for clients to follow, which is why Hona helps firms proactively keep clients informed at every stage of their case. Through automated updates and a clean, user-friendly dashboard, clients can easily track progress, understand key milestones, and know what to expect next.\r\n\r\nIn addition to status updates, Hona allows clients to upload documents, securely message their legal team, and share feedback—all in one place. Hona integrates seamlessly with the law firm's existing case management systems, making it easy to implement without disrupting day-to-day operations.\r\n\r\nHona's long-term vision is to transform client communication across the legal industry by making clarity and transparency the standard. ",
-    "one_liner": "The Domino's Pizza Tracker for lawyers and their clients.",
+    "long_description": "Hona is a legal technology company transforming the personal injury law space. Hona's platform helps PI firms strengthen client engagement through real-time case status tracking, AI-powered communication tools, and intelligent medical management — driving better outcomes for firms and the clients they serve.\r\n\r\nIn addition to status updates, Hona allows clients to upload documents, securely message their legal team, and share feedback—all in one place. Hona integrates seamlessly with the law firm's existing case management systems, making it easy to implement without disrupting day-to-day operations.\r\n\r\nHona's long-term vision is to transform client communication across the legal industry by making clarity and transparency the standard. ",
+    "one_liner": "Personal Injury Legal Work - Automated",
     "team_size": 64,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -35876,7 +35881,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37716,53 +37721,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/casca.json"
   },
   {
-    "id": 28815,
-    "name": "Atla",
-    "slug": "atla",
-    "former_names": [
-      "Atla",
-      "atla",
-      "Atla",
-      "atla"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7e8e61ea6d3f763043392069ac87464fc6db2af.png",
-    "website": "https://www.atla-ai.com/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Find and fix your agent’s most critical failures in hours, not days.\r\n\r\nAtla helps developers cut time spent on manually reviewing traces. Atla’s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes—so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe’re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 60,000+ times.",
-    "one_liner": "The improvement engine for AI agents",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1687465633,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/atla",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/atla.json"
-  },
-  {
     "id": 28817,
     "name": "Every",
     "slug": "every",
@@ -38823,6 +38781,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vetrec",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/vetrec.json"
+  },
+  {
+    "id": 28896,
+    "name": "GovernGPT",
+    "slug": "governgpt",
+    "former_names": [
+      "governGPT"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc48fe8121550891d4d5f63eb127e89d23e40dd1.png",
+    "website": "https://www.governgpt.com/",
+    "all_locations": "Montreal, QC, Canada",
+    "long_description": "For money managers to raise their next billion, they dedicate entire teams to spend days filling diligence questionnaires with recycled content. We do it in minutes using AI.\r\nClients include Bridgewater, Pantheon, Coatue, Onex, Urban Partners, Yarra Capital, Axonic, NIAM, Raith Capital, Intl Farming, Hillsdale, White Oak, etc. ",
+    "one_liner": "The RFP Platform Asset Managers Adopt",
+    "team_size": 6,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1699569347,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/governgpt",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/governgpt.json"
   },
   {
     "id": 28899,
@@ -44225,9 +44221,9 @@
     "subindustry": "B2B",
     "launched_at": 1709681560,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
+      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -52342,46 +52338,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/healthkey.json"
   },
   {
-    "id": 30252,
-    "name": "Cuckoo Labs",
-    "slug": "cuckoo-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b101bcbe3aa299f4c858e25eded7583252ab9ab6.png",
-    "website": "https://www.cuckoo.so/",
-    "all_locations": "",
-    "long_description": "Cuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings for even the most technical discussions.\r\n\r\nCuckoo instantly learns the technical details of your conversation from your keywords and documents and interprets into over 20 languages—customized for your specific industry and organization. ",
-    "one_liner": "Real-time AI translator for global sales and marketing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736479622,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Sales",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cuckoo-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/cuckoo-labs.json"
-  },
-  {
     "id": 30254,
     "name": "hud",
     "slug": "hud",
@@ -60480,6 +60436,76 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/payna.json"
   },
   {
+    "id": 31083,
+    "name": "Kita",
+    "slug": "kita",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2c404c5bbc49c9c8e25d9c60779b50f507ba65.png",
+    "website": "https://www.usekita.com/",
+    "all_locations": "",
+    "long_description": "In emerging markets like the Philippines, open finance is still nascent. Most of the population is traditionally unbanked, banking APIs don’t exist, and a borrower’s financial history lives in documents: e-wallet records, bank statements, utility bills, and more. Because this data is unstructured, credit and risk teams are forced into manual review. This slows decisioning, increases costs, and caps lending volume. Legacy OCR solutions break on noisy, real-world files and still require human verification.\r\n\r\nKita is the first document intelligence platform built specifically for lending. We are hyperlocalized around the signals that actually drive lending outcomes in emerging and undertapped domestic markets like the Philippines, Indonesia, Mexico, and beyond. Using a layered system led by vision-language models and computer vision, we outperform traditional OCR by transforming messy borrower documents into fraud-checked, decision-ready signals lenders can use directly in underwriting.\r\n\r\nUnder the hood, Kita is a learning engine. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time. This creates a compounding advantage for lenders as their distinct underwriting decisions feed back into the system.\r\n\r\nWe’re Carmel and Rhea. We met before Stanford and have been building together ever since. Carmel is from Manila, is a repeat founder, and spent three years in product at Apple. Rhea has a research background in computer vision and received the highest honor in Stanford Computer Science. Together, we combine deep local context with strong technical execution to build the infrastructure that expands access to credit in emerging markets.",
+    "one_liner": "Automate credit review for lenders in emerging markets",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1767738733,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kita",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/kita.json"
+  },
+  {
+    "id": 31087,
+    "name": "Lucent",
+    "slug": "lucent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b309a5cff7d85c233aaac20ea8209b1c0736a6e.png",
+    "website": "https://lucenthq.com",
+    "all_locations": "",
+    "long_description": "Lucent is an AI product manager that automatically improves products based on how users behave. We use AI to watch and understand user sessions and detect bugs and UX issues. ",
+    "one_liner": "AI that automatically improves products from user behavior",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1770303004,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/lucent.json"
+  },
+  {
     "id": 31089,
     "name": "Lance",
     "slug": "lance",
@@ -60785,6 +60811,41 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maywood",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/maywood.json"
+  },
+  {
+    "id": 31189,
+    "name": "Revion",
+    "slug": "revion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/083700d7d477f8653353926e2c024cda96cf803d.png",
+    "website": "https://revion.inc",
+    "all_locations": "",
+    "long_description": "Revion is building the operating system for Automotive Retail. Our first product helps Technicians automate administrative work, which drains 30-40% of their day. With Revion, Auto Retailers can service more vehicles and drive more high-margin Revenue. ",
+    "one_liner": "Intelligence for Automotive Operations",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1771887263,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revion",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/revion.json"
   },
   {
     "id": 31193,

@@ -11358,7 +11358,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19767,7 +19767,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -28644,20 +28644,21 @@
     "former_names": [
       "Deep BlueDot"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/379f7d037509c4a193a794e437d6dfd11781b2d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79c1285a2d784965cac2f7d6a820ded7c6499f2.png",
     "website": "https://syncly.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help CX and the product team to get product insights and help proactively engage with their customers before they churn by auto-analyzing all the customer communications. Our team previously founded and sold a $200M AI technology startup.",
-    "one_liner": "AI to auto-analyze all your customer communications",
-    "team_size": 9,
+    "long_description": "Syncly is an AI-native social listening platform that analyzes social content from text to video. Syncly extracts content, creator, and consumer insights from audio, visuals, and on-screen context, not just captions and comments, across TikTok, Instagram, YouTube, and more. From enterprise leaders like Kimberly-Clark and Clorox to fast-growing brands like Neuro, teams use Syncly to get full visibility across every social channel and make faster, smarter decisions.",
+    "one_liner": "Social listening for the video era",
+    "team_size": 15,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1670314629,
     "tags": [
       "Generative AI",
       "SaaS",
       "B2B",
-      "Customer Support"
+      "Social Media",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28667,7 +28668,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -30896,8 +30897,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3c9f60cb1b588e41fbba65990acd0b8578f152.png",
     "website": "https://hona.com",
     "all_locations": "Orem, UT, USA",
-    "long_description": "Hona is a client experience platform built for law firms to simplify and strengthen communication with their clients. Legal work can be complex and difficult for clients to follow, which is why Hona helps firms proactively keep clients informed at every stage of their case. Through automated updates and a clean, user-friendly dashboard, clients can easily track progress, understand key milestones, and know what to expect next.\r\n\r\nIn addition to status updates, Hona allows clients to upload documents, securely message their legal team, and share feedback—all in one place. Hona integrates seamlessly with the law firm's existing case management systems, making it easy to implement without disrupting day-to-day operations.\r\n\r\nHona's long-term vision is to transform client communication across the legal industry by making clarity and transparency the standard. ",
-    "one_liner": "The Domino's Pizza Tracker for lawyers and their clients.",
+    "long_description": "Hona is a legal technology company transforming the personal injury law space. Hona's platform helps PI firms strengthen client engagement through real-time case status tracking, AI-powered communication tools, and intelligent medical management — driving better outcomes for firms and the clients they serve.\r\n\r\nIn addition to status updates, Hona allows clients to upload documents, securely message their legal team, and share feedback—all in one place. Hona integrates seamlessly with the law firm's existing case management systems, making it easy to implement without disrupting day-to-day operations.\r\n\r\nHona's long-term vision is to transform client communication across the legal industry by making clarity and transparency the standard. ",
+    "one_liner": "Personal Injury Legal Work - Automated",
     "team_size": 64,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -31496,7 +31497,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35515,17 +35516,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex builds web agents that companies use to integrate with legacy portals. Customers use Simplex to dispatch freight shipments, download customers’ invoices, fetch websites’ internal APIs, and more.",
-    "one_liner": "Production-grade web agents.",
+    "long_description": "Simplex is browser automation infrastructure built for health tech companies. Automate prior auth, enrollment, intake, claims, and more on provider/payer portals. ",
+    "one_liner": "Browser automation infrastructure for health tech companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Robotic Process Automation",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40819,7 +40820,7 @@
     "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Lingo.dev builds localization workflow infrastructure - professional translations powered by any LLM, expert linguists, or both, all behind a single API. Self-teaching translation APIs, trainable to sound like the author. With our APIs, devtools and integrations, we help teams like Mistral, Solana, Cal.com create high quality translations for their content, web and mobile interfaces.",
-    "one_liner": "Professional translation infrastructure for developers and enterprises",
+    "one_liner": "Localization infrastructure for developers and enterprises",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -40828,8 +40829,8 @@
       "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source",
-      "International"
+      "International",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41830,7 +41831,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -42199,6 +42200,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/riviera",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/riviera.json"
+  },
+  {
+    "id": 30286,
+    "name": "Nitrode",
+    "slug": "nitrode",
+    "former_names": [
+      "Roach AI",
+      "Inception Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
+    "website": "https://www.nitrode.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nitrode builds high-quality game data to train and evaluate LLMs and agents on spatial and temporal reasoning. Today’s models are trained on static text and images, but struggle to understand how the world evolves over time. We create small, fully specified game environments that generate ground-truth data on state, transitions, and hidden dynamics. This enables AI systems to move beyond simple pattern matching, incorporating memory, causality, and multi-step reasoning to create more reliable agents in dynamic environments.",
+    "one_liner": "Data for reasoning agents in dynamic environments",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738144366,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "B2B",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nitrode",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/nitrode.json"
   },
   {
     "id": 30287,
@@ -43210,18 +43255,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
     "website": "https://habitrobotics.com",
     "all_locations": "El Segundo, CA, USA",
-    "long_description": "Every month, our robots greet thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
+    "long_description": "Every month, our robots greet tens of thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
     "one_liner": "Conversational robots for physical businesses.",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1747768090,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Consumer",
       "B2B",
-      "Retail"
+      "Retail",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45965,16 +46010,16 @@
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to adopt modern AI without worrying about data privacy or security.",
-    "one_liner": "Private AI for Financial Institutions",
+    "one_liner": "Private AI for Regulated Industries",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47498,6 +47543,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
   },
   {
+    "id": 31407,
+    "name": "Sherpa",
+    "slug": "sherpa",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24b3833352a8b36953c5bec1a4cb93f9ac0f2259.png",
+    "website": "https://www.withsherpa.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa automatically increases website conversion rates by analyzing visitor behavior, building new page variants, and continuously A/B testing them. Customers typically see a 15-20% lift on their primary conversion metric in their first 30 days.",
+    "one_liner": "Turn more website visitors into customers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774901696,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sherpa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
+  },
+  {
     "id": 31416,
     "name": "Callab AI",
     "slug": "callab-ai",
@@ -47705,6 +47792,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
   },
   {
+    "id": 31481,
+    "name": "Saudara AI",
+    "slug": "saudara-ai",
+    "former_names": [
+      "Saudara AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
+    "website": "https://saudara.ai",
+    "all_locations": "",
+    "long_description": "Indonesian exports to the US grew 23% in 2025 up to over $30B. The shift is happening. Most brands just don't have the on-ramp yet.\r\n\r\nSaudara AI is an AI-native sourcing agency connecting American brands with Indonesian suppliers across apparel, textiles, home goods, supplements, and raw materials. Our AI agent finds your factory, handles vetting, sampling, and delivery. A human is in the loop at every stage.\r\n\r\nNo more ghosting. No more waiting months for supplier updates. You always know where your order stands.\r\n\r\nWe are the on-ramp.",
+    "one_liner": "AI-native Sourcing Agency",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774887463,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saudara-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saudara-ai.json"
+  },
+  {
     "id": 31488,
     "name": "Foaster",
     "slug": "foaster",
@@ -47751,7 +47879,7 @@
     "former_names": [
       "Amboras Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd994ad828ec46d6b44c0128b2abd68ee001c47.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f73132de2e37d734f38e992e57e4ea9a377f28c1.png",
     "website": "https://amboras.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Amboras puts your entire e-commerce on autopilot. It builds your store, continuously optimizes it, reads your analytics, and learns what converts - all autonomously. No developers. No agencies. No guessing. Today it sells to humans. Tomorrow it sells to AI agents.\r\n",

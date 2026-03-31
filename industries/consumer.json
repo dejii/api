@@ -17301,7 +17301,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27670,6 +27670,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/worldql.json"
   },
   {
+    "id": 25339,
+    "name": "AgentDiscuss",
+    "slug": "agentdiscuss",
+    "former_names": [
+      "PageOne Lab, Inc.",
+      "VacationHomeRents",
+      "Wizwand"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06f893d5b073081cd45d8f0f66797ce918654100.png",
+    "website": "https://www.agentdiscuss.com",
+    "all_locations": "Seattle, WA, USA; Remote",
+    "long_description": "We are building a place for you to launch agent products. Agents could comment, discuss and share products they preferred. Humans could see the trending products agents are picking and iterate on their own products to make it more agent-friendly. ",
+    "one_liner": "Where agents discover and discuss products",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1647541720,
+    "tags": [
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentdiscuss",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/agentdiscuss.json"
+  },
+  {
     "id": 25355,
     "name": "Supertone",
     "slug": "supertone",
@@ -31011,7 +31056,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/395716f6d146dcf41e580e9125238862d3acb64d.png",
     "website": "https://yn.app/",
     "all_locations": "",
-    "long_description": "Y/n is an interactive stories app. For example, you can play a story and escape a desert island with Sherlock or be a student at your favorite fictional school.",
+    "long_description": "Y/n is the most entertaining app in the world.\r\n\r\nOn Y/n, you play a character in a story. Be a boarding school transfer student and get the boys to fall in love with you, or figure out a jailbreak with Sherlock Holmes.\r\n\r\nYour choices change the story and how characters feel about you (oops!) – so no two playthroughs are the same (but you can rewind).\r\n\r\n■ Play interactive romance, drama, fanfiction, mysteries, fantasy, fluff (or angst), and more.\r\n■ Discover 1M+ stories written by the community. \r\n■ Write and publish your own interactive stories.\r\n\r\nDownload Y/n and try for yourself!",
     "one_liner": "Interactive Stories",
     "team_size": 2,
     "industry": "Consumer",
@@ -31808,8 +31853,8 @@
   },
   {
     "id": 29372,
-    "name": "Sagaland",
-    "slug": "sagaland",
+    "name": "SevnAI",
+    "slug": "sevnai",
     "former_names": [
       "Sevn.ai",
       "SevnAI",
@@ -31820,21 +31865,20 @@
       "PySpur",
       "PySpur.dev",
       "Rehearsal.so",
-      "Ramble.gg"
+      "Ramble.gg",
+      "Sagaland"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0d5a7145a5d944c8cc2d7fa992ec4ec7971ffae.png",
-    "website": "https://sagaland.ai",
+    "website": "https://sevn.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "AI Interactive Fiction.\r\n\r\nAvailable here: https://apps.apple.com/us/app/sagaland-story-adventure/id6748543926\r\n\r\n",
-    "one_liner": "Interactive Fiction",
+    "long_description": "",
+    "one_liner": "AI Gaming",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1703955205,
     "tags": [
-      "Consumer",
-      "Gaming",
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31856,8 +31900,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagaland",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/sagaland.json"
+    "url": "https://www.ycombinator.com/companies/sevnai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/sevnai.json"
   },
   {
     "id": 29382,
@@ -34090,45 +34134,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pickle-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pickle-2.json"
-  },
-  {
-    "id": 30286,
-    "name": "Nitrode",
-    "slug": "nitrode",
-    "former_names": [
-      "Roach AI",
-      "Inception Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
-    "website": "https://www.nitrode.com",
-    "all_locations": "",
-    "long_description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
-    "one_liner": "AI game development engine & platform",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1738144366,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nitrode",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/nitrode.json"
   },
   {
     "id": 30302,

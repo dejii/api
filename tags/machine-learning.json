@@ -4994,18 +4994,19 @@
     "former_names": [
       "Mach9 Robotics"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/232339d6edde0605ea880f4aaef47c45acf14848.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05390d32227edd1416d7dc545801c3fc59e2ac15.png",
     "website": "https://www.mach9.ai/",
-    "all_locations": "San Francisco, CA, USA; Pittsburgh, PA, USA",
-    "long_description": "Mach9 is at the forefront of leveraging advanced machine learning and computer vision techniques to transform geospatial data into actionable insights for urban development and infrastructure management. Our cutting-edge technology automates the detection and analysis of key urban features, aiding in the planning and maintenance of transportation networks.",
-    "one_liner": "The Fastest Tool for Automating Geospatial Production",
-    "team_size": 15,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mach9 accelerates how teams model and understand the world with automated feature extraction technology. Founded in 2021 and headquartered in San Francisco, Mach9's flagship Digital Surveyor platform helps transportation agencies, utility companies, and engineering firms extract miles of road corridor projects in a fraction of traditional processing time. Built on decades of research from Carnegie Mellon University's Robotics Institute, Mach9 empowers the architecture, engineering, and construction industries to tackle large-scale infrastructure projects with unprecedented speed and accuracy. Leading survey and geospatial organizations, including Langan, Olsson, Woolpert, HDR, and major state DOTs trust Digital Surveyor to create engineering-grade maps for infrastructure design and operations.",
+    "one_liner": "AI software for infrastructure engineering",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628526474,
     "tags": [
       "Machine Learning",
       "Computer Vision",
+      "Design Tools",
       "Infrastructure",
       "AI"
     ],
@@ -8070,17 +8071,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex builds web agents that companies use to integrate with legacy portals. Customers use Simplex to dispatch freight shipments, download customers’ invoices, fetch websites’ internal APIs, and more.",
-    "one_liner": "Production-grade web agents.",
+    "long_description": "Simplex is browser automation infrastructure built for health tech companies. Automate prior auth, enrollment, intake, claims, and more on provider/payer portals. ",
+    "one_liner": "Browser automation infrastructure for health tech companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Robotic Process Automation",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9103,6 +9104,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mundo-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mundo-ai.json"
+  },
+  {
+    "id": 30286,
+    "name": "Nitrode",
+    "slug": "nitrode",
+    "former_names": [
+      "Roach AI",
+      "Inception Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
+    "website": "https://www.nitrode.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nitrode builds high-quality game data to train and evaluate LLMs and agents on spatial and temporal reasoning. Today’s models are trained on static text and images, but struggle to understand how the world evolves over time. We create small, fully specified game environments that generate ground-truth data on state, transitions, and hidden dynamics. This enables AI systems to move beyond simple pattern matching, incorporating memory, causality, and multi-step reasoning to create more reliable agents in dynamic environments.",
+    "one_liner": "Data for reasoning agents in dynamic environments",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738144366,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "B2B",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nitrode",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/nitrode.json"
   },
   {
     "id": 30298,

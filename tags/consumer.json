@@ -3700,25 +3700,25 @@
   },
   {
     "id": 25339,
-    "name": "Wizwand",
-    "slug": "wizwand",
+    "name": "AgentDiscuss",
+    "slug": "agentdiscuss",
     "former_names": [
       "PageOne Lab, Inc.",
-      "VacationHomeRents"
+      "VacationHomeRents",
+      "Wizwand"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55502c46bfc1db96f7b6a7797fc1865fa18b8c69.png",
-    "website": "https://www.wizwand.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06f893d5b073081cd45d8f0f66797ce918654100.png",
+    "website": "https://www.agentdiscuss.com",
     "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "We help improve reproducibility and transparency in AI/ML research, by allowing research engineers to easily find, implement, and compare the performance of SOTA papers and methods.",
-    "one_liner": "Discover SOTA research papers on AI and Machine Learning",
+    "long_description": "We are building a place for you to launch agent products. Agents could comment, discuss and share products they preferred. Humans could see the trending products agents are picking and iterate on their own products to make it more agent-friendly. ",
+    "one_liner": "Where agents discover and discuss products",
     "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1647541720,
     "tags": [
-      "Marketplace",
       "Consumer",
-      "Travel"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3727,8 +3727,7 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -3741,8 +3740,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wizwand",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/wizwand.json"
+    "url": "https://www.ycombinator.com/companies/agentdiscuss",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/agentdiscuss.json"
   },
   {
     "id": 25341,
@@ -7321,59 +7320,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/browser-buddy.json"
   },
   {
-    "id": 29372,
-    "name": "Sagaland",
-    "slug": "sagaland",
-    "former_names": [
-      "Sevn.ai",
-      "SevnAI",
-      "Sevn",
-      "sevn",
-      "AdRizz.com",
-      "PySpur.com",
-      "PySpur",
-      "PySpur.dev",
-      "Rehearsal.so",
-      "Ramble.gg"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0d5a7145a5d944c8cc2d7fa992ec4ec7971ffae.png",
-    "website": "https://sagaland.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "AI Interactive Fiction.\r\n\r\nAvailable here: https://apps.apple.com/us/app/sagaland-story-adventure/id6748543926\r\n\r\n",
-    "one_liner": "Interactive Fiction",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1703955205,
-    "tags": [
-      "Consumer",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagaland",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/sagaland.json"
-  },
-  {
     "id": 29403,
     "name": "HeartByte",
     "slug": "heartbyte",
@@ -9560,18 +9506,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
     "website": "https://habitrobotics.com",
     "all_locations": "El Segundo, CA, USA",
-    "long_description": "Every month, our robots greet thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
+    "long_description": "Every month, our robots greet tens of thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
     "one_liner": "Conversational robots for physical businesses.",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1747768090,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Consumer",
       "B2B",
-      "Retail"
+      "Retail",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
