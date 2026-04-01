@@ -551,7 +551,7 @@
     "website": "https://www.trysaffron.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Saffron is building a platform to test how well candidates can use coding agents. \r\n\r\nThe way engineers write code has fundamentally changed, but the way companies evaluate them hasn't. Saffron gives hiring teams full visibility into how candidates use AI agents to build, debug, and ship real features on an actual codebase. \r\n\r\nSaffron was founded by Robert Chondro (formerly MIT and Jane Street), Jerry Yao (Stanford and Jane Street), and Kazuma Choji (Harvey Mudd, published in NeurIPS and ICML), and is backed by Y Combinator (P26) and Afore Capital. ",
-    "one_liner": "ai-native technical assessments and work trials. ",
+    "one_liner": "AI-Native Technical Assessments and Work Trials. ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -1499,6 +1499,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemyai.json"
   },
   {
+    "id": 31443,
+    "name": "Complir",
+    "slug": "complir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1f72e453635f03c2884d2d58c26211bfd627530.png",
+    "website": "https://complir.io/",
+    "all_locations": "Copenhagen, Denmark",
+    "long_description": "AI-powered product compliance platform that makes it easy for retailers to launch and scale products across borders without drowning in regulatory work. Complir's AI agents handle the regulations and documentation across every market you sell in - and keep your entire catalogue audit-ready.",
+    "one_liner": "Vanta for physical products",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1774933783,
+    "tags": [
+      "Retail",
+      "Regtech",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "Denmark",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/complir",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/complir.json"
+  },
+  {
     "id": 31445,
     "name": "Harbor",
     "slug": "runharbor",
@@ -2040,7 +2083,7 @@
     "website": "https://asendia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "one_liner": "Agentic recruitment platform",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
@@ -2166,14 +2209,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
     "website": "https://www.maquoketa.net",
-    "all_locations": "",
+    "all_locations": "Elk Grove Village, IL, USA",
     "long_description": "",
     "one_liner": "Intelligent one-way attack drones",
     "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1774490913,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Computer Vision",
+      "Manufacturing"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2185,7 +2234,8 @@
       "Defense"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

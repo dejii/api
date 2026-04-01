@@ -9548,7 +9548,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11061,7 +11061,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11448,7 +11448,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Modern payroll for modern work",
-    "team_size": 25,
+    "team_size": 45,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1556161445,
@@ -11472,7 +11472,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17061,7 +17061,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21863,6 +21863,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/boldvoice.json"
   },
   {
+    "id": 24081,
+    "name": "Parallel Bio",
+    "slug": "parallel-bio",
+    "former_names": [
+      "Parallel Biosystems Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983561db384b2274b11c61cd0cad3af0a429c991.png",
+    "website": "http://parallel.bio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Parallel Bio is pioneering human-first drug discovery by creating the first map of human biology. Using groundbreaking biological and computational tools that track real clinical outcomes, the company generates data that enable earlier, more reliable decisions about disease biology and drug development. \r\n\r\nParallel Bio’s platform overcomes the core limitations of traditional animal testing, which fails to encapsulate the complexity of human biology. The company is building internal pipelines of novel disease targets and drug candidates in both cancer and autoimmune disease, while collaborating with pharmaceutical companies to evaluate therapies directly in human systems to reduce the cost and risk of clinical trials. \r\n\r\nBased in San Francisco, the company was founded in 2021 by two of the world’s leading experts in replacing animal models with human-first platforms.",
+    "one_liner": "Using the immune system to cure disease",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1626811179,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parallel-bio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/parallel-bio.json"
+  },
+  {
     "id": 24083,
     "name": "Rivia.AI",
     "slug": "rivia-ai",
@@ -24240,7 +24284,7 @@
     "all_locations": "Singapore, Singapore",
     "long_description": "HitPay is a full stack payments infrastructure platform designed for growing businesses in APAC. Founded in 2016 and headquartered in Singapore, HitPay unifies e-commerce, point of sale, and B2B payments into a single platform. The company is regulated in 6 APAC jurisdictions and backed by leading global investors, including Tiger Global, Y Combinator, Global Founders Capital, and HOF Capital.",
     "one_liner": "Payments infrastructure for businesses scaling in APAC",
-    "team_size": 33,
+    "team_size": 35,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1627395951,
@@ -24406,49 +24450,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dots-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/dots-2.json"
-  },
-  {
-    "id": 24562,
-    "name": "Noloco",
-    "slug": "noloco",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201600bf7fcca3398cb1ecbf2e073352ee612ae3.png",
-    "website": "https://noloco.io",
-    "all_locations": "Dublin, County Dublin, Ireland",
-    "long_description": "Give your Ops teams the power to build the tools your business needs, with native data, logic, automation, and AI — without code",
-    "one_liner": "Flexible Business Apps for Modern Teams",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1627056154,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Ireland",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/noloco",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/noloco.json"
   },
   {
     "id": 24573,
@@ -35149,7 +35150,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32d61652a6684aecf45080965c0897ba451022f.png",
     "website": "https://www.variance.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build safer platforms with Intrinsic. Get access to the best safety technologies from one unified API. Enable your Trust & Safety team to tell cohesive stories from policy to product, to enforcement.\r\n\r\nMichael and Karine first met two years ago at Apple’s Fraud Engineering, Algorithmic Risk team, which evolved to become Apple’s Trust & Safety function. We are both engineers and helped solve online abuse problems, including spam, botting, account security, and developer fraud for Apple’s customer base of over a billion users.",
+    "long_description": "Variance builds AI agents for fraud, identity, and investigations for Fortune 500s, Marketplaces, and regulated financial services.",
     "one_liner": "AI Agents for Fraud Review and Investigations",
     "team_size": 8,
     "industry": "B2B",
@@ -35373,12 +35374,12 @@
       "Psychic",
       "Dealwise"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a35948c3008ce03b100758e6c4240b2dae0ac9d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06180819ad31c1d2ee1b4b62d506fd5e7655aec4.png",
     "website": "https://www.finic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finic helps fintechs and banks automate the detection and investigation of financial crimes. \r\n\r\nWe automate human jobs-to-be-done for:\r\n- Fraud operations teams\r\n- AML/BSA teams\r\n- Compliance teams\r\n- Credit risk teams\r\n\r\nWhile our approach is agentic, we use AI only where it's better than the alternative. Our vertical focus allows us to be more accurate and efficient than horizontal agent companies on the same task.",
-    "one_liner": "Detect and investigate financial crimes with AI",
-    "team_size": 2,
+    "long_description": "Finic helps fraud teams catch organized fraud earlier, act on it faster, and turn discoveries into lasting defenses. Our AI agent analyzes structured and unstructured data across your systems to proactively surface the fraud that rules and scoring models miss.",
+    "one_liner": "Proactively hunt down fraud with AI",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1677272534,
@@ -35491,52 +35492,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vitalize",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vitalize.json"
-  },
-  {
-    "id": 27961,
-    "name": "Hona",
-    "slug": "hona",
-    "former_names": [
-      "Milestones",
-      "Hona (formerly Milestones)",
-      "Hona 🚀"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3c9f60cb1b588e41fbba65990acd0b8578f152.png",
-    "website": "https://hona.com",
-    "all_locations": "Orem, UT, USA",
-    "long_description": "Hona is a legal technology company transforming the personal injury law space. Hona's platform helps PI firms strengthen client engagement through real-time case status tracking, AI-powered communication tools, and intelligent medical management — driving better outcomes for firms and the clients they serve.\r\n\r\nIn addition to status updates, Hona allows clients to upload documents, securely message their legal team, and share feedback—all in one place. Hona integrates seamlessly with the law firm's existing case management systems, making it easy to implement without disrupting day-to-day operations.\r\n\r\nHona's long-term vision is to transform client communication across the legal industry by making clarity and transparency the standard. ",
-    "one_liner": "Personal Injury Legal Work - Automated",
-    "team_size": 64,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1669140082,
-    "tags": [
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hona",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/hona.json"
   },
   {
     "id": 27968,
@@ -49519,52 +49474,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
   },
   {
-    "id": 29978,
-    "name": "SimCare",
-    "slug": "simcare",
-    "former_names": [
-      "simhealth.ai",
-      "Luna Sim (prev. simhealth.ai)",
-      "Soma Lab",
-      "SimCare AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
-    "website": "https://simcare.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "SimCare is an all in one solution for training clinical skills in healthcare and behavioral health. From AI avatars that you can speak with, feedback systems trusted by the top programs in the country, to site placements tools that help you show your skills and find a job. SimCare is used across the board to train counselors, social workers, doctors and nurses.",
-    "one_liner": "AI avatars to scale healthcare training.",
-    "team_size": 7,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1719547782,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Education",
-      "Healthcare",
-      "Edtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simcare",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare.json"
-  },
-  {
     "id": 29980,
     "name": "Midship",
     "slug": "midship",
@@ -49651,16 +49560,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.",
+    "long_description": "Syntra is a medical data analytics platform that turns messy clinical documentation into real-time, actionable insights for billing, compliance, and care quality. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
     "one_liner": "AI chart review for speciality medical clinics.",
     "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [
-      "Artificial Intelligence",
       "Big Data",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53571,7 +53480,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ec5c6a24f1037c7183c8ce6c5dc019a1f42ec3d.png",
     "website": "https://www.wozcode.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "WozCode is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WozCode plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-50% cheaper\r\nSpeed: 30-40% faster overall and up 10x on database tasks\r\nPerformance: beats Claude code on Terminal Bench 2.0 (63% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
+    "long_description": "WOZCODE is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WOZCODE plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-55% cheaper\r\nSpeed: 5-10x faster on database tasks, 30-40% faster on most others\r\nPerformance: beats Claude code on Terminal Bench 2.0 (68% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
     "one_liner": "Claude Code plugin that reduces token consumption and cost by 50%",
     "team_size": 8,
     "industry": "B2B",
@@ -56752,7 +56661,7 @@
     "all_locations": "",
     "long_description": "GRU Space is building permanent lunar infrastructure to make humanity interplanetary within our lifetime, starting with the first hotel on the Moon. In just 6 weeks, we built the world's first Moon factory: patent-pending hardware that turns lunar regolith into bricks and inflates modular pressurized habitats designed to withstand lunar temperature and pressure extremes. \r\n\r\nOur first mission lands on the Moon in 2027 to demonstrate in-situ brick manufacturing and habitat deployment. A second mission lays the hotel's foundation inside a lunar cave, and a third opens the first lunar hotel, targeted for 2032. \r\n\r\nWe don’t stop at Moon hotels. GRU’s long-term plan:\r\n\r\n1. Build the first hotel on the Moon. GRU solves off‑world surface habitation.\r\n2. Become the Moon Base Company of America: build roads, mass drivers, warehouses, and physical infrastructure.\r\n3. Repeat on Mars and build the first cities there.\r\n4. Own property on the Moon and Mars as these economies grow.\r\n5. Reinvest profits into resource utilization systems on the Moon, Mars, asteroids, and beyond—reaching our final form: Galactic Resource Utilization.\r\n\r\nGRU Space is backed by investors in SpaceX and Anduril, is part of Nvidia's Inception program, and our launch generated 1B+ views across 60+ countries, earning invitations to the White House, Senate, and Pentagon. ",
     "one_liner": "Moon Hotel -> The Intergalactic Construction Company of Earth",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1767740329,
@@ -60664,6 +60573,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/bujo.json"
   },
   {
+    "id": 31145,
+    "name": "RamAIn",
+    "slug": "ramain",
+    "former_names": [
+      "Ramain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
+    "website": "https://ramain.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "AI Employees: Super-fast computer use agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767663208,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ramain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
+  },
+  {
     "id": 31146,
     "name": "Arcline",
     "slug": "arcline",
@@ -60702,6 +60655,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arcline",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
+  },
+  {
+    "id": 31174,
+    "name": "Hex Security",
+    "slug": "hex-security",
+    "former_names": [
+      "Anytool"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/814cf30167622bfb5c6d35815a24f51d91529f3b.png",
+    "website": "https://hex.co",
+    "all_locations": "",
+    "long_description": "Hex Security builds AI agents that run continuous penetration tests against your apps and infrastructure. Instead of a once-a-year penetration test, Hex Security's agents works 24/7 to find and verify critical vulnerabilities so you can prevent them before attackers.",
+    "one_liner": "Agentic Offensive Security at Scale",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1768943987,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hex-security",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/hex-security.json"
   },
   {
     "id": 31175,
@@ -60749,7 +60740,7 @@
     "all_locations": "",
     "long_description": "Jinba lets enterprise teams vibe-code AI workflows instead of drag and drop. Describe what you need in plain language, and your whole company can start using it immediately. No engineers required. Enterprise-grade permissions, audit logging, and on-prem deployment built in. We serve 40,000 enterprise users at major financial institutions.\r\n\r\nBuild something your colleagues want.",
     "one_liner": "Automate enterprise workflows through chat",
-    "team_size": null,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768673344,
@@ -61513,7 +61504,7 @@
     "website": "https://asendia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "one_liner": "Agentic recruitment platform",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",

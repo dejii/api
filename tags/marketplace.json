@@ -4937,7 +4937,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12834,6 +12834,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sellraze",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sellraze.json"
+  },
+  {
+    "id": 30899,
+    "name": "Sciloop",
+    "slug": "sciloop",
+    "former_names": [
+      "SciLoop"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26613ce6ce77cc938a057068ce9d4f0548fd4269.png",
+    "website": "https://sciloop.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sciloop creates expert-level math and physics problems that frontier AI models can't solve, then sells the data to AI labs for training and evaluation. Our problems are created by IPhO and IMO medalists — the top 0.01% of STEM talent globally. On our benchmark, models like GPT 5.4 Pro and Gemini 3.1 Pro score 0-5% on our hardest problems. We work with AI labs to supply continuous, fresh training data that pushes the frontier of mathematical and scientific reasoning. Founded by Bilal and Osman, International Physics Olympiad medalists from MIT with hands-on ML research experience at MIT CSAIL.\r\n",
+    "one_liner": "Expert STEM reasoning data for frontier AI labs.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1761248663,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Data Labeling",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sciloop",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sciloop.json"
   },
   {
     "id": 30978,

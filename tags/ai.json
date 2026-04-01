@@ -53,7 +53,7 @@
     "all_locations": "Austin, TX, USA",
     "long_description": "Plivo's platform helps businesses create and deploy Voice AI Agents for various roles like customer support, marketing engagement, lead qualification including channels like WhatsApp, Chat & SMS. Plivo's platform powers billions of transactions each year globally for thousands of businesses worldwide like Uber, Meta, Zomato, Godaddy etc.",
     "one_liner": "Voice AI Agents for customer engagement, including WhatsApp, SMS &…",
-    "team_size": 140,
+    "team_size": 320,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1336694241,
@@ -75,7 +75,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23531,52 +23531,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simple-ai.json"
   },
   {
-    "id": 29786,
-    "name": "Palmier",
-    "slug": "palmier",
-    "former_names": [
-      "ProteusAI",
-      "Palmier",
-      "Sado"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95dbd55cf639d75a979f7247e3768fe0871dc17.png",
-    "website": "https://www.palmier.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Palmier is building an AI-native storyboard and video creation platform. We help creators, brands, and teams turn scripts and ideas into cinematic videos, complete with scenes, shots, and consistent visual style. Edit storyboard, generate images and footage with leading AI models, and build high-quality videos faster and easier than ever.",
-    "one_liner": "From idea to cinematic videos in seconds",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1724450208,
-    "tags": [
-      "SaaS",
-      "Consumer",
-      "Video",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palmier",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/palmier.json"
-  },
-  {
     "id": 29788,
     "name": "Refactor",
     "slug": "refactor",
@@ -24681,6 +24635,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/merlin-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
+  },
+  {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is a medical data analytics platform that turns messy clinical documentation into real-time, actionable insights for billing, compliance, and care quality. We help clinics generate more revenue per clinical encounter while reducing up to 60% of administrative overhead. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.\r\n",
+    "one_liner": "AI chart review for speciality medical clinics.",
+    "team_size": 9,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Big Data",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
   },
   {
     "id": 29988,
@@ -27359,7 +27358,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ec5c6a24f1037c7183c8ce6c5dc019a1f42ec3d.png",
     "website": "https://www.wozcode.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "WozCode is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WozCode plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-50% cheaper\r\nSpeed: 30-40% faster overall and up 10x on database tasks\r\nPerformance: beats Claude code on Terminal Bench 2.0 (63% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
+    "long_description": "WOZCODE is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WOZCODE plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-55% cheaper\r\nSpeed: 5-10x faster on database tasks, 30-40% faster on most others\r\nPerformance: beats Claude code on Terminal Bench 2.0 (68% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
     "one_liner": "Claude Code plugin that reduces token consumption and cost by 50%",
     "team_size": 8,
     "industry": "B2B",
@@ -34516,7 +34515,7 @@
     "website": "https://asendia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "one_liner": "Agentic recruitment platform",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",

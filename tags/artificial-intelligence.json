@@ -6695,7 +6695,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16131,7 +16131,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32d61652a6684aecf45080965c0897ba451022f.png",
     "website": "https://www.variance.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build safer platforms with Intrinsic. Get access to the best safety technologies from one unified API. Enable your Trust & Safety team to tell cohesive stories from policy to product, to enforcement.\r\n\r\nMichael and Karine first met two years ago at Apple’s Fraud Engineering, Algorithmic Risk team, which evolved to become Apple’s Trust & Safety function. We are both engineers and helped solve online abuse problems, including spam, botting, account security, and developer fraud for Apple’s customer base of over a billion users.",
+    "long_description": "Variance builds AI agents for fraud, identity, and investigations for Fortune 500s, Marketplaces, and regulated financial services.",
     "one_liner": "AI Agents for Fraud Review and Investigations",
     "team_size": 8,
     "industry": "B2B",
@@ -16309,12 +16309,12 @@
       "Psychic",
       "Dealwise"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a35948c3008ce03b100758e6c4240b2dae0ac9d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06180819ad31c1d2ee1b4b62d506fd5e7655aec4.png",
     "website": "https://www.finic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finic helps fintechs and banks automate the detection and investigation of financial crimes. \r\n\r\nWe automate human jobs-to-be-done for:\r\n- Fraud operations teams\r\n- AML/BSA teams\r\n- Compliance teams\r\n- Credit risk teams\r\n\r\nWhile our approach is agentic, we use AI only where it's better than the alternative. Our vertical focus allows us to be more accurate and efficient than horizontal agent companies on the same task.",
-    "one_liner": "Detect and investigate financial crimes with AI",
-    "team_size": 2,
+    "long_description": "Finic helps fraud teams catch organized fraud earlier, act on it faster, and turn discoveries into lasting defenses. Our AI agent analyzes structured and unstructured data across your systems to proactively surface the fraud that rules and scoring models miss.",
+    "one_liner": "Proactively hunt down fraud with AI",
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1677272534,
@@ -27369,6 +27369,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simple-ai.json"
   },
   {
+    "id": 29786,
+    "name": "Palmier",
+    "slug": "palmier",
+    "former_names": [
+      "ProteusAI",
+      "Palmier",
+      "Sado"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0186f2775062552b28ed6bdc42f5d5e89590738e.png",
+    "website": "https://www.palmier.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We make high quality AI ads / marketing videos / launch videos with tight turnarounds.\r\nBook a demo! www.palmier.io/contact",
+    "one_liner": "Cinematic AI Marketing Videos",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1724450208,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Consumer",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palmier",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/palmier.json"
+  },
+  {
     "id": 29791,
     "name": "Cartage",
     "slug": "cartage",
@@ -28466,51 +28512,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
-  },
-  {
-    "id": 29987,
-    "name": "Syntra",
-    "slug": "syntra",
-    "former_names": [
-      "Lightning Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
-    "website": "https://www.syntra.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra provides real-time chart review for specialty medical clinics to support revenue cycle management, patient identification, and compliance. It replaces slow, retrospective workflows from insurance companies, patient recruitment teams, and third-party auditors. Syntra supports hundreds of specialty practices nationwide and processes $100Ms in medical claim charges annually.",
-    "one_liner": "AI chart review for speciality medical clinics.",
-    "team_size": 9,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1723733582,
-    "tags": [
-      "Artificial Intelligence",
-      "Big Data",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntra",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
   },
   {
     "id": 29989,
@@ -31849,7 +31850,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ec5c6a24f1037c7183c8ce6c5dc019a1f42ec3d.png",
     "website": "https://www.wozcode.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "WozCode is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WozCode plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-50% cheaper\r\nSpeed: 30-40% faster overall and up 10x on database tasks\r\nPerformance: beats Claude code on Terminal Bench 2.0 (63% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
+    "long_description": "WOZCODE is the highest performing, lowest cost AI coding agent. Available via Claude Code Plugin. \r\n\r\nThe WOZCODE plugin outperforms Claude Code alone on all key metrics:\r\n\r\nCost: 25-55% cheaper\r\nSpeed: 5-10x faster on database tasks, 30-40% faster on most others\r\nPerformance: beats Claude code on Terminal Bench 2.0 (68% vs 58%)\r\n\r\nInstall with one command. Access directly via Claude Code\r\n\r\nYour tools, your workflows, but Better, Faster, Cheaper.\r\n",
     "one_liner": "Claude Code plugin that reduces token consumption and cost by 50%",
     "team_size": 8,
     "industry": "B2B",
@@ -37066,6 +37067,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/allus-ai.json"
   },
   {
+    "id": 30899,
+    "name": "Sciloop",
+    "slug": "sciloop",
+    "former_names": [
+      "SciLoop"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26613ce6ce77cc938a057068ce9d4f0548fd4269.png",
+    "website": "https://sciloop.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sciloop creates expert-level math and physics problems that frontier AI models can't solve, then sells the data to AI labs for training and evaluation. Our problems are created by IPhO and IMO medalists — the top 0.01% of STEM talent globally. On our benchmark, models like GPT 5.4 Pro and Gemini 3.1 Pro score 0-5% on our hardest problems. We work with AI labs to supply continuous, fresh training data that pushes the frontier of mathematical and scientific reasoning. Founded by Bilal and Osman, International Physics Olympiad medalists from MIT with hands-on ML research experience at MIT CSAIL.\r\n",
+    "one_liner": "Expert STEM reasoning data for frontier AI labs.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1761248663,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Data Labeling",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sciloop",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sciloop.json"
+  },
+  {
     "id": 30910,
     "name": "Aleph Lab",
     "slug": "aleph-lab",
@@ -38276,6 +38321,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/noetic.json"
   },
   {
+    "id": 31145,
+    "name": "RamAIn",
+    "slug": "ramain",
+    "former_names": [
+      "Ramain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
+    "website": "https://ramain.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RamAIn can intelligently automate any super complex and repetitive process across applications (Browser & Desktop) super fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "AI Employees: Super-fast computer use agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1767663208,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ramain",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ramain.json"
+  },
+  {
     "id": 31165,
     "name": "IncidentFox",
     "slug": "brownie",
@@ -39122,7 +39211,7 @@
     "website": "https://asendia.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Agentic recruitment platform for staffing agencies",
+    "one_liner": "Agentic recruitment platform",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
@@ -39196,5 +39285,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/playablai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/playablai.json"
+  },
+  {
+    "id": 31561,
+    "name": "Maquoketa Research",
+    "slug": "maquoketa-research",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
+    "website": "https://www.maquoketa.net",
+    "all_locations": "Elk Grove Village, IL, USA",
+    "long_description": "",
+    "one_liner": "Intelligent one-way attack drones",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1774490913,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "Computer Vision",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maquoketa-research",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
   }
 ]
