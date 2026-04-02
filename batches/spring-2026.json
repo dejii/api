@@ -462,16 +462,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
     "website": "https://replicas.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Use background coding agents from anywhere",
+    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "one_liner": "Background coding agents for engineering teams",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -632,19 +632,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f586c0db7df7371426565793ae565ba0423774.png",
     "website": "https://inloop-robotics.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
     "one_liner": "Deploying robots that ask for help!",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1774801488,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Logistics",
-      "Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -656,8 +651,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -1091,16 +1085,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
     "website": "https://stablebrowse.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are making the world's fastest and lightest browser for AI agents. Agents don’t need to see UIs like us humans do. We remove the costly visual rendering stack, giving agents a semantic understanding of the web instead of brittle interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our browser that turns the web into a native protocol for LLMs.",
+    "long_description": "We are making the world's fastest and lightest browser for your AI agents. Agents don’t need to see UIs like us humans do. We remove the costly visual rendering stack, giving agents a semantic understanding of the web instead of brittle interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our browser that turns the web into a native protocol for LLMs.",
     "one_liner": "Browser for AI agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774843315,
     "tags": [
+      "Artificial Intelligence",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1499,6 +1493,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/alchemyai.json"
   },
   {
+    "id": 31442,
+    "name": "AICE Power",
+    "slug": "aice-power",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c821ac938388eef9bdac08cedddc97651fe77c.png",
+    "website": "https://aicepower.com",
+    "all_locations": "",
+    "long_description": "AICE Power makes a new generation of sensors that give commercial buildings full visibility into their energy consumption. \r\nWe deploy on any site in one day with no disruption, at 5% the cost of traditional Building Management Systems. \r\nThe platform automatically detects anomalies and alerts teams in real time, before inefficiencies show up on the bill. ",
+    "one_liner": "Smart energy monitoring for buildings.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1775067317,
+    "tags": [
+      "Batteryless IoT Sensors",
+      "Hardware",
+      "Climate"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aice-power",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/aice-power.json"
+  },
+  {
     "id": 31443,
     "name": "Complir",
     "slug": "complir",
@@ -1751,16 +1785,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Consulting hasn’t evolved much in decades. Yet it is still slow, expensive, and built on partial visibility.\r\n\r\nAI finally makes a new model possible.\r\n\r\nAt Foaster.ai, our agents interview employees at scale, reconstruct a detailed map of how the company actually works, and reason on top of it to generate recommendations. \r\n\r\nUnlike traditional consulting, which usually relies on a limited set of interviews and an incomplete view of operations, this lets us tackle much more complex problems with far greater precision. \r\n\r\nHuman experts stay in the loop to validate the output, challenge the reasoning when needed, deliver the final recommendations, and improve the system over time.\r\n\r\nWe can already work with companies today on:\r\n• Process mapping: map operations you have never fully understood, yet that are critical to the business\r\n• AI roadmap design: identify at scale where AI could have the highest impact across your organization\r\n• Cost reduction: surface inefficiencies buried across workflows, teams, and day-to-day operations\r\n\r\nWhat used to take weeks or months can now be explored in a few days, with much greater visibility into how the company actually works. And once that operational map exists, we can solve more and more business problems on top of the same foundation without starting from scratch.",
-    "one_liner": "AI-native consulting firm",
+    "long_description": "Foaster helps companies turn AI native. \r\n\r\nTo turn an existing company AI native, the first step is to understand at a granular level how it actually works. Not how leaders think it works, but how work really gets done across teams, workflows, dependencies, bottlenecks, handoffs, and day-to-day operations. \r\n\r\nThat is what Foaster does. Our system interviews teams across the company through 45-minute conversations, from frontline employees to leadership, and turns those conversations into a living map of the organization. \r\n\r\nOn top of that map, Foaster shows where and how AI should be integrated, what should change first, and how the transformation should be prioritized. \r\n\r\nOur system keeps learning through lightweight monthly interviews, tracks progress, detects resistance, and updates its recommendations as the organization and the AI landscape evolve.\r\n\r\nNo human consultant could build this level of operational understanding at that scale, then keep it continuously updated with that degree of adaptation and personalization.\r\n\r\nWe believe every company will need a system like this. Without it, they will never truly become AI native.",
+    "one_liner": "We turn your company AI-native.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

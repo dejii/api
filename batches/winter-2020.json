@@ -5346,24 +5346,26 @@
   },
   {
     "id": 13265,
-    "name": "Alloy Automation",
-    "slug": "alloy-automation",
+    "name": "Kinter",
+    "slug": "kinter",
     "former_names": [
       "Leadgem",
-      "Alloy"
+      "Alloy",
+      "Alloy Automation"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d611b19e76b1fd47ac709a3f9e194fac2e46bcaa.png",
-    "website": "https://runalloy.com/",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Alloy is an integration platform used by Amazon, Gorgias, Postscript, & others to launch ERP, commerce, CRM, and various other integrations. Founded in 2019, the company is backed by $27M from a16z, Bain Capital Ventures, Y Combinator, and others.",
-    "one_liner": "Alloy is a platform for building and managing SaaS integrations",
-    "team_size": 40,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94a916dd526a995c49f7cd66a284271b72ec8d28.png",
+    "website": "https://kinter.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Kinter empowers leading organizations to supplement their workforce with AI Accountants that execute the accounting close. Trusted by global leaders including Amazon, Mastercard, and UPS, Kinter is backed by a16z, Bain Capital Ventures, Y Combinator and dozens of career operators and founders.",
+    "one_liner": "A new kind of power for finance teams",
+    "team_size": 30,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1594318518,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "API"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5373,7 +5375,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -5381,13 +5383,13 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alloy-automation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/alloy-automation.json"
+    "url": "https://www.ycombinator.com/companies/kinter",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/kinter.json"
   },
   {
     "id": 13273,
@@ -7387,7 +7389,7 @@
       "India",
       "South Asia"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,

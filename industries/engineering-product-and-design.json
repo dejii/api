@@ -3769,7 +3769,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7217,51 +7217,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/release.json"
   },
   {
-    "id": 13265,
-    "name": "Alloy Automation",
-    "slug": "alloy-automation",
-    "former_names": [
-      "Leadgem",
-      "Alloy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d611b19e76b1fd47ac709a3f9e194fac2e46bcaa.png",
-    "website": "https://runalloy.com/",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Alloy is an integration platform used by Amazon, Gorgias, Postscript, & others to launch ERP, commerce, CRM, and various other integrations. Founded in 2019, the company is backed by $27M from a16z, Bain Capital Ventures, Y Combinator, and others.",
-    "one_liner": "Alloy is a platform for building and managing SaaS integrations",
-    "team_size": 40,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1594318518,
-    "tags": [
-      "SaaS",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alloy-automation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/alloy-automation.json"
-  },
-  {
     "id": 13303,
     "name": "ToDesktop",
     "slug": "todesktop",
@@ -9604,7 +9559,7 @@
     "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/magicbell",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/magicbell.json"
   },
@@ -22132,17 +22087,17 @@
     "website": "https://www.refresh.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building RL environments for coding and computer use. ",
-    "one_liner": "RL environments for computer use and software engineering work",
+    "one_liner": "Training gyms for computer use and software engineering work",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Recruiting",
       "Market Research",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23238,16 +23193,16 @@
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Embedder is a coding agent that can write, test, and debug firmware.",
-    "one_liner": "Cursor for Firmware",
+    "one_liner": "AI Firmware Engineer",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25322,16 +25277,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
     "website": "https://replicas.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Use background coding agents from anywhere",
+    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "one_liner": "Background coding agents for engineering teams",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

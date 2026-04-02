@@ -3616,48 +3616,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
   },
   {
-    "id": 31369,
-    "name": "InLoop Robotics",
-    "slug": "inloop-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f586c0db7df7371426565793ae565ba0423774.png",
-    "website": "https://inloop-robotics.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building AI-native fulfillment powered by robotics.\r\nWarehouses without human labor that get better, faster, and cheaper with every order.\r\n\r\nMost robotics companies wait until their system is perfect before deploying. We don't. We ship imperfect policies into real warehouses, detect failures in real time, recover automatically when we can, and bring in a remote human operator when we can't.\r\n\r\nEvery failure becomes training data. Every intervention makes the system better. The result is a fulfillment system that continuously learns from production.",
-    "one_liner": "Deploying robots that ask for help!",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1774801488,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Logistics",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inloop-robotics",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/inloop-robotics.json"
-  },
-  {
     "id": 31419,
     "name": "StableBrowse",
     "slug": "stablebrowse",
@@ -3665,16 +3623,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed9bc479aa95e772450f53b3ce34a581c2a1e4b7.png",
     "website": "https://stablebrowse.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are making the world's fastest and lightest browser for AI agents. Agents don’t need to see UIs like us humans do. We remove the costly visual rendering stack, giving agents a semantic understanding of the web instead of brittle interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our browser that turns the web into a native protocol for LLMs.",
+    "long_description": "We are making the world's fastest and lightest browser for your AI agents. Agents don’t need to see UIs like us humans do. We remove the costly visual rendering stack, giving agents a semantic understanding of the web instead of brittle interfaces. Your agents can perform deep research, large-scale scraping, and complex automation—more efficiently with our browser that turns the web into a native protocol for LLMs.",
     "one_liner": "Browser for AI agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774843315,
     "tags": [
+      "Artificial Intelligence",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,

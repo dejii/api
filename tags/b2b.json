@@ -6279,7 +6279,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13094,7 +13094,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -30899,7 +30899,7 @@
     "all_locations": "Orem, UT, USA",
     "long_description": "Hona is a legal technology company transforming the personal injury law space. Hona's platform helps PI firms strengthen client engagement through real-time case status tracking, AI-powered communication tools, and intelligent medical management — driving better outcomes for firms and the clients they serve.\r\n\r\nIn addition to status updates, Hona allows clients to upload documents, securely message their legal team, and share feedback—all in one place. Hona integrates seamlessly with the law firm's existing case management systems, making it easy to implement without disrupting day-to-day operations.\r\n\r\nHona's long-term vision is to transform client communication across the legal industry by making clarity and transparency the standard. ",
     "one_liner": "Personal Injury Legal Work - Automated",
-    "team_size": 64,
+    "team_size": 32,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1669140082,
@@ -30923,7 +30923,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44805,16 +44805,16 @@
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Embedder is a coding agent that can write, test, and debug firmware.",
-    "one_liner": "Cursor for Firmware",
+    "one_liner": "AI Firmware Engineer",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45178,52 +45178,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sigmanticai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sigmanticai.json"
-  },
-  {
-    "id": 30749,
-    "name": "Fernstone",
-    "slug": "fernstone",
-    "former_names": [
-      "Sentri Security",
-      "Sentri"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
-    "website": "https://www.fernstone.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Fernstone is a full stack insurance brokerage: we combine AI with licensed brokers to obtain complex insurance faster, and at better terms. Today, we manage risk for 100+ businesses in construction, security, and logistics. ",
-    "one_liner": "Full-stack insurance brokerage for businesses. ",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1759775643,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fernstone",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/fernstone.json"
   },
   {
     "id": 30754,
@@ -45783,51 +45737,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bolna-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bolna-ai.json"
-  },
-  {
-    "id": 30854,
-    "name": "Hyperspell",
-    "slug": "hyperspell",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4149c6afc651c9770fc182e08dde776e24f88554.png",
-    "website": "https://hyperspell.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperspell (YC F25) gives AI agents memory.\r\n\r\nIt connects to tools like Slack, Gmail, Notion, and Drive so agents can recall, reason, and remember across company knowledge. Developers use Hyperspell’s API to turn disconnected agents into AI coworkers that understand their work. Conor and Manu founded Hyperspell after building their own workplace agent and seeing how limited AI is without memory. They have over 15 years of experience in machine learning and have scaled API-based products to $30M ARR.",
-    "one_liner": "Memory for AI Agents",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1760534513,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hyperspell",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
   },
   {
     "id": 30856,
@@ -47346,16 +47255,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
     "website": "https://replicas.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Use background coding agents from anywhere",
+    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "one_liner": "Background coding agents for engineering teams",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47840,16 +47749,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Consulting hasn’t evolved much in decades. Yet it is still slow, expensive, and built on partial visibility.\r\n\r\nAI finally makes a new model possible.\r\n\r\nAt Foaster.ai, our agents interview employees at scale, reconstruct a detailed map of how the company actually works, and reason on top of it to generate recommendations. \r\n\r\nUnlike traditional consulting, which usually relies on a limited set of interviews and an incomplete view of operations, this lets us tackle much more complex problems with far greater precision. \r\n\r\nHuman experts stay in the loop to validate the output, challenge the reasoning when needed, deliver the final recommendations, and improve the system over time.\r\n\r\nWe can already work with companies today on:\r\n• Process mapping: map operations you have never fully understood, yet that are critical to the business\r\n• AI roadmap design: identify at scale where AI could have the highest impact across your organization\r\n• Cost reduction: surface inefficiencies buried across workflows, teams, and day-to-day operations\r\n\r\nWhat used to take weeks or months can now be explored in a few days, with much greater visibility into how the company actually works. And once that operational map exists, we can solve more and more business problems on top of the same foundation without starting from scratch.",
-    "one_liner": "AI-native consulting firm",
+    "long_description": "Foaster helps companies turn AI native. \r\n\r\nTo turn an existing company AI native, the first step is to understand at a granular level how it actually works. Not how leaders think it works, but how work really gets done across teams, workflows, dependencies, bottlenecks, handoffs, and day-to-day operations. \r\n\r\nThat is what Foaster does. Our system interviews teams across the company through 45-minute conversations, from frontline employees to leadership, and turns those conversations into a living map of the organization. \r\n\r\nOn top of that map, Foaster shows where and how AI should be integrated, what should change first, and how the transformation should be prioritized. \r\n\r\nOur system keeps learning through lightweight monthly interviews, tracks progress, detects resistance, and updates its recommendations as the organization and the AI landscape evolve.\r\n\r\nNo human consultant could build this level of operational understanding at that scale, then keep it continuously updated with that degree of adaptation and personalization.\r\n\r\nWe believe every company will need a system like this. Without it, they will never truly become AI native.",
+    "one_liner": "We turn your company AI-native.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
