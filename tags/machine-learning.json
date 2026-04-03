@@ -1335,7 +1335,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6583,11 +6583,11 @@
     "slug": "provision",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/385a0231f7ab5d980e79ffdfbfa16bc2183b283d.png",
-    "website": "https://useprovision.com",
+    "website": "https://provision.com",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Provision is building the contract analysis platform for construction. Instead of manually reading through thousands of pages of documents and revisions, Provision organizes and extracts information so constructors can save time and reduce the cost of future mistakes.",
+    "long_description": "Provision is building the AI Estimator for construction. We identify risks and obligations in contracts, specs, and drawings so contractors can reduce time spent reviewing documents and focus on winning and delivering projects profitably. Backed by Y Combinator (S22).",
     "one_liner": "Ironclad for construction",
-    "team_size": 11,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1653315975,
@@ -8809,6 +8809,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/supercontrast.json"
   },
   {
+    "id": 30045,
+    "name": "Archil",
+    "slug": "archil",
+    "former_names": [
+      "Neptune Storage",
+      "Regatta Storage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
+    "website": "https://archil.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Archil transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
+    "one_liner": "The high-performance file system that connects AI to data",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1727196277,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archil",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/archil.json"
+  },
+  {
     "id": 30048,
     "name": "Matcha",
     "slug": "astrix-health",
@@ -8862,18 +8908,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c94f3962d8cce39d7af63858319c4fa0d0d44f8.png",
     "website": "https://usemoonshine.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building state-of-the-art SLAM, perception, and spatial understanding models that leverage vision alone to map, interpret, and interact with the world.",
-    "one_liner": "Building software to understanding the world with a camera",
+    "long_description": "",
+    "one_liner": "Extending AI to interact with the real world",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1729546253,
     "tags": [
-      "Artificial Intelligence",
-      "Indoor Mapping",
       "Machine Learning",
-      "Video",
-      "Automation"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

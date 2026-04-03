@@ -130,7 +130,7 @@
     "former_names": [
       "Tropir"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3625aa6dc8b9ca3fedb43ca1043c7246c8185306.png",
     "website": "https://www.aviro.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aviro builds RL environments for long-horizon tool use across ML research, live web, and enterprise knowledge work. We partner with frontier labs and Fortune 100 companies to train models as high-stakes operators and to perform research-grade work.",
@@ -140,9 +140,7 @@
     "subindustry": "B2B",
     "launched_at": 1746601065,
     "tags": [
-      "Generative AI",
-      "Reinforcement Learning",
-      "AI"
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1453,14 +1451,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
     "website": "https://almond.bot/",
-    "all_locations": "",
-    "long_description": "Industrial grade 7 DoF robot arms designed and assembled (by robots) in California.",
-    "one_liner": "Robots designed for the era of AI",
-    "team_size": 2,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build humanoid robot arms for AI researchers and AI-first robotic companies.",
+    "one_liner": "Robot hardware for AI",
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1745432874,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1472,7 +1476,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5640,7 +5645,7 @@
     "all_locations": "",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1746647881,
@@ -5653,7 +5658,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",

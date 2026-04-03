@@ -5375,7 +5375,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials",
       "Manufacturing and Robotics"
@@ -12687,14 +12687,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
     "website": "https://almond.bot/",
-    "all_locations": "",
-    "long_description": "Industrial grade 7 DoF robot arms designed and assembled (by robots) in California.",
-    "one_liner": "Robots designed for the era of AI",
-    "team_size": 2,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build humanoid robot arms for AI researchers and AI-first robotic companies.",
+    "one_liner": "Robot hardware for AI",
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1745432874,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Manufacturing",
+      "Automation",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -12706,7 +12712,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -13110,7 +13117,7 @@
     "all_locations": "",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1746647881,
@@ -13123,7 +13130,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -13975,7 +13982,7 @@
     "one_liner": "Robotics for Space R&D",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1772084363,
     "tags": [],
     "tags_highlighted": [],
@@ -13986,7 +13993,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Manufacturing and Robotics"
+      "Aviation and Space"
     ],
     "regions": [
       "Unspecified"
@@ -15253,6 +15260,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inloop-robotics",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/inloop-robotics.json"
+  },
+  {
+    "id": 31374,
+    "name": "Tenet Industries",
+    "slug": "tenet-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5849b2060564f1836d25c1fa4a3cd18ef1bf9553.png",
+    "website": "https://www.tenetindustries.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Tenet Industries is building low-cost, mass-manufacturable strike drones. \r\n\r\nWe have developed our own HW and SW platform optimized for automated manufacturing, enabling hyperscaling of production across multiple strike categories (FPV, fixed-wing, shahed-type, missiles).\r\n\r\nWe're using design-for-automation and first principles to reimagine how a defense product is developed and manufactured. Thereby lowering the cost and filling the arsenals of the west.\r\n\r\nOur first product is a kamikaze quadcopter.",
+    "one_liner": "Drones as ammunition. ",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1775173231,
+    "tags": [
+      "Hardware",
+      "Drones",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tenet-industries",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json"
   },
   {
     "id": 31436,

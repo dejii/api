@@ -6259,7 +6259,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13170,7 +13170,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29001,18 +29001,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
     "website": "https://velt.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to make the web more collaborative. We're not just making collaboration faster—we're crafting it to be the best.\r\n\r\nToday we’re all using online platforms more than ever before - building, researching, learning, connecting etc. And we're not doing it alone. We're doing it together with other people and machines, turning the internet into the world's biggest team.\r\n\r\nYet, the web was built for solo voyages. We saw a shift when platforms like Figma and Google Docs brought a multiplayer approach, breaking down walls and inspiring seamless teamwork.\r\n\r\nAt Velt, we're taking it further. We're on a mission to infuse the magic of collaboration into the fabric of the web—one app at a time. We aim to erase the lines between online and offline co-working, crafting an environment where distance is irrelevant, and 'flow' is the norm.\r\n\r\nRight now, more than half of work hours are spent on coordination and communication—less on creating. With Velt, we're setting out to reverse these figures, reducing time spent on logistical issues by over 90%. Imagine what we can create when we spend less time talking about work and more time doing it!\r\n\r\nWe're building a better web—a web for us, for our team, for everyone. Join us, and let's accelerate the future of web together 🚀\r\n\r\nOur Products:\r\n\r\n- Velt Collaboration SDK (https://velt.dev/): JS SDK to add powerful collaboration experiences to your own product for your end-users. This helps you ship such experiences ridiculously fast, increase user growth and engagement.\r\n- Superflow (https://usesuperflow.com/): JS plugin to enable product, marketing and design teams to comment and collaborate directly on their websites. This helps them iterate and ship their products 10x faster.\r\n\r\nWe’re a team of ex-Googlers. We've launched products like Augmented Reality in Google Search & Maps.\r\n\r\nCome build a better web with us 🚀",
-    "one_liner": "Add powerful collaboration features to your product ridiculously fast.",
+    "long_description": "Add features like contextual Comments, Notifications, Recordings, Multiplayer editing, Huddles, Activity Logs to your product.",
+    "one_liner": "The Complete Collaboration Toolkit",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1646206414,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
-      "API",
-      "Remote Work"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37185,7 +37185,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -41684,7 +41684,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -46749,7 +46749,7 @@
     "all_locations": "",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
     "one_liner": "Deep space communications as a service",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1746647881,
@@ -46762,7 +46762,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -48309,10 +48309,10 @@
     "subindustry": "B2B",
     "launched_at": 1768312668,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48501,6 +48501,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saffron",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
+  },
+  {
+    "id": 31404,
+    "name": "Userlens",
+    "slug": "userlens",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
+    "website": "https://userlens.io",
+    "all_locations": "Helsinki, Finland",
+    "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
+    "one_liner": "AI agents that predicts churn months before it happens. ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1775157268,
+    "tags": [
+      "SaaS",
+      "Customer Success",
+      "Enterprise Software",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Finland",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/userlens",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
   },
   {
     "id": 31407,

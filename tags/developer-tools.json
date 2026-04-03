@@ -10403,18 +10403,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
     "website": "https://velt.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to make the web more collaborative. We're not just making collaboration faster—we're crafting it to be the best.\r\n\r\nToday we’re all using online platforms more than ever before - building, researching, learning, connecting etc. And we're not doing it alone. We're doing it together with other people and machines, turning the internet into the world's biggest team.\r\n\r\nYet, the web was built for solo voyages. We saw a shift when platforms like Figma and Google Docs brought a multiplayer approach, breaking down walls and inspiring seamless teamwork.\r\n\r\nAt Velt, we're taking it further. We're on a mission to infuse the magic of collaboration into the fabric of the web—one app at a time. We aim to erase the lines between online and offline co-working, crafting an environment where distance is irrelevant, and 'flow' is the norm.\r\n\r\nRight now, more than half of work hours are spent on coordination and communication—less on creating. With Velt, we're setting out to reverse these figures, reducing time spent on logistical issues by over 90%. Imagine what we can create when we spend less time talking about work and more time doing it!\r\n\r\nWe're building a better web—a web for us, for our team, for everyone. Join us, and let's accelerate the future of web together 🚀\r\n\r\nOur Products:\r\n\r\n- Velt Collaboration SDK (https://velt.dev/): JS SDK to add powerful collaboration experiences to your own product for your end-users. This helps you ship such experiences ridiculously fast, increase user growth and engagement.\r\n- Superflow (https://usesuperflow.com/): JS plugin to enable product, marketing and design teams to comment and collaborate directly on their websites. This helps them iterate and ship their products 10x faster.\r\n\r\nWe’re a team of ex-Googlers. We've launched products like Augmented Reality in Google Search & Maps.\r\n\r\nCome build a better web with us 🚀",
-    "one_liner": "Add powerful collaboration features to your product ridiculously fast.",
+    "long_description": "Add features like contextual Comments, Notifications, Recordings, Multiplayer editing, Huddles, Activity Logs to your product.",
+    "one_liner": "The Complete Collaboration Toolkit",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1646206414,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
-      "API",
-      "Remote Work"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19152,6 +19152,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/revyl.json"
   },
   {
+    "id": 30045,
+    "name": "Archil",
+    "slug": "archil",
+    "former_names": [
+      "Neptune Storage",
+      "Regatta Storage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
+    "website": "https://archil.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Archil transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
+    "one_liner": "The high-performance file system that connects AI to data",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1727196277,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Big Data",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/archil",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/archil.json"
+  },
+  {
     "id": 30046,
     "name": "Cekura",
     "slug": "cekura-ai",
@@ -23369,6 +23415,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arga-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arga-labs.json"
+  },
+  {
+    "id": 31458,
+    "name": "Ara",
+    "slug": "ara",
+    "former_names": [
+      "EasyClaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/709b77ff2570af190d17b38705c6aa58eb3a15cf.png",
+    "website": "https://ara.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\nUsers get instant cloud runtimes to run agents like OpenClaw in isolated environments, letting them organize files, send emails, and handle day-to-day tasks automatically.",
+    "one_liner": "personal ai cloud computing for everyone",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1775160352,
+    "tags": [
+      "Developer Tools",
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ara",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
   },
   {
     "id": 31518,

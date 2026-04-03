@@ -1906,19 +1906,25 @@
   },
   {
     "id": 30877,
-    "name": "Questom",
-    "slug": "questom",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81175075c72341af5dddb09d4bca172f70accf41.png",
-    "website": "https://www.questom.ai",
+    "name": "Trelium",
+    "slug": "trelium",
+    "former_names": [
+      "Questom"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c983ddfd3fa9bc66481090e877261b8325bea1.png",
+    "website": "https://www.trelium.com",
     "all_locations": "",
-    "long_description": "We are building the agent first sales platform that will power sales for every single company soon. Join us to revolutionize how sales are done in the agent era.",
-    "one_liner": "AI Agents for B2B Sales",
+    "long_description": "",
+    "one_liner": "The Agent to Build Your Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "launched_at": 1759277752,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -1926,19 +1932,18 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "regions": [
       "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/questom",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/questom.json"
+    "url": "https://www.ycombinator.com/companies/trelium",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/trelium.json"
   },
   {
     "id": 30878,
@@ -3974,50 +3979,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/aside",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
-  },
-  {
-    "id": 30944,
-    "name": "HireGlide",
-    "slug": "hireglide",
-    "former_names": [
-      "Grappl"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
-    "website": "https://www.hireglide.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HireGlide is an AI-native recruiting agency. We use software and agents to find companies better people faster.\r\n\r\n",
-    "one_liner": "AI-native recruiting agency",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1762295048,
-    "tags": [
-      "Artificial Intelligence",
-      "Recruiting",
-      "HR Tech",
-      "Talent Acquisition"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hireglide",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
   },
   {
     "id": 30945,

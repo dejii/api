@@ -4083,7 +4083,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6445,7 +6445,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13797,7 +13797,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17391,9 +17391,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae92ae03ac6751b76d657b89f31e27c32bddc3d7.png",
     "website": "https://getpartna.com",
     "all_locations": "Wilmington, DE, USA; Remote",
-    "long_description": "Modern companies use Partna's API and B2B payment tools to smoothly launch and operate in Africa",
-    "one_liner": "Your Global payments partner for Africa",
-    "team_size": 16,
+    "long_description": "Stablecoin-powered payment infrastructure, to collect, convert, and settle between Africa and global markets.",
+    "one_liner": "Unlock African payments",
+    "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1647334206,
@@ -24161,15 +24161,15 @@
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster by getting them the insurance they need to sell into enterprise customers, pass procurement, move through onboarding, and meet retail vendor requirements. We use AI-driven workflows and licensed broker review to compare top-rated U.S. carriers and help founders secure D&O, Tech E&O, Cyber, General Liability, Product Liability, and Certificates of Insurance (COIs). We serve AI/SaaS, Space, Fintech and Web3 startups. ",
-    "one_liner": "AI-native commercial insurance broker specializing in emerging risks.",
+    "one_liner": "AI-native commercial insurance broker for startups.",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1731782052,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24454,7 +24454,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -25827,7 +25827,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kita",
@@ -26312,6 +26312,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/unifold.json"
   },
   {
+    "id": 31330,
+    "name": "Standard Signal",
+    "slug": "standard-signal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a8bb04e2bfc061803541bd6c36efdf20229704c.png",
+    "website": "https://standardsignal.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Standard Signal is the first hedge fund that researches and executes trades purely with AI. Our custom models discover and trade on new fundamental truths about the world before humans can.",
+    "one_liner": "Hedge fund where AI researches and executes every trade",
+    "team_size": 1,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1775159965,
+    "tags": [
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/standard-signal",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/standard-signal.json"
+  },
+  {
     "id": 31344,
     "name": "Totalis",
     "slug": "totalis",
@@ -26435,5 +26475,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kimpton-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton-ai.json"
+  },
+  {
+    "id": 31529,
+    "name": "Mochatrade",
+    "slug": "mochatrade",
+    "former_names": [
+      "Marvin",
+      "Leverberry"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9273dfa63dba476a7e62fa37812fc69bfed428ac.png",
+    "website": "https://www.mochatrade.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Mochatrade lets global traders trade perpetual futures on US stocks with up to 20x leverage. Access 50+ US stocks including TSLA, NVDA, AAPL. Mocha is fully self-custodial and no US brokerage account is needed. Traders on-ramp in local currencies and get professional-grade execution on the world's most liquid equities. Starting with India (140M+ demat account holders), and expanding across other markets.",
+    "one_liner": "US stock perps for global traders",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1775162589,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mochatrade",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/mochatrade.json"
   }
 ]
