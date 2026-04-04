@@ -13058,7 +13058,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15966,7 +15966,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25276,18 +25276,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
     "website": "https://replicas.dev",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
     "one_liner": "Background coding agents for engineering teams",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -25299,8 +25295,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25320,8 +25315,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fc3965228e864c02ebb264e89eeaeae9b803abb.png",
     "website": "https://laminalabs.ai",
     "all_locations": "",
-    "long_description": "We are building the fastest deterministic animation infrastructure for education. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper.",
-    "one_liner": "Fastest deterministic animation infrastructure for EdTech",
+    "long_description": "We are building the fastest visual infrastructure for EdTech AI applications. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper. ",
+    "one_liner": "Visual infrastructure for EdTech AI applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -25478,5 +25473,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runtime",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/runtime.json"
+  },
+  {
+    "id": 31536,
+    "name": "Gigacatalyst",
+    "slug": "gigacatalyst",
+    "former_names": [
+      "Giga Next Inc",
+      "Giga Catalyst"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
+    "website": "https://gigacatalyst.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We provide a white-label AI builder that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion for B2B vertical SaaS.",
+    "one_liner": "Turn every customer workflow into a native part of your SaaS with AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1775192956,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Enterprise",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gigacatalyst",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gigacatalyst.json"
   }
 ]

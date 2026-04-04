@@ -19023,16 +19023,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/084dd39112f991529cbcde05f2b6e80e075b606f.png",
     "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "True3D is building the next generation of video.\r\nOur AI foundation models bring real-world depth to every frame, making 3D creation and streaming instant and universal.",
-    "one_liner": "AI models for 3D video creation and playback",
+    "long_description": "True3D is building the next generation of video. Our AI foundation models convert 2D video into immersive 3D, expanding the field of view and adding real depth to every frame. Content creation and streaming that's instant and universal.",
+    "one_liner": "AI models for immersive 3D video creation",
     "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1614739771,
     "tags": [
+      "Artificial Intelligence",
+      "Video",
       "Media",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19041,8 +19042,8 @@
     "batch": "Winter 2021",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Content"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -20887,7 +20888,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25007,7 +25008,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29542,7 +29543,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33482,6 +33483,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/trigger-dev.json"
   },
   {
+    "id": 27686,
+    "name": "DrDroid",
+    "slug": "drdroid",
+    "former_names": [
+      "Doctor Droid"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b6d81dd6d4c4bdc913b702f0bd007e3c36cfe55.png",
+    "website": "https://drdroid.io/",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "DrDroid is building AI Agents for Platform & Infrastructure teams. \r\nWe help engineering teams fix issues faster and reduce escalations during on-call—automating triage, debugging, and remediation.\r\n\r\nWe’re also the team behind several open-source projects:\r\n🔹 Playbooks – A runbook automation platform\r\n🔹 Kenobi – An event analytics platform for debugging data pipelines\r\n\r\nJoin us in redefining how teams run operations in the post-GPT world.",
+    "one_liner": "Your best friend in production.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1668798140,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/drdroid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/drdroid.json"
+  },
+  {
     "id": 27690,
     "name": "Credal.ai",
     "slug": "credal-ai",
@@ -35458,8 +35502,8 @@
     "website": "https://vitalize.care",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vitalize is solving the most pressing operations problems for health systems, starting with optimizing staffing and scheduling. We help hospitals dramatically reduce labor spend, improve operational efficiency, and unburden clinical leaders from hours of work per day.\r\n\r\nWe're partnered with some of the country's most innovative health systems, and are excited to share more details soon!",
-    "one_liner": "Autonomous hospital operations",
-    "team_size": 23,
+    "one_liner": "Transforming how health systems optimize labor",
+    "team_size": 28,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1675068442,
@@ -36146,6 +36190,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/vellum",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vellum.json"
+  },
+  {
+    "id": 28127,
+    "name": "Benchmark",
+    "slug": "benchmark",
+    "former_names": [
+      "BidSight"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
+    "website": "https://withbenchmark.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
+    "one_liner": "Decision infrastructure for investment firms",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1673633463,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchmark",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/benchmark.json"
   },
   {
     "id": 28131,
@@ -37832,6 +37920,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/electric-air-2.json"
   },
   {
+    "id": 28823,
+    "name": "Craftwork",
+    "slug": "craftwork",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a808b8722de9d2ecbb9fc19cae6ba864f6358f23.png",
+    "website": "https://craftwork.com/",
+    "all_locations": "Charlotte, NC, USA",
+    "long_description": "Craftwork is a full-service home painting company that uses software to dramatically improve the homeowner and operator experience.",
+    "one_liner": "Digital-native home painting franchise",
+    "team_size": 50,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1689608644,
+    "tags": [
+      "Proptech",
+      "Home Services",
+      "Home Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/craftwork",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/craftwork.json"
+  },
+  {
     "id": 28825,
     "name": "Solve Intelligence",
     "slug": "solve-intelligence",
@@ -37841,7 +37972,7 @@
     "all_locations": "",
     "long_description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney draft, prosecute, and harvest high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition, as well as claim charts for patent litigation, freedom to operate analysis, and more.",
     "one_liner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-    "team_size": 25,
+    "team_size": 43,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1686701574,
@@ -37859,7 +37990,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39027,48 +39158,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bretton-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/bretton-ai.json"
-  },
-  {
-    "id": 28932,
-    "name": "Respaid",
-    "slug": "respaid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8fe646749d3e1dce9b22d9134f31c861d6c0324.png",
-    "website": "https://www.respaid.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We recover up to 85,000 invoices per day and get 50% paid within 20 days on average.\r\n\r\nRespaid uses AI to respectfully collect overdue B2B invoices. Just give us an excel file—no attached invoices needed. We integrate with your stack or work standalone, protecting your brand's reputation while maximizing collections through our AI-powered, respectful approach.",
-    "one_liner": "Respectful B2B Debt Collection, Powered by AI",
-    "team_size": 42,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1688400893,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/respaid",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/respaid.json"
   },
   {
     "id": 28933,
@@ -43447,7 +43536,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -52716,7 +52805,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -53557,7 +53646,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c24ec3a4e8dad0268813a9fa6aad15a4b1d9c34.png",
     "website": "https://rebolt.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Rebolt sits on top of your systems and builds tailor-made AI software - to drive outcomes",
     "one_liner": "AI-Powered Company OS",
     "team_size": 3,
@@ -53565,8 +53654,8 @@
     "subindustry": "B2B",
     "launched_at": 1740196480,
     "tags": [
-      "Artificial Intelligence",
       "Enterprise Software",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -53579,7 +53668,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -53964,7 +54054,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "long_description": "Ambral is an AI Account Management team used and trusted by multi-billion dollar enterprises.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
     "one_liner": "AI Account Managers",
     "team_size": 2,
     "industry": "B2B",
@@ -54605,6 +54695,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sim.json"
   },
   {
+    "id": 30445,
+    "name": "Mbodi AI",
+    "slug": "mbodi-ai",
+    "former_names": [
+      "mbodi AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff64e6d141801dbac20dba751384bbd49f916a4a.png",
+    "website": "https://www.mbodi.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
+    "one_liner": "Industrial Robots that Learn and Operate Like Humans",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1747670628,
+    "tags": [
+      "Robotics",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mbodi-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/mbodi-ai.json"
+  },
+  {
     "id": 30448,
     "name": "PgDog",
     "slug": "pgdog",
@@ -54614,11 +54747,13 @@
     "all_locations": "Remote",
     "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
     "one_liner": "Scaling engine for PostgreSQL",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745009582,
-    "tags": [],
+    "tags": [
+      "Databases"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -56041,19 +56176,19 @@
       "prox"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/243748cd44668d7819fa6c9fccf9c7ae41fe71ea.png",
-    "website": "https://prox.inc",
-    "all_locations": "",
-    "long_description": "Prox is building digital co-workers for 3PLs and fulfillment centers - companies that store, pack, and ship for brands. We automate back-office operations layer that burns billions of labor hours across the industry.\r\n\r\n",
-    "one_liner": "AI-native OS for Customer Experience",
+    "website": "https://useprox.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every product ever sold needs support at some point. That support falls into one of two buckets.\r\n\r\nBucket 1: Simple stuff. T-shirts, screen protectors, keyboards. You buy it, it shows up, maybe you ask “where's my order?” once. This is solved. Zendesk and a hundred other horizontal companies solved it.\r\n\r\nBucket 2: Hard stuff. $20,000 industrial heaters. HVAC systems. CNC machines. Car parts. Products where buying wrong means your building doesn't have heat or your manufacturing line is down. Support for these products can only be performed by highly trained domain specialists and there aren't enough of them.\r\n\r\nIf you're selling EV charging stations, your support person needs to be a certified electrician who understands local power grids, installation codes, and compatibility matrices. You can't hire this off the street. You can't outsource it overseas.\r\n\r\nYou'd think LLMs would have solved this by now. They haven't. Three years into the LLM era, penetration in this industry is very low & the reason is twofold.\r\n\r\nFirst, off-the-shelf models don't actually understand these products. The knowledge lives in 48-page technical manuals buried on some manufacturer's website in terrible formatting — wiring schematics, compatibility matrices, installation diagrams that can only make sense visually. A general-purpose LLM can't draw you the diagram showing how to connect terminal A to terminal B. It doesn't have the spatial understanding or the product-specific reasoning to be a real technical advisor. So companies still rely entirely on human experts.\r\n\r\nSecond, even if the models were good enough, there are no harnesses to make them useful in the business.\r\n\r\nNo engine to capture deep technical knowledge about complex physical products and keep it updated. No way for a company to offload tribal knowledge from their senior technicians into a system. No way to see what questions customers are actually asking and feed that back into the knowledge base. No generative multimodal presentation and no expressive voice support.\r\n\r\nProx is building the best technical product expert for extremely complicated physical products.\r\n\r\nA multimodal agent that can draw wiring schemes, share CAD models, process incoming videos from a technician in the field, and support people over the phone with voice that can pass the Turing test. To get there, we're solving multimodal knowledge graph building at a very deep level. A huge portion of your work will be developing SOTA knowledge engines that can truly understand complex physical products.\r\n",
+    "one_liner": "Prox is building the best technical product expert for extremely…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1759337800,
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "E-commerce",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56066,6 +56201,8 @@
       "Retail"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -56278,7 +56415,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help foundation model labs and enterprises train computer use AI with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years. \r\n",
     "one_liner": "Data and RL environments to automate knowledge work",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750270235,
@@ -59684,6 +59821,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/imagine-ai.json"
   },
   {
+    "id": 30940,
+    "name": "Everest",
+    "slug": "everest",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
+    "website": "https://everestagi.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're an ex-Netflix team building the AI-native Netflix. ",
+    "one_liner": "Netflix for AI films and series ",
+    "team_size": null,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1756073155,
+    "tags": [
+      "Generative AI",
+      "Entertainment"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/everest",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
+  },
+  {
     "id": 30945,
     "name": "Zalos",
     "slug": "zalos",
@@ -60187,9 +60363,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvet.video",
     "all_locations": "",
-    "long_description": "The platform where frontier research labs buy data for world models.",
-    "one_liner": "Data for world models",
-    "team_size": 2,
+    "long_description": "The platform where frontier research labs buy data to pass the audiovisual Turing test.",
+    "one_liner": "Helping AI pass the audiovisual Turing test",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761236237,
@@ -61335,13 +61511,15 @@
   },
   {
     "id": 31243,
-    "name": "Scout Out",
-    "slug": "scout-out",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a3bd0b7bf890073bc7a6f793e377cb304145e60.png",
-    "website": "https://scoutout.ai/",
+    "name": "Foreman",
+    "slug": "foreman",
+    "former_names": [
+      "Scout Out"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ea6017f7d414cf92f14434141d6dd12101b14d9.png",
+    "website": "https://foreman.co",
     "all_locations": "",
-    "long_description": "Scout Out is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nScout Out replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Scout Out's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.\r\nWe're starting in Los Angeles, working closely with residential remodelers and contractors — including those managing post-fire rebuilds following the Palisades and Eaton fires.",
+    "long_description": "Foreman is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nForeman replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Foreman's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.",
     "one_liner": "Keeping contractors on the job site, not behind a desk.",
     "team_size": 2,
     "industry": "Real Estate and Construction",
@@ -61365,8 +61543,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scout-out",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
+    "url": "https://www.ycombinator.com/companies/foreman",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/foreman.json"
   },
   {
     "id": 31259,
@@ -61444,6 +61622,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wayco",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/wayco.json"
+  },
+  {
+    "id": 31302,
+    "name": "Remix",
+    "slug": "remix-3",
+    "former_names": [
+      "Resonate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c24a27022cd7cab3a1c917cac812b16b8f90267e.png",
+    "website": "https://remix.re",
+    "all_locations": "",
+    "long_description": "Remix is the easiest way to create content with AI. Connect your accounts, drop in photos, voice notes, or messages, and Remix instantly creates posts in your style: articles, tweets, carousels, short-form videos, even content riffing on the latest trending formats. Chat with 100s of parallel AI agents that handle everything from picking your best photos to writing copy to applying edits, all at once.\r\n\r\nInstagram was the easiest way to create photos on mobile. Remix is the easiest way to create everything else. Try it for yourself. Download the app and we'll instantly generate content from your LinkedIn and Twitter.",
+    "one_liner": "Social media content auto-generated with your existing data",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1770250805,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/remix-3",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/remix-3.json"
   },
   {
     "id": 31311,
@@ -61569,6 +61784,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hubxyz",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
+  },
+  {
+    "id": 31382,
+    "name": "Kinro",
+    "slug": "kinro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
+    "website": "https://www.kinro.ai/",
+    "all_locations": "",
+    "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
+    "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1773944938,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kinro",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kinro.json"
   },
   {
     "id": 31426,

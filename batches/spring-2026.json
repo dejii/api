@@ -88,6 +88,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
   },
   {
+    "id": 31102,
+    "name": "noetic",
+    "slug": "noetic",
+    "former_names": [
+      "Human Oracle",
+      "noetic",
+      "Fable"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dba387168963852908436d537a074d4e2c1ba833.png",
+    "website": "https://getnoetic.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Noetic handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Noetic’s AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
+    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773017725,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Robotics",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/noetic",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/noetic.json"
+  },
+  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -545,18 +590,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
     "website": "https://replicas.dev",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
     "one_liner": "Background coding agents for engineering teams",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773355936,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -568,8 +609,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -666,6 +706,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saffron",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/saffron.json"
+  },
+  {
+    "id": 31366,
+    "name": "Nine Fives",
+    "slug": "nine-fives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
+    "website": "https://ninefives.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1775260036,
+    "tags": [
+      "Radar",
+      "Telecommunications",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nine-fives",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
   },
   {
     "id": 31367,
@@ -874,23 +954,37 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
   },
   {
-    "id": 31382,
-    "name": "Kinro",
-    "slug": "kinro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
-    "website": "https://www.kinro.ai/",
+    "id": 31380,
+    "name": "Pulsent",
+    "slug": "pulsent",
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b93245a278c0a3095e4e4e1c3979b316a38a05.png",
+    "website": "https://pulsent.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
-    "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
-    "team_size": 3,
+    "long_description": "The Watching App continuously watches how your users interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nThe Watching App detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
+    "one_liner": "AI Agents that watch, engage and convert your users.",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
-    "launched_at": 1773944938,
+    "launched_at": 1775225049,
     "tags": [
+      "SaaS",
       "B2B",
-      "Insurance",
-      "Conversational AI"
+      "Sales Enablement",
+      "Monitoring",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -905,6 +999,42 @@
     "regions": [
       "United States of America",
       "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pulsent",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pulsent.json"
+  },
+  {
+    "id": 31382,
+    "name": "Kinro",
+    "slug": "kinro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
+    "website": "https://www.kinro.ai/",
+    "all_locations": "",
+    "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
+    "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1773944938,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1165,6 +1295,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
   },
   {
+    "id": 31408,
+    "name": "Salesgraph",
+    "slug": "salesgraph",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/febca88acc45186c0d3c21c31cb8dfbdd7f32484.png",
+    "website": "https://www.salesgraph.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Salesgraph equips reps with the most relevant context throughout the deal stage, providing proactive pre-call notes and post-call next steps. Sellers are CEOs of their deals; they need to know who the buyer is, what triggered them to take the first call, what their pain points are, how much value this new tool is bringing, are there any technical blockers, etc. \r\n\r\nA sale is only good when it doesn't feel like a sale to your customer, but rather the sales rep solved a problem for the customer. This was the problem Ricardo and I solved at Mintlify. We created a business case generator that took in call recordings, background news triggers and job updates, Mintlify's ROI and Pricing calculator, past deals won, and customer case studies --> produced a 3 page document expressing the value Mintlify provided + why the quote presented is justifiable. In doing so we closed more enterprise deals at a higher ACV as our champion was able to build a better purchasing case internally. \r\n\r\nOur goal is to empower every sales team to close deals at a higher ACV, while making sure reps learn from their mistakes and create a smooth sales experience for their end customer. ",
+    "one_liner": "the context layer for fast moving sales teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1775259755,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/salesgraph",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/salesgraph.json"
+  },
+  {
     "id": 31413,
     "name": "Arga Labs",
     "slug": "arga-labs",
@@ -1260,9 +1431,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774843315,
     "tags": [
-      "Artificial Intelligence",
       "API",
-      "Automation"
+      "Automation",
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1339,8 +1511,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5fc3965228e864c02ebb264e89eeaeae9b803abb.png",
     "website": "https://laminalabs.ai",
     "all_locations": "",
-    "long_description": "We are building the fastest deterministic animation infrastructure for education. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper.",
-    "one_liner": "Fastest deterministic animation infrastructure for EdTech",
+    "long_description": "We are building the fastest visual infrastructure for EdTech AI applications. With a simple text prompt, students get accurate visual explanations in seconds, making high-quality learning dramatically faster and cheaper. ",
+    "one_liner": "Visual infrastructure for EdTech AI applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1370,6 +1542,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lamina-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lamina-labs.json"
+  },
+  {
+    "id": 31424,
+    "name": "Lab0",
+    "slug": "lab0",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e54ac65b683433835143a5b5da2159a7c9445255.png",
+    "website": "https://lab0.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enterprise software implementation is broken,  and it has been for decades. \r\nEvery rollout, whether it's a traditional ERP or a new AI system, requires months of manual integration, configuration, and tuning done by armies of system integrators and forward-deployed engineers. \r\nLab0 builds agentic systems that automate this layer, compressing months-long implementations into weeks.",
+    "one_liner": "Automated forward-deployed engineers (AI FDEs)",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1775188246,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lab0",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/lab0.json"
   },
   {
     "id": 31426,
@@ -1929,9 +2142,9 @@
     "subindustry": "Consumer",
     "launched_at": 1775160352,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Consumer",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1953,6 +2166,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ara",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
+  },
+  {
+    "id": 31470,
+    "name": "Tasklet",
+    "slug": "tasklet-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81b17e42b6c7c39c503ac476a049465e7d2e530d.png",
+    "website": "https://tasklet.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated.\r\n\r\nTasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward.\r\n\r\nThe product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. \r\n\r\nWe think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
+    "one_liner": "The cloud agent operating system for knowledge work",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1775251797,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/tasklet-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tasklet-2.json"
   },
   {
     "id": 31477,
@@ -2493,6 +2749,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
+  },
+  {
+    "id": 31536,
+    "name": "Gigacatalyst",
+    "slug": "gigacatalyst",
+    "former_names": [
+      "Giga Next Inc",
+      "Giga Catalyst"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f036b6b16ede0b0a7e4c426862254c490d653c42.png",
+    "website": "https://gigacatalyst.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We provide a white-label AI builder that learns your APIs and embeds in your product, so your customers can build their own apps on your SaaS. Each customer can now adapt your product to match their workflows perfectly and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion for B2B vertical SaaS.",
+    "one_liner": "Turn every customer workflow into a native part of your SaaS with AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1775192956,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Enterprise",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gigacatalyst",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gigacatalyst.json"
   },
   {
     "id": 31550,

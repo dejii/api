@@ -3172,19 +3172,19 @@
     "website": "https://www.mbodi.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Teach robots new skills through natural language and run reliably in production in minutes.\r\n\r\nMbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",
-    "one_liner": "Industrial Robots that Act Like Humans",
+    "one_liner": "Industrial Robots that Learn and Operate Like Humans",
     "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1747670628,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -4016,6 +4016,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remy-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/remy-ai.json"
+  },
+  {
+    "id": 31366,
+    "name": "Nine Fives",
+    "slug": "nine-fives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12cace5da5d5e5852e19a386d33613f3f8222281.png",
+    "website": "https://ninefives.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Simple, Networked, Driverless, RF Test Equipment",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1775260036,
+    "tags": [
+      "Radar",
+      "Telecommunications",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nine-fives",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/nine-fives.json"
   },
   {
     "id": 31369,

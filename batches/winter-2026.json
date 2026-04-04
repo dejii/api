@@ -1951,51 +1951,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
   },
   {
-    "id": 31102,
-    "name": "noetic",
-    "slug": "noetic",
-    "former_names": [
-      "Human Oracle",
-      "noetic",
-      "Fable"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dba387168963852908436d537a074d4e2c1ba833.png",
-    "website": "https://getnoetic.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Noetic handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Noetic’s AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
-    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1773017725,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Robotics",
-      "Compliance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/noetic",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/noetic.json"
-  },
-  {
     "id": 31104,
     "name": "Cofia",
     "slug": "cofia",
@@ -4373,7 +4328,12 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Defense",
     "launched_at": 1768422348,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Drones",
+      "GovTech"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6066,13 +6026,15 @@
   },
   {
     "id": 31243,
-    "name": "Scout Out",
-    "slug": "scout-out",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a3bd0b7bf890073bc7a6f793e377cb304145e60.png",
-    "website": "https://scoutout.ai/",
+    "name": "Foreman",
+    "slug": "foreman",
+    "former_names": [
+      "Scout Out"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ea6017f7d414cf92f14434141d6dd12101b14d9.png",
+    "website": "https://foreman.co",
     "all_locations": "",
-    "long_description": "Scout Out is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nScout Out replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Scout Out's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.\r\nWe're starting in Los Angeles, working closely with residential remodelers and contractors — including those managing post-fire rebuilds following the Palisades and Eaton fires.",
+    "long_description": "Foreman is the all-in-one AI-powered project management platform built for residential contractors.\r\nToday, contractors run complex businesses on a patchwork of tools that were never designed for construction — estimates in spreadsheets, plans in email, proposals copy-pasted from old Word docs, photos scattered across phones. Nothing talks to anything else, and the admin work never stops.\r\nForeman replaces that patchwork with a single platform that manages the full lifecycle of a construction job, from first estimate to final invoice. Contractors upload plans, photos, or a project description, and Foreman's AI instantly generates structured takeoffs, scoped estimates, and professional proposals — in minutes, not hours. From there, every customer record, document, permit, photo, change order, and conversation lives in one place, organized around the job.\r\nThe result: contractors spend less time buried in admin and more time building. They bid faster, manage jobs with less chaos, and close projects cleanly — without duct-taping five tools together to do it.",
     "one_liner": "Keeping contractors on the job site, not behind a desk.",
     "team_size": 2,
     "industry": "Real Estate and Construction",
@@ -6096,8 +6058,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scout-out",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
+    "url": "https://www.ycombinator.com/companies/foreman",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/foreman.json"
   },
   {
     "id": 31244,
@@ -7327,7 +7289,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",

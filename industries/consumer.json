@@ -24609,57 +24609,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/lalabox.json"
   },
   {
-    "id": 22880,
-    "name": "True3D Labs",
-    "slug": "true3d-labs",
-    "former_names": [
-      "True3D",
-      "Hyperplane",
-      "Hackpack",
-      "LeetDesign",
-      "QuickVid.ai",
-      "TutorAI.me",
-      "QuickVid.ai",
-      "QuickVid",
-      "True3D"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/084dd39112f991529cbcde05f2b6e80e075b606f.png",
-    "website": "https://true3d.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "True3D is building the next generation of video.\r\nOur AI foundation models bring real-world depth to every frame, making 3D creation and streaming instant and universal.",
-    "one_liner": "AI models for 3D video creation and playback",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1614739771,
-    "tags": [
-      "Media",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/true3d-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d-labs.json"
-  },
-  {
     "id": 22890,
     "name": "zingbus",
     "slug": "zingbus",
@@ -29355,13 +29304,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73c93a3d2686736e8af41a94ccec32614c6ca81.png",
     "website": "https://www.fetii.com/",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Fetii is a group rideshare app that lets both consumers and businesses order 15-passenger vans on-demand. Users pay using a QR check-in system that splits payments seamlessly amongst the group at time of boarding. \r\n\r\nNo longer are groups forced to reserve a charter vehicle weeks in advance, pay a 5 hour minimum for a 15 minute trip, and have no payment flexibility OR split up the group and utilize multiple vehicles...Fetii takes the friction out of group transportation.\r\n\r\nFetii has already transported over 800,000 passengers, removed over 140,000 unnecessary vehicles, and is operating in 7 cities.",
-    "one_liner": "Fetii transports groups and businesses together, on-demand",
-    "team_size": 6,
+    "long_description": "Fetii is an AI-driven platform utilizing high-capacity vehicles to move groups with the click of a button. No more splitting up. No more outdated charters.\r\n\r\nFetii transports millions of riders each year and operates nationwide.",
+    "one_liner": "Fetii is an AI-driven mobility platform",
+    "team_size": 50,
     "industry": "Consumer",
     "subindustry": "Consumer -> Transportation Services",
     "launched_at": 1653410309,
     "tags": [
+      "Artificial Intelligence",
       "Transportation"
     ],
     "tags_highlighted": [],
@@ -35730,10 +35680,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32e3f0b4a6932eaa071b0b63031b269de4048c47.png",
     "website": "https://tornyol.com/",
-    "all_locations": "",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "Tornyol builds micro-drones that kill mosquitoes. We use smartphone microphones, car park assist sensors and some clever DSP and control to transform 40-gram toy drones into mosquito killers. Because these drones are so cheap and fast, we will lower the cost of mosquito control by 100x which will enable the eradication of mosquitoes from cities, saving more than a million people each year from Malaria, West Nile, Dengue, etc. ",
     "one_liner": "We build micro-drones that kill mosquitoes. ",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1761986194,
@@ -35753,7 +35703,8 @@
       "Consumer Electronics"
     ],
     "regions": [
-      "Unspecified"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -35762,6 +35713,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tornyol",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/tornyol.json"
+  },
+  {
+    "id": 30940,
+    "name": "Everest",
+    "slug": "everest",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
+    "website": "https://everestagi.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're an ex-Netflix team building the AI-native Netflix. ",
+    "one_liner": "Netflix for AI films and series ",
+    "team_size": null,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1756073155,
+    "tags": [
+      "Generative AI",
+      "Entertainment"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/everest",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
   },
   {
     "id": 30943,
@@ -36165,7 +36155,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -36282,9 +36272,9 @@
     "subindustry": "Consumer",
     "launched_at": 1775160352,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Consumer",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,

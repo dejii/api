@@ -3490,7 +3490,7 @@
     "all_locations": "Chicago, IL, USA; Remote",
     "long_description": "We run app servers and databases close to end users. Developers deploy their apps to Fly.io (it's about the simplest place to deploy a Docker Image) and use our CLI to launch instances in regions that are most important for their application.",
     "one_liner": "Run full stack apps close to your users.",
-    "team_size": 72,
+    "team_size": 48,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1585341842,
@@ -3513,7 +3513,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": true,
@@ -4505,6 +4505,58 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/encord",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/encord.json"
+  },
+  {
+    "id": 22880,
+    "name": "True3D Labs",
+    "slug": "true3d-labs",
+    "former_names": [
+      "True3D",
+      "Hyperplane",
+      "Hackpack",
+      "LeetDesign",
+      "QuickVid.ai",
+      "TutorAI.me",
+      "QuickVid.ai",
+      "QuickVid",
+      "True3D"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/084dd39112f991529cbcde05f2b6e80e075b606f.png",
+    "website": "https://true3d.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "True3D is building the next generation of video. Our AI foundation models convert 2D video into immersive 3D, expanding the field of view and adding real depth to every frame. Content creation and streaming that's instant and universal.",
+    "one_liner": "AI models for immersive 3D video creation",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1614739771,
+    "tags": [
+      "Artificial Intelligence",
+      "Video",
+      "Media",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/true3d-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/true3d-labs.json"
   },
   {
     "id": 22986,
@@ -9679,11 +9731,13 @@
     "all_locations": "Remote",
     "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
     "one_liner": "Scaling engine for PostgreSQL",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745009582,
-    "tags": [],
+    "tags": [
+      "Databases"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -11818,9 +11872,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1774843315,
     "tags": [
-      "Artificial Intelligence",
       "API",
-      "Automation"
+      "Automation",
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
