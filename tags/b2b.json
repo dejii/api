@@ -21906,9 +21906,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b9732a89bf577bd80a0c7d0b377bd35fcce86ce.png",
     "website": "https://GetAgency.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Agency specializes in multi-party security and compliance scenarios; we are the Palantir of compliance. We serve the most innovative companies and their teams working on critical challenges and transformative technologies by helping them achieve standards like SOC2, ISO 27001, CMMC, NIST, HIPAA, and GDPR that meet the highest levels of scrutiny from third parties.\r\n \r\n\r\nOur patented platform, Verse, integrates with GRC software like Vanta, cloud infrastructure, and your endpoints to securely handle complex multi-layered configurations, such as remote contractor use, BYODs, and federated client-hosted application deployments. \r\n\r\n\r\nOur managed security and compliance team helps high-growth software companies meet rigorous standards as quickly as possible by doing it for them. \r\n\r\n\r\nOur ETDR program enables organizations to prevent threats directly targeting their employees' personal devices, data, and online accounts while respecting their privacy. We provide customized solutions to prevent insider threats, data loss prevention, and threat intelligence while safeguarding personal privacy. ",
-    "one_liner": "Solving Complex Security and Compliance",
-    "team_size": null,
+    "long_description": "Agency replaces traditional security and compliance headcount with AI without replacing your existing tools.\r\n\r\nOur platform is operated by forward-deployed engineers who run your entire security and compliance program including full virtual CISO coverage on your behalf. All powered by our proprietary AI agents.\r\n\r\nAgency is a vertically integrated AI platform and services company that enables organizations to achieve and maintain SOC 2, ISO 27001, CMMC 2.0, HIPAA, GDPR, FedRAMP, HITRUST, ISO 42001, and more without building internal teams. We integrate with leading GRC platforms like Vanta and Drata and security tools like CrowdStrike.\r\n\r\nAt its core is our proprietary cybersecurity and GRC orchestration layer powering a suite of AI systems that execute end-to-end security and compliance operations: control implementation, evidence collection, monitoring, vendor risk, penetration testing, and audit coordination — across complex environments like BYODs, contractor fleets, and multi-party systems. Things that GRC automation platforms can't do.\r\n\r\nWe deliver this through two distinctly separate products:\r\n\r\nAgency Comply — forward-deployed engineers who operate the platform, implement controls, run compliance programs, and manage security end-to-end\r\n\r\nAuditsuisse Assurance — our US and Swiss licensed CPA firm, powered by Auditsuisse AI, delivering independent SOC and global audits with speed and rigor. (Auditsuisse does not audit Agency Comply customers).\r\n\r\nAgency serves startups through enterprises building in high-stakes environments — AI, defense, aerospace, fintech, and healthcare — replacing fragmented tools and large internal teams with a single AI-driven system of execution.",
+    "one_liner": "Agency replaces traditional security and compliance headcount with AI.",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1641532353,
@@ -21931,9 +21931,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -36307,53 +36305,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/andy-ai.json"
   },
   {
-    "id": 29389,
-    "name": "Delve",
-    "slug": "delve",
-    "former_names": [
-      "Sunona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
-    "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve helps 1500+ companies comply with SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and dozens more in 4x less time.",
-    "one_liner": "AI that makes compliance effortless",
-    "team_size": 45,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1704449902,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/delve.json"
-  },
-  {
     "id": 29390,
     "name": "OffDeal",
     "slug": "offdeal",
@@ -42730,18 +42681,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
     "website": "https://runcopycat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CopyCat analyzes your manual processes and builds custom AI automations to execute them. We use browser agents, reverse engineered APIs, document processing, and more, to go beyond traditional RPA and do the heavy lifting for you.",
-    "one_liner": "Agentic RPA for your back-office",
+    "long_description": "CopyCat builds AI specifically for the insurance industry. We help brokers, carriers, and MGA's move faster and more efficiently for what will soon be the next generation of insurance operations.",
+    "one_liner": "AI agents built for insurance. ",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "launched_at": 1734580429,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Logistics",
       "Healthcare",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42750,8 +42701,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Operations"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
       "United States of America",
@@ -42773,8 +42724,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d306e43299c0c7361faa4ee78066a9912cf4151.png",
     "website": "https://joinergo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ergo is AI for sales teams, monitoring customer communication across tools like Zoom, Email, and Slack to keep CRMs such as HubSpot and Salesforce up to date. Ergo’s AI agents execute revenue-generating activities, such as automating mid-funnel follow-ups based on external market signals and past customer interactions. By eliminating manual operational tasks, Ergo helps sales teams maintain active pipelines, prevent deals from stalling, and cut sales cycles in half.",
-    "one_liner": "AI Agents for Revenue Teams",
+    "long_description": "Ergo is the revenue infrastructure for teams growing faster than their systems can keep up. We connect the conversations your team is already having, across calls, email, Slack, and more, and build a unified data layer that moves deals forward.",
+    "one_liner": "AI agents and unified data layer for revenue teams",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",

@@ -89,27 +89,28 @@
   },
   {
     "id": 31102,
-    "name": "noetic",
-    "slug": "noetic",
+    "name": "fuchsia",
+    "slug": "fuchsia",
     "former_names": [
       "Human Oracle",
       "noetic",
-      "Fable"
+      "Fable",
+      "noetic"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dba387168963852908436d537a074d4e2c1ba833.png",
-    "website": "https://getnoetic.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/864a14cbf1a285a8411263cf32fd2240cbb9f2d9.png",
+    "website": "https://getfuchsia.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Noetic handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Noetic’s AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
+    "long_description": "Fuchsia handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Our AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
     "one_liner": "AI that gets hardware compliance done in weeks, not months.",
-    "team_size": 3,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773017725,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Robotics",
-      "Compliance"
+      "Compliance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -129,8 +130,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/noetic",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/noetic.json"
+    "url": "https://www.ycombinator.com/companies/fuchsia",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/fuchsia.json"
   },
   {
     "id": 31117,
@@ -600,7 +601,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -2202,7 +2203,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2535,6 +2536,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   },
   {
+    "id": 31512,
+    "name": "Pentagon",
+    "slug": "pentagon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/668fe720bcb2a436a1056efc2df9c0c22d5922cc.png",
+    "website": "https://pentagon.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pentagon is a workspace for your AI employees to communicate, coordinate, and get work done as a team.",
+    "one_liner": "Your AI agents, working as a team.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1775312221,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pentagon",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pentagon.json"
+  },
+  {
     "id": 31518,
     "name": "Runtime",
     "slug": "runtime",
@@ -2543,14 +2584,14 @@
     "website": "https://www.runtm.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-    "one_liner": "Let everyone in your org ship with coding agents",
+    "one_liner": "Let all your team ship safely with coding agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

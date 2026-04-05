@@ -7419,18 +7419,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
     "website": "https://tracecat.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI automation platform built for security teams and agents. Open source for builders.\r\n\r\nTracecat provides everything busy security teams need to automate work — AI agents, workflows, cases, and an AI copilot that builds for you.",
-    "one_liner": "Automate any security workflow with AI",
+    "long_description": "Tracecat provides everything busy security teams need to automate work: agents, workflows, cases, and an AI copilot that builds for you. https://github.com/TracecatHQ/tracecat",
+    "one_liner": "Open-source security automation platform for teams and AI agents.",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704382841,
     "tags": [
-      "Artificial Intelligence",
       "Security",
       "Open Source",
       "Enterprise",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9483,7 +9483,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9529,5 +9529,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openwork",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/openwork.json"
+  },
+  {
+    "id": 31512,
+    "name": "Pentagon",
+    "slug": "pentagon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/668fe720bcb2a436a1056efc2df9c0c22d5922cc.png",
+    "website": "https://pentagon.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pentagon is a workspace for your AI employees to communicate, coordinate, and get work done as a team.",
+    "one_liner": "Your AI agents, working as a team.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1775312221,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pentagon",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pentagon.json"
   }
 ]

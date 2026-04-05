@@ -20888,7 +20888,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25008,7 +25008,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27795,9 +27795,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b9732a89bf577bd80a0c7d0b377bd35fcce86ce.png",
     "website": "https://GetAgency.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Agency specializes in multi-party security and compliance scenarios; we are the Palantir of compliance. We serve the most innovative companies and their teams working on critical challenges and transformative technologies by helping them achieve standards like SOC2, ISO 27001, CMMC, NIST, HIPAA, and GDPR that meet the highest levels of scrutiny from third parties.\r\n \r\n\r\nOur patented platform, Verse, integrates with GRC software like Vanta, cloud infrastructure, and your endpoints to securely handle complex multi-layered configurations, such as remote contractor use, BYODs, and federated client-hosted application deployments. \r\n\r\n\r\nOur managed security and compliance team helps high-growth software companies meet rigorous standards as quickly as possible by doing it for them. \r\n\r\n\r\nOur ETDR program enables organizations to prevent threats directly targeting their employees' personal devices, data, and online accounts while respecting their privacy. We provide customized solutions to prevent insider threats, data loss prevention, and threat intelligence while safeguarding personal privacy. ",
-    "one_liner": "Solving Complex Security and Compliance",
-    "team_size": null,
+    "long_description": "Agency replaces traditional security and compliance headcount with AI without replacing your existing tools.\r\n\r\nOur platform is operated by forward-deployed engineers who run your entire security and compliance program including full virtual CISO coverage on your behalf. All powered by our proprietary AI agents.\r\n\r\nAgency is a vertically integrated AI platform and services company that enables organizations to achieve and maintain SOC 2, ISO 27001, CMMC 2.0, HIPAA, GDPR, FedRAMP, HITRUST, ISO 42001, and more without building internal teams. We integrate with leading GRC platforms like Vanta and Drata and security tools like CrowdStrike.\r\n\r\nAt its core is our proprietary cybersecurity and GRC orchestration layer powering a suite of AI systems that execute end-to-end security and compliance operations: control implementation, evidence collection, monitoring, vendor risk, penetration testing, and audit coordination — across complex environments like BYODs, contractor fleets, and multi-party systems. Things that GRC automation platforms can't do.\r\n\r\nWe deliver this through two distinctly separate products:\r\n\r\nAgency Comply — forward-deployed engineers who operate the platform, implement controls, run compliance programs, and manage security end-to-end\r\n\r\nAuditsuisse Assurance — our US and Swiss licensed CPA firm, powered by Auditsuisse AI, delivering independent SOC and global audits with speed and rigor. (Auditsuisse does not audit Agency Comply customers).\r\n\r\nAgency serves startups through enterprises building in high-stakes environments — AI, defense, aerospace, fintech, and healthcare — replacing fragmented tools and large internal teams with a single AI-driven system of execution.",
+    "one_liner": "Agency replaces traditional security and compliance headcount with AI.",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1641532353,
@@ -27820,9 +27820,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -29543,7 +29541,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -37764,18 +37762,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db0a05cec73fa1efa5d096d33cfcc210c8930955.png",
     "website": "https://www.cascading.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casca is an AI-native platform transforming small business lending by enabling banks and lenders to originate 10x more loans with 90% less manual effort. Our solutions streamline the entire loan process—from customizable application forms and secure applicant portals to AI-powered assistants, automated document collection, KYB checks, and underwriting. We’ve found product market fit and are scaling our team very quickly.\r\n\r\nSmall businesses are the heart of the American economy. Many banks shy away from providing funding because of the manual effort in pursuing those deals. With us, that changes. We unlock affordable, quick bank funding for the 30M+ small businesses in the US who would otherwise be subject to the high interest rates from predatory online lenders.\r\n\r\nWe are a world-class team of banking & AI experts from Stanford, MIT & Y Combinator. We like to win and we know that the only thing between us and the title is our own ability to improve every day.",
+    "long_description": "Casca is building AGI for Banking.\r\n\r\nOur first product is an AI-native platform transforming small business lending by enabling banks and lenders to originate 10x more loans with 90% less manual effort. We’ve found product market fit already serving top 10 US banks and are scaling our team very quickly.\r\n\r\nSmall businesses are the heart of the American economy. Many banks shy away from providing funding because of the manual effort in pursuing those deals. With us, that changes. We unlock affordable, quick bank funding for the 30M+ small businesses in the US who would otherwise be subject to the high interest rates from predatory online lenders.\r\n\r\nWe are a world-class team of banking & AI experts from Stanford, MIT & Y Combinator. We like to win and we know that the only thing between us and the title is our own ability to improve every day.",
     "one_liner": "Make Banking Magical",
     "team_size": 28,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1691481257,
     "tags": [
-      "Artificial Intelligence",
       "Conversational Banking",
       "Fintech",
       "Machine Learning",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37990,7 +37988,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42558,6 +42556,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/zaymo.json"
   },
   {
+    "id": 29325,
+    "name": "Respan",
+    "slug": "respan",
+    "former_names": [
+      "Keywords AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/511c79fc4e10857bff72dd38626234991f19c62c.png",
+    "website": "https://respan.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Respan (formerly Keywords AI) gives teams a unified control plane to trace and evaluate agent behavior without guesswork, automatically surface issues, and fix what breaks faster. Respan connects production observability, automated and human-in-the-loop evaluations, and an adaptive AI gateway to close the loop between detection, decision, and action - so agents improve continuously in production.\r\n\r\nRespan is trusted by 100+ AI startups and enterprise teams. Today, the platform process 1B+ logs and 2T+ tokens every month, supporting more than 6.5M end users.",
+    "one_liner": "Self-driving observability, evals, and gateway for AI agents",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1711136962,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/respan",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/respan.json"
+  },
+  {
     "id": 29326,
     "name": "OmniAI",
     "slug": "omniai",
@@ -43004,7 +43049,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Open is an AI-powered, all-in-one customer support and communication platform — used in production by:\r\n\r\nPrint.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe’re a research-based company currently working on releasing Support-Bench, the world’s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
     "one_liner": "Enterprise AI customer support",
-    "team_size": 7,
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701287911,
@@ -43496,53 +43541,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andy-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/andy-ai.json"
-  },
-  {
-    "id": 29389,
-    "name": "Delve",
-    "slug": "delve",
-    "former_names": [
-      "Sunona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
-    "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve helps 1500+ companies comply with SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and dozens more in 4x less time.",
-    "one_liner": "AI that makes compliance effortless",
-    "team_size": 45,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1704449902,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/delve.json"
   },
   {
     "id": 29390,
@@ -53804,8 +53802,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d306e43299c0c7361faa4ee78066a9912cf4151.png",
     "website": "https://joinergo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ergo is AI for sales teams, monitoring customer communication across tools like Zoom, Email, and Slack to keep CRMs such as HubSpot and Salesforce up to date. Ergo’s AI agents execute revenue-generating activities, such as automating mid-funnel follow-ups based on external market signals and past customer interactions. By eliminating manual operational tasks, Ergo helps sales teams maintain active pipelines, prevent deals from stalling, and cut sales cycles in half.",
-    "one_liner": "AI Agents for Revenue Teams",
+    "long_description": "Ergo is the revenue infrastructure for teams growing faster than their systems can keep up. We connect the conversations your team is already having, across calls, email, Slack, and more, and build a unified data layer that moves deals forward.",
+    "one_liner": "AI agents and unified data layer for revenue teams",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -59320,8 +59318,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png",
     "website": "https://hillclimb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We derive training data from the world's brightest minds, enabling LLMs to achieve state-of-the-art model performance.",
-    "one_liner": "The world's first human superintelligence community",
+    "long_description": "We work with frontier AI labs to help train their agents to become AI research scientists",
+    "one_liner": "Training Data for Recursive Self-Improvement",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -60361,7 +60359,7 @@
       "Lenscape"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvet.video",
+    "website": "https://velvet-videos.com",
     "all_locations": "",
     "long_description": "The platform where frontier research labs buy data to pass the audiovisual Turing test.",
     "one_liner": "Helping AI pass the audiovisual Turing test",
@@ -61588,6 +61586,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2026/tsenta.json"
   },
   {
+    "id": 31260,
+    "name": "Copperlane",
+    "slug": "copperlane",
+    "former_names": [
+      "Sevenfold",
+      "Rhombal",
+      "Coevolved"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c74fb63a006045b5124e1949931ca658a4aafd.png",
+    "website": "https://www.copperlane.ai",
+    "all_locations": "",
+    "long_description": "Copperlane helps mortgage lenders accelerate the loan process and reduce mistakes in an application. We use AI agents to understand an applicant's profile, verify their documents, and complete initial underwriting tasks.",
+    "one_liner": "AI Mortgage Loan Officer",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768253497,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copperlane",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/copperlane.json"
+  },
+  {
     "id": 31299,
     "name": "Wayco",
     "slug": "wayco",
@@ -61739,6 +61777,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primitive",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/primitive.json"
+  },
+  {
+    "id": 31345,
+    "name": "Replicas",
+    "slug": "replicas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42200c6faa28ad1e57b9f2675695026205379dbf.png",
+    "website": "https://replicas.dev",
+    "all_locations": "",
+    "long_description": "Replicas is a background coding agent that allows you to delegate tasks to Claude Code or Codex from Slack, Linear, GitHub, and more. Each task works inside of a sandboxed virtual machine, allowing teams to heavily parallelize work and burn through tickets.\r\n\r\nReplicas agents output higher quality PRs via feedback loops - each task automatically is notified and fixes CI failures and reads all code reviews. With Environments, engineering teams can configure agents to run their entire codebase locally, verify its work, and provide preview URLs.",
+    "one_liner": "Background coding agents for engineering teams",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773355936,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replicas",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/replicas.json"
   },
   {
     "id": 31375,

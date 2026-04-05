@@ -15100,6 +15100,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/remy.json"
   },
   {
+    "id": 28811,
+    "name": "Casca",
+    "slug": "casca",
+    "former_names": [
+      "CORE Ai",
+      "Cascading AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db0a05cec73fa1efa5d096d33cfcc210c8930955.png",
+    "website": "https://www.cascading.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Casca is building AGI for Banking.\r\n\r\nOur first product is an AI-native platform transforming small business lending by enabling banks and lenders to originate 10x more loans with 90% less manual effort. We’ve found product market fit already serving top 10 US banks and are scaling our team very quickly.\r\n\r\nSmall businesses are the heart of the American economy. Many banks shy away from providing funding because of the manual effort in pursuing those deals. With us, that changes. We unlock affordable, quick bank funding for the 30M+ small businesses in the US who would otherwise be subject to the high interest rates from predatory online lenders.\r\n\r\nWe are a world-class team of banking & AI experts from Stanford, MIT & Y Combinator. We like to win and we know that the only thing between us and the title is our own ability to improve every day.",
+    "one_liner": "Make Banking Magical",
+    "team_size": 28,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1691481257,
+    "tags": [
+      "Conversational Banking",
+      "Fintech",
+      "Machine Learning",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/casca",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/casca.json"
+  },
+  {
     "id": 28812,
     "name": "Cedana",
     "slug": "cedana",
@@ -18085,6 +18130,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kabilah",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/kabilah.json"
+  },
+  {
+    "id": 29246,
+    "name": "Tracecat",
+    "slug": "tracecat",
+    "former_names": [
+      "neometrics.ai",
+      "Neometrics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
+    "website": "https://tracecat.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tracecat provides everything busy security teams need to automate work: agents, workflows, cases, and an AI copilot that builds for you. https://github.com/TracecatHQ/tracecat",
+    "one_liner": "Open-source security automation platform for teams and AI agents.",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1704382841,
+    "tags": [
+      "Security",
+      "Open Source",
+      "Enterprise",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tracecat",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tracecat.json"
   },
   {
     "id": 29247,
@@ -24919,7 +25010,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27455,51 +27546,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluebook",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/bluebook.json"
-  },
-  {
-    "id": 30338,
-    "name": "CopyCat",
-    "slug": "copycat",
-    "former_names": [
-      "Platter"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3785aeb576199608d424a1f1a22cefc23e51e52e.png",
-    "website": "https://runcopycat.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CopyCat analyzes your manual processes and builds custom AI automations to execute them. We use browser agents, reverse engineered APIs, document processing, and more, to go beyond traditional RPA and do the heavy lifting for you.",
-    "one_liner": "Agentic RPA for your back-office",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1734580429,
-    "tags": [
-      "B2B",
-      "Logistics",
-      "Healthcare",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/copycat",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
   },
   {
     "id": 30345,
@@ -33471,6 +33517,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
   },
   {
+    "id": 31102,
+    "name": "fuchsia",
+    "slug": "fuchsia",
+    "former_names": [
+      "Human Oracle",
+      "noetic",
+      "Fable",
+      "noetic"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/864a14cbf1a285a8411263cf32fd2240cbb9f2d9.png",
+    "website": "https://getfuchsia.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fuchsia handles hardware compliance end to end, making the process as fast and painless as software compliance has become.\r\n\r\nProduct safety requirements are fragmented across dozens of regional and industry-specific standards (FCC, FDA, FAA, CE, UL, ISO, RIA) and thousands of codes, leaving companies to spend months and tens of thousands in consultant fees just figuring out what applies. Our AI agents surface every relevant requirement in minutes, drafts the technical documentation, and matches teams with the right testing labs.",
+    "one_liner": "AI that gets hardware compliance done in weeks, not months.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1773017725,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fuchsia",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/fuchsia.json"
+  },
+  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -34447,6 +34539,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/testerarmy",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/testerarmy.json"
+  },
+  {
+    "id": 31518,
+    "name": "Runtime",
+    "slug": "runtime",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
+    "website": "https://www.runtm.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
+    "one_liner": "Let all your team ship safely with coding agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773951001,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runtime",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/runtime.json"
   },
   {
     "id": 31528,
