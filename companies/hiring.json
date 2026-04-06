@@ -11748,6 +11748,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2019/yummy-future.json"
   },
   {
+    "id": 12625,
+    "name": "UpEquity",
+    "slug": "upequity",
+    "former_names": [
+      "LnderLab",
+      "UpEquity (formerly LnderLab)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5870e54989fa2ad2924601c8cdded8fa7e18963.png",
+    "website": "http://www.upequity.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "UpEquity is removing contingencies for home buyers so that they have more negotiating leverage when purchasing their next home. ",
+    "one_liner": "UpEquity gives homebuyers more certainty and power. ",
+    "team_size": 90,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1600817277,
+    "tags": [
+      "Fintech",
+      "Real Estate"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upequity",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/upequity.json"
+  },
+  {
     "id": 12639,
     "name": "Banner",
     "slug": "banner",
@@ -39158,6 +39201,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/bretton-ai.json"
   },
   {
+    "id": 28932,
+    "name": "Respaid",
+    "slug": "respaid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8fe646749d3e1dce9b22d9134f31c861d6c0324.png",
+    "website": "https://www.respaid.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We recover up to 85,000 invoices per day and get 50% paid within 20 days on average.\r\n\r\nRespaid uses AI to respectfully collect overdue B2B invoices. Just give us an excel file—no attached invoices needed. We integrate with your stack or work standalone, protecting your brand's reputation while maximizing collections through our AI-powered, respectful approach.",
+    "one_liner": "Respectful B2B Debt Collection, Powered by AI",
+    "team_size": 42,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1688400893,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/respaid",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/respaid.json"
+  },
+  {
     "id": 28933,
     "name": "Aglide",
     "slug": "aglide",
@@ -54944,17 +55029,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
     "website": "https://www.sixtyfour.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instantly deploy custom research agents to source and enrich specialized professionals, company data, and insights directly into your existing systems.",
-    "one_liner": "People Intelligence at Scale",
+    "long_description": "The Enterprise Data Platform to deploy AI agents that unify social, contact, and proprietary data into decision-ready profiles. Built for mission-critical use cases.",
+    "one_liner": "Enterprise-grade intelligence on Humans and Entities",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1747432267,
     "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Sales Enablement",
-      "Operations"
+      "B2B",
+      "Security",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58123,6 +58208,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nautilus",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nautilus.json"
+  },
+  {
+    "id": 30738,
+    "name": "Altur",
+    "slug": "altur",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
+    "website": "https://altur.io",
+    "all_locations": "Mexico City, CDMX, Mexico",
+    "long_description": "Voice AI Agents for Debt Collection",
+    "one_liner": "Voice AI Agents for Debt Collection",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750622964,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Mexico",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/altur",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
   },
   {
     "id": 30747,

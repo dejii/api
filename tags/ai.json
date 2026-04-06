@@ -23841,17 +23841,18 @@
   },
   {
     "id": 29826,
-    "name": "Orca",
-    "slug": "orcaengine",
+    "name": "Orca Launcher",
+    "slug": "orca-launcher",
     "former_names": [
       "Titan",
-      "Simplifine"
+      "Simplifine",
+      "Orca"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
-    "website": "https://orcaengine.ai",
+    "website": "https://orcalauncher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orca lets you create and edit Minecraft servers, mods, and datapacks directly in your browser using an AI coding assistant, no setup required.",
-    "one_liner": "Make Minecraft mods and servers in your browser with AI",
+    "long_description": "Orca is a game platform for Minecraft. Players browse games and experiences and join with one click, no mod installation, no setup. We handle hosting and mod delivery for server owners and game creators, who earn revenue from their games. Think Roblox, but built on top of Minecraft's 312M player base.",
+    "one_liner": "A launcher that turns Minecraft into a game platform like Roblox ",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -23881,8 +23882,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orcaengine",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/orcaengine.json"
+    "url": "https://www.ycombinator.com/companies/orca-launcher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/orca-launcher.json"
   },
   {
     "id": 29834,
@@ -28568,6 +28569,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/clado.json"
   },
   {
+    "id": 30464,
+    "name": "Sixtyfour",
+    "slug": "sixtyfour",
+    "former_names": [
+      "Sixtyfour",
+      "Sixtyfour AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
+    "website": "https://www.sixtyfour.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The Enterprise Data Platform to deploy AI agents that unify social, contact, and proprietary data into decision-ready profiles. Built for mission-critical use cases.",
+    "one_liner": "Enterprise-grade intelligence on Humans and Entities",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1747432267,
+    "tags": [
+      "B2B",
+      "Security",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sixtyfour",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sixtyfour.json"
+  },
+  {
     "id": 30469,
     "name": "HABIT",
     "slug": "habit",
@@ -30735,6 +30781,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
+    "id": 30703,
+    "name": "GoRiff",
+    "slug": "goriff",
+    "former_names": [
+      "Riff"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
+    "website": "https://goriff.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Personalized digital greetings cards and gifts for your loved ones. ",
+    "one_liner": "Personalized AI Stories with Music",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1752283172,
+    "tags": [
+      "Consumer",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/goriff",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/goriff.json"
+  },
+  {
     "id": 30710,
     "name": "Manufact (formerly mcp-use)",
     "slug": "manufact",
@@ -31011,7 +31098,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -33904,8 +33991,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc71fc515d431ac2186349ba194efc3183ef3d19.png",
     "website": "https://www.librarlabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Backed by top engineers from OpenAI, EQT Motherbrain, and Palantir to give autonomous AI taste. \r\n\r\nOur first commercial product is for the literature industry with a focus on school libraries. It captures and analyze unstructured (and pre-Librar unattainable) data using it to more than double reading rates at schools. \r\n\r\nFastest growing library tech company in history.\r\n",
-    "one_liner": "Autonomous AI with taste. ",
+    "long_description": "Backed by top engineers from OpenAI, Scale AI, and Palantir to build AI for human culture. \r\n\r\nOur first commercial product is for the literature industry with a focus on school libraries. It the AI-native OS for libraries, that speed up all of the manual and boring work for librarians.\r\n\r\nFastest growing library tech company in history.\r\n",
+    "one_liner": "AI for human culture",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -34109,6 +34196,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/matforge.json"
   },
   {
+    "id": 31370,
+    "name": "Dayjob",
+    "slug": "dayjob",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b05d200707537271b32356fc9f883781eb7e5f4a.png",
+    "website": "https://www.getdayjob.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Dayjob builds autonomous AI workers for transport operations. Our scheduling agent plugs into existing ERPs and continuously re-optimises routes in real time - handling new jobs, driver changes, and exceptions automatically. Customers in waste management see 8%+ efficiency gains from day one.",
+    "one_liner": "AI Agents for Industrial Logistics",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1775407410,
+    "tags": [
+      "Logistics",
+      "Transportation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/dayjob",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/dayjob.json"
+  },
+  {
     "id": 31375,
     "name": "Hub.xyz",
     "slug": "hubxyz",
@@ -34154,61 +34282,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
   },
   {
-    "id": 31380,
-    "name": "Pulsent",
-    "slug": "pulsent",
-    "former_names": [
-      "Swish",
-      "Pulsend",
-      "Pulsent",
-      "Deep Engage",
-      "Deepengage",
-      "Openengage",
-      "Deepengage",
-      "Pulsending",
-      "deep engage",
-      "Singlevox",
-      "deep engage"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b93245a278c0a3095e4e4e1c3979b316a38a05.png",
-    "website": "https://pulsent.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Watching App continuously watches how your users interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nThe Watching App detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
-    "one_liner": "AI Agents that watch, engage and convert your users.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1775225049,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales Enablement",
-      "Monitoring",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pulsent",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/pulsent.json"
-  },
-  {
     "id": 31407,
     "name": "Sherpa",
     "slug": "sherpa",
@@ -34249,6 +34322,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sherpa",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
+  },
+  {
+    "id": 31416,
+    "name": "Callab AI",
+    "slug": "callab-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
+    "website": "https://callab.ai",
+    "all_locations": "",
+    "long_description": "Callab AI - AI voice agents for contact centers. Over half the world's contact center infrastructure still runs on legacy telephony (CUCM, on-prem PBX, carrier-grade SIP) - a $70B+ market where current AI voice platforms can't natively integrate. \r\n\r\nWe plug into these environments without requiring a rip-and-replace. We serve clients across three continents, including brands like DunkinDonut.",
+    "one_liner": "AI-voice agents for any telephony stack.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1773416869,
+    "tags": [
+      "B2B",
+      "Call Center",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/callab-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
   },
   {
     "id": 31419,
@@ -34465,8 +34579,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foaster helps companies turn AI native. \r\n\r\nTo turn an existing company AI native, the first step is to understand at a granular level how it actually works. Not how leaders think it works, but how work really gets done across teams, workflows, dependencies, bottlenecks, handoffs, and day-to-day operations. \r\n\r\nThat is what Foaster does. Our system interviews teams across the company through 45-minute conversations, from frontline employees to leadership, and turns those conversations into a living map of the organization. \r\n\r\nOn top of that map, Foaster shows where and how AI should be integrated, what should change first, and how the transformation should be prioritized. \r\n\r\nOur system keeps learning through lightweight monthly interviews, tracks progress, detects resistance, and updates its recommendations as the organization and the AI landscape evolve.\r\n\r\nNo human consultant could build this level of operational understanding at that scale, then keep it continuously updated with that degree of adaptation and personalization.\r\n\r\nWe believe every company will need a system like this. Without it, they will never truly become AI native.",
-    "one_liner": "We turn your company AI-native.",
+    "long_description": "Our agents map your company’s operations to identify where and how AI should be integrated.\r\n\r\nCompanies do not have a clear view of how work actually gets done. Their operations are spread across workflows, tools, teams, processes, and sometimes countries, with critical bottlenecks and inefficiencies hidden in the gaps. \r\n\r\nBefore AI can truly transform a company, you first need a granular view of the tasks, handoffs, and dependencies that make up the business.\r\n\r\nFoaster uses AI-led interviews to rebuild that map at scale through 45 minutes chats with employees. Our agents surface how work really happens across the organization, detect bottlenecks and inefficiencies, and then identify where AI can create the most leverage. \r\n\r\nRight now, AI can automate tasks but not entire job. The real challenge is understanding thousands of processes well enough to redesign them coherently. \r\n\r\nNo human team can do that with enough speed or depth. AI can. In days. ",
+    "one_liner": "Map your company's operations, identify where and how to integrate AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

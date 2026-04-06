@@ -19025,7 +19025,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -28098,17 +28098,18 @@
   },
   {
     "id": 29826,
-    "name": "Orca",
-    "slug": "orcaengine",
+    "name": "Orca Launcher",
+    "slug": "orca-launcher",
     "former_names": [
       "Titan",
-      "Simplifine"
+      "Simplifine",
+      "Orca"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
-    "website": "https://orcaengine.ai",
+    "website": "https://orcalauncher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orca lets you create and edit Minecraft servers, mods, and datapacks directly in your browser using an AI coding assistant, no setup required.",
-    "one_liner": "Make Minecraft mods and servers in your browser with AI",
+    "long_description": "Orca is a game platform for Minecraft. Players browse games and experiences and join with one click, no mod installation, no setup. We handle hosting and mod delivery for server owners and game creators, who earn revenue from their games. Think Roblox, but built on top of Minecraft's 312M player base.",
+    "one_liner": "A launcher that turns Minecraft into a game platform like Roblox ",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -28138,8 +28139,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orcaengine",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/orcaengine.json"
+    "url": "https://www.ycombinator.com/companies/orca-launcher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/orca-launcher.json"
   },
   {
     "id": 29828,
@@ -33004,51 +33005,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/tegore.json"
   },
   {
-    "id": 30464,
-    "name": "Sixtyfour",
-    "slug": "sixtyfour",
-    "former_names": [
-      "Sixtyfour",
-      "Sixtyfour AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
-    "website": "https://www.sixtyfour.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instantly deploy custom research agents to source and enrich specialized professionals, company data, and insights directly into your existing systems.",
-    "one_liner": "People Intelligence at Scale",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1747432267,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Sales Enablement",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sixtyfour",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/sixtyfour.json"
-  },
-  {
     "id": 30468,
     "name": "Clidey",
     "slug": "clidey",
@@ -35391,48 +35347,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
   },
   {
-    "id": 30703,
-    "name": "GoRiff",
-    "slug": "goriff",
-    "former_names": [
-      "Riff"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e868dfd092e1a64ed4a293058223d5f698e12bc7.png",
-    "website": "https://goriff.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Personalized digital greetings cards and gifts for your loved ones. ",
-    "one_liner": "Personalized AI Stories with Music",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1752283172,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Music"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/goriff",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/goriff.json"
-  },
-  {
     "id": 30707,
     "name": "Phases",
     "slug": "phases",
@@ -37271,7 +37185,7 @@
     "former_names": [
       "SciLoop"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26613ce6ce77cc938a057068ce9d4f0548fd4269.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01d1e4f95660e72f930c4f8b2542e2224dc9107.png",
     "website": "https://sciloop.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sciloop creates expert-level math and physics problems that frontier AI models can't solve, then sells the data to AI labs for training and evaluation. Our problems are created by IPhO and IMO medalists — the top 0.01% of STEM talent globally. On our benchmark, models like GPT 5.4 Pro and Gemini 3.1 Pro score 0-5% on our hardest problems. We work with AI labs to supply continuous, fresh training data that pushes the frontier of mathematical and scientific reasoning. Founded by Bilal and Osman, International Physics Olympiad medalists from MIT with hands-on ML research experience at MIT CSAIL.\r\n",
@@ -38903,6 +38817,61 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hubxyz.json"
   },
   {
+    "id": 31380,
+    "name": "Pulsent",
+    "slug": "pulsent",
+    "former_names": [
+      "Swish",
+      "Pulsend",
+      "Pulsent",
+      "Deep Engage",
+      "Deepengage",
+      "Openengage",
+      "Deepengage",
+      "Pulsending",
+      "deep engage",
+      "Singlevox",
+      "deep engage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04b93245a278c0a3095e4e4e1c3979b316a38a05.png",
+    "website": "https://pulsent.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pulsent continuously watches how your users interacts with your product and engages them at the right moment to convert, upsell, and retain. \r\n\r\nAs companies scale, founders, account managers and customer success teams can only take care of a small fraction of users. The rest receive generic, annoying and poorly timed communication. Opportunities are missed, customers churn, and revenue is lost.\r\n\r\nThe core problem is that user behavior is fragmented across tools like PostHog, Stripe, Salesforce, etc., making it impossible to understand users in real time. We unify all data into a single view and let AI agents act on top. This only recently became possible with advances in visual AI (dec ‘25), allowing agents to watch sessions and understand behavior at human or better level.\r\n\r\nPulsent detects expansion and churn signals, prioritizes high-value accounts, and executes through AI agents across channels like email, LinkedIn, and WhatsApp. It increases conversion and reduces churn without adding headcount.\r\n\r\nWe already have paying customers, process hundreds of millions of events daily, and are seeing strong demand from PLG B2B Clients. Nicolò is an ex-BCG who has scaled two startups to millions in ARR. Arseniy worked for several years at Datadog handling billions of datapoints. We’ve worked together for 3+ years and experienced this problem firsthand in our previous startup.",
+    "one_liner": "AI Agents that watch, engage and convert your users.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1775225049,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales Enablement",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pulsent",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pulsent.json"
+  },
+  {
     "id": 31385,
     "name": "Zolvo",
     "slug": "zolvo",
@@ -39066,47 +39035,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sherpa",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
-  },
-  {
-    "id": 31416,
-    "name": "Callab AI",
-    "slug": "callab-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02201cc153981810d5a7bf65758c3175779d40d3.png",
-    "website": "https://callab.ai",
-    "all_locations": "",
-    "long_description": "Callab AI is an AI voice agent platform purpose-built to plug into the most complex telephony environments - from legacy CUCM and SIP trunk infrastructures to modern cloud contact centers. \r\n\r\nRather than requiring greenfield deployments, Callab AI integrates natively with existing PBX systems, IVR flows, and carrier-grade SIP endpoints, fitting seamlessly within the regulatory and technical constraints of enterprise telecom stacks.",
-    "one_liner": "AI-voice agents for any telephony stack.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1773416869,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Call Center"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/callab-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/callab-ai.json"
   },
   {
     "id": 31420,
