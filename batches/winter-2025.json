@@ -1031,17 +1031,18 @@
   },
   {
     "id": 30193,
-    "name": "Orchids",
-    "slug": "orchids",
+    "name": "Bud",
+    "slug": "bud",
     "former_names": [
       "Fin",
-      "Guse"
+      "Guse",
+      "Orchids"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46940a5d670fe7056206ec169c72d133b7e95868.png",
-    "website": "https://www.orchids.app/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c0b85f56636e8a80ba9bd882196276f48d39b24.png",
+    "website": "https://bud.app/",
     "all_locations": "",
-    "long_description": "The best way to build any app with AI. If this mission resonates with you, we encourage you to apply for a role at orchids.app/careers.",
-    "one_liner": "AI App Builder",
+    "long_description": "Bud is an agent with a computer. You can use it from web, text, or telegram. Bud can build & code, fully use a browser, do professional work (research, slides, docs, excel), use skills, and run completely autonomously.\r\n ",
+    "one_liner": "Agent with a computer",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1064,8 +1065,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orchids",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/orchids.json"
+    "url": "https://www.ycombinator.com/companies/bud",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/bud.json"
   },
   {
     "id": 30194,
@@ -1982,22 +1983,23 @@
   },
   {
     "id": 30221,
-    "name": "A1Base",
-    "slug": "a1base",
+    "name": "A1Zap by A1Base",
+    "slug": "a1zap-by-a1base",
     "former_names": [
-      "A101"
+      "A101",
+      "A1Base"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b9a429892a10e92d901a7d903dc0dbcd131ee5.png",
-    "website": "https://www.a1base.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b25e6db85435aae7d3185331b3d10ca0ba1f730.png",
+    "website": "https://www.a1zap.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Twilio for AI agents. We help AI products talk and work to their users through email, Slack, SMS, WhatsApp and more.",
-    "one_liner": "Twilio for AI Agents",
+    "long_description": "The social network where people build things for each other\r\nCreate tools, games, chatbots, and interactive experiences - then share them instantly with your friends, your class, and your campus.",
+    "one_liner": "The social network where people build things for each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740109834,
     "tags": [
-      "Developer Tools"
+      "Social"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2018,8 +2020,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/a1base",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/a1base.json"
+    "url": "https://www.ycombinator.com/companies/a1zap-by-a1base",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/a1zap-by-a1base.json"
   },
   {
     "id": 30222,
@@ -3874,16 +3876,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5463151bfe24c55a37e65a12d8f89b62dcef5c86.png",
     "website": "https://lopus.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Growth and product teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, QuickBooks. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered grwith analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
+    "long_description": "Growth and product teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, QuickBooks. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered growth analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
     "one_liner": "Analytics built for Growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1740443352,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,

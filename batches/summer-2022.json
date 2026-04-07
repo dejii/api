@@ -445,7 +445,7 @@
     "all_locations": "Gurugram, HR, India",
     "long_description": "India's leading digital health destination for Dermatology, Nutrition & Wellness. A multi-condition health platform providing Telehealth, AI-powered treatment plans, and Rx-grade products. Our virtual care is entirely science-based and personalized to each patient, based on prescription history, medical parameters, family history, lifestyle, surroundings and preexisting health issues.",
     "one_liner": "India's Telemedicine Platform & Online Pharmacy for Dermatology Care",
-    "team_size": 76,
+    "team_size": 125,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1652898405,
@@ -6289,14 +6289,16 @@
   },
   {
     "id": 26912,
-    "name": "iollo",
-    "slug": "iollo",
-    "former_names": [],
+    "name": "Quinn",
+    "slug": "quinn",
+    "former_names": [
+      "iollo"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
-    "website": "https://iollo.com",
+    "website": "https://www.quinnbio.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
-    "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
+    "long_description": "Quinn is the AI scientist for high-stakes decisions in drug development, from target discovery to commercial strategy. Defensible answers in days instead of months.",
+    "one_liner": "The AI scientist for high-stakes decisions in drug development",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -6328,8 +6330,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/iollo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
+    "url": "https://www.ycombinator.com/companies/quinn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/quinn.json"
   },
   {
     "id": 26913,

@@ -8602,10 +8602,10 @@
       "Snaprocess LLC"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61e5909632a59998a05ddf3639be15ca20ce6478.png",
-    "website": "https://www.ilabservice.com/en",
+    "website": "https://www.ilabservice.us",
     "all_locations": "Shanghai, Shanghai, China",
-    "long_description": "We provide SaaS solution to boost your operational efficiency, enhance your safety management. One stop oversight of your lab operation and resource management, such as \" Man, Machine, Material, Method and Health and Safety\". ",
-    "one_liner": "AI powered Lab Operation Management SaaS Platform ",
+    "long_description": "iLabService is a leading provider of intelligent lab operations solutions, revolutionizing how laboratories manage their processes, data, and workflows. We combine AI-powered IoT (AIoT) with cutting-edge software to create an end-to-end automation platform that enhances efficiency, compliance, and safety across global research and development environments.",
+    "one_liner": "Powering the Future of Lab Operations with AIoT!",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -8613,7 +8613,8 @@
     "tags": [
       "SaaS",
       "IoT",
-      "Productivity"
+      "Productivity",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13156,7 +13157,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -14858,7 +14859,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -44245,7 +44246,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -48757,6 +48758,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/runharbor.json"
   },
   {
+    "id": 31473,
+    "name": "Kuli",
+    "slug": "kuli",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0faca2d7e56f4ac9ab8fe42a2e560d516e70bab.png",
+    "website": "https://kuli.one",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kuli is an AI agent for social media and influencer marketing teams at the world's largest consumer brands. Our agent watches every video on socials in the brand's context and helps marketers get work done to launch their campaigns 4x faster.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Supercell, Disney and Havas use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
+    "one_liner": "Claude Cowork for social media and creator marketers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1775508388,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Social Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kuli",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kuli.json"
+  },
+  {
     "id": 31536,
     "name": "Gigacatalyst",
     "slug": "gigacatalyst",
@@ -48800,5 +48843,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gigacatalyst",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/gigacatalyst.json"
+  },
+  {
+    "id": 31539,
+    "name": "Klaimee",
+    "slug": "klaimee",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
+    "website": "https://www.klaimee.co/",
+    "all_locations": "",
+    "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.",
+    "one_liner": "Insurance for the agentic world. Starting with AI agent risk.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775456412,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/klaimee",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/klaimee.json"
   }
 ]

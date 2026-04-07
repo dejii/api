@@ -1497,7 +1497,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -3570,14 +3570,16 @@
   },
   {
     "id": 26912,
-    "name": "iollo",
-    "slug": "iollo",
-    "former_names": [],
+    "name": "Quinn",
+    "slug": "quinn",
+    "former_names": [
+      "iollo"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
-    "website": "https://iollo.com",
+    "website": "https://www.quinnbio.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
-    "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
+    "long_description": "Quinn is the AI scientist for high-stakes decisions in drug development, from target discovery to commercial strategy. Defensible answers in days instead of months.",
+    "one_liner": "The AI scientist for high-stakes decisions in drug development",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -3609,8 +3611,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/iollo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
+    "url": "https://www.ycombinator.com/companies/quinn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/quinn.json"
   },
   {
     "id": 27038,
@@ -11177,7 +11179,7 @@
     "website": "https://absurd.com/",
     "all_locations": "",
     "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com\r\n\r\nWe're hiring: absurd.com/careers",
-    "one_liner": "A24 for AI Video",
+    "one_liner": "AI Videos",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",

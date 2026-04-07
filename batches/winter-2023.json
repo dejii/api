@@ -334,7 +334,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -5859,36 +5859,39 @@
   },
   {
     "id": 27902,
-    "name": "Logital AI (Teclada)",
-    "slug": "logital-ai-teclada",
+    "name": "KV Cash",
+    "slug": "kv-cash",
     "former_names": [
       "Teclada",
-      "Logital (Teclada)"
+      "Logital (Teclada)",
+      "Logital AI (Teclada)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
-    "website": "https://www.logital.ai",
+    "website": "https://kv.cash",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Compare models and outputs without random noise skewing your results. Verifiable AI. Store input + seed + output for audits, compliance, and reproducibility.\r\n\r\nhttps://www.logital.ai/\r\n\r\nhttps://www.teclada.com/",
-    "one_liner": "Compare models and ouputs without random noise skewing your results.",
+    "long_description": "KV Cash starts from a simple realization: contracts shouldn't just execute-they should reason.\r\n\r\nWith deterministic AI inference and TypeScript smart contracts, systems become simple, explainable, and composable in a new way. Once seen, it's obvious this is where things go.\r\n\r\nKV Cash is the system contracts were always trying to become.",
+    "one_liner": "KV Cash, a blockchain where contracts can finally think",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1678082739,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity",
-      "Compliance",
-      "Security"
+      "Crypto / Web3",
+      "Open Source",
+      "AI",
+      "Cryptocurrency"
     ],
-    "tags_highlighted": [],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -5899,8 +5902,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/logital-ai-teclada",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/logital-ai-teclada.json"
+    "url": "https://www.ycombinator.com/companies/kv-cash",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/kv-cash.json"
   },
   {
     "id": 27906,

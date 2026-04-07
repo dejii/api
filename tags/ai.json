@@ -5780,7 +5780,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -11426,14 +11426,16 @@
   },
   {
     "id": 26912,
-    "name": "iollo",
-    "slug": "iollo",
-    "former_names": [],
+    "name": "Quinn",
+    "slug": "quinn",
+    "former_names": [
+      "iollo"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
-    "website": "https://iollo.com",
+    "website": "https://www.quinnbio.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "iollo is building Quinn, an AI scientist that automates the entire drug development lifecycle, from target discovery to commercial strategy. Quinn synthesizes scientific, clinical, and market data to execute complex R&D workflows in hours that typically take pharma teams years.",
-    "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
+    "long_description": "Quinn is the AI scientist for high-stakes decisions in drug development, from target discovery to commercial strategy. Defensible answers in days instead of months.",
+    "one_liner": "The AI scientist for high-stakes decisions in drug development",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -11465,8 +11467,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/iollo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
+    "url": "https://www.ycombinator.com/companies/quinn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/quinn.json"
   },
   {
     "id": 27038,
@@ -12343,7 +12345,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -13743,6 +13745,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tableflow",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/tableflow.json"
+  },
+  {
+    "id": 27902,
+    "name": "KV Cash",
+    "slug": "kv-cash",
+    "former_names": [
+      "Teclada",
+      "Logital (Teclada)",
+      "Logital AI (Teclada)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
+    "website": "https://kv.cash",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "KV Cash starts from a simple realization: contracts shouldn't just execute-they should reason.\r\n\r\nWith deterministic AI inference and TypeScript smart contracts, systems become simple, explainable, and composable in a new way. Once seen, it's obvious this is where things go.\r\n\r\nKV Cash is the system contracts were always trying to become.",
+    "one_liner": "KV Cash, a blockchain where contracts can finally think",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1678082739,
+    "tags": [
+      "Crypto / Web3",
+      "Open Source",
+      "AI",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kv-cash",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/kv-cash.json"
   },
   {
     "id": 27909,
@@ -19124,10 +19174,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Human Resources"
@@ -21312,7 +21362,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -24820,7 +24870,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -26778,49 +26828,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harbera",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harbera.json"
-  },
-  {
-    "id": 30267,
-    "name": "Lopus AI",
-    "slug": "lopus-ai",
-    "former_names": [
-      "Levo UI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5463151bfe24c55a37e65a12d8f89b62dcef5c86.png",
-    "website": "https://lopus.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Growth and product teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, QuickBooks. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered grwith analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
-    "one_liner": "Analytics built for Growth",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1740443352,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lopus-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lopus-ai.json"
   },
   {
     "id": 30271,
@@ -31937,6 +31944,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/f2.json"
   },
   {
+    "id": 30835,
+    "name": "Brickanta",
+    "slug": "brickanta",
+    "former_names": [
+      "Brickanta AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f5fc73a5deec1c3a7c627cea71c8345b56ca431.png",
+    "website": "https://www.brickanta.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Brickanta  – agentic AI for society builders. Hundreds of construction-specific AI agents for project analysis, insights, tenders, procurement, and more. Combine the latest AI technology with your organization's project data, templates, and workflows to identify risks and opportunities early and produce better decision support. Brickanta has raised $8 million from leading AI, construction, and real estate investors behind companies like OpenAI/ChatGPT, Airbnb, Klarna, Spotify, and Plangrid-Autodesk, as well as star investors such as Mario Götze, Anton Osika, and Northzone (see movie and press). The founding team has been building and implementing AI in construction and industry since 2018 at companies such as ABB, Fabege, Husqvarna, IKEA and Konecranes.\r\n",
+    "one_liner": "Agentic AI for Society Builders",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1759093006,
+    "tags": [
+      "Machine Learning",
+      "Construction",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/brickanta",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/brickanta.json"
+  },
+  {
     "id": 30837,
     "name": "AirCaps",
     "slug": "aircaps",
@@ -33651,17 +33702,18 @@
   },
   {
     "id": 31117,
-    "name": "Bujo AI",
-    "slug": "bujo",
+    "name": "Cignara",
+    "slug": "cignara",
     "former_names": [
-      "Bujo"
+      "Bujo",
+      "Bujo AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8175f3f33586db108bd2abbc4c718624f88e287.png",
-    "website": "https://www.getbujo.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/31b25b5dfd0faa104c94fb58ad8c345f88395aa4.png",
+    "website": "https://cignara.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "AI voice & chat agents for sales and customer support at large B2C…",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1766553284,
@@ -33689,8 +33741,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bujo",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/bujo.json"
+    "url": "https://www.ycombinator.com/companies/cignara",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/cignara.json"
   },
   {
     "id": 31147,
@@ -34778,5 +34830,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
+  },
+  {
+    "id": 31539,
+    "name": "Klaimee",
+    "slug": "klaimee",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3d33eec8f456adbebd1c1792d44f7e75715cbd.png",
+    "website": "https://www.klaimee.co/",
+    "all_locations": "",
+    "long_description": "Klaimee certifies and insures autonomous AI agents.\r\nWe audit your agents and back them with AI-native liability coverage.\r\nBuilt for startups bringing AI to enterprise clients, self-serve from day one.",
+    "one_liner": "Insurance for the agentic world. Starting with AI agent risk.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775456412,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "SaaS",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/klaimee",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/klaimee.json"
   }
 ]

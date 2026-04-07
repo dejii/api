@@ -4271,7 +4271,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7221,6 +7221,54 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/openmeter.json"
   },
   {
+    "id": 27902,
+    "name": "KV Cash",
+    "slug": "kv-cash",
+    "former_names": [
+      "Teclada",
+      "Logital (Teclada)",
+      "Logital AI (Teclada)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
+    "website": "https://kv.cash",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "KV Cash starts from a simple realization: contracts shouldn't just execute-they should reason.\r\n\r\nWith deterministic AI inference and TypeScript smart contracts, systems become simple, explainable, and composable in a new way. Once seen, it's obvious this is where things go.\r\n\r\nKV Cash is the system contracts were always trying to become.",
+    "one_liner": "KV Cash, a blockchain where contracts can finally think",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1678082739,
+    "tags": [
+      "Crypto / Web3",
+      "Open Source",
+      "AI",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kv-cash",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/kv-cash.json"
+  },
+  {
     "id": 27909,
     "name": "Magicflow 𐂂",
     "slug": "magicflow",
@@ -7590,7 +7638,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10560,19 +10608,19 @@
     "former_names": [
       "Brickanta AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac8a57d61fce9ed8731fd4071cfeea4356209dee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f5fc73a5deec1c3a7c627cea71c8345b56ca431.png",
     "website": "https://www.brickanta.com",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Brickanta is building the AI-native operating system for construction, starting with the pre-construction workflows that determine the outcome of entire projects: bid analysis, cost estimation, and procurement.\r\n\r\nOur platform combines state-of-the-art AI with real project data, standards, and construction best practices. This enables construction, contracting, and real estate companies to identify gaps, risks and opportunities earlier, and to produce project and procurement documentation significantly faster and more efficiently.",
-    "one_liner": "Construction's AI platform for bid analysis, estimation and…",
-    "team_size": 8,
+    "long_description": "Brickanta  – agentic AI for society builders. Hundreds of construction-specific AI agents for project analysis, insights, tenders, procurement, and more. Combine the latest AI technology with your organization's project data, templates, and workflows to identify risks and opportunities early and produce better decision support. Brickanta has raised $8 million from leading AI, construction, and real estate investors behind companies like OpenAI/ChatGPT, Airbnb, Klarna, Spotify, and Plangrid-Autodesk, as well as star investors such as Mario Götze, Anton Osika, and Northzone (see movie and press). The founding team has been building and implementing AI in construction and industry since 2018 at companies such as ABB, Fabege, Husqvarna, IKEA and Konecranes.\r\n",
+    "one_liner": "Agentic AI for Society Builders",
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759093006,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Construction",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -11898,6 +11946,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stablebrowse",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/stablebrowse.json"
+  },
+  {
+    "id": 31448,
+    "name": "smol machines",
+    "slug": "smol-machines",
+    "former_names": [
+      "Smol Machines"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c9db625bd34a051e8617673268bb5d9659339ed.png",
+    "website": "https://smolmachines.com/",
+    "all_locations": "",
+    "long_description": "Smol machines solve the problem of \"but app works on my machine\" by shipping the machine.\r\n\r\nSmol machine enables devs to ship a lightweight virtual machine with any software, similar to how Electron ships an entire browser with the web app. ",
+    "one_liner": "Ship software faster with portable, self contained virtual machines.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1775148410,
+    "tags": [
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/smol-machines",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/smol-machines.json"
   },
   {
     "id": 31453,

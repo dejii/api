@@ -6459,7 +6459,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8166,7 +8166,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -13532,51 +13532,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/buildjet",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/buildjet.json"
-  },
-  {
-    "id": 27902,
-    "name": "Logital AI (Teclada)",
-    "slug": "logital-ai-teclada",
-    "former_names": [
-      "Teclada",
-      "Logital (Teclada)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
-    "website": "https://www.logital.ai",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Compare models and outputs without random noise skewing your results. Verifiable AI. Store input + seed + output for audits, compliance, and reproducibility.\r\n\r\nhttps://www.logital.ai/\r\n\r\nhttps://www.teclada.com/",
-    "one_liner": "Compare models and ouputs without random noise skewing your results.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1678082739,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity",
-      "Compliance",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/logital-ai-teclada",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/logital-ai-teclada.json"
   },
   {
     "id": 27909,
@@ -19905,47 +19860,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sublingual",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/sublingual.json"
-  },
-  {
-    "id": 30221,
-    "name": "A1Base",
-    "slug": "a1base",
-    "former_names": [
-      "A101"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b9a429892a10e92d901a7d903dc0dbcd131ee5.png",
-    "website": "https://www.a1base.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Twilio for AI agents. We help AI products talk and work to their users through email, Slack, SMS, WhatsApp and more.",
-    "one_liner": "Twilio for AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1740109834,
-    "tags": [
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/a1base",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/a1base.json"
   },
   {
     "id": 30223,

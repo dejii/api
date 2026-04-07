@@ -35794,10 +35794,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Human Resources"
@@ -37670,7 +37670,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -40521,7 +40521,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -41939,16 +41939,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5463151bfe24c55a37e65a12d8f89b62dcef5c86.png",
     "website": "https://lopus.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Growth and product teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, QuickBooks. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered grwith analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
+    "long_description": "Growth and product teams are drowning in disconnected data—HubSpot, Salesforce, Stripe, PostHog, QuickBooks. The result: leaders can’t trust dashboards, data teams get buried in ad-hoc requests, and deal teams burn days stitching context instead of driving revenue.\r\n\r\nWe have built Lopus, an AI-powered growth analytics platform, that unifies structured and unstructured data into one governed workspace. Powered by an agentic semantic layer, it understands your company definitions, joins marketing + CRM + billing + product, and delivers fast, explainable answers with lineage back to the source—turning every question into a lever for growth, so leaders know what is actually driving pipeline and converting to revenue.\r\n\r\nMade for Founders, GTM, and Product leaders.",
     "one_liner": "Analytics built for Growth",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1740443352,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47791,6 +47791,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/datost",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/datost.json"
+  },
+  {
+    "id": 31473,
+    "name": "Kuli",
+    "slug": "kuli",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0faca2d7e56f4ac9ab8fe42a2e560d516e70bab.png",
+    "website": "https://kuli.one",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kuli is an AI agent for social media and influencer marketing teams at the world's largest consumer brands. Our agent watches every video on socials in the brand's context and helps marketers get work done to launch their campaigns 4x faster.\r\n\r\nPrevious platforms gave marketers databases to search through and a CRM. Kuli actually watches the content. Marketers at team like Supercell, Disney and Havas use it to scout creators, run analysis on trends and competitor strategies, and analyse what makes their campaign perform better.\r\n\r\nFor 10 years, influencer marketing meant more tools, more tabs, more spreadsheets. Kuli replaces all of that with one single agent you orchestrate. One marketer with Kuli does what a $50K/month agency bills for manual tasks.",
+    "one_liner": "Claude Cowork for social media and creator marketers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1775508388,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Social Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kuli",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/kuli.json"
   },
   {
     "id": 31481,

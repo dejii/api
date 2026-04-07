@@ -98,7 +98,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2011",
     "status": "Active",
@@ -3434,9 +3434,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8830f0fbee8d57566664d25f05fa802119f757a.png",
     "website": "https://triomics.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Triomics is helping cancer care providers by reducing the burden associated with manually reviewing patient charts. Utilizing our OncoLLM™—a family of oncology-focused language models—we are able to accelerate clinical trial enrollment, power quality improvement projects, and address many other key strategic priorities.",
-    "one_liner": "Generative AI for Oncology EHRs",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Triomics is building the AI infrastructure for modern oncology. Across the U.S., cancer care providers rely on highly trained staff to manually review unstructured patient records such as pathology reports, clinical notes, genomic panels, and scanned faxes to support workflows like clinical trial matching, visit preparation, and quality reporting. We replace that manual work with task-driven AI agents embedded directly into clinical workflows, automatically processing medical records at scale and in real time.\r\n\r\nOur platform is trusted by 4 of the top 10 Best Hospitals for Cancer ranked by U.S. News, as well as several of the largest community oncology practices.",
+    "one_liner": "AI Agents for Oncology EHRs",
     "team_size": 50,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -3461,7 +3461,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8841,6 +8841,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clara-2",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/clara-2.json"
+  },
+  {
+    "id": 31418,
+    "name": "Taiga",
+    "slug": "taiga",
+    "former_names": [
+      "Bayes AI",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfcf298ee30d2d363ae6ce1b93ccf3860b0c9cda.png",
+    "website": "https://usetaiga.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork.                                                       \r\n                                                                                                                        \r\nWe're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
+    "one_liner": "Fullstack medical billing service",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1775511630,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/taiga",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/taiga.json"
   },
   {
     "id": 31445,

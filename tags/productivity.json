@@ -1168,10 +1168,10 @@
       "Snaprocess LLC"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61e5909632a59998a05ddf3639be15ca20ce6478.png",
-    "website": "https://www.ilabservice.com/en",
+    "website": "https://www.ilabservice.us",
     "all_locations": "Shanghai, Shanghai, China",
-    "long_description": "We provide SaaS solution to boost your operational efficiency, enhance your safety management. One stop oversight of your lab operation and resource management, such as \" Man, Machine, Material, Method and Health and Safety\". ",
-    "one_liner": "AI powered Lab Operation Management SaaS Platform ",
+    "long_description": "iLabService is a leading provider of intelligent lab operations solutions, revolutionizing how laboratories manage their processes, data, and workflows. We combine AI-powered IoT (AIoT) with cutting-edge software to create an end-to-end automation platform that enhances efficiency, compliance, and safety across global research and development environments.",
+    "one_liner": "Powering the Future of Lab Operations with AIoT!",
     "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -1179,7 +1179,8 @@
     "tags": [
       "SaaS",
       "IoT",
-      "Productivity"
+      "Productivity",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2079,7 +2080,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -4622,51 +4623,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overlord",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/overlord.json"
-  },
-  {
-    "id": 27902,
-    "name": "Logital AI (Teclada)",
-    "slug": "logital-ai-teclada",
-    "former_names": [
-      "Teclada",
-      "Logital (Teclada)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b5e56a9b5e26e2dce5d150c6db8702733501105.png",
-    "website": "https://www.logital.ai",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Compare models and outputs without random noise skewing your results. Verifiable AI. Store input + seed + output for audits, compliance, and reproducibility.\r\n\r\nhttps://www.logital.ai/\r\n\r\nhttps://www.teclada.com/",
-    "one_liner": "Compare models and ouputs without random noise skewing your results.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1678082739,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Productivity",
-      "Compliance",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/logital-ai-teclada",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/logital-ai-teclada.json"
   },
   {
     "id": 28071,
@@ -7294,48 +7250,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coasts",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/coasts.json"
-  },
-  {
-    "id": 31470,
-    "name": "Tasklet",
-    "slug": "tasklet-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81b17e42b6c7c39c503ac476a049465e7d2e530d.png",
-    "website": "https://tasklet.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI chatbots can answer questions, but they can't do your work — they aren't connected to your tools, can't take actions, and stop running when you close the tab. Meanwhile, knowledge workers are still spending most of their day switching between dozens of SaaS apps, manually stitching together workflows that should be automated.\r\n\r\nTasklet is the AI agent that actually does the work. It connects to every tool you use — via thousands of built-in integrations, any HTTP API, or MCP servers — and takes real actions on your behalf: pulling reports, updating CRMs, triaging emails, processing data, and more. When it needs a UI, it generates one on the fly. When it needs to crunch numbers or do bulk operations, it writes and runs code in a cloud sandbox. When it needs to interact with a website that doesn't have an API, it uses a real browser. And because it runs in the cloud 24/7, you can set up triggers to have it take ongoing responsibility for workflows — not just do something once, but handle it going forward.\r\n\r\nThe product is deliberately simple: a chat interface where you talk to an extremely capable agent. But underneath that simplicity is a cloud-native agent runtime, best-in-class context engineering, a universal connections layer, and multi-model support that keeps us on the frontier as AI improves. \r\n\r\nWe think legacy SaaS is being unbundled by agents, and Tasklet is the operating system that ties it all together.",
-    "one_liner": "The cloud agent operating system for knowledge work",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1775251797,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/tasklet-2",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tasklet-2.json"
   }
 ]

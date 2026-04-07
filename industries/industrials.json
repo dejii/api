@@ -3894,7 +3894,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -6324,9 +6324,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce29daf410b8ce0c1856dfe42a8b720ac831064.png",
     "website": "https://www.albaorbital.com",
     "all_locations": "Glasgow, Scotland, United Kingdom",
-    "long_description": "Alba Orbital is building the world's largest earth observation constellation, imaging everywhere on earth, every 15 minutes. We can see events within minutes such as wildfires in real time and have signed >$85m of LOIs, with both government and commercial customers paying pre-orders for imagery. To date we have launched 57 satellites into orbit (more than any other seed stage company in history), with more launching in 2026 onwards. We have launched a number of technology demonstration imaging satellites called Unicorns, which are the world's most advanced satellite under 1kg ever flown in orbit.",
+    "long_description": "Alba Orbital is building the world's largest earth observation constellation, imaging everywhere on earth, every 15 minutes. We can see events within minutes such as wildfires in real time and have signed >$85m of LOIs, with both government and commercial customers paying pre-orders for imagery. To date we have launched 62 satellites into orbit (more than any all other yc companies combined), with more launching in 2026 onwards. We have launched a number of technology demonstration imaging satellites called Unicorns, which are the world's most advanced satellite under 1kg ever flown in orbit.",
     "one_liner": "We make satellites to image everywhere on Earth, every 15 minutes",
-    "team_size": 16,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1614654529,
@@ -15428,6 +15428,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aice-power",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/aice-power.json"
+  },
+  {
+    "id": 31489,
+    "name": "Eden",
+    "slug": "edenrobotics",
+    "former_names": [
+      "Eden Robotics Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d769c33ef07da11294e43bb975e258d0ec8c712e.png",
+    "website": "https://www.edenrobotics.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building robots that just work and use them to deliver autonomous services at scale.",
+    "one_liner": "Autonomous services for humanity.",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1775447037,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edenrobotics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/edenrobotics.json"
   },
   {
     "id": 31561,
