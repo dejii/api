@@ -2873,53 +2873,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/lume.json"
   },
   {
-    "id": 22196,
-    "name": "MedPiper Technologies, Inc",
-    "slug": "medpiper-technologies-inc",
-    "former_names": [
-      "MedPiper Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d30e3e30894c40033c853cefa3efa02ec9f54b.png",
-    "website": "https://www.medpiper.com",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "MedPiper, a full-stack data platform that unifies and delivers end-to-end process for member and population health data: from data sourcing -> data verification -> data readiness -> data standardisation -> data logistics -> data interoperability . We have enabled payors, life sciences, pharma and health platforms obtain deeper insights into health,  delivering better coverage and health outcomes. \r\n\r\nAside from increasing network of healthcare & social determinant data partners, we move workloads that need extensive data handling workflows, to a simple workbench that  can run and deploy rule engines on insights and braoder analytics : contributing to increased customer engagement, depeer personalised products, better GM structure etc for our clients. \r\n\r\n\r\n\r\nA few core things we deliver:\r\n\r\n- Easy integration (API-accessible),\r\n- A seamless experience (for all involved: patient, payor, provider, lab, mobile workforce),\r\n- A commitment to clinical quality standards,",
-    "one_liner": "Salesforce for health data",
-    "team_size": 37,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1597677447,
-    "tags": [
-      "B2B",
-      "Synthetic Biology",
-      "Healthcare",
-      "Insurance",
-      "Data Science"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/medpiper-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/medpiper-technologies-inc.json"
-  },
-  {
     "id": 22321,
     "name": "Verifiable",
     "slug": "verifiable",
@@ -2969,10 +2922,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caddac306c8ff38ff1f26a77e311f70a0784ef09.png",
     "website": "https://www.medmehealth.com",
-    "all_locations": "Toronto, ON, Canada; Remote",
+    "all_locations": "Toronto, ON, Canada",
     "long_description": "MedMe Health builds software for pharmacists to deliver paid clinical services like prescribing/adapting medications, point-of-care testing, giving vaccinations, and monitoring chronic conditions.  \r\n\r\nOur web-based platform helps both independent pharmacies and large chains schedule appointments online, conduct virtual care, automate documentation, and flag clinical opportunities. With MedMe, our customers have increased their efficiency of clinical service delivery by 10x and increased pharmacy revenue with the same staff.\r\n\r\nFor the first time, MedMe enables integrations to traditionally locally-stored pharmacy data. Our vision is to transform today’s dispensing locations to tomorrow’s health hubs. ",
     "one_liner": "Software for pharmacies to move beyond dispensing",
-    "team_size": 30,
+    "team_size": 60,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1615839636,
@@ -2997,9 +2950,9 @@
       "Canada",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3461,7 +3414,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3986,7 +3939,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Healthcare workers use Adni's AI career assistant, Allie, to autonomously find jobs, buy gear, connect with peers, manage credentials, and more. Leading organizations, like Penn Medicine, MedPro, and PRN Healthcare, use Adni’s clinician network and AI voice agents to source, screen, and hire healthcare talent faster and cheaper.\r\n\r\nBacked by Y Combinator, Flare Capital, Liquid 2 Ventures, Fresco Capital, Augment Ventures, Crista Galli Ventures, and more.",
+    "long_description": "Healthcare workers use Adni's AI career assistant, Allie, to find jobs, buy gear, connect with peers, manage credentials, and more. Leading organizations, like Penn Medicine, Medical Solutions, and MedPro use Adni’s clinician network and AI sourcing and screening agents to hire healthcare talent faster and cheaper.\r\n\r\nBacked by YC, Flare Capital, Liquid 2, Fresco, Augment, Crista Galli, Adam Grant, the founders of CareRev, Clipboard Health, Papa, and more.",
     "one_liner": "AI career platform for healthcare workers",
     "team_size": 5,
     "industry": "Healthcare",
@@ -8854,14 +8807,14 @@
     "website": "https://usetaiga.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Taiga automates medical billing for doctor's offices. A doctor uploads their visit data, our AI figures out the right billing codes, checks the claim for errors, and submits it to insurance, dealing with any denials. Faster billing, fewer rejected claims, less busywork.                                                       \r\n                                                                                                                        \r\nWe're Nanda and Adam, friends since 3rd grade. Both of our parents are doctors with their own practices, and billing was always a source of stress and lost revenue for them. We want providers to treat patients while we handle the rest.",
-    "one_liner": "Fullstack medical billing service",
+    "one_liner": "Full-stack Medical Billing Services",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1775511630,
     "tags": [
-      "Artificial Intelligence",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -545,58 +545,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/striga.json"
   },
   {
-    "id": 23105,
-    "name": "Reclaim Protocol",
-    "slug": "reclaim-protocol",
-    "former_names": [
-      "Socionity",
-      "CreatorOS",
-      "CreatorOS - Questbook",
-      "Questbook",
-      "Reclaim Protocol, Questbook",
-      "CreatorOS",
-      "Bluecheck"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
-    "website": "https://reclaimprotocol.org",
-    "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
-    "one_liner": "User data verification across Employment, Academic Creds, Retail…",
-    "team_size": 26,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616635998,
-    "tags": [
-      "Finance",
-      "Identity",
-      "Compliance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reclaim-protocol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/reclaim-protocol.json"
-  },
-  {
     "id": 23174,
     "name": "Feroot Security",
     "slug": "feroot-security",
@@ -1065,17 +1013,17 @@
     "website": "http://www.cinder.co",
     "all_locations": "New York, NY, USA",
     "long_description": "From content moderation to responsible AI, Cinder empowers businesses to orchestrate and automate digital safety at scale. Cinder was founded to help organizations foster safe online spaces for everyone. Our platform empowers companies from start-ups to enterprises with end-to-end capabilities to mitigate harm, investigate abuse, and produce trustworthy and reliable AI outcomes. Building your world-class company means keeping your users and community safe—Cinder unlocks faster growth by making safety easy. We work with customers in every industry from frontier AI labs to e-commerce and social media. \r\n\r\nWe're hiring across a variety of teams and looking for candidates based in NYC or open to relocating to NYC, and able to work in-person.",
-    "one_liner": "Cinder | Responsible AI, Trust & Safety, and Data Labeling At Scale",
+    "one_liner": "Infrastructure to protect companies from AI abuse",
     "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1647554051,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Trust & Safety",
-      "AI"
+      "Trust & Safety"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1595,19 +1543,19 @@
       "Intrinsic"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32d61652a6684aecf45080965c0897ba451022f.png",
-    "website": "https://www.variance.co/",
+    "website": "https://www.variance.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Variance builds AI agents for fraud, identity, and investigations for Fortune 500s, Marketplaces, and regulated financial services.",
     "one_liner": "AI Agents for Fraud Review and Investigations",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1677704898,
     "tags": [
-      "Artificial Intelligence",
       "Compliance",
       "Cybersecurity",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

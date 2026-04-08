@@ -8780,58 +8780,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/unsurvey.json"
   },
   {
-    "id": 23105,
-    "name": "Reclaim Protocol",
-    "slug": "reclaim-protocol",
-    "former_names": [
-      "Socionity",
-      "CreatorOS",
-      "CreatorOS - Questbook",
-      "Questbook",
-      "Reclaim Protocol, Questbook",
-      "CreatorOS",
-      "Bluecheck"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
-    "website": "https://reclaimprotocol.org",
-    "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
-    "one_liner": "User data verification across Employment, Academic Creds, Retail…",
-    "team_size": 26,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616635998,
-    "tags": [
-      "Finance",
-      "Identity",
-      "Compliance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reclaim-protocol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/reclaim-protocol.json"
-  },
-  {
     "id": 23189,
     "name": "Fable",
     "slug": "fable",
@@ -17187,7 +17135,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ffd914850938fa6bf113c48744141e940a90a14.png",
     "website": "https://open.cx",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Open is an AI-powered, all-in-one customer support and communication platform — used in production by:\r\n\r\nPrint.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe’re a research-based company currently working on releasing Support-Bench, the world’s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
     "one_liner": "Enterprise AI customer support",
     "team_size": 22,
@@ -17215,7 +17163,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -18192,14 +18140,20 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/728ee9ea2b99fcf7119bc1be1f331371e8b80fc2.png",
     "website": "https://coval.dev",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
     "one_liner": "Simulation & Evaluation that scales voice and chat AI agents",
-    "team_size": 5,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725341816,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Monitoring",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -18211,7 +18165,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25443,15 +25398,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
     "website": "https://www.runtm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
+    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
     "one_liner": "Let all your team ship safely with coding agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,

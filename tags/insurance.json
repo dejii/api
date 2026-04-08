@@ -847,6 +847,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/ai-insurance.json"
   },
   {
+    "id": 12283,
+    "name": "OutRival, Inc.",
+    "slug": "outrival-inc",
+    "former_names": [
+      "Career Karma",
+      "Inc.",
+      "Career Karma"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c6deff6969e83c832af730188606f1d389231dc.png",
+    "website": "https://outrival.com/",
+    "all_locations": "Miami, FL, USA",
+    "long_description": "OutRival's AI Agents make outbound calls, send texts, and write emails for enterprises in education, insurance, and travel. We drive revenue through millions of proactive conversations monthly. Companies go live in under 2 weeks.",
+    "one_liner": "Outbound AI Agents for Education, Insurance, and Travel",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1544068972,
+    "tags": [
+      "Education",
+      "Travel",
+      "Insurance",
+      "Customer Service",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/outrival-inc",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/outrival-inc.json"
+  },
+  {
     "id": 12600,
     "name": "Obie",
     "slug": "obie",
@@ -1025,18 +1071,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d30e3e30894c40033c853cefa3efa02ec9f54b.png",
     "website": "https://www.medpiper.com",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "MedPiper, a full-stack data platform that unifies and delivers end-to-end process for member and population health data: from data sourcing -> data verification -> data readiness -> data standardisation -> data logistics -> data interoperability . We have enabled payors, life sciences, pharma and health platforms obtain deeper insights into health,  delivering better coverage and health outcomes. \r\n\r\nAside from increasing network of healthcare & social determinant data partners, we move workloads that need extensive data handling workflows, to a simple workbench that  can run and deploy rule engines on insights and braoder analytics : contributing to increased customer engagement, depeer personalised products, better GM structure etc for our clients. \r\n\r\n\r\n\r\nA few core things we deliver:\r\n\r\n- Easy integration (API-accessible),\r\n- A seamless experience (for all involved: patient, payor, provider, lab, mobile workforce),\r\n- A commitment to clinical quality standards,",
-    "one_liner": "Salesforce for health data",
-    "team_size": 37,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "long_description": "OrbitCover (by MedPiper Technologies, YC S20) is parametric settlement infrastructure. We enable insurers and distributors to offer auto-settling protection products where claims resolve in minutes, not weeks, triggered by verifiable events with zero human intervention.\r\n\r\nLive today in travel: flights on IndiGo auto-settle delay payouts via UPI in under 5 minutes. ~49,000 policies/day. We operate as an MGA with 25-30% commission economics and no balance sheet risk, licensed under IRDAI.\r\nWe're expanding into Guaranteed Compute (parametric downtime coverage for GPU infrastructure) and building toward vertical-agnostic parametric rails.\r\n\r\nCore things we deliver:\r\nEvent-triggered, sub-5-minute settlement\r\nVertical-agnostic parametric binding protocol (VerticalBinding)\r\nDual-mode pricing engine with real-time actuarial calibration\r\nFull insurer/reinsurer integration (product filing, claims ops, regulatory compliance)",
+    "one_liner": "Parametric settlement infrastructure for insurance",
+    "team_size": 55,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "launched_at": 1597677447,
     "tags": [
+      "Fintech",
       "B2B",
-      "Synthetic Biology",
-      "Healthcare",
       "Insurance",
-      "Data Science"
+      "Consumer Finance",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1045,8 +1091,8 @@
     "batch": "Summer 2020",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
       "India",
@@ -2622,16 +2668,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster by getting them the insurance they need to sell into enterprise customers, pass procurement, move through onboarding, and meet retail vendor requirements. We use AI-driven workflows and licensed broker review to compare top-rated U.S. carriers and help founders secure D&O, Tech E&O, Cyber, General Liability, Product Liability, and Certificates of Insurance (COIs). We serve AI/SaaS, Space, Fintech and Web3 startups. ",
-    "one_liner": "AI-native commercial insurance broker for startups.",
+    "long_description": "RiskCube helps startups and growing businesses become vendor-ready faster.\r\nWe use AI-driven workflows and licensed broker review to compare top U.S. carriers and deliver the insurance they need to sell into enterprise customers, pass procurement, and close deals quickly.\r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, Space, and Web3 startups creating the future, from Earth today to the Moon tomorrow.",
+    "one_liner": "AI-native insurance broker for startups — from Earth to the Moon.",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1731782052,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2907,6 +2953,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inventoryquant",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/inventoryquant.json"
+  },
+  {
+    "id": 31440,
+    "name": "Mount",
+    "slug": "mount",
+    "former_names": [
+      "Cybe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa5208859312a795f7e72dfb9eb2a5149785a216.png",
+    "website": "https://mount.insure",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mount is the Insurer for the Agent Economy.\r\n\r\nWhen AI systems autonomously sign contracts, manage finances, or talk to customers, every failure becomes the deployer's liability. Existing insurers don't want to cover this. They lack the data, the models, and the speed to assess deployed AI systems.              \r\n\r\nWe're solving this by building a risk evaluation and mitigation platform specifically for AI Agents. Mount's platform red-teams them, scores their operational risk, and issues ADR certifications (the SOC 2 for AI agents). Every evaluation generates proprietary risk data that feeds our underwriting engine, a data moat no competitor can replicate.\r\n\r\nThe AI agent market is projected to grow from $7.6B to $183B by 2033. The EU AI Act and upcoming regulation require deployers to manage AI risk. Over 90% of businesses want coverage for AI risks, yet no insurer is built to price this new risk category. We are that company.\r\n\r\nFabian studied CS at ETH Zürich with a focus on machine learning and has been building AI systems since. John founded an AI-first media company at 18 and scaled it to 400K in annual revenue. Together, they combine deep technical AI expertise with the operational intensity to build a full-stack insurance company from scratch.",
+    "one_liner": "Insure and secure your AI Agents",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1775605248,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Security",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mount",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
   },
   {
     "id": 31539,
