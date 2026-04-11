@@ -2511,21 +2511,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75a43a4feea8b7e9b9068056b060eea8ca21a51a.png",
     "website": "https://www.retrofix.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "RetroFix is an automation platform designed to be extremely intuitive to use, making it much easier and faster to automate manual work. \r\n\r\nTo create or modify workflows you can describe them in natural language and our agent will create them end-to-end for you. We allow you to connect with 2000+ applications and use our pre-built actions for your workflows. In the case we don't have a pre-built step, our agent can instead write code to access the full APIs of all the apps we integrate with.",
     "one_liner": "Automate any workflow using plain english",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722292194,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Workflow Automation"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -2533,8 +2529,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2735,17 +2730,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
     "website": "https://cloudglue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cloudglue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
-    "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
-    "team_size": 3,
+    "long_description": "Cloudglue is the video context layer for AI. We make it easy for your AI to understand video.\r\n\r\n-> Developer API Platform: https://cloudglue.dev\r\n-> Tinycloud - your AI agent for video: https://tinycloud.cloudglue.dev",
+    "one_liner": "The video context layer for AI.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1723146818,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8578,16 +8573,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
     "website": "https://rastro.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help distributors and retailers turn catalog chaos into launch-ready products. Share vendor data, pull online specs and pricing, fuzzy match to your database, generate images, and output products in your exact schema.",
-    "one_liner": "The fastest way for retailers to launch product catalogs.",
+    "long_description": "We help distributors and manufacturers turn catalog chaos into launch-ready products. Share vendor data, pull online specs and pricing, fuzzy match to your database, generate images, and output products in your exact schema.",
+    "one_liner": "The fastest way to launch product catalogs.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1721284235,
     "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
       "Retail Tech",
-      "Retail",
-      "AI"
+      "Retail"
     ],
     "tags_highlighted": [],
     "top_company": false,
