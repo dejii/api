@@ -300,6 +300,97 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
+    "id": 31246,
+    "name": "Inth",
+    "slug": "inth",
+    "former_names": [
+      "Consent.io",
+      "Consent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aca00ac880b2d3d17acae2b1679332dc8000c5f7.png",
+    "website": "https://inth.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Automate consent and user data rights compliance. Built for performance and full developer control.",
+    "one_liner": "Privacy Infrastructure for Developers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1776095941,
+    "tags": [
+      "Compliance",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inth",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/inth.json"
+  },
+  {
+    "id": 31279,
+    "name": "Regbase",
+    "slug": "regbase",
+    "former_names": [
+      "RegBase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd72b079b781bbd2a4eb03627c44c4901fd5da63.png",
+    "website": "https://regbase.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "",
+    "one_liner": "Tracking global laws, grants and consultations",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1776112979,
+    "tags": [
+      "Legal",
+      "Sales Enablement",
+      "LegalTech",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/regbase",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/regbase.json"
+  },
+  {
     "id": 31294,
     "name": "Dispatch",
     "slug": "dispatch",
@@ -2709,16 +2800,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcff33c87fe29fc884e55a8d2475dd3ed741f53.png",
     "website": "https://foaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our agents map your company’s operations to identify where and how AI should be integrated.\r\n\r\nCompanies do not have a clear view of how work actually gets done. Their operations are spread across workflows, tools, teams, processes, and sometimes countries, with critical bottlenecks and inefficiencies hidden in the gaps. \r\n\r\nBefore AI can truly transform a company, you first need a granular view of the tasks, handoffs, and dependencies that make up the business.\r\n\r\nFoaster uses AI-led interviews to rebuild that map at scale through 45 minutes chats with employees. Our agents surface how work really happens across the organization, detect bottlenecks and inefficiencies, and then identify where AI can create the most leverage. \r\n\r\nRight now, AI can automate tasks but not entire job. The real challenge is understanding thousands of processes well enough to redesign them coherently. \r\n\r\nNo human team can do that with enough speed or depth. AI can. In days. ",
-    "one_liner": "Map your company's operations, identify where and how to integrate AI",
+    "long_description": "Foaster is building the AI-native partner for AI transformation. \r\n\r\nWe help companies become AI-native by building a deep understanding of how they actually operate, then using that understanding to decide where AI should be deployed, what should change, and how to make the transformation stick.\r\n\r\nOur AI agents conduct private 45-minute interviews across the organization, in parallel, to capture how work really happens: workflows, tools, handoffs, bottlenecks, dependencies, and what people think should change. \r\n\r\nFrom those interviews, we build a living operational map of the company and use it to produce transformation blueprints grounded in real operational data. \r\n\r\nThis is work that, done manually, would have required very large teams working full-time. AI is what allows us to do it with far greater speed, depth, and consistency.\r\n\r\nAnd we do not stop at a one-off plan. Every month, our system updates its understanding of the business, tracks adoption, refreshes the operational map, surfaces new opportunities, and delivers personalized AI upskilling to employees based on their exact role and context. \r\n\r\nOur human experts focus where humans matter most: validating recommendations, building trust, and helping companies execute over time. For enterprise deployments, our forward-deployed engineers help embed AI directly into workflows and systems.",
+    "one_liner": "Your AI-native partner for AI transformation. ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1773744030,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2880,14 +2971,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24a27f14876befd155fa8c25b4a3056848cf5b16.png",
     "website": "https://www.asterlab.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We automate the research and training of machine learning models. Given a dataset, we autonomously launch hundreds of AI researchers who collaboratively theorize and experiment to improve your models.\r\n\r\nWe develop products and conduct frontier research, pushing the bounds of automating research.",
-    "one_liner": "Automated AI model training",
+    "long_description": "We're an AI Research lab that utilizes complex agentic workflows to accelerate the discovery of novel AI research. We've discovered novel optimizers, language modelling architectures, and work in interpretability.\r\n\r\nWe develop products and conduct frontier research, pushing the bounds of automating research.",
+    "one_liner": "The First AI-Native AI Research Lab",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1775665287,
     "tags": [
-      "Artificial Intelligence"
+      "Artificial Intelligence",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
