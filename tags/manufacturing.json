@@ -2477,7 +2477,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Inversion Semiconductor is developing the next-generation chip fabrication machine, to create the most powerful chips 15x faster. Our vision is to reshore advanced chip fabrication capabilities in the West.\r\n\r\nWe're building a lithography machine. Lithography uses light to pattern circuit features on silicon. We're scaling transistors to their physical limits by shrinking particle accelerators 1000x, to create a high power light source. \r\n\r\nUsing our light source we will double transistor density for a given numerical aperture and 3x throughput.",
     "one_liner": "Manufacturing the most powerful chips, 15x faster",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1740019402,
@@ -3488,6 +3488,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tenet-industries",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/tenet-industries.json"
+  },
+  {
+    "id": 31417,
+    "name": "Pairio",
+    "slug": "pairio",
+    "former_names": [
+      "Servio AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f8a4391b575bceb2e2a9bd9d078e12f8f15d5a5.png",
+    "website": "https://pairio.com",
+    "all_locations": "",
+    "long_description": "Pairo is an AI mobile app to help technicians fix broken equipment in factories. Users just take a picture of the broken machine and we search thousands of pages of manuals to find the right solution.",
+    "one_liner": "AI-native industrial maintenance software",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1776390899,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pairio",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/pairio.json"
   },
   {
     "id": 31436,
