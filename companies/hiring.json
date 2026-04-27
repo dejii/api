@@ -23645,7 +23645,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The first AI-powered demo platform designed to sell, market and implement technical products with ease. Our visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world’s largest enterprises.",
     "one_liner": "Demo Platform for API-First Companies",
-    "team_size": 30,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1647531815,
@@ -30929,16 +30929,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 21,
+    "team_size": 23,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38366,7 +38366,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3a2460651e6fcbf7d9ddcbd54822e26944663e9.png",
     "website": "https://aglide.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to secure access to every enterprise application.\r\n\r\nAglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration.\r\n\r\nOnce connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only.\r\n\r\nCustomers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting.\r\n\r\nToday, customers from fintech decacorns to global media companies rely on Aglide’s zero-trust, end-to-end encrypted platform to complete their identity stack.",
+    "long_description": "Our mission is to secure access to every enterprise application.\r\n\r\nAglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration.\r\n\r\nOnce connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only.\r\n\r\nCustomers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting.\r\n\r\nToday, companies from public fintechs like Gemini to media companies like The Motley Fool rely on Aglide’s zero-trust, end-to-end encrypted platform to complete their identity stack.",
     "one_liner": "Connect every disconnected app to your SSO.",
     "team_size": 6,
     "industry": "B2B",
@@ -45562,16 +45562,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/509f2048cdd77eab05ee8a3d68e8bbc31e9d9af1.png",
     "website": "https://stardrift.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stardrift is an AI travel planet. We help our users find and book flights, hotels and activities for their vacations.",
+    "long_description": "Stardrift is an AI travel planner. We help our users find and book flights, hotels and activities for their vacations.",
     "one_liner": "AI travel planner",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1721868567,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "Travel"
+      "Travel",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -51335,6 +51335,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/salespatriot",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/salespatriot.json"
+  },
+  {
+    "id": 30231,
+    "name": "Paragon",
+    "slug": "deployparagon",
+    "former_names": [
+      "Sift",
+      "Serix",
+      "Sift Dev",
+      "Sift"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79ffca3b97639c7dbc3864b40c1a8a01d1691675.png",
+    "website": "https://www.runparagon.com",
+    "all_locations": "",
+    "long_description": "Paragon is the AI growth engine for distributors and manufacturers, freeing up staff and growing revenue on autopilot.",
+    "one_liner": "The AI Growth Engine for Industrials",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1737662674,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deployparagon",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/deployparagon.json"
   },
   {
     "id": 30234,
@@ -60766,6 +60807,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stilta",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/stilta.json"
+  },
+  {
+    "id": 31169,
+    "name": "Proximitty",
+    "slug": "proximitty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
+    "website": "https://proximitty.ai",
+    "all_locations": "",
+    "long_description": "Proximitty is the AI operating system for commercial loans - we build regulator-grade AI agents that ingest and parse documents, spread financials, automate loan operations and track covenants.\r\n\r\nWe help FDIC-insured banks and fintechs underwrite faster and scale their loan books without scaling costs.",
+    "one_liner": "AI operating system for commercial loans",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1771451277,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proximitty",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/proximitty.json"
   },
   {
     "id": 31174,
