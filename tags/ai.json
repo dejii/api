@@ -24187,8 +24187,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
-    "one_liner": "Inference for real-time production workloads",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
+    "one_liner": "Inference for real-time agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -24196,9 +24196,9 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
-      "Generative AI",
       "Infrastructure",
-      "AI"
+      "AI",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26461,51 +26461,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oki",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
-  },
-  {
-    "id": 30250,
-    "name": "GradeWiz",
-    "slug": "gradewiz",
-    "former_names": [
-      "GradeWIz",
-      "Gradewiz",
-      "GradeWiz",
-      "GradeWIz"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/457b05762957fe3db28fe1457bc145653e7ee436.png",
-    "website": "https://www.gradewiz.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GradeWiz is an AI assistant that helps educators create rubrics, grade student work and give detailed feedback on handwritten worksheets and tests, saving 4+ hrs a week\r\n\r\n",
-    "one_liner": "AI Grading for Teachers",
-    "team_size": 2,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1736138044,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Edtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gradewiz",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/gradewiz.json"
   },
   {
     "id": 30255,
@@ -30256,6 +30211,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
   },
   {
+    "id": 30696,
+    "name": "GhostEye",
+    "slug": "ghosteye",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
+    "website": "https://ghosteye.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
+    "one_liner": "Vulnerability Management for the Human Layer ",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1753230986,
+    "tags": [
+      "B2B",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ghosteye",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
+  },
+  {
     "id": 30699,
     "name": "VibeFlow",
     "slug": "vibeflow",
@@ -31927,6 +31923,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json"
   },
   {
+    "id": 30867,
+    "name": "Soren",
+    "slug": "soren",
+    "former_names": [
+      "Remediate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66adc42c53024ebb1bfc81c3de3961890ae2b2a8.png",
+    "website": "https://soren-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to adopt modern AI without worrying about data privacy or security.",
+    "one_liner": "Private AI for Regulated Industries",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759390917,
+    "tags": [
+      "Finance",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soren",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
+  },
+  {
     "id": 30871,
     "name": "PlayVision",
     "slug": "playvision",
@@ -32696,6 +32735,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/specific",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
+  },
+  {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen",
+      "ArcTen, Inc.",
+      "Arcten, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Lab working on long-horizon autonomous research and coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761245566,
+    "tags": [
+      "Deep Learning",
+      "Generative AI",
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30962,
@@ -34372,8 +34460,8 @@
     "subindustry": "B2B",
     "launched_at": 1774887463,
     "tags": [
-      "Marketplace",
       "B2B",
+      "Supply Chain",
       "AI"
     ],
     "tags_highlighted": [],

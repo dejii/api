@@ -3439,7 +3439,7 @@
       "Quack AI",
       "Sourcepulse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62a16a2a0e7732cc2efaa618bbcef991bf7a255b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd215af97ab581709a04ff6284c6091f29c2058e.png",
     "website": "https://rimward.ai/",
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Rimward helps operators of solar farms and other remote outdoor infrastructure detect intrusions from existing camera networks. We turn existing CCTV into operator-ready alerts with video verification, so security teams can reduce false alarms, respond faster, and avoid heavy hardware retrofits.\r\n\r\nWe are focused on sites where recurring theft, perimeter intrusion, and low staffing make traditional monitoring noisy and operationally weak. Our approach is software-heavy, field-oriented, and built to work with real site constraints.",
@@ -3824,7 +3824,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -4510,15 +4510,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to adopt modern AI without worrying about data privacy or security.",
     "one_liner": "Private AI for Regulated Industries",
-    "team_size": 1,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4540,56 +4540,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soren",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
-  },
-  {
-    "id": 30961,
-    "name": "Arcten",
-    "slug": "arcten",
-    "former_names": [
-      "Cortex",
-      "ArcTen",
-      "Arc Ten",
-      "ArcTen",
-      "ArcTen, Inc.",
-      "Arcten, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "website": "https://arcten.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Building the best coding agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761245566,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Customer Success",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcten",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30972,

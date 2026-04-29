@@ -7861,11 +7861,11 @@
       "QuickVid",
       "True3D"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/084dd39112f991529cbcde05f2b6e80e075b606f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7da2309b02d5990f41bbcc5b3695e3e028b38c7f.png",
     "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "True3D is on a mission to kill black bars. Our AI expands any video to fit any screen.\r\n",
-    "one_liner": "AI that expands any video to fill any screen",
+    "long_description": "We build AI models that convert standard video into immersive 3D for domes, giant screens, and VR headsets without reshoots.",
+    "one_liner": "AI that expands any video to fit any screen.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -14470,10 +14470,10 @@
       "Hostfi",
       "Accountable"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b43ecf0808f334d17e126970a590f4a2bbc9c662.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14b168ed501ea557559382e4424055d43c1f293a.png",
     "website": "https://atlaswork.ai",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Send any document. Atlas detects fields, pre-fills data, and returns a signable link in one API call. No templates, no manual setup. Atlas gets smarter with every doc. The next deal with the same company prefills itself.",
+    "long_description": "Send any document. Atlas detects fields, pre-fills data, and returns a signable link in one API call. No templates, no manual setup. ",
     "one_liner": "E-Sign API for AI Agents",
     "team_size": 2,
     "industry": "B2B",
@@ -25051,7 +25051,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -28747,8 +28747,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dc8136429eadec250bda86f1102143f81a24beb.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to hit latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions.",
-    "one_liner": "Inference for real-time production workloads",
+    "long_description": "Pipeshift helps engineering teams run real-time inference in production. We offer optimized runtimes to meet latency/throughput SLAs, paired with infrastructure orchestration that auto-scales and routes workloads across clusters and regions at cost-effective rates.",
+    "one_liner": "Inference for real-time agents",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -28756,9 +28756,9 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
-      "Generative AI",
       "Infrastructure",
-      "AI"
+      "AI",
+      "ML"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31212,6 +31212,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/osmosis",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json"
+  },
+  {
+    "id": 30250,
+    "name": "10x",
+    "slug": "10x",
+    "former_names": [
+      "GradeWIz",
+      "Gradewiz",
+      "GradeWiz",
+      "GradeWIz",
+      "GradeWiz"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba966c23157e18273203c5a895b88637e3e4b8e0.png",
+    "website": "https://www.10xdental.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "10x helps dental practices turn missed revenue opportunities into booked appointments. We connect to a practice’s patient database, identify overdue recalls, lapsed patients, and unscheduled treatment plans, then use AI calling and texting to bring those patients back into the chair.",
+    "one_liner": "AI Sales Teams for Dental Practices",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1736138044,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Dental"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/10x",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/10x.json"
   },
   {
     "id": 30251,
@@ -35640,47 +35687,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
-    "id": 30696,
-    "name": "GhostEye",
-    "slug": "ghosteye",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
-    "website": "https://ghosteye.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
-    "one_liner": "Vulnerability Management for the Human Layer ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1753230986,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ghosteye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
-  },
-  {
     "id": 30697,
     "name": "Normal",
     "slug": "normal",
@@ -37036,49 +37042,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/the-context-company.json"
   },
   {
-    "id": 30867,
-    "name": "Soren",
-    "slug": "soren",
-    "former_names": [
-      "Remediate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66adc42c53024ebb1bfc81c3de3961890ae2b2a8.png",
-    "website": "https://soren-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to adopt modern AI without worrying about data privacy or security.",
-    "one_liner": "Private AI for Regulated Industries",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759390917,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soren",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
-  },
-  {
     "id": 30868,
     "name": "Norra",
     "slug": "norra",
@@ -38102,56 +38065,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primer",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/primer.json"
-  },
-  {
-    "id": 30961,
-    "name": "Arcten",
-    "slug": "arcten",
-    "former_names": [
-      "Cortex",
-      "ArcTen",
-      "Arc Ten",
-      "ArcTen",
-      "ArcTen, Inc.",
-      "Arcten, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "website": "https://arcten.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Building the best coding agents.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761245566,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Customer Success",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcten",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30969,
