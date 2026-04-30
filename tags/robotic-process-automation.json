@@ -873,17 +873,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex is browser automation infrastructure built for health tech companies. Automate prior auth, enrollment, intake, claims, and more on provider/payer portals. ",
-    "one_liner": "Browser automation infrastructure for health tech companies",
+    "long_description": "Simplex is an API to submit prior authorizations. AI-native health clinics integrate us with their clinical data layer to get GLP-1s, ADHD medication, and more approved by health insurance.",
+    "one_liner": "API to submit prior authorizations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotic Process Automation",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -994,53 +994,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/bucket-robotics.json"
   },
   {
-    "id": 30101,
-    "name": "BrowserBook",
-    "slug": "browserbook",
-    "former_names": [
-      "Chorrie"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a865085a8c1bba663b682273cb6897a7a4f4686.png",
-    "website": "https://www.browserbook.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
-    "one_liner": "The Browser Automation IDE",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1731609344,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Robotic Process Automation",
-      "SaaS",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browserbook",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/browserbook.json"
-  },
-  {
     "id": 30174,
     "name": "Revise Robotics",
     "slug": "revise-robotics",
@@ -1061,7 +1014,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",

@@ -7550,8 +7550,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull‑request and production release—no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution—only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain‑English editor letting PMs and QAs add tests without writing code.\r\n- One‑click GitHub App or API for instant pipeline integration.",
-    "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
+    "long_description": "We build devtools. Orca is an open-source Cursor—a local-first AI coding environment. Stably is our AI testing platform that writes, runs, and maintains E2E tests in CI.                                                                      \r\n                                    \r\nDevelopers use Orca and Stably to ship faster with more control—coding with their own AI setup and merging with confidence in minutes.",
+    "one_liner": "Makers of Orca (OSS Cursor) and Stably (AI testing platform)",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -11843,7 +11843,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -13007,7 +13007,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -17707,8 +17707,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
     "website": "https://egoai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ego AI is building Character AI + Roblox. Our conviction is that 3D embodiment, shared activities in games and AI imbued with human-like personalities will solve the existing problems of low-stakes, shallow and generic interactions that impact retention in consumer AI chat experiences.  \r\n\r\nWe’re fine-tuning a foundation model for characters to behave in human-like ways—indistinguishable from real people—and building a UGC platform around it to allow users to create, experience and form meaningful connections & mutual stories with these AI characters. On our platform, simworld, users will be able place the characters in a Stardew Valley style simulated town, where the AI characters will live, work and play, leading rich internal lives. Users who deepen bonds with these AI character friends can invite them out with them to Discord, Minecraft or even a Netflix-n-chill session.\r\n\r\nOur Character engine, ego AI, built on top of Unreal, will allow users to create, deploy and even monetize their characters across any surface that supports our CCProtocol. The first use case for our characters will likely be DnD-style roleplay, Minecraft RP, and Twitch streaming. \r\n\r\nCharacters will always live and exist in Simtowns with other AIs (and humans) where they will all lead varied internal lives replete with conflict, danger, opportunity, and love…just like humans in the real world!\r\n\r\nDuring YC, we used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "Character AI + Roblox :persistent, sapient AI characters in 3D worlds ",
+    "long_description": "we are making AI feel more human starting with voice. ai applied research lab training a novel end-to-end model & productizing what makes AI more personal, persistent, and human. frontier AI, like Claude and ChatGPT, are weak on memory, personality, relationship, and human-like interaction...that's our domain.",
+    "one_liner": "AI applied research lab building synthetic sapience; human-like AI",
     "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -17716,7 +17716,6 @@
     "tags": [
       "Artificial Intelligence",
       "Consumer",
-      "Gaming",
       "AI",
       "Conversational AI"
     ],
@@ -17793,7 +17792,7 @@
     "former_names": [
       "Onboard AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b36d17df23b1b97acf8da329ffce929fa129ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a991d8af835ae196b30e656796c7aa6805c9d1.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
@@ -18443,51 +18442,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/artisan.json"
   },
   {
-    "id": 29296,
-    "name": "Simplex",
-    "slug": "simplex",
-    "former_names": [
-      "Simplex",
-      "Pansimulate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
-    "website": "https://simplex.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex is browser automation infrastructure built for health tech companies. Automate prior auth, enrollment, intake, claims, and more on provider/payer portals. ",
-    "one_liner": "Browser automation infrastructure for health tech companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723709594,
-    "tags": [
-      "Machine Learning",
-      "Robotic Process Automation",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simplex",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simplex.json"
-  },
-  {
     "id": 29300,
     "name": "Trellis AI",
     "slug": "trellis-ai",
@@ -18923,52 +18877,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
-  },
-  {
-    "id": 29332,
-    "name": "Pillar",
-    "slug": "trypillar",
-    "former_names": [
-      "Double"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3765a4b3a407691f524ffa2f1b9c994e62781a26.png",
-    "website": "https://trypillar.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pillar is an open source copilot that turns user requests into completed actions, right inside your app.",
-    "one_liner": "Your App's Copilot",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1701750687,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trypillar",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/trypillar.json"
   },
   {
     "id": 29333,
@@ -19707,7 +19615,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -20416,12 +20324,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
     "website": "https://retellai.com",
-    "all_locations": "",
+    "all_locations": "Redwood City, CA, USA",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1700513197,
     "tags": [
       "Artificial Intelligence",
@@ -20434,11 +20342,11 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -29605,23 +29513,22 @@
   },
   {
     "id": 30625,
-    "name": "CallingBox",
-    "slug": "callingbox",
+    "name": "LLM Stats",
+    "slug": "llm-stats",
     "former_names": [
-      "ZeroEval"
+      "ZeroEval",
+      "CallingBox"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b30f804e803044d636a123b1124cda00f1065ed2.png",
-    "website": "https://callingbox.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a26ef8cd21c96b9e05cbe02e5462bd2096d53b7.png",
+    "website": "https://llm-stats.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Make AI phone calls from a single API call. ",
-    "one_liner": "The API for AI phone calls",
+    "long_description": "We build independent and contamination-proof benchmarks that measure real world performance.\r\n\r\nLLM Stats is the most complete LLM leaderboard. We have the most complete archive of LLM benchmark results and also run independent evaluations that are not the classical ones that are already in the training data of most models.\r\n\r\nOur mission: become the biggest community dedicated to AI transparency.",
+    "one_liner": "Independent AI evaluations lab",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1755052091,
     "tags": [
-      "Developer Tools",
-      "SaaS",
       "Infrastructure",
       "AI"
     ],
@@ -29632,7 +29539,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -29643,8 +29551,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/callingbox",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/callingbox.json"
+    "url": "https://www.ycombinator.com/companies/llm-stats",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/llm-stats.json"
   },
   {
     "id": 30626,
@@ -30231,7 +30139,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -34273,51 +34181,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kimpton-ai.json"
   },
   {
-    "id": 31429,
-    "name": "Benchspan",
-    "slug": "benchspan",
-    "former_names": [
-      "Oddpool"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa4fc4f6d1e2ccaa194229fd65ff2d902dc82092.png",
-    "website": "https://www.benchspan.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We built the most accurate indirect prompt injection classifier available today, trained by the team behind Microsoft's Prompt Shields. Our model catches the attacks that generic guardrails miss: hidden instructions embedded in documents, emails, tool outputs, and retrieval results that manipulate your agent from the inside.\r\n\r\nConnect your observability stack and Benchspan monitors every LLM call, tool invocation, and RAG retrieval in production. We learn your agents' normal behavior and flag data exfiltration, unauthorized tool access, and behavioral drift before they cause damage",
-    "one_liner": "Real-time threat detection for AI agents in production",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773859660,
-    "tags": [
-      "AIOps",
-      "Analytics",
-      "Security",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchspan",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/benchspan.json"
-  },
-  {
     "id": 31432,
     "name": "Keyframe Labs",
     "slug": "keyframe-labs",
@@ -34442,48 +34305,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ardent",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/ardent.json"
-  },
-  {
-    "id": 31481,
-    "name": "Saudara AI",
-    "slug": "saudara-ai",
-    "former_names": [
-      "Saudara AI Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
-    "website": "https://saudara.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Indonesian exports to the US grew 23% in 2025 up to over $30B. The shift is happening. Most brands just don't have the on-ramp yet.\r\n\r\nSaudara AI is an AI-native sourcing agency connecting American brands with Indonesian suppliers across apparel, textiles, home goods, supplements, and raw materials. Our AI agent finds your factory, handles vetting, sampling, and delivery. A human is in the loop at every stage.\r\n\r\nNo more ghosting. No more waiting months for supplier updates. You always know where your order stands.\r\n\r\nWe are the on-ramp.",
-    "one_liner": "AI-native Sourcing Agency",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1774887463,
-    "tags": [
-      "B2B",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saudara-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/saudara-ai.json"
   },
   {
     "id": 31488,
@@ -34654,6 +34475,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/arzana.json"
   },
   {
+    "id": 31518,
+    "name": "Runtime",
+    "slug": "runtime",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
+    "website": "https://www.runtm.com/",
+    "all_locations": "",
+    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
+    "one_liner": "Let all your team ship safely with coding agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1773951001,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/runtime",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/runtime.json"
+  },
+  {
     "id": 31528,
     "name": "Asendia AI",
     "slug": "asendia-ai",
@@ -34737,5 +34597,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicule",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/manicule.json"
+  },
+  {
+    "id": 31560,
+    "name": "Intelligence Factory",
+    "slug": "intelligence-factory",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c1f1fb7356289878fa2341c0a20700f178fbcf.png",
+    "website": "https://intelligence-factory.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. \r\n\r\nThe way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+    "one_liner": "Human Intelligence for Robots",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1777499618,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/intelligence-factory",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/intelligence-factory.json"
   }
 ]

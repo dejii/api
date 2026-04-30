@@ -8585,47 +8585,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/downlink.json"
   },
   {
-    "id": 29441,
-    "name": "Retell AI",
-    "slug": "retell-ai",
-    "former_names": [
-      "Adam Translate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
-    "website": "https://retellai.com",
-    "all_locations": "",
-    "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
-    "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1700513197,
-    "tags": [
-      "Artificial Intelligence",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/retell-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/retell-ai.json"
-  },
-  {
     "id": 29509,
     "name": "Blacksmith",
     "slug": "blacksmith",
@@ -10231,6 +10190,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/truthsystems",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/truthsystems.json"
+  },
+  {
+    "id": 30625,
+    "name": "LLM Stats",
+    "slug": "llm-stats",
+    "former_names": [
+      "ZeroEval",
+      "CallingBox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a26ef8cd21c96b9e05cbe02e5462bd2096d53b7.png",
+    "website": "https://llm-stats.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We build independent and contamination-proof benchmarks that measure real world performance.\r\n\r\nLLM Stats is the most complete LLM leaderboard. We have the most complete archive of LLM benchmark results and also run independent evaluations that are not the classical ones that are already in the training data of most models.\r\n\r\nOur mission: become the biggest community dedicated to AI transparency.",
+    "one_liner": "Independent AI evaluations lab",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1755052091,
+    "tags": [
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/llm-stats",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/llm-stats.json"
   },
   {
     "id": 30643,

@@ -16216,7 +16216,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -21645,8 +21645,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
     "website": "https://egoai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ego AI is building Character AI + Roblox. Our conviction is that 3D embodiment, shared activities in games and AI imbued with human-like personalities will solve the existing problems of low-stakes, shallow and generic interactions that impact retention in consumer AI chat experiences.  \r\n\r\nWe’re fine-tuning a foundation model for characters to behave in human-like ways—indistinguishable from real people—and building a UGC platform around it to allow users to create, experience and form meaningful connections & mutual stories with these AI characters. On our platform, simworld, users will be able place the characters in a Stardew Valley style simulated town, where the AI characters will live, work and play, leading rich internal lives. Users who deepen bonds with these AI character friends can invite them out with them to Discord, Minecraft or even a Netflix-n-chill session.\r\n\r\nOur Character engine, ego AI, built on top of Unreal, will allow users to create, deploy and even monetize their characters across any surface that supports our CCProtocol. The first use case for our characters will likely be DnD-style roleplay, Minecraft RP, and Twitch streaming. \r\n\r\nCharacters will always live and exist in Simtowns with other AIs (and humans) where they will all lead varied internal lives replete with conflict, danger, opportunity, and love…just like humans in the real world!\r\n\r\nDuring YC, we used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "Character AI + Roblox :persistent, sapient AI characters in 3D worlds ",
+    "long_description": "we are making AI feel more human starting with voice. ai applied research lab training a novel end-to-end model & productizing what makes AI more personal, persistent, and human. frontier AI, like Claude and ChatGPT, are weak on memory, personality, relationship, and human-like interaction...that's our domain.",
+    "one_liner": "AI applied research lab building synthetic sapience; human-like AI",
     "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -21654,7 +21654,6 @@
     "tags": [
       "Artificial Intelligence",
       "Consumer",
-      "Gaming",
       "AI",
       "Conversational AI"
     ],
@@ -21686,7 +21685,7 @@
     "former_names": [
       "Onboard AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b36d17df23b1b97acf8da329ffce929fa129ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a991d8af835ae196b30e656796c7aa6805c9d1.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
@@ -22466,6 +22465,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/arini.json"
   },
   {
+    "id": 29296,
+    "name": "Simplex",
+    "slug": "simplex",
+    "former_names": [
+      "Simplex",
+      "Pansimulate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/556d5a66ef0386d859db3ad9f500ceeadf756032.png",
+    "website": "https://simplex.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Simplex is an API to submit prior authorizations. AI-native health clinics integrate us with their clinical data layer to get GLP-1s, ADHD medication, and more approved by health insurance.",
+    "one_liner": "API to submit prior authorizations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1723709594,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotic Process Automation",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simplex",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/simplex.json"
+  },
+  {
     "id": 29297,
     "name": "Eggnog",
     "slug": "eggnog",
@@ -22897,6 +22941,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
+  },
+  {
+    "id": 29332,
+    "name": "Polished",
+    "slug": "polished",
+    "former_names": [
+      "Double",
+      "Pillar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6b130da6813f93f556cf04be9132b6ba506b4fc.png",
+    "website": "https://polished.ad",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "With Polished, you create finished ads (video or static) in minutes.\r\nThen you refine it in plain English, until it's exactly what you had in mind.",
+    "one_liner": "Generate ads. Iterate till perfect.",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1701750687,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polished",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/polished.json"
   },
   {
     "id": 29334,
@@ -24502,12 +24594,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
     "website": "https://retellai.com",
-    "all_locations": "",
+    "all_locations": "Redwood City, CA, USA",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1700513197,
     "tags": [
       "Artificial Intelligence",
@@ -24520,11 +24612,11 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -29834,25 +29926,26 @@
   },
   {
     "id": 30101,
-    "name": "BrowserBook",
-    "slug": "browserbook",
+    "name": "Kilvin",
+    "slug": "kilvin",
     "former_names": [
-      "Chorrie"
+      "Chorrie",
+      "BrowserBook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a865085a8c1bba663b682273cb6897a7a4f4686.png",
-    "website": "https://www.browserbook.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32467b13d36c9fed6c944cbb62eed3f24594bf45.png",
+    "website": "https://www.kilvin.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
-    "one_liner": "The Browser Automation IDE",
+    "long_description": "Kilvin is an AI-native agency that builds custom software solutions for non-technical teams.\r\n\r\nWith AI, the future of software is democratized. Every team deserves tools built exactly for them, not off-the-shelf SaaS products they need to adapt to. Kilvin makes it a reality, delivering a private, secure workspace of custom applications, built around your workflows and ready in days, not months.\r\n\r\nNo engineers needed on your side. Just software that fits exactly how you work.",
+    "one_liner": "Custom software for non-technical teams.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731609344,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Robotic Process Automation",
-      "SaaS",
+      "Productivity",
+      "Data Engineering",
       "Automation"
     ],
     "tags_highlighted": [],
@@ -29863,7 +29956,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -29876,8 +29969,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browserbook",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/browserbook.json"
+    "url": "https://www.ycombinator.com/companies/kilvin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/kilvin.json"
   },
   {
     "id": 30102,
@@ -32420,7 +32513,7 @@
     "name": "TamLabs",
     "slug": "tamlabs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a12bc3e49320bd460e7131075a5795180751227a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b8a98c2f9db316565bd733e8ce6e18bca1bb3b.png",
     "website": "https://tamlabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TamLabs is an applied research lab redesigning how knowledge work gets done.",
@@ -39528,6 +39621,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/sherpa.json"
   },
   {
+    "id": 31411,
+    "name": "Andco",
+    "slug": "andco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2a1952b4bf4f03f6e4d7c3a1bc30b3b97ba2619.png",
+    "website": "http://www.useandco.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "End-to-end case workups for personal injury firms.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1777434223,
+    "tags": [
+      "Artificial Intelligence",
+      "Legal"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andco",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/andco.json"
+  },
+  {
     "id": 31419,
     "name": "StableBrowse",
     "slug": "stablebrowse",
@@ -39742,25 +39874,27 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
   },
   {
-    "id": 31458,
-    "name": "Ara",
-    "slug": "ara",
+    "id": 31460,
+    "name": "PLAN0 AI",
+    "slug": "plan0-ai",
     "former_names": [
-      "EasyClaw"
+      "PLANO AI Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/709b77ff2570af190d17b38705c6aa58eb3a15cf.png",
-    "website": "https://ara.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ara is building the fastest personal AI agent computing environment that works for you 24/7.\r\nUsers get instant cloud runtimes to run agents like OpenClaw in isolated environments, letting them organize files, send emails, and handle day-to-day tasks automatically.",
-    "one_liner": "personal ai cloud computing for everyone",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1775160352,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abb178493b637223c4623f43b2c209131939af8e.png",
+    "website": "https://plan0.ai/",
+    "all_locations": "",
+    "long_description": "PLAN0 is an AI-powered preconstruction cost intelligence platform serving real estate developers, general contractors, and investors. We analyze architectural plans using computer vision AI models trained on tens of thousands of examples to generate detailed, industry standard cost estimates in 30 minutes vs. 2+ weeks traditionally.\r\n\r\nThe platform is also building a proprietary database of real-time localized cost data that feed its analytics and forecasting tools. Using quant finance inspired deep neural networks, PLAN0 can decompose construction costs in market observable factors to predict all local trade level costs up to 24 months out with high accuracy.\r\n\r\nThe vision is to develop the CoStar or Bloomberg of construction – a system of record and intelligence layer that allows real estate stakeholders to underwrite, design, and benchmark development projects with greater speed, precision, and confidence.",
+    "one_liner": "AI powered construction cost estimation & analytics.",
+    "team_size": 5,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1777504379,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Consumer"
+      "Computer Vision",
+      "Real Estate",
+      "Construction",
+      "Proptech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39769,19 +39903,19 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "Real Estate and Construction"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ara",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
+    "url": "https://www.ycombinator.com/companies/plan0-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/plan0-ai.json"
   },
   {
     "id": 31473,
@@ -39824,6 +39958,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kuli",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kuli.json"
+  },
+  {
+    "id": 31481,
+    "name": "Saudara AI",
+    "slug": "saudara-ai",
+    "former_names": [
+      "Saudara AI Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
+    "website": "https://saudara.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories. International sourcing is broken. We're fixing it.\r\n\r\nUS brands import over $3 trillion in goods every year and lose billions to ghost suppliers, hidden fees, and missed deadlines. The best factories sit behind decades-old relationships. We have them. Our AI handles the rest.\r\n\r\nA real broker on every deal, supercharged by AI. 10x faster, at a fraction of the cost. We are the on-ramp.",
+    "one_liner": "AI Broker Connecting American Brands With The World's Best Factories",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1774887463,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saudara-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/saudara-ai.json"
   },
   {
     "id": 31489,
@@ -39992,46 +40168,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pentagon",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/pentagon.json"
-  },
-  {
-    "id": 31518,
-    "name": "Runtime",
-    "slug": "runtime",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fb7d11f60217eaded2ae0e96dbee3bf9ebcd68c.png",
-    "website": "https://www.runtm.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Runtime (runtm.com) gives engineering teams control and visibility to enable anyone in their org to use coding agents securely.\r\n\r\nEng leaders rolling out coding agents have no way to see what's happening, set boundaries, or safely let non-engineers use them. We provide sandboxed environments, session-level observability, and configurable guardrails so anyone on your team can ship with coding agents without breaking prod.\r\n\r\nWe're live with fast-growing YC scaleups empowering their Engineers, PMs, designers, marketers, and ops to contribute to their codebase or build prod-grade zero-to-one apps.",
-    "one_liner": "Let all your team ship safely with coding agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773951001,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runtime",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/runtime.json"
   },
   {
     "id": 31523,

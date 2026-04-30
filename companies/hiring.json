@@ -1608,14 +1608,16 @@
   },
   {
     "id": 695,
-    "name": "PicnicHealth",
-    "slug": "picnichealth",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d30956a4bfecca2df896398ce2a95079fea2f9.png",
-    "website": "https://picnichealth.com",
+    "name": "PicnicAI",
+    "slug": "picnicai",
+    "former_names": [
+      "PicnicHealth"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf45bc323953c8df6c8183d0e549e723e5e1a71.png",
+    "website": "https://picnic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Healthcare needs good data. At PicnicHealth, we are building deep real-world datasets fueling cutting-edge research while giving patients control of their own medical record data. These complete, clinically-rich datasets produce unique insights — across dozens of diseases — to ultimately get the right treatments into patients’ hands faster. We work directly with patients and leverage state of the art machine learning to transform messy medical records into structured, research-ready datasets. To date we’ve helped tens of thousands of patients securely access their records and proactively contribute to advancing research in diseases that impacts their lives.",
-    "one_liner": "Empowering Patients for Deep Real World Data",
+    "long_description": "PicnicAI deploys AI into the real-world complexity of care delivery and clinical research. PicnicHealth helps patients navigate fragmented care with AI-powered tools backed by a clinical team, giving them a unified view of their health across all their doctors. PicnicResearch makes clinical research faster, cheaper, and more reliable, using AI agents and direct patient relationships to change the economics of drug development so that more treatments reach the patients who need them.",
+    "one_liner": "Intelligence to accelerate human health.",
     "team_size": 100,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -1642,13 +1644,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/picnichealth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnichealth.json"
+    "url": "https://www.ycombinator.com/companies/picnicai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2014/picnicai.json"
   },
   {
     "id": 705,
@@ -9063,6 +9065,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/oxygen.json"
   },
   {
+    "id": 2030,
+    "name": "Culdesac",
+    "slug": "culdesac",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/496d0ff1f20ae199837eebe1bfef35fa059329d0.png",
+    "website": "http://culdesac.com",
+    "all_locations": "Tempe, AZ, USA",
+    "long_description": "Culdesac designs, builds, and manages walkable communities. \r\n\r\nCuldesac is a real estate developer and property manager. We build neighborhoods that embrace community, open space, and mobility. We offer residential units at a variety of price points integrated with local retail, commercial uses, and open space for nature and public plazas.\r\n\r\nOur communities prioritize biking, walking, and transit over cars and parking. We partner with leading mobility companies to deliver convenient and affordable transportation services. This creates a vibrant urban lifestyle without the need for a private vehicle.\r\n\r\nRead more here > https://medium.com/culdesac/introducing-culdesac-3fbfe7c4219c",
+    "one_liner": "We build cities for people, not cars. ",
+    "team_size": 100,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1575871649,
+    "tags": [
+      "Real Estate",
+      "Housing",
+      "Proptech",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/culdesac",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/culdesac.json"
+  },
+  {
     "id": 11895,
     "name": "Overview",
     "slug": "overview",
@@ -10529,7 +10575,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17196,6 +17242,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/humaans",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/humaans.json"
+  },
+  {
+    "id": 22640,
+    "name": "Albedo",
+    "slug": "albedo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3429747f66833536a5f2b50b1cbea5ad275f53c8.png",
+    "website": "https://albedo.com",
+    "all_locations": "Denver, CO, USA",
+    "long_description": "Albedo builds and operates satellites in Very Low Earth Orbit (VLEO) — a new orbital layer much closer to Earth than traditional satellites in LEO. Flying lower unlocks sharper imagery, faster communications, and real-time maneuverability with smaller, more efficient hardware.\r\n\r\nVLEO is naturally self-cleaning and resilient, offering a sustainable alternative to crowded low Earth orbit - providing diversification and redundancy for critical systems that we rely on in higher orbits. \r\n\r\nWith the only flight proven VLEO system on the market, Albedo is creating a new orbital infrastructure designed for speed, precision, and resilience.",
+    "one_liner": "Full-stack VLEO satellite missions",
+    "team_size": 55,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1611609475,
+    "tags": [
+      "Hard Tech",
+      "Satellites",
+      "Climate",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/albedo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/albedo.json"
   },
   {
     "id": 22656,
@@ -26136,7 +26226,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27347,17 +27437,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fe5c2be7e2aa0778e285c356dcedd5751eb0f3d.png",
     "website": "https://courtyard.io",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Courtyard.io (YC W’22) is a marketplace and tokenization service that enables anyone to easily own and trade physical collectibles on the blockchain, unlocking greater transparency, liquidity, and a powerful new form of ownership. For vaulting, we’re partnered with Brink’s – one of the global leaders in security and logistics. We’re currently focused on graded cards, and offer a variety of slab Vending Machines along with curated mystery pack Drops to provide a fun, fair, and transparent way for enthusiasts and new collectors alike to grow their collections.",
-    "one_liner": "A frictionless, safe, and fun experience to invest in collectibles",
-    "team_size": 80,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Courtyard.io (YC W’22) turns shopping into entertainment. Open digital packs to instantly reveal physical trading cards, comics, watches, and more. Keep what you love – securely vaulted, insured, and ready to ship – or sell back instantly at a guaranteed price. Expanding across new collectibles, fashion, and beyond, Courtyard is pioneering a new model of shopping where entertainment drives demand and liquidity backs every purchase.",
+    "one_liner": "Courtyard turns shopping into entertainment with instant liquidity",
+    "team_size": 90,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
     "launched_at": 1642471735,
     "tags": [
       "Marketplace",
-      "Sports Tech",
-      "Consumer"
+      "Consumer",
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27366,16 +27456,15 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29153,8 +29242,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee33d4dd08812f99b8d82ea64b812f8d2810e88.png",
     "website": "https://instantdb.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Instant is the modern Firebase. We make it easy to build realtime and collaborative applications like Notion or Figma.",
-    "one_liner": "The Modern Firebase",
+    "long_description": "Give your AI a real backend. You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.",
+    "one_liner": "The best backend for AI-coded apps",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -31814,54 +31903,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/pump-co.json"
   },
   {
-    "id": 27185,
-    "name": "Knowtex",
-    "slug": "knowtex",
-    "former_names": [
-      "Puzzle",
-      "Puzzle 121",
-      "Puzzle 1:1",
-      "Puzzle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4dbfd0d7148fdd21093b73066565ae1d3a5d614.png",
-    "website": "http://www.knowtex.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re on a mission to leverage AI and voice technology to solve inefficiencies and revenue leakage in our healthcare system. With the rise of EHRs, the manual documentation burden on doctors has never been higher, leading to burnout and fatigue and high attrition rates. Assigning the correct diagnosis and billing codes is crucial for proper reimbursement and patient care, but medical coding is becoming more and more complex each year with growing numbers of codes (over 145,000 now), and doctors are unsupported by current technology to keep up with its ever increasing requirements. $125 billion is left on the table each year by healthcare organizations due to improper documentation and coding. \r\n\r\nKnowtex creates visit notes with up-to-date and accurate reimbursement codes from doctor-patient conversations, allowing the doctor to focus on patient care and preventing revenue leakage for hospital systems through standardized, transparent, and accurate documentation. ",
-    "one_liner": "Making doctors 2x more efficient with AI note-taking & charge capture",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1658257873,
-    "tags": [
-      "Health Tech",
-      "B2B",
-      "Productivity",
-      "Digital Health",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/knowtex",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/knowtex.json"
-  },
-  {
     "id": 27191,
     "name": "AlgoTest",
     "slug": "algotest",
@@ -33858,6 +33899,56 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cosine",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/cosine.json"
+  },
+  {
+    "id": 27843,
+    "name": "Gooseworks",
+    "slug": "gooseworks",
+    "former_names": [
+      "Magik Labs",
+      "Magik Labs - Fast Web3 Checkout",
+      "Magik Labs - Fast NFT Checkout",
+      "Magik Labs",
+      "Magik",
+      "Athina AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be25b5e55711ba973cd7f6c514b56a10ab3da20e.png",
+    "website": "https://gooseworks.ai/",
+    "all_locations": "",
+    "long_description": "Goose is an AI coworker that can do real GTM work. Goose can find high-signal leads, run your SEO, run outbound campaigns, track competitors, pull marketing reports, manage your CRM and much more.\r\n\r\nGoose has its own filesystem, memories, mailbox and accounts. You can talk to Goose from Slack, Telegram, mail or anywhere just like any other coworker, and ask it to get work done.",
+    "one_liner": "OpenClaw-style AI coworkers for GTM teams",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1667592357,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales",
+      "Marketing",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gooseworks",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/gooseworks.json"
   },
   {
     "id": 27846,
@@ -37258,7 +37349,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Airgoods is building the future of food and beverage distribution. \r\n\r\nToday, we help thousands of independent grocers and specialty food stores (like Westside Market, Butterfield Market, and Epicurus Gourmet) discover, order, and sell emerging and gourmet brands like Fishwife, David, and Ghia.",
     "one_liner": "Wholesale marketplace for food & beverage",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1689699732,
@@ -40540,8 +40631,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
     "website": "https://egoai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ego AI is building Character AI + Roblox. Our conviction is that 3D embodiment, shared activities in games and AI imbued with human-like personalities will solve the existing problems of low-stakes, shallow and generic interactions that impact retention in consumer AI chat experiences.  \r\n\r\nWe’re fine-tuning a foundation model for characters to behave in human-like ways—indistinguishable from real people—and building a UGC platform around it to allow users to create, experience and form meaningful connections & mutual stories with these AI characters. On our platform, simworld, users will be able place the characters in a Stardew Valley style simulated town, where the AI characters will live, work and play, leading rich internal lives. Users who deepen bonds with these AI character friends can invite them out with them to Discord, Minecraft or even a Netflix-n-chill session.\r\n\r\nOur Character engine, ego AI, built on top of Unreal, will allow users to create, deploy and even monetize their characters across any surface that supports our CCProtocol. The first use case for our characters will likely be DnD-style roleplay, Minecraft RP, and Twitch streaming. \r\n\r\nCharacters will always live and exist in Simtowns with other AIs (and humans) where they will all lead varied internal lives replete with conflict, danger, opportunity, and love…just like humans in the real world!\r\n\r\nDuring YC, we used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "Character AI + Roblox :persistent, sapient AI characters in 3D worlds ",
+    "long_description": "we are making AI feel more human starting with voice. ai applied research lab training a novel end-to-end model & productizing what makes AI more personal, persistent, and human. frontier AI, like Claude and ChatGPT, are weak on memory, personality, relationship, and human-like interaction...that's our domain.",
+    "one_liner": "AI applied research lab building synthetic sapience; human-like AI",
     "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -40549,7 +40640,6 @@
     "tags": [
       "Artificial Intelligence",
       "Consumer",
-      "Gaming",
       "AI",
       "Conversational AI"
     ],
@@ -40581,7 +40671,7 @@
     "former_names": [
       "Onboard AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b36d17df23b1b97acf8da329ffce929fa129ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16a991d8af835ae196b30e656796c7aa6805c9d1.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
@@ -42574,51 +42664,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
   },
   {
-    "id": 29377,
-    "name": "Toma",
-    "slug": "toma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c720ae0d8e011f3d717a623f88d12d48f2a84c.png",
-    "website": "http://www.toma.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Toma, we are building the AI software suite for underserved industries, starting with Automotive.\r\n\r\nWe started as a voice AI infrastructure company and still are our own biggest customer to this day. Our product empowers hundreds of businesses with a world-class AI receptionist and customer support platform. Toma’s AI agents engage in thousands of customer interactions every day and generate millions of dollars worth of revenue.\r\n\r\nWhy Automotive first? It is a sleeping giant contributing trillions of dollars to the GDP. The industry and its processes are ready for disruption. Toma is bringing AI to all operations in the industry while working hand-in-hand with some of the biggest names, such as the Car Dealership Guy, and public companies like Lithia Motors and AutoNatio. Toma is backed by the best investors in Silicon Valley, including Andreessen Horowitz and Y Combinator.",
-    "one_liner": "AI for Underserved Industries",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1702419018,
-    "tags": [
-      "Marketing",
-      "Customer Support",
-      "AI",
-      "Automotive",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/toma",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/toma.json"
-  },
-  {
     "id": 29378,
     "name": "Tensorfuse",
     "slug": "tensorfuse",
@@ -43698,12 +43743,12 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0856f230de1a84be083cff84a3298664d32f0a3.png",
     "website": "https://retellai.com",
-    "all_locations": "",
+    "all_locations": "Redwood City, CA, USA",
     "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
     "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1700513197,
     "tags": [
       "Artificial Intelligence",
@@ -43716,11 +43761,11 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -50606,6 +50651,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/enhanced-radar.json"
   },
   {
+    "id": 30174,
+    "name": "Revise Robotics",
+    "slug": "revise-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4e9ac60aa5b0583ce914c6dee2848e5b72c4b4f.png",
+    "website": "https://www.reviserobotics.com/",
+    "all_locations": "",
+    "long_description": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets.\r\n\r\nOur first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
+    "one_liner": "Automating refurbishment of $1T in consumer electronics",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1737068200,
+    "tags": [
+      "Robotic Process Automation",
+      "ClimateTech",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revise-robotics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/revise-robotics.json"
+  },
+  {
     "id": 30177,
     "name": "Bild AI",
     "slug": "bild-ai",
@@ -53685,6 +53770,42 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bloom-4.json"
   },
   {
+    "id": 30415,
+    "name": "Avallon AI",
+    "slug": "avallon-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
+    "website": "https://www.avallon.ai/",
+    "all_locations": "",
+    "long_description": "Avallon automates insurance claims operations with AI agents that handle routine calls and documents processing. ",
+    "one_liner": "AI agents for insurance claims operations",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1744318663,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avallon-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/avallon-ai.json"
+  },
+  {
     "id": 30417,
     "name": "GroundControl",
     "slug": "groundcontrol",
@@ -56730,47 +56851,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/channel3",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
-  },
-  {
-    "id": 30696,
-    "name": "GhostEye",
-    "slug": "ghosteye",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
-    "website": "https://ghosteye.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Right now, someone could look up your employees online, craft a perfect phishing email using what they find, and get into your systems by lunch. Or just call your help desk and pretend to be a new hire. No malware. No exploit. Just a conversation.\r\n\r\nGhostEye does this first. We continuously map your employees' real-world exposure the same way a threat actor would, then automatically generate and launch personalized phishing attacks, scam calls, texts, and deepfakes to test them before the real thing hits. Every attack is unique because every employee's exposure is unique.\r\n\r\nQuantified human risk scores that track over time. Employees shown exactly how they were compromised. Not a training platform. A security tool.\r\n\r\n",
-    "one_liner": "Vulnerability Management for the Human Layer ",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1753230986,
-    "tags": [
-      "B2B",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ghosteye",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
     "id": 30698,
@@ -62320,5 +62400,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asendia-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/asendia-ai.json"
+  },
+  {
+    "id": 31560,
+    "name": "Intelligence Factory",
+    "slug": "intelligence-factory",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30c1f1fb7356289878fa2341c0a20700f178fbcf.png",
+    "website": "https://intelligence-factory.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Robotics is the new paradigm. With hardware converging, Intelligence is the biggest bottleneck. Our world was built for humans and we're giving robots the ability to reason and act like us. \r\n\r\nThe way we learn any task - by seeing, doing, and feeling - is how we train robots. We're building general intelligence that works on any robot and fits seamlessly within our world.",
+    "one_liner": "Human Intelligence for Robots",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1777499618,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/intelligence-factory",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/intelligence-factory.json"
   }
 ]
