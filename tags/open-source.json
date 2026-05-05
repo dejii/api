@@ -1440,17 +1440,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc4c9a8bb7a853c14be4dac967fb9717f36fca1c.png",
     "website": "https://airbyte.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Airbyte is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. With the largest catalog of over 350 connectors, it offers low-code, no-code, and AI-powered connector development, and provides flexible deployment options across self-hosted, cloud, and hybrid environments. \r\n\r\nhttps://github.com/airbytehq/airbyte",
-    "one_liner": "Open Data Movement Platform",
+    "long_description": "Airbyte Agents is the context layer your AI agents query before they act. Features the Context Store, which unifies entities across Salesforce, Stripe, Zendesk and more. Use it from the UI, your LLM via MCP, or our SDK. 40% fewer tool calls, up to 80% fewer tokens.\r\n\r\nAirbyte Data Replication is the leading open data movement platform that empowers data teams in the AI era by transforming raw data into actionable intelligence. \r\n\r\nhttps://github.com/airbytehq/",
+    "one_liner": "Context layer for production-grade AI agents",
     "team_size": 90,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B",
     "launched_at": 1584288236,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1459,14 +1460,11 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3734,6 +3732,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/payload",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/payload.json"
+  },
+  {
+    "id": 26851,
+    "name": "Mistle",
+    "slug": "mistle",
+    "former_names": [
+      "Ajourney",
+      "Zapi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d57b2b10c7e35a1990c9ac0bf09d58abdb4ff9d5.png",
+    "website": "https://mistle.dev",
+    "all_locations": "Singapore, Singapore; Remote",
+    "long_description": "Mistle is an open-source platform for orchestrating sandboxed coding agents in engineering workflows. It provides credential brokering so agents can access tools without direct access to secrets.",
+    "one_liner": "Open source platform for automating sandboxed coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1654527668,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mistle",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/mistle.json"
   },
   {
     "id": 26885,
@@ -7013,7 +7057,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://manufact.com",
     "all_locations": "",
-    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
+    "long_description": "Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.\r\nWe developed the mcp-use SDK, which has over 7M downloads and 10,000 GitHub stars, and is used by 20% of the US 500.\r\nCreate MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",
     "one_liner": "Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ",
     "team_size": 4,
     "industry": "B2B",
@@ -7219,6 +7263,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sourcebot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
+  },
+  {
+    "id": 31222,
+    "name": "Superset",
+    "slug": "superset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
+    "website": "https://www.superset.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Superset helps engineers run 100s of coding agents in parallel. ",
+    "one_liner": "The IDE for the AI Agents Era",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1772696752,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Swarm AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superset",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/superset.json"
   },
   {
     "id": 31547,
