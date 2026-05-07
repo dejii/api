@@ -1490,16 +1490,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/167203f3b5d690947159f8db21fd55fc9e145e72.png",
     "website": "http://attunement.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build AI-powered compliance software for behavioral health organizations. Our system keeps them continuously audit-ready, reduces documentation costs, and protects revenue by automating the compliance work clinicians hate, freeing them to focus on care.",
-    "one_liner": "We automate compliance for behavioral health, saving clinicians hours…",
+    "long_description": "Attunement extracts, reconciles, and structures behavioral health records from any source, giving operators, clinicians, and AI systems a single, accurate picture of the patient.",
+    "one_liner": "Attunement turns fragmented behavioral health records into structured…",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1706574795,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2376,6 +2376,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/corsair.json"
   },
   {
+    "id": 30340,
+    "name": "TamLabs",
+    "slug": "tamlabs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b8a98c2f9db316565bd733e8ce6e18bca1bb3b.png",
+    "website": "https://tamlabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Agent teams for professional work.",
+    "one_liner": "AI for Professional Services",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1740176772,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Workflow Automation",
+      "Legal",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tamlabs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/tamlabs.json"
+  },
+  {
     "id": 30554,
     "name": "Bond",
     "slug": "bond",
@@ -2855,6 +2898,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bubble-lab",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
+  },
+  {
+    "id": 31221,
+    "name": "Netter",
+    "slug": "netter",
+    "former_names": [
+      "Netter AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2e86ec70fa3e3c6a1b8dc9f39e6aa2b5b7b5952.png",
+    "website": "https://netter.ai",
+    "all_locations": "",
+    "long_description": "Netter centralizes and structures traditional mid-market data to deploy analytics, workflows and ML pipelines.\r\n- A nursing home group was chasing unpaid invoices manually across disconnected tools. Netter centralized the collection workflows, automated reminders, real-time visibility, task routing.\r\n- A logistics operator had trucks running empty. Netter connected their TMS, ERP and fleet data, and automated route and load optimization. Less fuel, better margins.\r\n- A retail chain had years of loyalty card data sitting unused. Netter cross-referenced it with public demographic data to build precise customer segments and trigger the right promotions to the right people.\r\n",
+    "one_liner": "Data Science Autopilot for the real economy. ",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1778028550,
+    "tags": [
+      "Workflow Automation",
+      "Big Data",
+      "AI",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/netter",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/netter.json"
   },
   {
     "id": 31261,
