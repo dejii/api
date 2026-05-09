@@ -21034,7 +21034,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -27874,7 +27874,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34241c57767208be0982fd04163c52d69a91a82c.png",
     "website": "https://rumacare.com",
-    "all_locations": "CA, USA",
+    "all_locations": "",
     "long_description": "Ruma Care automates all admin work for infusion clinics - starting with prior authorizations & copay assistance enrollment.\r\n\r\nBiologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. \r\n\r\nCurrent medical workflows aren't built for infusion clinics. Inventory, storage, transport, and billing is still managed through paper and excel spreadsheets. And because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, when workflows fail, or patients are infused before paperwork is cleared, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting forms. \r\n\r\nWe do this in three ways: \r\n1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. \r\n2. We pull out the correct forms, then automate the form-filling for prior authorizations. \r\n3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. \r\n\r\nWe turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",
     "one_liner": "The operations stack for biologic infusion clinics",
     "team_size": 2,
@@ -27892,8 +27892,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28321,6 +28320,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ritivel",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
+  },
+  {
+    "id": 31326,
+    "name": "Klarify",
+    "slug": "klarify",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da07c22749d8fc786add9b4e0ff52fd40f5a5290.png",
+    "website": "https://www.klarify.ca/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Klarify is the AI-native operating system for mental health practices. \r\n\r\nTherapists hold the world together. They also run businesses, file insurance claims, write letters, fill forms, supervise new grads, and do hours of paperwork every night. Most software helps with one of those jobs. None help with all.\r\n\r\nWe're building Klara, an AI-native OS for the helpers. She starts with the hardest part, writing notes, and uses that context across the rest of practice life: handling insurance, treatment plans, clinical letters, research, client homework, supervision prep, between-session progress, and more.\r\n\r\n5,000+ practitioners. 320,000+ sessions documented.\r\nPrivacy-first. Klara never trains on your notes or client data.\r\n\r\nOur mission is to empower therapists, not replace them. So they can focus on the one thing only a human can do.",
+    "one_liner": "AI-native operating system for mental health practices",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1769037303,
+    "tags": [
+      "Artificial Intelligence",
+      "Mental Health Tech",
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klarify",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/klarify.json"
   },
   {
     "id": 31383,
