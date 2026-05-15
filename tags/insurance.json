@@ -2832,6 +2832,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/acolite.json"
   },
   {
+    "id": 30453,
+    "name": "Parsewise",
+    "slug": "parsewise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1c0c72a7f623d3b80ce3fbde35d6d196e31e5c.png",
+    "website": "https://parsewise.ai",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Parsewise provides multi-document processing and analysis.\r\n\r\nOperations teams use our platform for oversight and control over their fleet of AI agents, and our MCP to make Claude work at scale with traceability.\r\nTech teams use our API to replace complex processing pipelines resolving values across documents.\r\n\r\nWe help customers assess complex risk at scale: manage casualty, specialty, KYC, and financial risks, so teams can act faster and defend their decisions with confidence.",
+    "one_liner": "Multi-document processing for your risk teams, AI agents, pipelines",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1745096268,
+    "tags": [
+      "Documents",
+      "Finance",
+      "API",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parsewise",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/parsewise.json"
+  },
+  {
     "id": 30596,
     "name": "Adaptional",
     "slug": "adaptional",
@@ -3087,5 +3131,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/huscarl",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/huscarl.json"
+  },
+  {
+    "id": 32165,
+    "name": "Rote",
+    "slug": "rote",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/813e1a8e770c08e788937c21e5a62c42be5e08d9.png",
+    "website": "https://tryrote.com/",
+    "all_locations": "",
+    "long_description": "Rote handles the entire negotiation lifecycle between shops and insurance companies to help them recover thousands of dollars in denied claims. Shops today lose millions per year because they lack the resources to negotiate with insurance companies that undervalue repair costs. Rote's agents recover denied revenue by taking shop estimates and referencing technical repair data to autonomously file and defend shop claims.",
+    "one_liner": "AI-native insurance department for auto body shops",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1778719731,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2027",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rote",
+    "api": "https://yc-oss.github.io/api/batches/winter-2027/rote.json"
   }
 ]

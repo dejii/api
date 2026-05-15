@@ -1406,7 +1406,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -3079,52 +3079,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/persana-ai.json"
   },
   {
-    "id": 28367,
-    "name": "Adri AI",
-    "slug": "adri-ai",
-    "former_names": [
-      "Atri Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5efeed797097143f2ef57b885454aa55bc57dab3.png",
-    "website": "https://www.getadri.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Adri is built for enterprises that are buying AI. \r\n\r\nOur patented software monitors the AI vendor's infrastructure and detects any intentional or accidental misuse of your proprietary data.\r\n\r\nWe help you buy AI that you can trust. ",
-    "one_liner": "Vanta for AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1674602236,
-    "tags": [
-      "Artificial Intelligence",
-      "Compliance",
-      "Security",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/adri-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/adri-ai.json"
-  },
-  {
     "id": 28589,
     "name": "HockeyStack",
     "slug": "hockeystack",
@@ -3179,7 +3133,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building a modern alternative to Salesforce: https://github.com/twentyhq/twenty",
     "one_liner": "Open Source CRM",
-    "team_size": 10,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1690850787,
@@ -4985,6 +4939,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cohesive",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
+  },
+  {
+    "id": 30739,
+    "name": "Eden",
+    "slug": "tryeden",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12c60f7c48d152e63842700acbb1bf22c973bd5a.png",
+    "website": "https://edenhq.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Eden helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Eden creates realistic AI buyers they can speak with before the real meeting. After each practice call, Eden scores the rep and shows exactly what to improve.",
+    "one_liner": "AI sales practice using your real deals",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1753907556,
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tryeden",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryeden.json"
   },
   {
     "id": 30774,
