@@ -5576,25 +5576,23 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/inloop-robotics.json"
   },
   {
-    "id": 31396,
-    "name": "qomplement",
-    "slug": "qomplement",
+    "id": 31403,
+    "name": "transload",
+    "slug": "transload",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f74f218c2714dc8c9f24d72389a7bfa22f2b11d.png",
-    "website": "https://qomplement.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1bddf9622d95fa25a8b10500158d81f74f5df2f7.png",
+    "website": "https://www.transload.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Early stage AI lab based in San Francisco building the layer between unstructured data and enterprise systems.\r\n\r\nEvery day, operations and finance teams at large retailers and trucking companies manually process hundreds of POs, invoices, and shipping documents before any of it reaches their ERP. One of the most expensive inefficiencies in enterprise operations. Never solved at scale.\r\n\r\nWe automate those workflows end-to-end with AI agents. Already working with 20+ companies across retail, supply chain, and logistics.\r\n\r\nWe believe the operational layer eventually becomes the system of record itself. That is what we are building.",
-    "one_liner": "AI-native operating system for enterprises",
-    "team_size": 4,
+    "long_description": "transload helps logistics companies measure shipments using the security cameras they already have. A pallet, a couch, a tire – we capture its true size as it moves through the warehouse.\r\n\r\nFor our customers, 15% of shipments turn out to be bigger than what the sender claimed. Catching those differences is worth ~$50k per site per month in rebillings and improved trailer utilization.",
+    "one_liner": "Measure freight items with CCTV",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771907564,
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1778896430,
     "tags": [
-      "B2B",
+      "Computer Vision",
       "Logistics",
-      "Enterprise",
-      "Automation",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5603,7 +5601,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -5614,8 +5613,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/qomplement",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
+    "url": "https://www.ycombinator.com/companies/transload",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/transload.json"
   },
   {
     "id": 31444,
