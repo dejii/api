@@ -21624,11 +21624,11 @@
     "name": "Embedder",
     "slug": "embedder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d68609856b561b0ebfce1f766d19021620459fa0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f049c3a76d0d9ec2435f1d6426d5bbc667e7a25d.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is a coding agent that can write, test, and debug firmware.",
-    "one_liner": "AI Firmware Engineer",
+    "long_description": "Embedder is building an AI coding agent that can write, test, and debug firmware on real hardware.",
+    "one_liner": "AI Agents for Firmware",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21802,15 +21802,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autosana is the end-to-end testing layer for your coding agents, across iOS, Android, and Web apps.\r\n\r\nStep away from your laptop. Come back to full-stack features built and tested end-to-end, production ready.\r\n\r\nAutosana creates, updates, and runs tests automatically from your code diffs. Locally, it loops with your coding agent until every test passes. In PRs, it loops with cloud agents and shows video proof of your new feature or bug fix working end-to-end.\r\n\r\nNo setup, no maintenance, just tests evolving with your codebase. Ship with confidence.",
     "one_liner": "AI agents for E2E testing across mobile & web",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751416575,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23088,8 +23088,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
     "website": "https://www.stagereview.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Everyone is shipping 10x more with AI, but now code review is becoming the bottleneck for engineering teams. PRs are being rubber stamped without getting closely looked at, bugs are slipping through to production, and engineers are gradually building cognitive debt.\r\n\r\nStage redesigns GitHub’s outdated code review interface around the way developers naturally read PRs. Instead of building another code review bot, Stage empowers reviewers to understand changes faster and review implementations at a higher level.",
-    "one_liner": "AI-native code review platform for modern teams",
+    "long_description": "Stage is a code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with coding agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally read changes, enabling your team to review (and merge!) PRs 5x faster than GitHub.",
+    "one_liner": "Code review platform for AI generated code",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23439,8 +23439,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23562,9 +23562,9 @@
     "subindustry": "B2B",
     "launched_at": 1773484930,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
