@@ -5695,7 +5695,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11869,7 +11869,7 @@
     "website": "https://lamin.ai",
     "all_locations": "",
     "long_description": "Query, trace, and validate datasets and models at scale. Automate context for agents and humans.\r\n\r\nOne API: lakehouse, lineage, feature store, ontologies, bio-registries & formats.",
-    "one_liner": "Open data framework for biology",
+    "one_liner": "Open data lakehouse for biology",
     "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -18706,6 +18706,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/voker.json"
   },
   {
+    "id": 29848,
+    "name": "Saldor",
+    "slug": "saldor",
+    "former_names": [
+      "Ovation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5e8dd5c7448c58bdeb274d4e57e63ee206feb72.png",
+    "website": "https://saldor.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build tools to help companies build their software factories.",
+    "one_liner": "Software Factories",
+    "team_size": 2,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1722921255,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saldor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/saldor.json"
+  },
+  {
     "id": 29854,
     "name": "Keet",
     "slug": "keet",
@@ -23398,7 +23439,7 @@
     "name": "Hessian",
     "slug": "hessian",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0292614a2f54d51074ba89fdaa311465570dc7da.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f536986f121d1ec1c4cb08cbe10e493da54b21ee.png",
     "website": "https://hessian.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hessian is the platform for automating business operations with AI agents. We forward deploy on-site to map the work, and build the agents on our platform to run it end-to-end. Unlike off-the-shelf tools that don't know your business, you get a partner that owns the software and operates it every day. Why now? Coding agents have matured to the point where, combined with our engineering judgment we've built across a decade of shipping production systems, we can scale forward-deployed engagements with minimal headcount. Furthermore, our FDE agents and tooling will accelerate how quickly we automate workflows on our platform. We're already saving our customers hundreds of hours a month. Trillions of dollars a year are spent on knowledge work, and we're building the standard for how every company deploys, operates, and governs the AI agents that do it.",
@@ -23408,10 +23449,10 @@
     "subindustry": "B2B",
     "launched_at": 1779173686,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23536,12 +23577,12 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773951001,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
