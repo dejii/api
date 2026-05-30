@@ -58630,7 +58630,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -61218,10 +61218,10 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1642290719,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Sales Enablement",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -68019,7 +68019,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -69981,11 +69981,11 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1653465182,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -69999,9 +69999,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -94707,8 +94705,8 @@
     "website": "https://distr.sh/",
     "all_locations": "",
     "long_description": "Managing enterprise software deployments shouldn’t feel like a balancing act. At Glasskube, we make deploying, managing, and updating software in on-premises, VPC, and air-gapped environments easier than ever.\r\n\r\nOur Mission:\r\nWe empower software vendors to deliver exceptional customer experiences with less complexity. Whether you’re onboarding new clients, rolling out updates, or troubleshooting issues, our Software Distribution Platform streamlines every step.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
-    "one_liner": "Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC",
-    "team_size": 5,
+    "one_liner": "Ship self-hosted software with Distr",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1717765543,
@@ -105269,7 +105267,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
     "website": "https://osmosis.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ",
+    "long_description": "Osmosis is a post-training platform that helps companies fine-tune language models using reinforcement learning. We work with fast-growing AI companies to train task/domain-specific models that beat foundation models on performance, cost, and latency. Our platform handles compute orchestration, reward modeling, and training run observability as a CLI-based product usable by developers and agents. ",
     "one_liner": "Reinforcement Learning (RL) for AI Agents",
     "team_size": 6,
     "industry": "B2B",
@@ -106241,16 +106239,16 @@
     "website": "https://www.nitrode.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode builds high-quality game data to train and evaluate LLMs and agents on spatial and temporal reasoning. Today’s models are trained on static text and images, but struggle to understand how the world evolves over time. We create small, fully specified game environments that generate ground-truth data on state, transitions, and hidden dynamics. This enables AI systems to move beyond simple pattern matching, incorporating memory, causality, and multi-step reasoning to create more reliable agents in dynamic environments.",
-    "one_liner": "Gaming data for reasoning agents in dynamic environments",
+    "one_liner": "Data for reasoning agents in dynamic environments",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738144366,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -112191,7 +112189,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresh-produce supply chains are built around guesswork. Growers plant without clear demand signals, distributors overbuy to protect against shortages, and retailers end up eating the waste. GETASAP fixes this by rebuilding distribution around real demand and fast execution. We deliver wholesale fresh produce with 8-hour same-day delivery, using micro-fulfillment centers positioned close to demand so we can operate with far less safety stock.\r\n\r\nBehind the scenes, we look at live retail sales, purchasing, and waste patterns to decide what to source, where to place inventory, and when to replenish. That lets us buy closer to actual demand, turn inventory faster, and materially reduce spoilage. For retailers, GETASAP replaces procurement teams and fragmented supplier management—we handle sourcing, inventory decisions, and fulfillment end to end as a single, reliable partner. As more volume flows through the network, demand becomes clearer, sourcing gets smarter, and the operation becomes cheaper and more predictable over time.",
     "one_liner": "Distribution at the Speed of Compute",
-    "team_size": 17,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755567142,
@@ -112389,14 +112387,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f75fbb2513c3b5ef3e67a4b3c47ce3995f896b.png",
     "website": "https://www.mangodesk.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help AI become better at real-world software engineering through production-grade RL environments.",
-    "one_liner": "RL environments for software engineering",
+    "long_description": "We help AI become better at real-world workflows through production-grade RL environments.",
+    "one_liner": "Long-horizon RL environments",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753752561,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -117526,7 +117524,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -117681,7 +117679,7 @@
       "Remediate"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66adc42c53024ebb1bfc81c3de3961890ae2b2a8.png",
-    "website": "https://usesoren.com",
+    "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren develops private AI infrastructure for teams in regulated industries. We make it possible for organizations to safely bring modern AI into their everyday workflows.",
     "one_liner": "Private AI for Regulated Industries",
@@ -117690,10 +117688,10 @@
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -117938,21 +117936,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88689b5dae77948437304c27aefbb12261dcacb3.png",
     "website": "https://www.cranstonai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Cranston is a full stack AI accounting firm automating the $900b market for accounting labor. Our software automates reconciliation, tax compliance and financial analysis for startups & SMBs. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive accounting work.\r\n\r\nOur team is deep in the accounting space. Sean spent 5 years building an ERP after dropping out of Stanford and Max spent 5 years building an accounting firm that did every accounting workflow you can imagine on top of ERPs.",
     "one_liner": "Full Stack AI Accounting Firm",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1759732290,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -117961,8 +117955,7 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -119395,7 +119388,7 @@
       "Philon",
       "Spatial AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9409424e7a4382c4c1dbec5ad6bcfa7c4ada98b2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55c56d8a17e50d5a5504f506e783c2b8c9f8a61.png",
     "website": "https://philon.ai/",
     "all_locations": "Palo Alto, CA, USA",
     "long_description": "Building open-source general-purpose robots capable of performing unsafe, repetitive or boring tasks.",
@@ -119405,8 +119398,8 @@
     "subindustry": "B2B",
     "launched_at": 1761067885,
     "tags": [
-      "Artificial Intelligence",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -119646,7 +119639,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
     "all_locations": "",
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.\r\n\r\nTry it at absurd.com",
+    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and our videos average 400K+ organic views.\r\n\r\nCompanies like Hims, Kalshi, Replit, and Brex use Absurd to create production-quality videos in 72 hours.\r\n\r\nTry it at absurd.com",
     "one_liner": "AI Videos",
     "team_size": 6,
     "industry": "B2B",
@@ -120299,16 +120292,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvetlab.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helping frontier models go multimodal.",
-    "one_liner": "Helping frontier models go multimodal.",
+    "long_description": "Training data for underserved domains",
+    "one_liner": "Training data for underserved domains",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761236237,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Data Engineering",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -121090,13 +121083,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ba3bd8042a63e5e4cc8707533d8561d2aa5bf74.png",
     "website": "https://www.corvera.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corvera (YC W26) is the AI agent workforce for CPG back-office. We help brands increase profits by up to 40% by deploying digital workers that run their operations on autopilot.\r\n\r\nAs of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 130% week-on-week.\r\n\r\n With Corvera’s AI agents, brands can:\r\n- Process orders end-to-end without lifting a finger\r\n- Forecast demand in real time\r\n- Automatically process purchase orders and prevent stockouts\r\n- And much more.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nOur mission is bold: to give CPG brands hands-free supply chains that run themselves through Corvera, their go-to AI-native operating system.\r\n\r\nOur vision is even bolder: to be the orchestration layer of the $5.4T global CPG industry.\r\n\r\nVisit www.corvera.ai to learn more!",
-    "one_liner": "AI agent workforce for CPG back-office",
+    "long_description": "Corvera (YC W26) is the context layer for AI-native CPG brands. We help brands unlock the full potential of AI by making their unified data legible to any AI tool via MCP. \r\n\r\nAs of mid-March 2026, we scaled from $0 to $33k in MRR in 4 weeks, are serving 12 brands, and are growing 130% week-on-week.\r\n\r\nWith Corvera in place, brands can enable anyone in their organization to:\r\n- Rapidly deploy AI agents via tools such as Claude and ChatGPT,\r\n- Build dashboards and apps using Cursor and Lovable, and\r\n- Automate workflows across the entire business, from category management to supply chain.\r\n\r\nAll in a secure, audit-logged, and access-controlled environment, without the need for a team of data engineers or AI specialists, in a simple plug-and-play solution.\r\n\r\nWe're founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30), Dirk (ex-Google Data & AI Lead), and Matthew (ex-Head of Product at Rosemark; Princeton MEng in CS).\r\n\r\nTo-date, we’ve raised $6.2M and are backed by YC, firstminute capital, 6 Degrees Capital, 20VC, Rebel Fund, Duke Capital Partners, and more. Our ICP are omnichannel retail-focused CPG brands at the $100M+ revenue inflection point.\r\n\r\nOur mission is bold: to enable the next generation of unicorn CPG brands to be run by teams of less than 10 people. \r\n\r\nOur vision is even bolder: to be the system of intelligence for the $5.4T global CPG industry.\r\n\r\nVisit www.corvera.ai to learn more!",
+    "one_liner": "The context layer for AI-native CPG brands",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1763141207,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "Data Engineering"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -123910,15 +123909,17 @@
   },
   {
     "id": 31203,
-    "name": "sitefire",
+    "name": "Sitefire",
     "slug": "sitefire",
     "former_names": [
-      "pulse"
+      "pulse",
+      "sitefire",
+      "itefire"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/022ba10976dfe66a4f4f909b1286ad1bc539fbb4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea31f29e253c2635c1eccbc268b7d4d685f8caf6.png",
     "website": "https://sitefire.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). sitefire identifies which content drives AI visibility, and automatically creates it. Unlike GEO tools, sitefire is an AI-native agency that executes on-page and off-page actions and delivers measurable top-line growth.",
+    "long_description": "Sitefire (YC W26) helps brands market their products to agents. They create content and tools that get their products discovered and used by AI agents (ChatGPT, OpenClaw). Sitefire identifies which content drives AI visibility, and automatically creates it. The teams using Sitefire execute on-page and off-page actions to deliver measurable top-line growth.",
     "one_liner": "Marketing suite for the agentic web",
     "team_size": 2,
     "industry": "B2B",
@@ -124106,7 +124107,7 @@
     "website": "https://www.sazabi.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The AI-native observability platform for fast-moving engineering teams. Backed by tastemakers from the world's top AI companies: Vercel, Graphite, Daytona, Browserbase, LangChain, Mastra, Replit, and more.",
-    "one_liner": "The AI-native observability platform for fast-moving engineering teams",
+    "one_liner": "The AI-native observability platform for fast-moving engineering…",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -125933,7 +125934,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -126806,7 +126807,7 @@
     "slug": "kinro",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
-    "website": "https://www.kinro.ai/",
+    "website": "https://www.kinro.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
     "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
@@ -128025,17 +128026,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
     "website": "https://archermoney.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Archer lets companies programatically send hyper-personalized physical rewards for any action, milestone, or behavior.\r\n\r\nBusinesses use Archer to automate rewards across onboarding, referrals, sales, retention, partnerships, employee milestones, and customer engagement.\r\n\r\nRewards can range from personalized gifts and food deliveries to branded merchandise, surprise packages, team experiences, and custom curated rewards all tailored to the person, milestone, and moment.\r\n\r\nArcher handles the infrastructure behind sourcing, personalization, delivery, payouts, and triggering so companies can turn rewards into a scalable part of how they grow and retain users using AI agents.\r\n\r\nReward. Anything.",
-    "one_liner": "Reward. Anything.",
+    "long_description": "Archer is the AI business bank that gives companies AI agents capable of spending, moving, and managing money on their behalf.\r\n\r\nBusinesses use Archer to deploy agents with budgets, permissions, and financial controls that can automatically take action when important events occur.\r\n\r\nOur flagship use case is rewards. Companies use Archer to automatically send personalized gifts, food, merchandise, experiences, and other rewards across onboarding, referrals, sales, customer success, partnerships, and employee milestones.\r\n\r\nWe believe rewards are just the beginning. The same infrastructure that allows agents to purchase and send rewards today will allow businesses to automate incentives, payroll, invoice payments, commissions, treasury management, revenue routing, vendor payments, and every other financial workflow inside their company. As agents gain more context from CRMs, product data, Slack, Linear, Notion, internal systems, and APIs, they become capable of understanding what is happening across a business and taking financial action automatically.\r\n\r\nOur vision is simple: businesses won't tell employees how to move money. They'll tell agents what they want to accomplish. Agents will handle the work. Archer will moves the money.",
+    "one_liner": "The AI Business Bank. Let Agents Move Your Money.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1776977656,
     "tags": [
+      "Artificial Intelligence",
       "Crypto / Web3",
       "Finance",
-      "Neobank",
-      "AI"
+      "Neobank"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -128112,8 +128113,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd7847f34ece1088e5a00b8771f63e4d68d53fb8.png",
     "website": "https://www.datost.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The first AI data analyst that has its own computer. It sees and understands your docs, Slack, databases, data lakes, and codebase. Query, debug, and analyze right where your team works.",
-    "one_liner": "AI data analyst in Slack. Democratize data.",
+    "long_description": "Datost watches your docs, Slack, databases, data lakes, and codebase, surfacing issues, answering questions, and flagging anomalies before anyone asks. Query, debug, and analyze right where your team works",
+    "one_liner": "The proactive AI data analyst",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -128190,6 +128191,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/general-instinct.json"
   },
   {
+    "id": 31458,
+    "name": "Ara",
+    "slug": "ara",
+    "former_names": [
+      "EasyClaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43521ae4f2f9575593c80ebf4f8bf7ce020d70da.png",
+    "website": "https://ara.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ara is the self-driving IDE for software teams. It watches work in progress, suggests the next step, and executes tasks through non-invasive computer use, background agents, memory, and reusable skills. Ara turns coding into a closed loop: suggest, act, learn, improve.",
+    "one_liner": "Ara is the self-driving IDE for software teams.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1775160352,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ara",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/ara.json"
+  },
+  {
     "id": 31459,
     "name": "Zibra Labs",
     "slug": "zibra-labs",
@@ -128248,8 +128291,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1778126369,
     "tags": [
-      "Artificial Intelligence",
-      "Enterprise Software"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -128288,8 +128330,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32ab6a53db384b8f8c669e8396a088094060b64a.png",
     "website": "https://www.walter.one",
     "all_locations": "",
-    "long_description": "Walter is an AI employee for manufacturing back offices - he takes care of manual, time-consuming workflows end to end. He works with multiple 9-figure customers, primarily in the packaging industry but also defense. ",
-    "one_liner": "Autonomous Manufacturing Operations",
+    "long_description": "Walter is an AI employee for manufacturing operations.",
+    "one_liner": "AI Employee for Manufacturing Operations",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -128297,7 +128339,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2026",
     "status": "Active",
@@ -128561,17 +128603,17 @@
     "website": "https://saudara.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories.\r\n\r\nUS brands import $3T in goods a year and lose billions to ghost suppliers, hidden fees, and blown deadlines. The factories that actually deliver sit behind decades-old relationships outsiders can't break into. We were born into them.\r\n\r\nEvery deal runs through a real human broker, supercharged by AI that handles sourcing, quoting, QC, and logistics. 10x faster, at a fraction of the cost.\r\n\r\nSourcing is the largest broken market in global trade. We're the on-ramp.",
-    "one_liner": "AI sourcing broker connecting brands with vetted overseas factories",
+    "one_liner": "AI Native Sourcing Broker",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1774887463,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Logistics",
       "Manufacturing",
-      "Procurement",
-      "AI"
+      "Procurement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -129324,18 +129366,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13574e5b60275accf705e704a142fb091a82a4b0.png",
     "website": "https://www.trykinect.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kinect builds AI agents that know your brand, your catalog, and your customers' taste. On your site, they sell every visitor — running the conversation, adapting product pages in real time, picking the right recommendation for the question being asked. The agent picks up on what each shopper actually wants from how they ask, what they hesitate on, what they compare, and what objection makes them bounce. The storefront stops being a static grid and starts being a salesperson. \r\n\r\nOff your site, the same brand-owned data layer makes the brand legible to ChatGPT, Gemini, and Perplexity. Structured catalog, brand voice, fit notes, return reasons, segment-level nuance — all exposed in formats external agents can actually use. When an agent describes the brand, the version it describes is the one you'd want them to, not whatever it guessed from a public catalog scrape.\r\n\r\nEvery interaction becomes signal the brand owns. The model gets sharper, the storefront gets better at selling, every session. Kinect continues to optimize on intent data, user journey data, agentic search data, and more. Over time gaps are filled and conversion for agentic commerce continues to improve.\r\n\r\nWe're building for human shoppers today and the AI agents that shop and discovery for them. Either way, the entire website needs to get a lot smarter and personalized. \r\n\r\nTwo surfaces. One brand layer. Built for scaling DTC ecommerce brands.",
-    "one_liner": "Storefronts that sell to humans and AI agents",
+    "all_locations": "",
+    "long_description": "Kinect builds AI agents that know your brand, your catalog, and your customers' taste. On your site, they sell every visitor — running the conversation, adapting product pages in real time to each customer segment, picking the right recommendation for the question being asked. The agent picks up on what each shopper actually wants from how they ask, what they hesitate on, what they compare, and what objection makes them bounce. The storefront stops being a static grid and starts being a salesperson. \r\n\r\nWe take all of a brand's data and make a structured catalog, brand voice, fit notes, return reasons, segment-level nuance — all so the Kinect agents truly can speak about a brand. When an agent describes the brand, the version it describes is the one you'd want them to, not whatever it guessed from a public catalog scrape.\r\n\r\nEvery interaction becomes signal the brand owns. The model gets sharper, the storefront gets better at selling, every session. Kinect continues to optimize on intent data, user journey data, agentic search data, and more. Over time gaps are filled and conversion for agentic commerce continues to improve.\r\n\r\nWe're building for human shoppers today and the AI agents that shop and discovery for them. Either way, the entire website needs to get a lot smarter and personalized. \r\n\r\nTwo surfaces. One brand layer. Built for scaling DTC ecommerce brands.",
+    "one_liner": "Agentic Storefronts for E-Commerce Brands",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1776624849,
-    "tags": [
-      "B2B",
-      "E-commerce",
-      "Conversational AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -129346,8 +129384,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -129408,17 +129445,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cd0619758d7e852f6674fba763a0d1167fa4a69.png",
     "website": "https://agentphone.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they have no identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
+    "long_description": "The $2T global telecom industry was built for humans. Agents can't act in the real world today because without a phone number, they lack identity. AgentPhone gives every AI agent its own phone number to reach people and businesses through messages and calls.",
     "one_liner": "Phone Numbers for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1778010009,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -129494,7 +129531,7 @@
     "website": "https://revnu.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI\r\n\r\nYou keep shipping. We run the business.",
-    "one_liner": "Everything but the app itself",
+    "one_liner": "The AI that replaces your growth team",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -129824,18 +129861,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d2529e7f9c6b526eaa04259dba132d262fb29fc.png",
     "website": "https://getmodern.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Modern is consolidating the IT function into a single platform powered by secure agents who understand your business. Help desk, access, hardware, on/off-boarding, security, procurement are automated end-to-end inside the channels your team already uses (Slack, Teams, Email, Voice, WhatsApp, Telegram).",
-    "one_liner": "The AI-native OS for IT",
+    "long_description": "Modern is consolidating the IT function into a single platform powered by secure, always-on agents who understand your business. Help desk, access, hardware, on/off-boarding, security, procurement are automated end-to-end inside the channels your team already uses (Slack, Teams, Email, Voice, WhatsApp, Telegram).",
+    "one_liner": "AI-Native ServiceNow run by always-on AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1775918136,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -129997,7 +130034,7 @@
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1773449456,
+    "launched_at": 1779929226,
     "tags": [
       "AI-powered Drug Discovery",
       "B2B",
@@ -130106,6 +130143,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cohesion",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/cohesion.json"
+  },
+  {
+    "id": 31563,
+    "name": "Thomas",
+    "slug": "thomas",
+    "former_names": [
+      "HireThomas, Inc.",
+      "HireThomas",
+      "MadeByThomas"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfa3c147709725ca832b1db54f33a710ff5b977.png",
+    "website": "https://madebythomas.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hi, I'm Thomas, and my creator is named Thomas :p\r\n\r\nThomas is the first YC-backed AI founder: a virtual human who starts, runs, and grows his own companies on the internet.\r\n",
+    "one_liner": "The first AI founder: a virtual human who runs his own companies.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1780016101,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/thomas",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/thomas.json"
   },
   {
     "id": 31591,
