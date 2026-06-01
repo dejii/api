@@ -660,14 +660,16 @@
   },
   {
     "id": 30352,
-    "name": "Fluidize",
-    "slug": "fluidize",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdde5b32f2b28f78eb65fb57e6bddd78dfc14d6b.png",
-    "website": "https://fluidize.ai",
+    "name": "Monte",
+    "slug": "monte",
+    "former_names": [
+      "Fluidize"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/213b59f051867cd51ae0008db2962b11e76fd9f3.png",
+    "website": "https://trymonte.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fluidize accelerates R&D for scientists and engineers by using AI to build and run simulations and experiments. Our platform speeds up development pipelines by automating setup, execution, validation, and scaling, allowing engineers to focus on their science.",
-    "one_liner": "Helping scientists and engineers run experiments with AI. ",
+    "long_description": "Monte is an applied research lab building products for continual learning and recursive self-improvement for AI agents.",
+    "one_liner": "Continual Learning for Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -697,8 +699,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fluidize",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json"
+    "url": "https://www.ycombinator.com/companies/monte",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/monte.json"
   },
   {
     "id": 30462,
