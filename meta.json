@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-10T00:53:02.046Z",
+  "last_updated": "2026-06-11T00:52:26.017Z",
   "readme": "https://github.com/yc-oss/api",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5957,
+      "count": 5956,
       "api": "https://yc-oss.github.io/api/companies/all.json"
     },
     "top": {
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 836,
+      "count": 835,
       "api": "https://yc-oss.github.io/api/tags/ai.json"
     },
     "ai-assistant": {
@@ -86,7 +86,7 @@
     },
     "ai-powered-drug-discovery": {
       "name": "AI-powered Drug Discovery",
-      "count": 36,
+      "count": 35,
       "api": "https://yc-oss.github.io/api/tags/ai-powered-drug-discovery.json"
     },
     "aiops": {
@@ -161,7 +161,7 @@
     },
     "artificial-intelligence": {
       "name": "Artificial Intelligence",
-      "count": 917,
+      "count": 914,
       "api": "https://yc-oss.github.io/api/tags/artificial-intelligence.json"
     },
     "assistive-tech": {
@@ -191,7 +191,7 @@
     },
     "autonomous-delivery": {
       "name": "Autonomous Delivery",
-      "count": 9,
+      "count": 8,
       "api": "https://yc-oss.github.io/api/tags/autonomous-delivery.json"
     },
     "autonomous-trucking": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1100,
+      "count": 1097,
       "api": "https://yc-oss.github.io/api/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -241,7 +241,7 @@
     },
     "biotech": {
       "name": "Biotech",
-      "count": 137,
+      "count": 136,
       "api": "https://yc-oss.github.io/api/tags/biotech.json"
     },
     "biotechnology": {
@@ -386,7 +386,7 @@
     },
     "computer-vision": {
       "name": "Computer Vision",
-      "count": 79,
+      "count": 78,
       "api": "https://yc-oss.github.io/api/tags/computer-vision.json"
     },
     "construction": {
@@ -411,7 +411,7 @@
     },
     "consumer-products": {
       "name": "Consumer Products",
-      "count": 14,
+      "count": 13,
       "api": "https://yc-oss.github.io/api/tags/consumer-products.json"
     },
     "conversational-ai": {
@@ -551,13 +551,18 @@
     },
     "deep-learning": {
       "name": "Deep Learning",
-      "count": 39,
+      "count": 38,
       "api": "https://yc-oss.github.io/api/tags/deep-learning.json"
     },
     "deepfake-detection": {
       "name": "Deepfake Detection",
       "count": 1,
       "api": "https://yc-oss.github.io/api/tags/deepfake-detection.json"
+    },
+    "defense": {
+      "name": "Defense",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/defense.json"
     },
     "defi": {
       "name": "DeFi",
@@ -586,7 +591,7 @@
     },
     "developer-tools": {
       "name": "Developer Tools",
-      "count": 534,
+      "count": 531,
       "api": "https://yc-oss.github.io/api/tags/developer-tools.json"
     },
     "devops": {
@@ -596,7 +601,7 @@
     },
     "devsecops": {
       "name": "DevSecOps",
-      "count": 34,
+      "count": 33,
       "api": "https://yc-oss.github.io/api/tags/devsecops.json"
     },
     "diagnostics": {
@@ -626,7 +631,7 @@
     },
     "drones": {
       "name": "Drones",
-      "count": 34,
+      "count": 35,
       "api": "https://yc-oss.github.io/api/tags/drones.json"
     },
     "drug-delivery": {
@@ -706,7 +711,7 @@
     },
     "enterprise-software": {
       "name": "Enterprise Software",
-      "count": 120,
+      "count": 121,
       "api": "https://yc-oss.github.io/api/tags/enterprise-software.json"
     },
     "entertainment": {
@@ -751,7 +756,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 700,
+      "count": 701,
       "api": "https://yc-oss.github.io/api/tags/fintech.json"
     },
     "fitness": {
@@ -821,7 +826,7 @@
     },
     "generative-ai": {
       "name": "Generative AI",
-      "count": 257,
+      "count": 256,
       "api": "https://yc-oss.github.io/api/tags/generative-ai.json"
     },
     "genetic-engineering": {
@@ -846,7 +851,7 @@
     },
     "govtech": {
       "name": "GovTech",
-      "count": 47,
+      "count": 48,
       "api": "https://yc-oss.github.io/api/tags/govtech.json"
     },
     "graphql": {
@@ -881,7 +886,7 @@
     },
     "health-tech": {
       "name": "Health Tech",
-      "count": 171,
+      "count": 170,
       "api": "https://yc-oss.github.io/api/tags/health-tech.json"
     },
     "healthcare": {
@@ -1016,7 +1021,7 @@
     },
     "legal": {
       "name": "Legal",
-      "count": 39,
+      "count": 38,
       "api": "https://yc-oss.github.io/api/tags/legal.json"
     },
     "legaltech": {
@@ -1056,12 +1061,12 @@
     },
     "machine-learning": {
       "name": "Machine Learning",
-      "count": 230,
+      "count": 229,
       "api": "https://yc-oss.github.io/api/tags/machine-learning.json"
     },
     "manufacturing": {
       "name": "Manufacturing",
-      "count": 89,
+      "count": 88,
       "api": "https://yc-oss.github.io/api/tags/manufacturing.json"
     },
     "maritime": {
@@ -1076,7 +1081,7 @@
     },
     "marketing": {
       "name": "Marketing",
-      "count": 109,
+      "count": 108,
       "api": "https://yc-oss.github.io/api/tags/marketing.json"
     },
     "marketplace": {
@@ -1106,7 +1111,7 @@
     },
     "mental-health-tech": {
       "name": "Mental Health Tech",
-      "count": 39,
+      "count": 38,
       "api": "https://yc-oss.github.io/api/tags/mental-health-tech.json"
     },
     "messaging": {
@@ -1331,7 +1336,7 @@
     },
     "regtech": {
       "name": "Regtech",
-      "count": 20,
+      "count": 19,
       "api": "https://yc-oss.github.io/api/tags/regtech.json"
     },
     "reinforcement-learning": {
@@ -1366,7 +1371,7 @@
     },
     "retail": {
       "name": "Retail",
-      "count": 49,
+      "count": 48,
       "api": "https://yc-oss.github.io/api/tags/retail.json"
     },
     "retail-tech": {
@@ -1406,7 +1411,7 @@
     },
     "saas": {
       "name": "SaaS",
-      "count": 1100,
+      "count": 1098,
       "api": "https://yc-oss.github.io/api/tags/saas.json"
     },
     "sales": {
@@ -1506,7 +1511,7 @@
     },
     "social-media": {
       "name": "Social Media",
-      "count": 33,
+      "count": 32,
       "api": "https://yc-oss.github.io/api/tags/social-media.json"
     },
     "social-network": {
@@ -1691,7 +1696,7 @@
     },
     "workflow-automation": {
       "name": "Workflow Automation",
-      "count": 74,
+      "count": 73,
       "api": "https://yc-oss.github.io/api/tags/workflow-automation.json"
     }
   },
@@ -1728,7 +1733,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3045,
+      "count": 3044,
       "api": "https://yc-oss.github.io/api/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1748,12 +1753,12 @@
     },
     "consumer": {
       "name": "Consumer",
-      "count": 869,
+      "count": 868,
       "api": "https://yc-oss.github.io/api/industries/consumer.json"
     },
     "consumer-electronics": {
       "name": "Consumer Electronics",
-      "count": 44,
+      "count": 43,
       "api": "https://yc-oss.github.io/api/industries/consumer-electronics.json"
     },
     "consumer-finance": {
@@ -1788,7 +1793,7 @@
     },
     "drones": {
       "name": "Drones",
-      "count": 22,
+      "count": 23,
       "api": "https://yc-oss.github.io/api/industries/drones.json"
     },
     "drug-discovery-and-delivery": {
@@ -1873,12 +1878,12 @@
     },
     "industrials": {
       "name": "Industrials",
-      "count": 389,
+      "count": 390,
       "api": "https://yc-oss.github.io/api/industries/industrials.json"
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 297,
+      "count": 296,
       "api": "https://yc-oss.github.io/api/industries/infrastructure.json"
     },
     "insurance": {
@@ -1928,7 +1933,7 @@
     },
     "productivity": {
       "name": "Productivity",
-      "count": 229,
+      "count": 230,
       "api": "https://yc-oss.github.io/api/industries/productivity.json"
     },
     "real-estate-and-construction": {
@@ -2090,7 +2095,7 @@
     },
     "winter-2015": {
       "name": "Winter 2015",
-      "count": 111,
+      "count": 110,
       "api": "https://yc-oss.github.io/api/batches/winter-2015.json"
     },
     "summer-2015": {
@@ -2180,7 +2185,7 @@
     },
     "summer-2023": {
       "name": "Summer 2023",
-      "count": 220,
+      "count": 219,
       "api": "https://yc-oss.github.io/api/batches/summer-2023.json"
     },
     "winter-2026": {
@@ -2225,7 +2230,7 @@
     },
     "summer-2026": {
       "name": "Summer 2026",
-      "count": 14,
+      "count": 15,
       "api": "https://yc-oss.github.io/api/batches/summer-2026.json"
     },
     "fall-2026": {
