@@ -23018,7 +23018,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -26455,7 +26455,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28556,11 +28556,11 @@
     "subindustry": "Fintech",
     "launched_at": 1718839098,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Legal",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30073,10 +30073,10 @@
     "subindustry": "Fintech",
     "launched_at": 1768947933,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Payments",
-      "Payroll"
+      "Payroll",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30142,6 +30142,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hedge",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/hedge.json"
+  },
+  {
+    "id": 31385,
+    "name": "Zolvo",
+    "slug": "zolvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
+    "website": "https://zolvo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+    "one_liner": "AI Back-Office Automation for Commercial Lenders",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1773364062,
+    "tags": [
+      "AIOps",
+      "Fintech",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zolvo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zolvo.json"
   },
   {
     "id": 31390,
@@ -30233,50 +30275,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/kelai.json"
   },
   {
-    "id": 31429,
-    "name": "Oddpool",
-    "slug": "oddpool",
-    "former_names": [
-      "Oddpool",
-      "Benchspan"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbb613ad9cc7cb217457623774de2039f44ba7d6.png",
-    "website": "https://www.oddpool.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oddpool is a platform that helps quant funds and trading desks harness the power of prediction markets. We make it easy to access, search, and analyze every venue from one place.\r\n\r\nAvi and Ritesh have been roommates since freshman year at Georgia Tech. Avi has a Master's in ML and saved Microsoft $6M/year by building a more accurate model on half the hardware. Ritesh has a Master's in Distributed Systems and made buy-side trading systems at Bloomberg 40% faster.\r\n\r\nWe started trading prediction markets ourselves but couldn't backtest our strategies because the tooling for this emerging asset class didn't exist. The deeper we went, the more we saw that fragmentation between prediction markets and lack of clean data was going to be a big problem.\r\n\r\nWe launched a prosumer tier and grew to several thousand dollars in MRR within months. Now we're bringing it to institutions, building tooling with the rigor and depth serious desks demand. \r\n\r\nThey're the fastest growing asset class in finance, and CFTC applications for new exchanges keep climbing. Each new venue makes the market bigger, the fragmentation worse, and the unified data layer more valuable. It doesn't exist yet. We're building it.",
-    "one_liner": "Institutional infrastructure for prediction markets",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1773859660,
-    "tags": [
-      "Fintech",
-      "Finance",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oddpool",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/oddpool.json"
-  },
-  {
     "id": 31440,
     "name": "Mount",
     "slug": "mount",
@@ -30320,90 +30318,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mount",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/mount.json"
-  },
-  {
-    "id": 31447,
-    "name": "Allowance",
-    "slug": "allowance",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fefdb05a7320e2952ac117dd8b969cf5bab55d0a.png",
-    "website": "https://useallowance.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Allowance lets AI agents make purchases on a user’s behalf without ever exposing your real card number.\r\n\r\nUsers approve purchases directly from their iPhone with customizable controls like spending limits, merchant restrictions, and expiration windows. Once approved, Allowance generates scoped, one-time payment credentials designed specifically for that transaction.\r\n\r\nThis enables AI agents to safely complete tasks like shopping, ordering food, booking reservations, or purchasing tickets while keeping humans in control of every payment.",
-    "one_liner": "Scoped payment credentials for AI agents",
-    "team_size": 1,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1779136455,
-    "tags": [
-      "Fintech",
-      "Generative AI",
-      "Payments"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/allowance",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/allowance.json"
-  },
-  {
-    "id": 31451,
-    "name": "Archer",
-    "slug": "archer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8149769a0781242dca23d1bed75bdf39b4b9dba6.png",
-    "website": "https://archermoney.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Archer is the agentic commerce platform for customer acquisition and retention.\r\n\r\nWe help companies deploy AI agents that can automatically purchase, personalize, and deliver physical gifts on behalf of their business. Instead of manually coordinating rewards, swag, meals, experiences, and gifts, companies can give agents budgets, goals, and instructions, allowing them to take action automatically when important business events occur.\r\n\r\nToday, businesses use Archer to automate corporate gifting across outbound sales, customer onboarding, referrals, partnerships, customer success, and employee milestones. A prospect books a meeting. A customer completes onboarding. A partner generates a referral. An agent understands the context, selects an appropriate gift, purchases it, and handles fulfillment automatically.\r\n\r\nWhat makes Archer different is that companies no longer need to manage gifting campaigns manually. Agents continuously monitor what is happening across a business and execute personalized physical experiences at the right moment for the right person.\r\n\r\nWe believe corporate gifting is just the beginning. As AI agents become increasingly capable of understanding business context through CRMs, product data, Slack, Linear, Notion, and other systems, they will become active participants in how companies build relationships, acquire customers, retain users, and grow revenue.\r\n\r\nFor decades, businesses have relied on software to track relationships. We believe the next generation of businesses will rely on AI agents to strengthen them.",
-    "one_liner": " AI-powered gifting for customer acquisition and retention",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1776977656,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/archer",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/archer.json"
   },
   {
     "id": 31457,

@@ -4240,6 +4240,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
   },
   {
+    "id": 30660,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "former_names": [
+      "Magnitude",
+      "Sidekick",
+      "Sagekit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
+    "website": "https://magnitude.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Magnitude is a coding agent that runs 90% on open models, escalating to frontier models only when the work demands it.",
+    "one_liner": "Frontier coding at half the cost",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
+  },
+  {
     "id": 30665,
     "name": "Pangolin",
     "slug": "pangolin",
@@ -4900,48 +4947,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
   },
   {
-    "id": 31404,
-    "name": "Userlens",
-    "slug": "userlens",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044f868ff4fda0ae90471c98a5ffee29018c984b.png",
-    "website": "https://userlens.io",
-    "all_locations": "Helsinki, Finland",
-    "long_description": "Most B2B churn is preventable - most teams just see it too late. \r\n\r\nBy the time a CSM notices, the champion has already quietly disengaged, key features went unadopted, and the renewal conversation is damage control. The dangerous part? The customer might still be logging in, but they've stopped using what actually matters. \r\n\r\nUserlens catches all of that months earlier.\r\n\r\nOur AI agents monitor every user at every account the way your best CSM watches your top five strategic accounts:\r\n- feature adoption\r\n- usage trends\r\n- champion engagement\r\n- sentiment shifts in Slack and Intercom\r\n- open support issues. \r\n\r\nWhen a signal hits (churn risk, renewal, expansion opportunity), Userlens doesn't just alert you. It builds the talking points and deck on top of your team's approved templates and playbook. If you have CSMs, Userlens makes every one of them your best. If you don't have one yet, Userlens runs your book like the best CSM money could buy.",
-    "one_liner": "First ever Agentic CSMs to upsell & renew 6+ figure deals.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1775157268,
-    "tags": [
-      "SaaS",
-      "Customer Success",
-      "Enterprise Software",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Finland",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/userlens",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/userlens.json"
-  },
-  {
     "id": 31424,
     "name": "Lab0",
     "slug": "lab0",
@@ -4984,46 +4989,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lab0",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/lab0.json"
-  },
-  {
-    "id": 31472,
-    "name": "Wato",
-    "slug": "wato",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a0fda3e03dbdf2968a5299c0170999587d03c6a.png",
-    "website": "https://www.watolabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Wato gives AI agents shared memory, reusable workflows, connected tools, and living artifacts so work compounds across a team instead of disappearing into chat threads. Teams use Wato to give every agent access to trusted company context and turn useful runs into knowledge the next agent can build on.",
-    "one_liner": "Shared memory, tools, and workflows for agents across teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1779059409,
-    "tags": [
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wato",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/wato.json"
   },
   {
     "id": 31488,
@@ -5146,90 +5111,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/characterquilt",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/characterquilt.json"
-  },
-  {
-    "id": 31516,
-    "name": "Expanse",
-    "slug": "expanse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
-    "website": "https://expanse.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
-    "one_liner": "Unlock wasted GPU capacity.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1777849866,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Enterprise Software",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/expanse",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json"
-  },
-  {
-    "id": 31538,
-    "name": "flowscope",
-    "slug": "flowscope",
-    "former_names": [
-      "GEO Advisor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8294685f458783c2fab7247c8fd749f25be5691c.png",
-    "website": "https://flowscope.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "flowscope is an AI-native consulting firm that deploys agents to map, optimize, and automate companies’ processes end to end without human intervention; doing what consulting firms charge millions for at a fraction of the cost and time.",
-    "one_liner": "AI-native consulting to map and automate business processes",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778457195,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flowscope",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/flowscope.json"
   },
   {
     "id": 32155,

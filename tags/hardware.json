@@ -61,7 +61,8 @@
     "tags": [
       "Hardware",
       "IoT",
-      "Telecommunications"
+      "Telecommunications",
+      "Defense"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5655,10 +5656,11 @@
     "subindustry": "Industrials -> Defense",
     "launched_at": 1772383071,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
-      "GovTech"
+      "GovTech",
+      "Defense",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5851,48 +5853,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/adialante.json"
   },
   {
-    "id": 31436,
-    "name": "Prototyping.io",
-    "slug": "prototypingio",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f7df040bbed273d21312d9b7e349583e363f5e4.png",
-    "website": "https://www.prototyping.io",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Prototyping.io turns CAD designs into real mechanical parts through an AI-driven manufacturing system. We analyze designs for manufacturability and automate production workflows to deliver high-quality parts faster and at lower cost.\r\n",
-    "one_liner": "Autonomous manufacturing for mechanical parts",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1774425608,
-    "tags": [
-      "Hardware",
-      "Manufacturing",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prototypingio",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/prototypingio.json"
-  },
-  {
     "id": 31442,
     "name": "AICE",
     "slug": "aice",
@@ -6024,48 +5984,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/anoria",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/anoria.json"
-  },
-  {
-    "id": 31561,
-    "name": "Maquoketa Research",
-    "slug": "maquoketa-research",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe62156e10a2b01da6dc840828e94a31921135d9.png",
-    "website": "https://www.maquoketa.net",
-    "all_locations": "Elk Grove Village, IL, USA",
-    "long_description": "",
-    "one_liner": "The intelligence layer for drones",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Defense",
-    "launched_at": 1774490913,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Drones",
-      "Aerospace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Defense"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maquoketa-research",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/maquoketa-research.json"
   }
 ]

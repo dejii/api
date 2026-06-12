@@ -2015,7 +2015,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3af9294b241ac810c538d00aea0a921d1229099f.png",
     "website": "https://mlop.ai",
     "all_locations": "London, United Kingdom",
-    "long_description": "A fully open-source, performant and actionable Weights & Biases alternative that saves you money. \r\n\r\nCheck out our story here! https://www.reddit.com/r/mlopai/comments/1kkc9jp/mlopai_an_efficient_free_and_opensource/",
+    "long_description": "A fully open-source, performant and actionable ML model training platform\r\n",
     "one_liner": "Experiment tracking for training ML models",
     "team_size": 2,
     "industry": "B2B",
@@ -2349,6 +2349,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
   },
   {
+    "id": 31385,
+    "name": "Zolvo",
+    "slug": "zolvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13449379aadac83de276a47cb8ee88b50b55c4f8.png",
+    "website": "https://zolvo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Commercial lenders manage billions in assets on legacy software and manual workflows, their systems live on people’s heads like its the 90s. Zolvo replaces the entire back office with AI: automated data ingestion, invoice reconciliation, collections outreach, and funder monitoring. Our clients go live in weeks and eliminate hours of daily manual work per operator, allowing teams to only handle exceptions. We're building the future of commercial lending.",
+    "one_liner": "AI Back-Office Automation for Commercial Lenders",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1773364062,
+    "tags": [
+      "AIOps",
+      "Fintech",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zolvo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/zolvo.json"
+  },
+  {
     "id": 31468,
     "name": "Chronicle Labs",
     "slug": "chronicle-labs",
@@ -2387,48 +2429,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chronicle-labs",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/chronicle-labs.json"
-  },
-  {
-    "id": 31516,
-    "name": "Expanse",
-    "slug": "expanse",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26ca5cac6157441dd12d0352f7d3fd4a77c4c39a.png",
-    "website": "https://expanse.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Expanse unlocks wasted GPU capacity. We recover idle compute through three capabilities: resource prediction (right-sizing job submissions before they reach the scheduler), optimisation suggestions (code and config changes researchers can apply themselves), and failure prediction (catching jobs that will fail before they consume hours of GPU time).\r\n\r\nWe’re four engineers. We ran HPC and GPU training workloads at the largest quant funds and national supercomputing centres. We faced this problem first hand and the only fix was to over-provision and burn millions. Ismaeel built the first multimodal HPC resource predictor as research at EPCC (Edinburgh’s Parallel Computing Centre), which beat every published baseline. This is the tool we wish we had.",
-    "one_liner": "Unlock wasted GPU capacity.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1777849866,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Enterprise Software",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/expanse",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/expanse.json"
   },
   {
     "id": 31545,
