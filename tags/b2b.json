@@ -42826,15 +42826,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
     "one_liner": "Intelligence Infrastructure on People and Entities",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747432267,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise Software",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46580,6 +46580,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/automax-ai.json"
   },
   {
+    "id": 30963,
+    "name": "TakeCareOS",
+    "slug": "takecareos",
+    "former_names": [
+      "Something Labs",
+      "Waffer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae7dea18b41ec38482c8a5138befb84756ece8b.png",
+    "website": "https://takecareos.com",
+    "all_locations": "",
+    "long_description": "TakeCareOS is building the infrastructure for the AI-native long term care providers. Today’s care providers are held back by massive administrative overhead, buried under fragmented tools and manual workflows. TakeCareOS consolidates the entire care lifecycle—scheduling, billing, documentation, compliance, customer support etc.—into a single, intelligent system driven by AI agents. We are eliminating the operational friction of care coordination to establish a new standard of high-efficiency, highly scalable care practices.",
+    "one_liner": "AI-native operating system for long term care providers",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1760645046,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/takecareos",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/takecareos.json"
+  },
+  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -47233,48 +47276,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
   },
   {
-    "id": 31396,
-    "name": "qomplement",
-    "slug": "qomplement",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/638b55f98e908e0ccf30170e7b53dff164439c5b.png",
-    "website": "https://qomplement.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "qomplement is the agentic ERP for retail and logistics companies.\r\n\r\nRetail and logistics are the industries with the highest volume of transactions in the world. POs, freight invoices, inventory updates, and shipment confirmations. Every single one still requires a person to process it manually. Their only solution has been hiring more people.\r\n\r\nLegacy ERPs were built for humans. qomplement is the agentic ERP that cuts 95% of manual work and handles 100x more transactions with the same headcount. We give procurement and operations teams superpowers: automating purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, three-way matching, and inventory reconciliation.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world. Headquartered in San Francisco.",
-    "one_liner": "The Agentic ERP for supply chain operations",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771907564,
-    "tags": [
-      "B2B",
-      "Logistics",
-      "Supply Chain",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/qomplement",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
-  },
-  {
     "id": 31414,
     "name": "Drip",
     "slug": "drippay",
@@ -47358,22 +47359,25 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/textsidekick.json"
   },
   {
-    "id": 31482,
-    "name": "Memory Store",
-    "slug": "memory-store",
+    "id": 31494,
+    "name": "RASPIRE",
+    "slug": "raspire",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520a45661b113f68072bffbdfe2eeb3b94215d.png",
-    "website": "https://memory.store",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
+    "website": "https://raspire.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "One memory for your team's agents. \r\n\r\nTurn every meeting, Claude session, and Slack chat into context your team and agents share.",
-    "one_liner": "Company brain for every teammate and agent",
-    "team_size": 4,
+    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
+    "one_liner": "Autonomous Runtime Security",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1777184787,
+    "subindustry": "B2B -> Security",
+    "launched_at": 1780001140,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47383,21 +47387,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Security"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/memory-store",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/memory-store.json"
+    "url": "https://www.ycombinator.com/companies/raspire",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   },
   {
     "id": 31512,
@@ -47482,71 +47484,28 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
   },
   {
-    "id": 31544,
-    "name": "Panacea",
-    "slug": "panacea",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3cb42978681e32c20f28150fda63b8a7d01c37b.png",
-    "website": "https://withpanacea.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panacea provides AI-native FDA regulatory services for Biotechs and Medical Device companies. We hire the most experienced FDA consultants in the industry (ex-FDA, decades of experience, hundreds of filings) and pair them with our AI platform to enable the fastest and lowest cost pathway to FDA approval.\r\n\r\nWhile other regulatory consultants bill hourly, our pricing model is simple: fixed, outcome-based pricing. Payment is only due when milestones are complete.\r\n\r\nWe support all FDA regulatory pathways including IND, NDA, BLA, ODD, Pre-Subs, 510(k), De Novo, PMA, IDE, BDD, etc.",
-    "one_liner": "AI-Native FDA Regulatory Services",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1778968383,
-    "tags": [
-      "B2B",
-      "Medical Devices",
-      "Biotech",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/panacea",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/panacea.json"
-  },
-  {
-    "id": 31563,
-    "name": "Thomas",
-    "slug": "thomas",
+    "id": 31549,
+    "name": "Enjamb Labs",
+    "slug": "enjamb-labs",
     "former_names": [
-      "HireThomas, Inc.",
-      "HireThomas",
-      "MadeByThomas"
+      "Enjamb Labs Inc",
+      "Enjamb"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfa3c147709725ca832b1db54f33a710ff5b977.png",
-    "website": "https://madebythomas.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
+    "website": "https://www.enjamb.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hi, I'm Thomas, and my creator is named Thomas :p\r\n\r\nThomas is the first YC-backed AI founder: a virtual human who starts, runs, and grows his own companies on the internet.\r\n",
-    "one_liner": "The first AI founder: a virtual human who runs his own companies.",
+    "long_description": "Enjamb runs the entire drug program for biopharma teams, from discovery to FDA approval. Pharma runs on decades of closed legacy systems like Benchling, Veeva, Medidata, and SAS, with no AI layer and no MCP to connect agents to them. \r\n\r\nSo we built that connection layer in one platform. Our agents run on top of their existing systems and data, with no migration, and do the work across the whole program: clinical evidence, trial design, statistical programming, and regulatory submissions. \r\n\r\nIn just 3 weeks since launch, we're already being used by 500+ employees at top pharma companies, including Johnson & Johnson, AbbVie, Bristol Myers Squibb, Merck & Sanofi.",
+    "one_liner": "Where drug teams run their entire program, discovery to FDA approval",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1780016101,
+    "launched_at": 1779929226,
     "tags": [
-      "Artificial Intelligence",
+      "AI-powered Drug Discovery",
       "SaaS",
       "B2B",
-      "AI"
+      "Biotech",
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47566,8 +47525,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thomas",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/thomas.json"
+    "url": "https://www.ycombinator.com/companies/enjamb-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/enjamb-labs.json"
   },
   {
     "id": 32155,

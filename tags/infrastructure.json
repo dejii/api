@@ -3460,15 +3460,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
     "one_liner": "Intelligence Infrastructure on People and Entities",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1747432267,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Enterprise Software",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3855,7 +3855,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is a coding agent that runs 90% on open models, escalating to frontier models only when the work demands it.",
+    "long_description": "Magnitude is a coding agent that runs on 90% open models, escalating to frontier models only when the work demands it.",
     "one_liner": "Frontier coding at half the cost",
     "team_size": 2,
     "industry": "B2B",
@@ -4579,5 +4579,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
+  },
+  {
+    "id": 32253,
+    "name": "Touchmark",
+    "slug": "touchmark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fac4fb7e32c7424e6eea88690415f386be2f5832.png",
+    "website": "https://touchmark.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Prices AI by the value it delivers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1781312801,
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/touchmark",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/touchmark.json"
   }
 ]

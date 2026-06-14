@@ -29565,6 +29565,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/the-llm-data-company.json"
   },
   {
+    "id": 30464,
+    "name": "Sixtyfour",
+    "slug": "sixtyfour",
+    "former_names": [
+      "Sixtyfour",
+      "Sixtyfour AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a94c5b6ca35db4a8ecda083bd02671f8be5393f.png",
+    "website": "https://www.sixtyfour.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sixtyfour deploys AI agents that investigate people and companies across the open and dark web, official records, proprietary databases, and unstructured sources. We resolve identities, map entity relationships, and surface risk signals for teams where data quality is essential.",
+    "one_liner": "Intelligence Infrastructure on People and Entities",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1747432267,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sixtyfour",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sixtyfour.json"
+  },
+  {
     "id": 30469,
     "name": "HABIT",
     "slug": "habit",
@@ -31095,7 +31140,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is a coding agent that runs 90% on open models, escalating to frontier models only when the work demands it.",
+    "long_description": "Magnitude is a coding agent that runs on 90% open models, escalating to frontier models only when the work demands it.",
     "one_liner": "Frontier coding at half the cost",
     "team_size": 2,
     "industry": "B2B",
@@ -31315,19 +31360,16 @@
       "Preempt",
       "The Interface"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dbbabdd44f01b97e6141151550ff9162ab83b00.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/224baaef4a1a05fbac5feaa714e3fc06663923ec.png",
     "website": "https://www.theinterface.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Interface is a frontier research lab focused on high-fidelity visual simulation. We build neural systems that model appearance, behavior, and interaction for world-model research.",
-    "one_liner": "The world model research lab",
+    "long_description": "We research how the world gets encoded for agents, and build the interfaces they transact through. Our latest work is OneStop — a unified market for AI.",
+    "one_liner": "Building onestop.sh",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1754968088,
     "tags": [
-      "Entertainment",
-      "Gaming",
-      "Media",
       "AI"
     ],
     "tags_highlighted": [],
@@ -33072,48 +33114,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/locus",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/locus.json"
-  },
-  {
-    "id": 30862,
-    "name": "Sorce",
-    "slug": "sorce",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png",
-    "website": "https://sorce.jobs",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tinder for Jobs. Swipe right, AI applies on your behalf.",
-    "one_liner": "Tinder for jobs",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1759034914,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "HR Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sorce",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sorce.json"
   },
   {
     "id": 30867,
@@ -35001,45 +35001,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/carrot-labs.json"
   },
   {
-    "id": 31365,
-    "name": "Incandor",
-    "slug": "incandor",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897d4bcd4f8d8953ac74712b5cc1711e4eb40c78.png",
-    "website": "https://www.incandor.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Incandor detects fraud on banking and fintech platforms by learning how every user physically behaves — mouse dynamics, keystroke timing, scroll patterns, and on mobile, how they hold their phone. Founded by two Stanford engineers and backed by Y Combinator, Incandor builds a behavioral map of every user on your platform — no fraud labels or historical data required. At the individual level, it identifies account takeovers with >99% accuracy. At the population level, coordinated rings, mule operators, and coerced sessions separate out naturally. Rather than a black-box risk score, fraud teams query the map via a programmable API.",
-    "one_liner": "Behavioral intelligence infrastructure for anti-fraud",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1778822795,
-    "tags": [
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/incandor",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/incandor.json"
-  },
-  {
     "id": 31378,
     "name": "GodHands",
     "slug": "godhands",
@@ -35080,48 +35041,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/godhands",
     "api": "https://yc-oss.github.io/api/batches/fall-2026/godhands.json"
-  },
-  {
-    "id": 31396,
-    "name": "qomplement",
-    "slug": "qomplement",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/638b55f98e908e0ccf30170e7b53dff164439c5b.png",
-    "website": "https://qomplement.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "qomplement is the agentic ERP for retail and logistics companies.\r\n\r\nRetail and logistics are the industries with the highest volume of transactions in the world. POs, freight invoices, inventory updates, and shipment confirmations. Every single one still requires a person to process it manually. Their only solution has been hiring more people.\r\n\r\nLegacy ERPs were built for humans. qomplement is the agentic ERP that cuts 95% of manual work and handles 100x more transactions with the same headcount. We give procurement and operations teams superpowers: automating purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, three-way matching, and inventory reconciliation.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world. Headquartered in San Francisco.",
-    "one_liner": "The Agentic ERP for supply chain operations",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1771907564,
-    "tags": [
-      "B2B",
-      "Logistics",
-      "Supply Chain",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/qomplement",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/qomplement.json"
   },
   {
     "id": 31419,
@@ -35209,22 +35128,23 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/degla-inc.json"
   },
   {
-    "id": 31468,
-    "name": "Chronicle Labs",
-    "slug": "chronicle-labs",
+    "id": 31478,
+    "name": "Silmaril",
+    "slug": "silmaril",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6cfdb2b03f7cc6e2abb97466ff1635be02eb5c.png",
-    "website": "https://chronicle-labs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chronicle Labs is a staging environment for enterprise AI agents: we capture every event the agent sees in production and backtest it, so customers can safely test new behaviors without breaking anything.",
-    "one_liner": "Staging Environments for Enterprise AI Agents",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
+    "website": "https://silmaril.dev",
+    "all_locations": "",
+    "long_description": "Silmaril is a prompt injection defense that self-improves for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
+    "one_liner": "Prompt injection defense that self-improves",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1778001486,
+    "launched_at": 1775745444,
     "tags": [
-      "AIOps",
-      "SaaS",
+      "Developer Tools",
+      "Security",
+      "Cybersecurity",
       "AI"
     ],
     "tags_highlighted": [],
@@ -35237,6 +35157,48 @@
       "B2B"
     ],
     "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silmaril",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/silmaril.json"
+  },
+  {
+    "id": 31494,
+    "name": "RASPIRE",
+    "slug": "raspire",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
+    "website": "https://raspire.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
+    "one_liner": "Autonomous Runtime Security",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1780001140,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
       "United States of America",
       "America / Canada"
     ],
@@ -35245,8 +35207,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chronicle-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/chronicle-labs.json"
+    "url": "https://www.ycombinator.com/companies/raspire",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/raspire.json"
   },
   {
     "id": 31527,
@@ -35288,94 +35250,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revnu",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
-  },
-  {
-    "id": 31544,
-    "name": "Panacea",
-    "slug": "panacea",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3cb42978681e32c20f28150fda63b8a7d01c37b.png",
-    "website": "https://withpanacea.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panacea provides AI-native FDA regulatory services for Biotechs and Medical Device companies. We hire the most experienced FDA consultants in the industry (ex-FDA, decades of experience, hundreds of filings) and pair them with our AI platform to enable the fastest and lowest cost pathway to FDA approval.\r\n\r\nWhile other regulatory consultants bill hourly, our pricing model is simple: fixed, outcome-based pricing. Payment is only due when milestones are complete.\r\n\r\nWe support all FDA regulatory pathways including IND, NDA, BLA, ODD, Pre-Subs, 510(k), De Novo, PMA, IDE, BDD, etc.",
-    "one_liner": "AI-Native FDA Regulatory Services",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1778968383,
-    "tags": [
-      "B2B",
-      "Medical Devices",
-      "Biotech",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/panacea",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/panacea.json"
-  },
-  {
-    "id": 31563,
-    "name": "Thomas",
-    "slug": "thomas",
-    "former_names": [
-      "HireThomas, Inc.",
-      "HireThomas",
-      "MadeByThomas"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfa3c147709725ca832b1db54f33a710ff5b977.png",
-    "website": "https://madebythomas.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hi, I'm Thomas, and my creator is named Thomas :p\r\n\r\nThomas is the first YC-backed AI founder: a virtual human who starts, runs, and grows his own companies on the internet.\r\n",
-    "one_liner": "The first AI founder: a virtual human who runs his own companies.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1780016101,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thomas",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/thomas.json"
   },
   {
     "id": 31564,

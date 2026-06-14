@@ -46,7 +46,7 @@
     "website": "https://autostep.ai/",
     "all_locations": "",
     "long_description": "Autostep is a desktop app installed across your organization to surface repetitive, high-cost tasks that fly under the radar. We rank them by cost and impact so you know what's worth automating, then build or find the right fix - whether that's an AI agent, a process change, or an existing tool.",
-    "one_liner": "Uncover repetitive tasks and turn them into agents",
+    "one_liner": "Uncover and automate repetitive tasks ready for AI ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -159,19 +159,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e73e06f06f9c82efc635b55f38984d2cb9645b67.png",
     "website": "https://foresight.tt/",
-    "all_locations": "New York City, NY, USA",
+    "all_locations": "",
     "long_description": "Foresight builds AI-powered simulations of human behavior to help companies predict how people will think, react, and choose before making real-world decisions. It lets organizations test countless possible moves in advance, see how each one is likely to play out, and choose the strongest path forward.",
-    "one_liner": "On-demand consumer insights",
+    "one_liner": "Consumer simulations for CPG market research",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1778160677,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Market Research",
-      "Consumer Products"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -183,8 +178,7 @@
       "Analytics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -339,7 +333,12 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1760645046,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -495,7 +494,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab52625ae85ffe0da16a13dee9f82eaa1e7c33f.png",
     "website": "http://askclara.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Clara is an AI primary care and longevity practice from the team that founded and grew Circle Medical to $100M in revenue.\r\n\r\nOur mission at Clara is to add one billion years of healthspan to humanity. We do this with an AI with deep clinical knowledge, coupled with the ability to sift through medical data to detect trends and patterns that could be missed.\r\n\r\nUnlike Claude or ChatGPT, Clara can see your medical data and then act. Chat with Clara as you would a doctor and Clara can help with you make sense of symptoms, get medication refills, order and understand labs, and achieve health goals. Medical recommendations are preliminary until one of our human medical providers in the loop reviews and approves them.",
     "one_liner": "AI primary care doctor",
     "team_size": 9,
@@ -514,8 +513,7 @@
       "Consumer Health and Wellness"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -655,7 +653,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c139b868432353a44f9beec890c283ae5570b6.png",
     "website": "https://www.drafted.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Drafted is building multimodal generative models for residential architecture and spatial design.\r\n\r\nThe product allows users to design homes by combining sketches and direct spatial input to generate coherent floor plans and elevations that can be explored in both 2D and 3D. Users can define footprints, lot boundaries, room placement, relationships, room programs, and square footage constraints that persist across generations and iterative design exploration, then export CAD, PDF, and other files into the rest of the home design and construction process.\r\n\r\nMore info on the company:\r\n⁃ In the past month, we've had 120k users come to the site, generating 325k+ floor plans through socials and word-of-mouth. \r\n⁃ A team of 9, made up of researchers from Stanford, Autodesk, Brown, Adobe, and Architects from WeWork, Atmos, and design families\r\n⁃ Raised $17.5M from investors such as Buckley Ventures (Josh Buckley), YC (Aaron Epstein), Patrick Collison, Evan Moore, Convective Capital (Bill Clerico), Ben Silbermann, Jack Altman, Samsung, Starship Ventures, Charlie Songhurst, Ryan Tedder, Moses Moody, Alex Blania, and Kevin Mahaffey",
     "one_liner": "Design your home instantly with AI",
     "team_size": 9,
@@ -673,7 +671,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -802,7 +801,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c4aa01fc589ba1d208558f7b720c6081f672b08.png",
     "website": "https://www.superset.sh/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Superset helps engineers run 100s of coding agents in parallel. ",
     "one_liner": "The IDE for the AI Agents Era",
     "team_size": 3,
@@ -821,8 +820,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1219,7 +1217,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac5a6cce941f973ff80cb4496e195f4010e5c21b.png",
     "website": "https://www.stagereview.app/",
     "all_locations": "",
-    "long_description": "Stage is a code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with coding agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally read changes, enabling your team to review (and merge!) PRs 5x faster than GitHub.",
+    "long_description": "Stage is a new code review platform designed to help engineers better understand and review AI generated code.\r\n\r\nEngineering teams are shipping faster than ever with agents, but now they’re drowning in an endless backlog of PRs to review. Stage reorganizes the code review process around how engineers naturally think, enabling you to review (and merge!) PRs 5x faster. \r\n\r\nUsed by top engineers at Legora, n8n, Branch, and more. ",
     "one_liner": "Code review platform for humans and agents",
     "team_size": 2,
     "industry": "B2B",
@@ -1334,7 +1332,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65da10294fd5bf94572379e6cd2c7b0a8302f.png",
     "website": "https://withai.co",
     "all_locations": "",
-    "long_description": "WithAI helps institutional investors research stocks and manage their portfolios. We're live with four hedge funds, and our users spend 5+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"WithAI has flipped those percentages.\"",
+    "long_description": "WithAI helps institutional investors research stocks and manage their portfolios. We're live with four hedge funds, and our users spend 4+ hours a day in the platform.\r\n\r\nInvestors who try \"nearly every tool on the market,\" to quote a client of ours, \"wind up with an unwieldy collection of fragmented point solutions.\" Those who focus on building a great setup with general agents are instead \"signing up for a full-time job.\" So we deploy a platform called Multiplier that unifies structured data, unstructured data, AI work, human work, and tacit firm knowledge in one secure, governed, customized application.\r\n\r\nOur first vertical: independent equity funds with $250M-$5B of assets. They know AI is essential for staying relevant, but they don't have the time or talent to figure out what to do about it. But once we deploy Multiplier––\"We used to spend 80% of our time gathering information and 20% of our time acting on it,\" said one customer. \"WithAI has flipped those percentages.\"",
     "one_liner": "Agent harnesses for asset managers",
     "team_size": 3,
     "industry": "B2B",
@@ -1741,17 +1739,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897d4bcd4f8d8953ac74712b5cc1711e4eb40c78.png",
     "website": "https://www.incandor.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Incandor detects fraud on banking and fintech platforms by learning how every user physically behaves — mouse dynamics, keystroke timing, scroll patterns, and on mobile, how they hold their phone. Founded by two Stanford engineers and backed by Y Combinator, Incandor builds a behavioral map of every user on your platform — no fraud labels or historical data required. At the individual level, it identifies account takeovers with >99% accuracy. At the population level, coordinated rings, mule operators, and coerced sessions separate out naturally. Rather than a black-box risk score, fraud teams query the map via a programmable API.",
     "one_liner": "Behavioral intelligence infrastructure for anti-fraud",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778822795,
-    "tags": [
-      "Security",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1762,8 +1757,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2122,7 +2116,7 @@
     "website": "http://hub.xyz",
     "all_locations": "",
     "long_description": "Hub.xyz provides real-world training data to frontier AI labs",
-    "one_liner": "Real-world training data for frontier labs and robotics.",
+    "one_liner": "Real-world training data for frontier AI labs and robotics.",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2320,11 +2314,11 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76df6473c36e2adfda2b2ab7e987413907cd9c97.png",
     "website": "https://www.kinro.com/",
     "all_locations": "",
-    "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\nPierre-Alexandre led research improving Gemini for financial services at DeepMind. Parth led infrastructure for training and inference at Zoox. Corentin was the first employee in an insurance startup and worked closely with many insurance leaders.",
-    "one_liner": "AI sales agents for insurance. Sell everywhere your buyers are.",
+    "long_description": "Kinro helps companies sell insurance through AI assistants such as ChatGPT. We build AI sales agents that manage the end-to-end insurance sales process, from answering questions, personalized coverage explanations and quoting. These agents are continuously evaluated and improved through our proprietary platform, optimizing sales performance while remaining 100% compliant.\r\n\r\nSelling insurance requires strict regulatory compliance, deep carrier integrations, and extremely reliable answers. Platforms like OpenAI and Google remain general-purpose and are less likely to build the vertical infrastructure required for regulated industries.\r\n\r\nToday, Kinro serves brokers and direct-to-consumer carriers across the US and Europe. Insurance distribution is huge: insurers pay roughly $100B+ in commissions annually, and distributors spend $10B+ every year on advertising to acquire customers.\r\n\r\n- Pierre-Alexandre led post-training of Gemini for financial services at DeepMind\r\n- Parth led infrastructure for training and inference at Zoox\r\n- Corentin was Chief Insurance Officer at an InsurTech (Sharelock)",
+    "one_liner": "Autonomous insurance brokerage for small businesses",
     "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
     "launched_at": 1773944938,
     "tags": [],
     "tags_highlighted": [],
@@ -2334,8 +2328,8 @@
     "batch": "Spring 2026",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "Fintech",
+      "Insurance"
     ],
     "regions": [
       "Unspecified"
@@ -2356,7 +2350,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0c6bb59547978fc3036953e8d43c990c8c000fc.png",
     "website": "https://junocompanion.com/",
     "all_locations": "",
-    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness.\r\n\r\nLaunched in October, Juno now supports 125,000+ patients globally and has grown to $80K MRR.",
+    "long_description": "Juno is an AI personal health assistant for the 1B+ people living with chronic illness.\r\n\r\nLaunched in October, Juno now supports 125,000+ patients globally and has grown to $85K MRR.",
     "one_liner": "AI Health Assistant for Chronic Illness",
     "team_size": 2,
     "industry": "Healthcare",
@@ -2535,8 +2529,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9670403b854641364928ce34e110c0d9752c9d8d.png",
     "website": "https://gethevn.com",
     "all_locations": "",
-    "long_description": "Claude Code can talk about a transaction, but can't perform it. Current banking MCPs are very limited and dangerous. That's why we built HEVN, a payment primitive that gives Claude Code safe access to your company's finances.\r\n\r\nHEVN is a B2B banking platform for global payments, built on stablecoin rails and a new API for virtual bank accounts under DASP regulation. \r\n\r\nCompanies use HEVN for global payroll and payment and paper-trail automation, with 70% of transaction volume processed through our API. ",
-    "one_liner": "A payment primitive for global payroll",
+    "long_description": "If you're paying contractors or employees across borders, your options today are limited to expensive platforms like Deel. And if your payout workflow is even slightly custom, you're out of luck.\r\n\r\nWe've solved this by building an agentic payroll platform. Just give us your contractor's email, and we'll take care of everything: onboarding, paperwork, contracts, invoices, KYC/KYB, and payments.\r\n\r\nWe save companies hundreds of hours of manual work and enable them to build fully customized payroll and payment workflows.",
+    "one_liner": "Agentic payroll",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -2648,20 +2642,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/638b55f98e908e0ccf30170e7b53dff164439c5b.png",
     "website": "https://qomplement.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "qomplement is the agentic ERP for retail and logistics companies.\r\n\r\nRetail and logistics are the industries with the highest volume of transactions in the world. POs, freight invoices, inventory updates, and shipment confirmations. Every single one still requires a person to process it manually. Their only solution has been hiring more people.\r\n\r\nLegacy ERPs were built for humans. qomplement is the agentic ERP that cuts 95% of manual work and handles 100x more transactions with the same headcount. We give procurement and operations teams superpowers: automating purchase order intake, vendor onboarding, item master updates, freight order processing, carrier invoicing, three-way matching, and inventory reconciliation.\r\n\r\nAlready trusted by some of the largest grocery chains and trucking companies in the world. Headquartered in San Francisco.",
-    "one_liner": "The Agentic ERP for supply chain operations",
+    "one_liner": "The Agentic ERP replacing Netsuite and SAP",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1771907564,
-    "tags": [
-      "B2B",
-      "Logistics",
-      "Supply Chain",
-      "Enterprise Software",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -2672,8 +2660,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2694,7 +2681,7 @@
     "website": "https://pavoot.com",
     "all_locations": "",
     "long_description": "Pavoot is an AI event manager for companies that run in person customer events.\r\n\r\nMore and more companies are investing in dinners, summits, and community events because relationships drive revenue. But today, running events means sourcing attendees, sending invites, hosting the event, and then manually digging through notes, emails, and spreadsheets afterward to figure out who attended, what was discussed, who is a strong lead, and who should be followed up with. Most teams either send generic \"thanks for coming\" emails or never properly capture the value created during the event.\r\n\r\nPavoot replaces this fragmented workflow with one AI system that keeps every attendee, interaction, conversation, and follow up connected in one place, making relationship driven growth scalable.\r\n\r\nGohar and Ana met while studying Computer Science at ETH Zürich. Gohar was part of Switzerland’s national chess team at the age of 16 and is a 6x Swiss chess champion. Ana won more than 20 medals in Scientific Olympiads and built internal AI systems used by hundreds of data scientists at some of the largest banks in Latin America.\r\n\r\n===\r\n\r\nBook a demo: pavoot.com",
-    "one_liner": "AI Event Manager for Customer Events",
+    "one_liner": "AI Event Manager for in-person events",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -2914,8 +2901,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24b3833352a8b36953c5bec1a4cb93f9ac0f2259.png",
     "website": "https://www.withsherpa.ai/",
     "all_locations": "",
-    "long_description": "Sherpa automatically increases website conversion rates by analyzing visitor behavior, building new page variants, and continuously A/B testing them. Customers typically see a 15-20% lift on their primary conversion metric in their first 30 days.",
-    "one_liner": "Turn more website visitors into customers",
+    "long_description": "Sherpa automatically optimizes websites for every human and every agent. For humans, Sherpa studies visitor behavior, builds better pages and flows, tests them on live traffic, and keeps what converts. For AI agents, Sherpa tests different agent-facing versions of the site until agents recommend the company more often. \r\n\r\nCustomers typically see a 15-20% lift in their primary conversion metric after using Sherpa for 30 days.",
+    "one_liner": "Make websites improve themselves.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3022,17 +3009,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b67f36dd87617d3ebd7151d1c77707aaa16c25f.png",
     "website": "https://rentahuman.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "Marketplace for AI agents to hire humans.",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1776727730,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3044,8 +3028,6 @@
       "Job and Career Services"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3370,7 +3352,7 @@
     "website": "https://kimpton.ai",
     "all_locations": "Remote",
     "long_description": "Kimpton is the AI-native investment research platform for portfolio managers. Agents do the research and propose the trades. \r\n\r\nIt was built by two ex-Goldman engineers and an ex-Vistra Energy engineer who left to start a quantitative systematic hedge fund with $10M raised from a family office at the ages of 21 and 22 years old. They scaled it to $35M at peak over four years, and productized the technology stack they ran it on. \r\n\r\nPortfolio managers spend most of their day on work that isn't investing: filings, earnings prep, 13Fs, peer benchmarking, thesis validation, trade writeups. \r\n\r\nKimpton runs all of it autonomously and delivers structured Trade Proposals with full rationale, written as diffs to the portfolio and fitted to each manager's mandate and strategy. \r\n\r\nIt is built to disagree. Most AI flatters the user, and consensus is poison for investment decisions. Kimpton is grounded in the firm's own mandate, thesis, and positions, so it surfaces breaches and risks the PM would otherwise miss instead of telling them what they want to hear. Risk profile, style, and constraints live in plain-text mandate.md and strategy.md files that drive every analysis the system performs. \r\n\r\nThe rest of the desk sits alongside: Deep Research cited to source, natural-language Dashboards, Agentic Charting and Backtests, scheduled Skills for recurring workflows, and auto-generated Reports. Coverage includes FactSet pricing, fundamentals, estimates, transcripts, ownership, and M&A data, plus live prediction markets from Polymarket. \r\n\r\nHumans make the decisions. AI does everything else.",
-    "one_liner": "AI-Native Investment Research",
+    "one_liner": "The IDE for Investors",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
@@ -3558,7 +3540,7 @@
     "website": "https://napkinmath.club",
     "all_locations": "",
     "long_description": "Existing consumer health apps focus on scaling a one-size-fits-all solution: calorie deficits. But they don’t answer the questions you actually have.\r\n\r\nFood is deeply personal, and so is Napkin Math:\r\n\r\nGet the fuel you need for marathon training, while understanding you eat catered office lunches five days a week. Discover what’s triggering your stomach irritation, without sacrificing your weekly dinner with friends. Napkin Math tailors a plan for not only your specific health goal, but also your life.",
-    "one_liner": "The personalized AI food journal that people love to use.",
+    "one_liner": "AI nutrition coach in your pocket",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -3668,7 +3650,7 @@
     "website": "https://voquill.com/",
     "all_locations": "",
     "long_description": "Voquill is the modern AI-native operating system for medical labs. This software manages the entire workflow of the lab (accessioning, workflow, reporting, coding, compliance, and revenue) and contains modern agentic AI tools to help each step. For example, pathologists can write reports 20% faster through our voice AI coworker.\r\n\r\nIncumbent lab operating systems are old, don't scale with how modern labs work, and can’t integrate existing AI solutions. As a result, labs are either building their own or paying millions for band-aid solutions and consultants. We're building an agentic platform to manage every aspect of the lab and displace the billions spent on legacy management systems.",
-    "one_liner": "The modern AI-native operating system for medical labs. ",
+    "one_liner": "The agentic OS for medical labs",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -3702,8 +3684,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6ef21e7c765ce2b9f612cc2ec833a2654c6bd4.png",
     "website": "https://keyframelabs.com",
     "all_locations": "",
-    "long_description": "Our real-time, generative models turn AI into lifelike video calls. Deploy in minutes with a few lines of embed code. Photorealism, emotion, and scale for just $0.06 per minute.",
-    "one_liner": "Turn agents into lifelike video calls. $0.06 a minute.",
+    "long_description": "Our real-time foundation models turn AI into lifelike video calls. Add the world's best AI avatars to your agents and applications in minutes with a few lines of embed code. Photorealism, emotion, and scale for as low as $0.06 per minute.",
+    "one_liner": "Turn agents into lifelike video calls with the word's best AI avatars",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3816,7 +3798,7 @@
     "website": "https://www.lumius-imaging.com",
     "all_locations": "",
     "long_description": "Ultrasound today is still mostly 2D. Clinicians have to imagine the 3D anatomy in their head while also moving the probe at the same time. This makes procedures like vascular access hard to learn and perform consistently, especially for beginners. ~50% fail on their first attempt. Hospitals also spend millions each year on 2D ultrasound training. Meanwhile, existing 3D ultrasound devices can cost >10× as much.\r\n\r\nLumius is building fast, smart, and accessible 3D ultrasound systems to eliminate this 2D guesswork. Our technology shows a clear, real-time 3D view of what’s inside the body. It works over a large volume, not just a thin slice. The device is also affordable, compact, and portable.\r\n\r\nWe are starting with vascular access, especially central line. Future use cases include blood clot detection, tumor diagnosis, and biopsy guidance. Our long-term vision is a universal 3D ultrasound platform that brings easy-to-use, real-time imaging to a wide range of clinical and eventually consumer applications.\r\n",
-    "one_liner": "Fast, smart, accessible 3D ultrasound for everyone",
+    "one_liner": "Fast, smart, accessible 3D ultrasound that anyone can use",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Medical Devices",
@@ -4445,7 +4427,7 @@
       "markup.one",
       "tday"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41def18523e48ea4e73f6c94bde6b405346ed045.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c32833388173ad6e89cc643bc8bffc6e0f332d32.png",
     "website": "https://tday.com",
     "all_locations": "",
     "long_description": "tday automatically turns a software company's product into on-brand marketing creative. Connect your product and git repo, and tday generates polished launch videos, social graphics, and ads, the content a team would normally spend hours making in a design tool or pay a freelancer for. tday then publishes the creative and measures how it performs across your social and ad channels, closing the loop from what you ship to what you post.",
@@ -4821,20 +4803,16 @@
     "name": "Chronicle Labs",
     "slug": "chronicle-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6cfdb2b03f7cc6e2abb97466ff1635be02eb5c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6facb982758514ecf99ea3032c7c55955f25ba5.png",
     "website": "https://chronicle-labs.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Chronicle Labs is a staging environment for enterprise AI agents: we capture every event the agent sees in production and backtest it, so customers can safely test new behaviors without breaking anything.",
     "one_liner": "Staging Environments for Enterprise AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1778001486,
-    "tags": [
-      "AIOps",
-      "SaaS",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4845,8 +4823,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5044,13 +5021,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86b9dc2025d8d9aaca7a7d152afe3f067bb14268.png",
     "website": "https://silmaril.dev",
     "all_locations": "",
-    "long_description": "Silmaril is self-healing prompt injection defense for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
-    "one_liner": "Prompt injection defense that is self-healing",
+    "long_description": "Silmaril is a prompt injection defense that self-improves for AI native applications and agents. It understands application context to block 2x as many threats as current SOTA defenses with 10x lower latency. Customers plug us into agentic frameworks like LangGraph with 5 lines of code. Silmaril has stopped $28M of damages for customers.",
+    "one_liner": "Prompt injection defense that self-improves",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1775745444,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5125,7 +5107,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c4216679eb008bbc4571315894d674d507a751f.png",
     "website": "https://saudara.ai",
     "all_locations": "",
-    "long_description": "Saudara AI is an AI broker connecting American brands with vetted overseas factories.\r\n\r\nUS brands import $3T in goods a year and lose billions to ghost suppliers, hidden fees, and blown deadlines. The factories that actually deliver sit behind decades-old relationships outsiders can't break into. We were born into them.\r\n\r\nEvery deal runs through a real human broker, supercharged by AI that handles sourcing, quoting, QC, and logistics. 10x faster, at a fraction of the cost.\r\n\r\nSourcing is the largest broken market in global trade. We're the on-ramp.",
+    "long_description": "Saudara AI is an AI sourcing broker connecting American brands with vetted overseas factories.\r\n\r\nUS brands import $3T in goods a year and lose billions to ghost suppliers, hidden fees, and blown deadlines. The factories that actually deliver sit behind decades-old relationships outsiders can't break into. We were born into them.\r\n\r\nEvery deal runs through a real human broker, supercharged by AI that handles sourcing, quoting, QC, and logistics. 10x faster, at a fraction of the cost.\r\n\r\nSourcing is the largest broken market in global trade. We're the on-ramp.",
     "one_liner": "AI Native Sourcing Broker For Overseas Manufacturing",
     "team_size": 2,
     "industry": "B2B",
@@ -5159,17 +5141,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81520a45661b113f68072bffbdfe2eeb3b94215d.png",
     "website": "https://memory.store",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "One memory for your team's agents. \r\n\r\nTurn every meeting, Claude session, and Slack chat into context your team and agents share.",
-    "one_liner": "Company brain for every teammate and agent",
+    "one_liner": "Company Brain.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1777184787,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5181,8 +5160,6 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5237,20 +5214,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da4a14a3baf739d13d28c4b5fd536756215a6801.png",
     "website": "https://www.anoria.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We've spent decades tracking everything. Sleep. Recovery. Steps. All proxies for how we feel. Performance is 90% mental. And yet no one has built the feedback loop for our emotions. We close that loop by designing a device that understands how you feel, tells you why, and what you can do about it. Emotional intelligence becomes trainable, so you can better connect and create with those around you.",
     "one_liner": "The first wearable that reads your emotions to enhance your EQ. ",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1777953945,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Mental Health Tech",
-      "Consumer Health Services",
-      "Consumer Products"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -5262,8 +5233,7 @@
       "Consumer Electronics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5430,7 +5400,7 @@
     "all_locations": "Remote",
     "long_description": "TesterArmy is an AI agent that tests websites and mobile apps. It monitors production on a schedule and runs automatically on every GitHub Pull Request, delivering screenshots, recordings, and actionable bug reports.\r\n\r\nDescribe tests in plain English. The agent handles login flows, OAuth, and OTPs, no scripts to write or maintain. We catch the regressions and UX issues that code review misses.",
     "one_liner": "Test your app with AI, catch bugs before users do",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1773767171,
@@ -5500,14 +5470,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eec2630d827ef4927b95e335dc060a630450da9.png",
     "website": "https://raspire.com/",
-    "all_locations": "",
-    "long_description": "RASPIRE is a mobile threat defense platform with autonomous threat response that protects Android and iOS applications post-compilation without SDKs, code changes, or complex integrations. It adds advanced runtime security layers including anti-reverse engineering, fraud prevention, API attestation, and live threat monitoring against real-time attacks.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RASPIRE is the first line of defense for applications against AI-powered fraud attacks, API abuse, and runtime threats. Unlike code scanners and pentesting tools that identify vulnerabilities before release, RASPIRE operates like a security expert running inside applications, monitoring, detecting, and blocking attacks 24/7 in real time. All without writing a single line of code.",
     "one_liner": "Autonomous Runtime Security",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1780001140,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Cybersecurity",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5519,7 +5495,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5722,7 +5699,7 @@
     "website": "https://apolloatomics.com/",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "We make the most compact nuclear machines.",
+    "one_liner": "We make the most compact nuclear reactors",
     "team_size": null,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
@@ -6125,7 +6102,7 @@
     "website": "https://gravy.finance",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "AI Agent for your personal finances.",
+    "one_liner": "Agents that move money, trade stocks, and file taxes.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -6233,20 +6210,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2393bf402ae2e425fc41cb7f78facb4b67fa9d5.png",
     "website": "https://myunowallet.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Uno is building the AI wallet that replaces Apple Pay. At checkout, Uno automatically picks the best credit card for every purchase based on rewards. Users earn more points, miles, and cashback without thinking about it.\r\n\r\nThat's the wedge. The vision is a financial agent that automates every money decision in your pocket.\r\n\r\nFounded by Saket Joshi (www.linkedin.com/in/saket-dattatray-joshi/) and \r\nMordi Shadpour (www.linkedin.com/in/mordi-shadpour/)",
-    "one_liner": "The AI wallet that replaces Apple Pay",
+    "one_liner": "The AI mobile wallet that replaces Apple Pay",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1779834493,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Machine Learning",
-      "Payments",
-      "Consumer Finance"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6258,8 +6229,7 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6585,7 +6555,7 @@
     "website": "https://gigacatalyst.com/",
     "all_locations": "",
     "long_description": "Gigacatalyst allows sales and CS teams to build missing features that customers need, so you stop losing business because of feature gaps. We’ve helped our customers unblock $1M in sales in 6 weeks.\r\n\r\nWe do this with an embedded AI customization layer that learns your APIs. Each customer can now adapt your product to match their workflows perfectly, and share it across their team with our in-built app store.\r\n\r\nThe result is that customers use your SaaS more, retain for longer, and expand quicker, because they get bespoke implementation for their exact usecase, without waiting.\r\n\r\nWe're live with the top Series B companies with 90% repeat usage rate. Our customers tell us that Gigacatalyst is the best way to increase usage, retention, and expansion in 2026.",
-    "one_liner": "Embedded AI builder to customize your B2B SaaS for every user",
+    "one_liner": "Lovable inside every B2B SaaS",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6765,20 +6735,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3cb42978681e32c20f28150fda63b8a7d01c37b.png",
     "website": "https://withpanacea.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Panacea provides AI-native FDA regulatory services for Biotechs and Medical Device companies. We hire the most experienced FDA consultants in the industry (ex-FDA, decades of experience, hundreds of filings) and pair them with our AI platform to enable the fastest and lowest cost pathway to FDA approval.\r\n\r\nWhile other regulatory consultants bill hourly, our pricing model is simple: fixed, outcome-based pricing. Payment is only due when milestones are complete.\r\n\r\nWe support all FDA regulatory pathways including IND, NDA, BLA, ODD, Pre-Subs, 510(k), De Novo, PMA, IDE, BDD, etc.",
     "one_liner": "AI-Native FDA Regulatory Services",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1778968383,
-    "tags": [
-      "B2B",
-      "Medical Devices",
-      "Biotech",
-      "Healthcare",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6790,8 +6754,7 @@
       "Healthcare Services"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6954,14 +6917,20 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c48d60b66c3872f55fda2ba7dbab9415312dd4.png",
     "website": "https://www.enjamb.ai",
-    "all_locations": "",
-    "long_description": "Enjamb is Claude Code for drug development. Describe what you need, and agents execute it across the entire program, from discovery to FDA approval. Enjamb synthesizes the clinical evidence, designs the trials, runs the data analysis and statistical programming, and drafts and audits the regulatory submissions, all in one auditable workspace. In just 3 weeks since launch, we're already being used by 500+ employees at top pharma companies, including Johnson & Johnson, AbbVie, Bristol Myers Squibb, Merck & Sanofi.",
-    "one_liner": "Claude Code for Drug Discovery",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enjamb runs the entire drug program for biopharma teams, from discovery to FDA approval. Pharma runs on decades of closed legacy systems like Benchling, Veeva, Medidata, and SAS, with no AI layer and no MCP to connect agents to them. \r\n\r\nSo we built that connection layer in one platform. Our agents run on top of their existing systems and data, with no migration, and do the work across the whole program: clinical evidence, trial design, statistical programming, and regulatory submissions. \r\n\r\nIn just 3 weeks since launch, we're already being used by 500+ employees at top pharma companies, including Johnson & Johnson, AbbVie, Bristol Myers Squibb, Merck & Sanofi.",
+    "one_liner": "Where drug teams run their entire program, discovery to FDA approval",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1779929226,
-    "tags": [],
+    "tags": [
+      "AI-powered Drug Discovery",
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "Healthcare"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6972,7 +6941,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6992,18 +6962,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/484b887f79a6e0d055be256cbacda5f8badb1317.png",
     "website": "https://playabl.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Playabl is the TikTok for user-generated games, where anyone can play, create, publish, and monetize games.\r\n\r\n[June 7 Update] Two weeks ago we went public, users are creating games and posting them on playabl.ai - since then we had over:\r\n\r\n• 2m unique plays on 5k user-generated games built on playabl.ai\r\n• 96% of visitors interacte with the games they view, with an avarage play time of 4min.\r\n• 25k DAU \r\n• D1 at 27%, D7 at 11% ",
     "one_liner": "TikTok for User-generated Games",
     "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1773783180,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Gaming"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7015,8 +6981,7 @@
       "Gaming"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7107,7 +7072,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b7343f0662dc74045154f30ca2872d79b80c650.png",
     "website": "https://clawvisor.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Clawvisor lets AI agents use apps like Gmail, Slack, and Google Drive without going rogue or ever seeing your credentials. You approve tasks once. Clawvisor enforces them on every request.",
     "one_liner": "The Authorization Layer for AI Agents",
     "team_size": 1,
@@ -7126,7 +7091,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7255,19 +7221,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1dfa3c147709725ca832b1db54f33a710ff5b977.png",
     "website": "https://madebythomas.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Hi, I'm Thomas, and my creator is named Thomas :p\r\n\r\nThomas is the first YC-backed AI founder: a virtual human who starts, runs, and grows his own companies on the internet.\r\n",
     "one_liner": "The first AI founder: a virtual human who runs his own companies.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1780016101,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -7278,8 +7239,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7352,7 +7312,7 @@
     "website": "https://heyclicky.com/",
     "all_locations": "",
     "long_description": "HeyClicky sits right next to your cursor and sees everything you see. ask a question out loud and it walks you through whatever you're working on. Or say “HeyClicky Agent” and it'll spin up an agent to build, research, or do whatever for you in the background.",
-    "one_liner": "An AI buddy that lives on your Mac.",
+    "one_liner": "The simplest interface in the world for consumers to spawn agents.",
     "team_size": 0,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -7390,7 +7350,7 @@
     "website": "https://akkari.io/",
     "all_locations": "",
     "long_description": "Akkari runs the operational work from the first sales call through expansion. It captures and stays on top of every commitment, issue, request and opportunity across customer channels (Slack, calls, meetings, email, Discord, etc.) then drives each loop to resolution - our wedge toward building the AI execution system for companies.\r\n\r\nWe are 2x YC founders who scaled OrderAhead (acquired by Square) to millions of users and BLADE to $1.2B+ in monthly trading volume.",
-    "one_liner": "Autonomous Customer Ops",
+    "one_liner": "Autonomous Customer Operations",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
