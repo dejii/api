@@ -865,7 +865,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
     "one_liner": "Email Inboxes for AI Agents",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
@@ -1160,23 +1160,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9323f5fe8a247ae355ff7d76dd80f82fd6b8e192.png",
     "website": "https://www.shorpay.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Shor is international payroll, built for founders. Hire your first international employee or contractor at startup speed. Set up on one call, run payroll the same week.\r\n\r\nPay contractors and employ full-time team members through Shor's EOR across the world. Localized contracts, automatic compliance, and same-day local-currency payouts at a flat FX margin. No setup fees, no lock-ins.\r\n\r\nBacked by Polychain Capital, Founders Capital, and Goodwater, among others.",
     "one_liner": "International payroll, built for founders",
     "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1753916245,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "HR Tech",
-      "Payroll",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -1185,8 +1179,6 @@
       "Payments"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2163,22 +2155,23 @@
   },
   {
     "id": 30653,
-    "name": "Skope",
-    "slug": "skope",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e403e5ebfb77935a44bb057a8a646c4ae90d54f2.png",
-    "website": "https://useskope.com",
+    "name": "Async",
+    "slug": "withasync",
+    "former_names": [
+      "Skope"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef853f258eb99b0ff5f02c093cf533799635b8c.png",
+    "website": "https://withasync.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Skope builds AI for core legal workflows. We will save your law firm time and help you make more money, with AI.",
-    "one_liner": "AI Agents for Law Firms.",
+    "long_description": "Async builds frontier AI agents for service businesses like law firms, healthcare clinics and real estate companies.",
+    "one_liner": "AI Agents for Service Businesses.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Legal"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2198,8 +2191,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/skope",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
+    "url": "https://www.ycombinator.com/companies/withasync",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/withasync.json"
   },
   {
     "id": 30655,
@@ -4898,12 +4891,12 @@
     "all_locations": "Mexico City, CDMX, Mexico",
     "long_description": "Voice AI Agents for Debt Collection",
     "one_liner": "Voice AI Agents for Debt Collection",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6653,18 +6646,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
     "website": "http://www.realroots.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Real friendships, made in real life. Answer a few questions, and we'll match you into IRL hangs with women you'll actually click with. Made for women, by women.",
     "one_liner": "IRL friendship app for women",
     "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1750729944,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "Social Network"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -6676,8 +6665,7 @@
       "Social"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
