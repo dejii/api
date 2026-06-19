@@ -3464,15 +3464,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
     "website": "http://klarity.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
-    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
+    "long_description": "Klarity is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Klarity maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Klarity agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Klarity finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
+    "one_liner": "Company Brain for people and agents to work in harmony. ",
     "team_size": 128,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1524539154,
     "tags": [
       "Artificial Intelligence",
-      "ML"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3481,8 +3482,7 @@
     "batch": "Summer 2018",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -9991,56 +9991,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/milky-way-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/milky-way-ai.json"
-  },
-  {
-    "id": 24390,
-    "name": "Dot",
-    "slug": "dot",
-    "former_names": [
-      "Snowboard Software GmbH",
-      "Snowboard Software",
-      "Seld",
-      "Sled"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e79ef295205dc596b1088df70c4fc35f3b6300bd.png",
-    "website": "https://getdot.ai",
-    "all_locations": "Berlin, Berlin, Germany; Heidelberg, BW, Germany; Remote",
-    "long_description": "Our mission is to help everybody in an organization to take data-driven decisions, by democratizing access to trusted high-quality data and metrics. \r\n\r\n**Chat with your Data Warehouse**\r\n\r\nAnswer most business questions instantly 24/7. Data teams can focus on deep work, not on answering easy questions about dashboards.\r\n\r\nDot understands your existing data stack: tables, SQL queries, documentation, DBT metrics or LookML are its learning material.\r\n\r\nUsers can interact via Slack, Teams or our native web app.\r\n\r\n➡️  https://getdot.ai/",
-    "one_liner": "Chat with your Data Warehouse",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1624988056,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Germany",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/dot.json"
   },
   {
     "id": 24404,
@@ -20895,7 +20845,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dedc5ca68422aae62a4f58f3a0823d0903b71997.png",
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fast Open-Source models: Deepseek v4 flash, qwen 397b, at 200+ tps\r\nFast Apply - Edit Files Faster - 10,500 tok/sec\r\nWarpGrep - Fast Context - 5x faster agentic code search subagent. eliminates context rot\r\nFlash Compact - 33k tps context compaction",
+    "long_description": "Fast Open-Source models: Deepseek v4 flash, qwen 397b, at 200+ tps\r\nSpecialized models for applying edits, code search, compaction, and model routing",
     "one_liner": "Fast Models Optimized for Coding Agents",
     "team_size": 3,
     "industry": "B2B",
@@ -29362,6 +29312,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
   },
   {
+    "id": 30079,
+    "name": "Moonshine",
+    "slug": "moonshine",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41d0d29f17c0fe53c2d566e5f77d03d3f14a7e62.png",
+    "website": "https://usemoonshine.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Extending AI to interact with the real world",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1729546253,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonshine",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/moonshine.json"
+  },
+  {
     "id": 30095,
     "name": "Consus",
     "slug": "consus",
@@ -34593,47 +34582,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
   },
   {
-    "id": 30653,
-    "name": "Async",
-    "slug": "withasync",
-    "former_names": [
-      "Skope"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef853f258eb99b0ff5f02c093cf533799635b8c.png",
-    "website": "https://withasync.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Async builds frontier AI agents for service businesses like law firms, healthcare clinics and real estate companies.",
-    "one_liner": "AI Agents for Service Businesses.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1750879126,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/withasync",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/withasync.json"
-  },
-  {
     "id": 30655,
     "name": "Frizzle",
     "slug": "frizzle",
@@ -34898,49 +34846,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestroll",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
-  },
-  {
-    "id": 30671,
-    "name": "Panoptive",
-    "slug": "panoptive",
-    "former_names": [
-      "AgentHub"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e968a9edc53bbf932ccbe0585917fe2029077b90.png",
-    "website": "https://www.panoptive.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
-    "one_liner": "Real-time defensible oversight for clinical trials",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753389326,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Biotech",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/panoptive",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/panoptive.json"
   },
   {
     "id": 30676,
@@ -35619,49 +35524,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/altur",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
-  },
-  {
-    "id": 30739,
-    "name": "Quotain",
-    "slug": "quotain",
-    "former_names": [
-      "Eden"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37a5e96e86c6ccc42f303588c30f27f31a1fad2d.png",
-    "website": "https://quotain.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Quotain helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Quotain creates realistic AI buyers they can speak with before the real meeting. After each practice call, Quotain scores the rep and shows exactly what to improve.",
-    "one_liner": "AI sales practice using your real deals",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1753907556,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Sales Enablement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quotain",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/quotain.json"
   },
   {
     "id": 30748,
@@ -38758,51 +38620,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pops",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/pops.json"
-  },
-  {
-    "id": 31506,
-    "name": "Tolmo",
-    "slug": "tolmo",
-    "former_names": [
-      "Droid Factory"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b1fe60a254c3f83e0d218298337418aad753714.png",
-    "website": "https://www.tolmo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tolmo is an agent-driven security platform that secures every layer — code, CI, cloud applications at the speed of AI changes.\r\n\r\nCodebases are growing faster than ever, at a rate humans can’t keep up with. Tolmo deploys fleets of AI security agents on a live production knowledge graph that connects data from cloud services, containers, databases, and third-party providers (Observability, Security, etc.).\r\n\r\nTolmo agents triage, verify impact, and remediate security issues autonomously, escalating to humans only when truly necessary.",
-    "one_liner": "Tolmo is the AI security platform that secures every layer of cloud…",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1781726326,
-    "tags": [
-      "Artificial Intelligence",
-      "DevSecOps",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tolmo",
-    "api": "https://yc-oss.github.io/api/batches/spring-2026/tolmo.json"
   },
   {
     "id": 32194,

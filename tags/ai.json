@@ -1789,6 +1789,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/helloverify.json"
   },
   {
+    "id": 1891,
+    "name": "Klarity",
+    "slug": "klarity",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d4790f2b102f3fd696a88213e44f23e7083929b.png",
+    "website": "http://klarity.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Klarity is a Company Brain used by OpenAI, DoorDash, ServiceNow, Salesforce, JLL, McKesson for AI Transformation. Our product maps  how work actually gets done, structure it, and reallocate it between people and agents.\r\n\r\nDiscover: Employees log into our web app — nothing to install — share their screen, and work as usual. Klarity maps and anonymizes every task while sending Signals back to highlight what they do well.\r\n\r\nStructure: Klarity agents consolidate activity across the enterprise into a Company Brain: how work gets done, how decisions are made, how approvals flow, how controls are enforced, when work actually happens.\r\n\r\nImprove: Against your business objectives, Klarity finds the right opportunities for agents, builds those agents, and redesigns the people, process, and rituals around them.\r\n",
+    "one_liner": "Company Brain for people and agents to work in harmony. ",
+    "team_size": 128,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1524539154,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klarity",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/klarity.json"
+  },
+  {
     "id": 1898,
     "name": "Searchlight",
     "slug": "searchlight",
@@ -7091,6 +7133,57 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shipblu",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/shipblu.json"
+  },
+  {
+    "id": 24390,
+    "name": "GetDot",
+    "slug": "getdot",
+    "former_names": [
+      "Snowboard Software GmbH",
+      "Snowboard Software",
+      "Seld",
+      "Sled",
+      "Dot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a36b7c96b74a0599b17814e9f0a758e676fd706a.png",
+    "website": "https://getdot.ai",
+    "all_locations": "Berlin, Berlin, Germany; Remote",
+    "long_description": "Our mission is to help everybody in an organization to take data-driven decisions, by democratizing access to trusted high-quality data and metrics. \r\n\r\n**Chat with your Data Warehouse**\r\n\r\nAnswer most business questions instantly 24/7. Data teams can focus on deep work, not on answering easy questions about dashboards.\r\n\r\nDot understands your existing data stack: tables, SQL queries, documentation, DBT metrics or LookML are its learning material.\r\n\r\nUsers can interact via Slack, Teams or our native web app.\r\n\r\n➡️  https://getdot.ai/",
+    "one_liner": "Your AI Data Analyst",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1624988056,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/getdot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/getdot.json"
   },
   {
     "id": 24395,
@@ -17548,7 +17641,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dedc5ca68422aae62a4f58f3a0823d0903b71997.png",
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fast Open-Source models: Deepseek v4 flash, qwen 397b, at 200+ tps\r\nFast Apply - Edit Files Faster - 10,500 tok/sec\r\nWarpGrep - Fast Context - 5x faster agentic code search subagent. eliminates context rot\r\nFlash Compact - 33k tps context compaction",
+    "long_description": "Fast Open-Source models: Deepseek v4 flash, qwen 397b, at 200+ tps\r\nSpecialized models for applying edits, code search, compaction, and model routing",
     "one_liner": "Fast Models Optimized for Coding Agents",
     "team_size": 3,
     "industry": "B2B",
@@ -21758,7 +21851,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a76d2d8803d634b3e622a584f55e531a3e72f45.png",
     "website": "https://kscale.dev/",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building humanoid robots to do most of what you find boring or tedious. We have an open-source design which we are releasing to the public, which is capable of walking, talking and manipulating objects.",
     "one_liner": "Open-source humanoid robots",
     "team_size": 10,
@@ -25959,7 +26052,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "When startups sell to enterprise, get regulated, or raise capital, they need to get insurance. RiskCube helps startups and growing businesses become vendor-ready faster.\r\nBy leveraging AI and licensed brokers, RiskCube compares top-rated U.S. carriers to deliver coverage required to pass procurement, satisfy investors, and close enterprise deals quickly. \r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, GovTech, Space, and Web3 startups creating the future. \r\n\r\nWe will soon also launch health & life insurance for startups. ",
+    "long_description": "When startups sell to enterprise, get regulated, or raise capital, they need to get insurance. \r\nRiskCube compares top-rated U.S. carriers to deliver coverage required to pass procurement, satisfy investors, and close enterprise deals quickly. \r\nFounders get D&O, Tech E&O, Cyber, General Liability, Product Liability, and COIs — built for AI/SaaS, Fintech, GovTech, Space, and Web3 startups creating the future. \r\n\r\nWe will soon also launch health & life insurance for startups. ",
     "one_liner": "Top-rated insurance to help close enterprise & government contracts.",
     "team_size": 3,
     "industry": "Fintech",
@@ -26294,45 +26387,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/abundant",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
-  },
-  {
-    "id": 30079,
-    "name": "Moonshine",
-    "slug": "moonshine",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c94f3962d8cce39d7af63858319c4fa0d0d44f8.png",
-    "website": "https://usemoonshine.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Extending AI to interact with the real world",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1729546253,
-    "tags": [
-      "Machine Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moonshine",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/moonshine.json"
   },
   {
     "id": 30087,
@@ -28838,48 +28892,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bitboard.json"
   },
   {
-    "id": 30409,
-    "name": "Notus Autonomous Systems",
-    "slug": "notus-autonomous-systems",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64d433326d1439cca20362b396d9908aa3f426b0.png",
-    "website": "http://www.notussystems.com/",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We are making drone swarms of arbitrary size which are strategically immune to RF interference using phased arrays at 60GHz steered by a novel radar algorithm.",
-    "one_liner": "Arbitrary size interference resistant drone swarms using EHF radios",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1746979571,
-    "tags": [
-      "Robotics",
-      "Drones",
-      "3D Printing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/notus-autonomous-systems",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json"
-  },
-  {
     "id": 30418,
     "name": "Kanava AI",
     "slug": "kanava-ai",
@@ -28964,6 +28976,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/neoncoral",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/neoncoral.json"
+  },
+  {
+    "id": 30426,
+    "name": "Ralo",
+    "slug": "ralo",
+    "former_names": [
+      "Approval AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png",
+    "website": "https://www.ralo.com/",
+    "all_locations": "",
+    "long_description": "Ralo is the first AI-native mortgage broker. We use AI to remove layers of overhead and pass the savings back to borrowers. Our customers get rates more than half a point below the national average, save tens of thousands of dollars over the life of their loan. ",
+    "one_liner": "AI-Native Mortgage Broker",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1744861920,
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ralo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/ralo.json"
   },
   {
     "id": 30431,
@@ -30775,6 +30829,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alter.json"
   },
   {
+    "id": 30653,
+    "name": "Async",
+    "slug": "withasync",
+    "former_names": [
+      "Skope"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ef853f258eb99b0ff5f02c093cf533799635b8c.png",
+    "website": "https://withasync.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Async builds frontier AI agents for service businesses like law firms, healthcare clinics, and real estate companies.",
+    "one_liner": "AI Agents for Service Businesses",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750879126,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/withasync",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/withasync.json"
+  },
+  {
     "id": 30659,
     "name": "Proliferate",
     "slug": "proliferate",
@@ -30905,6 +31000,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stockline",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json"
+  },
+  {
+    "id": 30671,
+    "name": "Panoptive",
+    "slug": "panoptive",
+    "former_names": [
+      "AgentHub"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e968a9edc53bbf932ccbe0585917fe2029077b90.png",
+    "website": "https://www.panoptive.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We turn unstructured monitoring data - monitoring visit reports, EDC data - into structured deviation, safety, and quality findings for human review. Panoptive generates an audit-ready oversight trail as a natural byproduct. \r\n\r\nThe platform aggregates findings and identifies systemic patterns across sites and subjects before they compound, and tracks every finding through decision, follow-up, and resolution.",
+    "one_liner": "The continuous oversight engine for clinical trials",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753389326,
+    "tags": [
+      "B2B",
+      "Biotech",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panoptive",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/panoptive.json"
   },
   {
     "id": 30673,
@@ -31565,7 +31703,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/372f70ec336f450e72151d3d9d0a4035f916b2a7.png",
     "website": "https://www.trymaximal.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, commercial trucking fleets plan and dispatch on gut feel and legacy tooling. Their margin is capped by their planner's cognitive capacity.\r\n\r\nMaximal is an AI planning system that sources loads, builds the plan, and re-optimizes automatically as conditions change. Carriers stop running at the limit of their planner's performance and start running at the limit of our simulation engine and agents. The result: carriers covering more loads, with fewer empty miles, at higher margin.\r\n\r\nLeeds (CEO) studied operations research + computer science at Cornell and Columbia and his family runs a 3PL. He worked on the algorithm's that power Amazon’s robotics in distribution centers and he was the 1st PM at Golden (acquired) and 7th PM at Alchemy (a16z, Coatue). Derek (CTO) studied computer science at USC, was founding engineer at Kits AI (acquired), and was the youngest tech lead in his department at Amazon.",
+    "long_description": "Maximal is building autonomous systems to plan and move the world's freight.\r\n\r\nOur first product is an algorithmic load planning platform for full truckload (FTL) carriers. Maximal is a context-aware, algorithmic load-planning platform for full-truckload (FTL) carriers. Our agents plug into a carrier's existing ERPs and communication channels, using that context to generate holistically optimized load plans. The result: carriers earn more revenue-per-mile while spending less time planning.\r\n\r\nOur founding team\r\n* grew up in 3PLs and trucking companies\r\n* studied the math behind transportation science at Cornell, Columbia, and USC\r\n* worked in an Amazon distribution center to optimize distribution center throughput at massive scale",
     "one_liner": "Truckload Planning at Machine Precision",
     "team_size": 3,
     "industry": "B2B",
@@ -31596,6 +31734,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maximal",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/maximal.json"
+  },
+  {
+    "id": 30739,
+    "name": "Quotain",
+    "slug": "quotain",
+    "former_names": [
+      "Eden"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37a5e96e86c6ccc42f303588c30f27f31a1fad2d.png",
+    "website": "https://quotain.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Quotain helps sales teams practice the calls they actually need to win. Reps upload or connect CRM notes, past calls, LinkedIn profiles, and company websites, then Quotain creates realistic AI buyers they can speak with before the real meeting. After each practice call, Quotain scores the rep and shows exactly what to improve.",
+    "one_liner": "AI sales simulations using your real deals",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1753907556,
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quotain",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/quotain.json"
   },
   {
     "id": 30744,
@@ -34602,6 +34783,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2026/degla-inc.json"
   },
   {
+    "id": 31506,
+    "name": "Tolmo",
+    "slug": "tolmo",
+    "former_names": [
+      "Droid Factory"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b1fe60a254c3f83e0d218298337418aad753714.png",
+    "website": "https://www.tolmo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tolmo is an agent-driven security platform that secures every layer — code, CI, cloud applications at the speed of AI changes.\r\n\r\nCodebases are growing faster than ever, at a rate humans can’t keep up with. Tolmo deploys fleets of AI security agents on a live production knowledge graph that connects data from cloud services, containers, databases, and third-party providers (Observability, Security, etc.).\r\n\r\nTolmo agents triage, verify impact, and remediate security issues autonomously, escalating to humans only when truly necessary.",
+    "one_liner": "Tolmo is the AI security platform that secures every layer of cloud…",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1781726326,
+    "tags": [
+      "DevSecOps",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tolmo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/tolmo.json"
+  },
+  {
     "id": 31527,
     "name": "Revnu",
     "slug": "revnu",
@@ -34641,6 +34867,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revnu",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/revnu.json"
+  },
+  {
+    "id": 31989,
+    "name": "Pango",
+    "slug": "pango",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b9308af1455bcde8e9b13e4cbe45eb13d33d384.png",
+    "website": "https://pango.ai/",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Autonomous digital employee that runs back-office operations for e-commerce companies: deliveries, tracking, returns, transport and CS.",
+    "one_liner": "Agentic OS for e-commerce operations",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1781764394,
+    "tags": [
+      "Logistics",
+      "E-commerce",
+      "Retail",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pango",
+    "api": "https://yc-oss.github.io/api/batches/summer-2026/pango.json"
   },
   {
     "id": 32155,
