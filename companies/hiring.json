@@ -7942,7 +7942,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "RevenueCat is a mobile SDK and API for managing in-app subscriptions\r\n\r\nWe take the sting out of supporting the complicated subscription systems of the App Store and Google Play Store, and help you focus on running your business. ",
     "one_liner": "A simple API for managing in-app subscriptions",
-    "team_size": 70,
+    "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1524629145,
@@ -13069,7 +13069,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13215,7 +13215,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd37712a664bd3d0f09c27d1816b43518fb60775.png",
     "website": "https://buildbuddy.io",
-    "all_locations": "Palo Alto, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
     "one_liner": "BuildBuddy provides enterprise features for Bazel — the open source…",
     "team_size": 15,
@@ -39175,56 +39175,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/simbie-ai.json"
   },
   {
-    "id": 29118,
-    "name": "Structured Labs",
-    "slug": "structured-labs",
-    "former_names": [
-      "Structured",
-      "Structured Labs",
-      "Preswald",
-      "Structured Labs",
-      "Wadium",
-      "Waldium"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8dd08fd61491d9efffabb3dff787320791e2421.png",
-    "website": "https://www.structuredlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Waldium is an AI-driven platform for researching, writing, and publishing technical knowledge in formats that both humans and AIs can understand. We help developers create technical guides, resources and tutorials — structured, durable knowledge that AIs can learn from, cite, and build upon.",
-    "one_liner": "The publishing layer for the agentic internet",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1686619959,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/structured-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/structured-labs.json"
-  },
-  {
     "id": 29119,
     "name": "Nowadays",
     "slug": "nowadays",
@@ -49864,42 +49814,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/careforce.json"
   },
   {
-    "id": 30126,
-    "name": "Roundabout Technologies",
-    "slug": "roundabout-technologies",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4966bb2facc9c59279d1337270fbdb9d4a76bb93.png",
-    "website": "https://roundabout.tech",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Roundabout Technologies makes AI-powered traffic lights, allowing cities to reduce pedestrian deaths, improve traffic, and reduce resident complaints. Our founding team has experience building safety-critical embedded systems and AI at Waymo, Zoox, Google, and Verily.",
-    "one_liner": "Software for AI-powered traffic lights",
-    "team_size": 5,
-    "industry": "Government",
-    "subindustry": "Government",
-    "launched_at": 1730157813,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/roundabout-technologies",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/roundabout-technologies.json"
-  },
-  {
     "id": 30127,
     "name": "Loombotic",
     "slug": "loombotic",
@@ -57136,15 +57050,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ProcIndex is a full stack AI accounting firm, with a suite of agents to automate quote to cash, accounts payable and month end close processes end to end.\r\n\r\nProcIndex connects with your existing ERP, operates in the background while giving you full visibility into the agent actions and powers accounting teams to become 33% more efficient.",
     "one_liner": "AI Agents for Accounting Operations",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1753405058,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57450,46 +57364,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/convexia",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
-  },
-  {
-    "id": 30749,
-    "name": "Fernstone",
-    "slug": "fernstone",
-    "former_names": [
-      "Sentri Security",
-      "Sentri"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
-    "website": "https://www.fernstone.com",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Fernstone is an AI-native insurance brokerage: we combine AI with licensed brokers to obtain complex insurance faster, and at better terms. Today, we manage risk for 100+ businesses in construction, security, and the trades. ",
-    "one_liner": "AI-native insurance brokerage. ",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1759775643,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fernstone",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/fernstone.json"
   },
   {
     "id": 30754,
@@ -61091,7 +60965,7 @@
     "name": "Proximitty",
     "slug": "proximitty",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efa65b431815794902ea2af28480ef4f2990fd4c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c673e059e5a8ca7754f20b8d30a076bfb5c81c5b.png",
     "website": "https://proximitty.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Proximitty is the AI operating system for commercial loans - we build regulator-grade AI agents that ingest and parse documents, spread financials, automate loan operations and track covenants.\r\n\r\nWe help FDIC-insured banks and fintechs underwrite faster and scale their loan books without scaling costs.",
@@ -62716,6 +62590,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/synphony",
     "api": "https://yc-oss.github.io/api/batches/spring-2026/synphony.json"
+  },
+  {
+    "id": 31426,
+    "name": "Gojiberry AI",
+    "slug": "gojiberry-ai",
+    "former_names": [
+      "GojiberryAI",
+      "Superfruits Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a81291bc11ae471a475ddf6ccf1d67360474a8c.png",
+    "website": "https://www.gojiberry.ai",
+    "all_locations": "Remote",
+    "long_description": "Gojiberry is building the AI GTM team for B2B companies.\r\n\r\nWe start with outbound: Gojiberry finds buyers showing intent, enriches them, reaches out, follows up, handles replies, and books qualified meetings.\r\n\r\nCompanies use Gojiberry to replace the old way of doing outbound: buying tools, hiring SDRs & agencies, testing lists, writing messages, and guessing what works. Gojiberry turns it into one AI team that finds buyers and books meetings.\r\n\r\nEvery campaign makes Gojiberry smarter. It learns which buyers convert, which signals matter, which messages get replies, and which actions create revenue. Over time, Gojiberry uses what works across similar companies and industries to help every new customer get better results from day one.\r\n\r\nLong term, Gojiberry will become the system that finds every revenue opportunity and acts on it: outbound leads, website visitors, inbound leads, old CRM leads, replies, meetings, CRM updates, new campaign ideas, and account expansion.\r\n\r\nThe goal is to make every B2B company able to run a high-performing GTM team without hiring one.\r\n\r\nWe grew from $0 to $2.5M ARR in 10 months, are growing 30% MoM, profitable, and used by 2,000+ customers.\r\n\r\nCustomers get 2-5x more positive replies than traditional outbound.",
+    "one_liner": "AI Go-To-Market agents for B2B teams",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1774430148,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gojiberry-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2026/gojiberry-ai.json"
   },
   {
     "id": 31440,
