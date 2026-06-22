@@ -15084,50 +15084,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/kapa-ai.json"
   },
   {
-    "id": 28776,
-    "name": "Ora AI",
-    "slug": "ora-ai",
-    "former_names": [
-      "Synaptiq"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e986c79fdf04d121008f6f06d79ac622e40609d2.png",
-    "website": "http://oraai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ora is an AI-native education platform that students love. We're starting with medical school, training students from matriculation to MD. Soon, we'll serve every corner of the $830B higher education market.",
-    "one_liner": "Med school can be simpler",
-    "team_size": 3,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1691697045,
-    "tags": [
-      "Education",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ora-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/ora-ai.json"
-  },
-  {
     "id": 28779,
     "name": "Metoro",
     "slug": "metoro",
@@ -26248,6 +26204,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
   },
   {
+    "id": 30079,
+    "name": "Moonshine",
+    "slug": "moonshine",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41d0d29f17c0fe53c2d566e5f77d03d3f14a7e62.png",
+    "website": "https://usemoonshine.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Extending AI to interact with the real world",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1729546253,
+    "tags": [
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonshine",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/moonshine.json"
+  },
+  {
     "id": 30087,
     "name": "Gecko Security",
     "slug": "gecko-security",
@@ -27843,50 +27838,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harper",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
-  },
-  {
-    "id": 30289,
-    "name": "Sherpa Labs",
-    "slug": "sherpa-labs",
-    "former_names": [
-      "DagHub.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
-    "website": "https://www.sherpalabs.ai",
-    "all_locations": "New York City, NY, USA",
-    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
-    "one_liner": "The AI Data Team",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737526775,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Data Science",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sherpa-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/sherpa-labs.json"
   },
   {
     "id": 30292,
@@ -30744,8 +30695,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9292b62c58dc81055b437ce647dc7c3ea10ffc5c.png",
     "website": "https://magnitude.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is a coding agent that runs on 90% open models, escalating to frontier models only when the work demands it.",
-    "one_liner": "Frontier coding at half the cost",
+    "long_description": "Magnitude is a coding agent and model provider in one, built to get maximum performance and efficiency from open models. It costs 60% less than Claude Code with no drop in performance.",
+    "one_liner": "The best way to code with open models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -31526,7 +31477,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/372f70ec336f450e72151d3d9d0a4035f916b2a7.png",
     "website": "https://www.trymaximal.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Maximal is building autonomous systems to plan and move the world's freight.\r\n\r\nOur first product is an algorithmic load planning platform for full truckload (FTL) carriers. Maximal is a context-aware, algorithmic load-planning platform for full-truckload (FTL) carriers. Our agents plug into a carrier's existing ERPs and communication channels, using that context to generate holistically optimized load plans. The result: carriers earn more revenue-per-mile while spending less time planning.\r\n\r\nOur founding team\r\n* grew up in 3PLs and trucking companies\r\n* studied the math behind transportation science at Cornell, Columbia, and USC\r\n* worked in an Amazon distribution center to optimize distribution center throughput at massive scale",
+    "long_description": "Maximal is building autonomous systems to plan and move the world's freight.\r\n\r\nOur first product is a context-aware algorithmic load planning platform for full truckload (FTL) carriers. Our agents plug into a carrier's existing ERPs and communication channels, using that context to generate holistically optimized load plans. The result: carriers earn more revenue-per-mile while spending less time planning.\r\n\r\nOur founding team\r\n* grew up in 3PLs and trucking companies\r\n* studied the math behind transportation science at Cornell, Columbia, and USC\r\n* developed the technology that optimizes Amazon's distribution and fulfillment center network",
     "one_liner": "Truckload Planning at Machine Precision",
     "team_size": 3,
     "industry": "B2B",
