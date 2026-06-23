@@ -7509,54 +7509,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
   },
   {
-    "id": 29398,
-    "name": "ProSights",
-    "slug": "prosights",
-    "former_names": [
-      "ProSights",
-      "Prosights"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7af3ebc3d01b55f1bcbe3d6c0c7f7edbaae31b20.png",
-    "website": "https://prosights.co/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "ProSights is an AI-native data extraction tool for financial…",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1711348390,
-    "tags": [
-      "Fintech",
-      "Analytics",
-      "Enterprise Software",
-      "Investments",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prosights",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/prosights.json"
-  },
-  {
     "id": 29408,
     "name": "Circleback",
     "slug": "circleback",
@@ -8219,18 +8171,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com/?utm_source=ycombinator.com",
     "all_locations": "Remote",
-    "long_description": "The AI-native document editor for long-form content. Create, edit and review with full end-to-end traceability and full searchability of your source documents.\r\nPerfect for regulatory, compliance and legal professionals.",
-    "one_liner": "The first AI-native document editor for long-form content",
+    "long_description": "The first docx API for agents. \r\nread and edit docx without having you agents deal with XML. Save on cost, enjoy improved performance.\r\nPerfect for regulatory, compliance and legal agent builders dealing with documentation",
+    "one_liner": "The first docx API for agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1729555399,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
