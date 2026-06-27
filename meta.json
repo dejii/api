@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-26T00:50:51.987Z",
+  "last_updated": "2026-06-27T00:48:05.332Z",
   "readme": "https://github.com/yc-oss/api",
   "companies": {
     "all": {
       "name": "All launched companies",
-      "count": 5982,
+      "count": 5985,
       "api": "https://yc-oss.github.io/api/companies/all.json"
     },
     "top": {
@@ -34,7 +34,7 @@
     },
     "hiring": {
       "name": "Companies currently hiring",
-      "count": 1483,
+      "count": 1482,
       "api": "https://yc-oss.github.io/api/companies/hiring.json"
     }
   },
@@ -61,7 +61,7 @@
     },
     "aerospace": {
       "name": "Aerospace",
-      "count": 35,
+      "count": 36,
       "api": "https://yc-oss.github.io/api/tags/aerospace.json"
     },
     "agriculture": {
@@ -71,7 +71,7 @@
     },
     "ai": {
       "name": "AI",
-      "count": 795,
+      "count": 801,
       "api": "https://yc-oss.github.io/api/tags/ai.json"
     },
     "ai-assistant": {
@@ -131,12 +131,12 @@
     },
     "api": {
       "name": "API",
-      "count": 141,
+      "count": 140,
       "api": "https://yc-oss.github.io/api/tags/api.json"
     },
     "apis": {
       "name": "APIs",
-      "count": 9,
+      "count": 10,
       "api": "https://yc-oss.github.io/api/tags/apis.json"
     },
     "apparel": {
@@ -181,7 +181,7 @@
     },
     "automation": {
       "name": "Automation",
-      "count": 84,
+      "count": 86,
       "api": "https://yc-oss.github.io/api/tags/automation.json"
     },
     "automotive": {
@@ -201,7 +201,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 1068,
+      "count": 1069,
       "api": "https://yc-oss.github.io/api/tags/b2b.json"
     },
     "banking-as-a-service": {
@@ -266,7 +266,7 @@
     },
     "call-center": {
       "name": "Call Center",
-      "count": 8,
+      "count": 9,
       "api": "https://yc-oss.github.io/api/tags/call-center.json"
     },
     "cannabis": {
@@ -341,7 +341,7 @@
     },
     "cloud-computing": {
       "name": "Cloud Computing",
-      "count": 46,
+      "count": 45,
       "api": "https://yc-oss.github.io/api/tags/cloud-computing.json"
     },
     "cloud-gaming": {
@@ -416,7 +416,7 @@
     },
     "conversational-ai": {
       "name": "Conversational AI",
-      "count": 43,
+      "count": 44,
       "api": "https://yc-oss.github.io/api/tags/conversational-ai.json"
     },
     "conversational-banking": {
@@ -521,7 +521,7 @@
     },
     "data-engineering": {
       "name": "Data Engineering",
-      "count": 99,
+      "count": 100,
       "api": "https://yc-oss.github.io/api/tags/data-engineering.json"
     },
     "data-labeling": {
@@ -561,7 +561,7 @@
     },
     "defense": {
       "name": "Defense",
-      "count": 12,
+      "count": 14,
       "api": "https://yc-oss.github.io/api/tags/defense.json"
     },
     "defi": {
@@ -596,7 +596,7 @@
     },
     "devops": {
       "name": "DevOps",
-      "count": 46,
+      "count": 47,
       "api": "https://yc-oss.github.io/api/tags/devops.json"
     },
     "devsecops": {
@@ -706,12 +706,12 @@
     },
     "enterprise": {
       "name": "Enterprise",
-      "count": 107,
+      "count": 108,
       "api": "https://yc-oss.github.io/api/tags/enterprise.json"
     },
     "enterprise-software": {
       "name": "Enterprise Software",
-      "count": 113,
+      "count": 114,
       "api": "https://yc-oss.github.io/api/tags/enterprise-software.json"
     },
     "entertainment": {
@@ -756,7 +756,7 @@
     },
     "fintech": {
       "name": "Fintech",
-      "count": 690,
+      "count": 689,
       "api": "https://yc-oss.github.io/api/tags/fintech.json"
     },
     "fitness": {
@@ -866,12 +866,12 @@
     },
     "hard-tech": {
       "name": "Hard Tech",
-      "count": 90,
+      "count": 98,
       "api": "https://yc-oss.github.io/api/tags/hard-tech.json"
     },
     "hardware": {
       "name": "Hardware",
-      "count": 131,
+      "count": 132,
       "api": "https://yc-oss.github.io/api/tags/hardware.json"
     },
     "health-and-wellness": {
@@ -956,7 +956,7 @@
     },
     "industrial": {
       "name": "Industrial",
-      "count": 23,
+      "count": 24,
       "api": "https://yc-oss.github.io/api/tags/industrial.json"
     },
     "industrial-workplace-safety": {
@@ -966,7 +966,7 @@
     },
     "infrastructure": {
       "name": "Infrastructure",
-      "count": 106,
+      "count": 107,
       "api": "https://yc-oss.github.io/api/tags/infrastructure.json"
     },
     "insurance": {
@@ -1006,7 +1006,7 @@
     },
     "kubernetes": {
       "name": "Kubernetes",
-      "count": 14,
+      "count": 13,
       "api": "https://yc-oss.github.io/api/tags/kubernetes.json"
     },
     "lab-on-a-chip": {
@@ -1061,7 +1061,7 @@
     },
     "machine-learning": {
       "name": "Machine Learning",
-      "count": 228,
+      "count": 229,
       "api": "https://yc-oss.github.io/api/tags/machine-learning.json"
     },
     "manufacturing": {
@@ -1246,7 +1246,7 @@
     },
     "payments": {
       "name": "Payments",
-      "count": 147,
+      "count": 146,
       "api": "https://yc-oss.github.io/api/tags/payments.json"
     },
     "payroll": {
@@ -1401,12 +1401,12 @@
     },
     "robotics": {
       "name": "Robotics",
-      "count": 104,
+      "count": 105,
       "api": "https://yc-oss.github.io/api/tags/robotics.json"
     },
     "rocketry": {
       "name": "Rocketry",
-      "count": 3,
+      "count": 4,
       "api": "https://yc-oss.github.io/api/tags/rocketry.json"
     },
     "saas": {
@@ -1426,7 +1426,7 @@
     },
     "satellites": {
       "name": "Satellites",
-      "count": 19,
+      "count": 20,
       "api": "https://yc-oss.github.io/api/tags/satellites.json"
     },
     "scheduling": {
@@ -1456,7 +1456,7 @@
     },
     "semiconductors": {
       "name": "Semiconductors",
-      "count": 11,
+      "count": 12,
       "api": "https://yc-oss.github.io/api/tags/semiconductors.json"
     },
     "seo": {
@@ -1526,7 +1526,7 @@
     },
     "space-exploration": {
       "name": "Space Exploration",
-      "count": 16,
+      "count": 17,
       "api": "https://yc-oss.github.io/api/tags/space-exploration.json"
     },
     "speech-recognition": {
@@ -1728,7 +1728,7 @@
     },
     "b2b": {
       "name": "B2B",
-      "count": 3060,
+      "count": 3061,
       "api": "https://yc-oss.github.io/api/industries/b2b.json"
     },
     "banking-and-exchange": {
@@ -1873,7 +1873,7 @@
     },
     "industrials": {
       "name": "Industrials",
-      "count": 391,
+      "count": 393,
       "api": "https://yc-oss.github.io/api/industries/industrials.json"
     },
     "infrastructure": {
@@ -1898,7 +1898,7 @@
     },
     "manufacturing-and-robotics": {
       "name": "Manufacturing and Robotics",
-      "count": 108,
+      "count": 109,
       "api": "https://yc-oss.github.io/api/industries/manufacturing-and-robotics.json"
     },
     "marketing": {
@@ -2183,6 +2183,11 @@
       "count": 219,
       "api": "https://yc-oss.github.io/api/batches/summer-2023.json"
     },
+    "summer-2026": {
+      "name": "Summer 2026",
+      "count": 41,
+      "api": "https://yc-oss.github.io/api/batches/summer-2026.json"
+    },
     "winter-2026": {
       "name": "Winter 2026",
       "count": 198,
@@ -2222,11 +2227,6 @@
       "name": "Summer 2025",
       "count": 166,
       "api": "https://yc-oss.github.io/api/batches/summer-2025.json"
-    },
-    "summer-2026": {
-      "name": "Summer 2026",
-      "count": 38,
-      "api": "https://yc-oss.github.io/api/batches/summer-2026.json"
     },
     "fall-2026": {
       "name": "Fall 2026",
